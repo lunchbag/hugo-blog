@@ -1,29 +1,28 @@
 {{ define "main" }}
-		<div class="index-container">
-			<section>
-				<img id="profile-image" src="images/lunchbag.png" />
-			</section>
-		  <section class="introduction">
-		    <h2>Welcome!</h2>
-		    <span>I quit my job to do some traveling for a while, and maybe I'll figure some things out along the way. In other words, living and learning with some writing on the side.
-		    </span>
-		  </section>
+	<div class="index-container">
+		<section>
+			<img id="profile-image" src="images/lunchbag.png" />
+		</section>
+	  <section class="introduction">
+	    <h2>Welcome!</h2>
+	    <span>I quit my job to do some traveling for a while, and maybe I'll figure some things out along the way. In other words, living and learning with some writing on the side.
+	    </span>
+	  </section>
 
-		  <section class="posts">
-		    <h2>Updates</h2>
-				<div class="post-list">
-				{{ range (.Paginate .Pages).Pages }}
-				<div class="post">
-					<span class="post-date">
-						<time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
-					</span>
-					<span class="post-title">
-						<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
-					</span>
-				</div>
-				{{ end }}
-				</div>
-		  </section>
-
-		</div>
+	  <section class="posts">
+	    <h2>Updates</h2>
+			<div class="post-list">
+			{{ range (.Paginate .Pages).Pages }}
+			<div class="post">
+				<span class="post-date">
+					<time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+				</span>
+				<span class="post-title">
+					<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+				</span>
+			</div>
+			{{ end }}
+			</div>
+	  </section>
+	</div>
 {{ end }}

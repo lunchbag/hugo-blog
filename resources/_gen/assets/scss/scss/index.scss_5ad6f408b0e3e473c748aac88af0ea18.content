@@ -4,6 +4,7 @@ body {
   height: 100%;
   margin: 0; }
 
+/* Index page with list of posts */
 .index-container {
   margin: 50px;
   width: 60%;
@@ -50,7 +51,7 @@ body {
     .index-container a:hover {
       border-bottom: none; }
 
-/* Main stuff */
+/* Individual post page */
 #g-post {
   width: 650px;
   margin: 100px auto;
@@ -79,7 +80,8 @@ body {
     font-size: 1.6rem; }
   #g-post h3 {
     font-size: 1.35rem; }
-  #g-post b {
+  #g-post b,
+  #g-post strong {
     padding: 5px 2px;
     background-color: #fff121; }
   #g-post .post-info {
@@ -123,23 +125,23 @@ body {
     position: relative;
     max-width: 100%;
     z-index: -1; }
-  #g-post img + span.caption {
-    font-family: "Shadows Into Light", cursive;
-    font-size: 1.3rem;
-    text-align: center;
-    display: block;
-    width: 85%;
-    background-color: #fff71c;
-    margin: -16px auto 0 auto;
-    z-index: 10;
-    color: #3e3a3a; }
-  #g-post img .inline {
-    width: 60% !important;
-    left: -5% !important;
-    margin-top: 10px;
-    float: left; }
-  #g-post img .inline + p {
-    display: inline; }
+    #g-post img + span.caption {
+      font-family: "Shadows Into Light", cursive;
+      font-size: 1.3rem;
+      text-align: center;
+      display: block;
+      width: 85%;
+      background-color: #fff71c;
+      margin: -16px auto 0 auto;
+      z-index: 10;
+      color: #3e3a3a; }
+    #g-post img .inline {
+      width: 60% !important;
+      left: -5% !important;
+      margin-top: 10px;
+      float: left; }
+    #g-post img .inline + p {
+      display: inline; }
   #g-post small {
     display: block;
     border-top: 1px solid #ddd;
@@ -163,8 +165,8 @@ body {
     background-color: #f7f9f9;
     border-left: 10px solid #deeff1;
     font-family: "Amiri", "Merriweather", sans-serif; }
-  #g-post blockquote p {
-    margin-bottom: 0; }
+    #g-post blockquote p {
+      margin-bottom: 0; }
   #g-post input {
     font-size: 1em;
     padding: 10px;
@@ -197,20 +199,17 @@ body {
 
 .g-post thead {
   border-bottom: 2px solid #63585f; }
-
-.g-post thead th {
-  text-transform: uppercase;
-  font-weight: bold;
-  text-align: right;
-  padding-left: 10px;
-  padding-bottom: 10px; }
-
-.g-post thead th:first-child {
-  text-align: left;
-  padding-left: 10px; }
-
-.g-post thead th:last-child {
-  padding-right: 10px; }
+  .g-post thead th {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: right;
+    padding-left: 10px;
+    padding-bottom: 10px; }
+    .g-post thead th:first-child {
+      text-align: left;
+      padding-left: 10px; }
+    .g-post thead th:last-child {
+      padding-right: 10px; }
 
 .g-post tbody tr:hover {
   cursor: default;
@@ -223,14 +222,11 @@ body {
 
 .g-post td {
   padding: 10px 0px 10px 10px; }
-
-.g-post td:last-child {
-  padding-right: 10px; }
-
-.g-post td.col1 {
-  text-transform: capitalize; }
-
-.g-post td.datacol {
-  text-align: right; }
+  .g-post tdlast-child {
+    padding-right: 10px; }
+  .g-post td.col1 {
+    text-transform: capitalize; }
+  .g-post td.datacol {
+    text-align: right; }
 
 /*# sourceMappingURL=style.css.map */

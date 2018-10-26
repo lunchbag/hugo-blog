@@ -10,23 +10,20 @@
 
   thead {
     border-bottom: 2px solid #63585f;
-  }
-
-  thead th {
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: right;
-    padding-left: 10px;
-    padding-bottom: 10px;
-  }
-
-  thead th:first-child {
-    text-align: left;
-    padding-left: 10px;
-  }
-
-  thead th:last-child {
-    padding-right: 10px;
+    th {
+      text-transform: uppercase;
+      font-weight: bold;
+      text-align: right;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      &:first-child {
+        text-align: left;
+        padding-left: 10px;
+      }
+      &:last-child {
+        padding-right: 10px;
+      }
+    }
   }
 
   tbody tr:hover {
@@ -42,17 +39,15 @@
 
   td {
     padding: 10px 0px 10px 10px;
-  }
+    &last-child {
+      padding-right: 10px;
+    }
+    &.col1 {
+      text-transform: capitalize;
+    }
 
-  td:last-child {
-    padding-right: 10px;
-  }
-
-  td.col1 {
-    text-transform: capitalize;
-  }
-
-  td.datacol {
-    text-align: right;
+    &.datacol {
+      text-align: right;
+    }
   }
 }
