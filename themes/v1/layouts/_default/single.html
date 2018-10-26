@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+	<main id="g-post">
+		<div class="post">
+			<h1 class="title">{{ .Title }}</h1>
+
+			<div class="post-info">
+				<span>
+					{{- if .PublishDate }}
+						Written on <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+					{{- end }}
+				</span>
+			</div>
+
+			{{ .Content }}
+
+		</div>
+
+	</main>
+
+{{ end }}

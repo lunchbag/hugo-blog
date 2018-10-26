@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://naughty-villani-d3c70a.netlify.com/"
 languageCode = "en-us"
 title = "lunchbag"
-theme = "tale"
+theme = "v1"
+paginate = "100"
+
+[params]
+  author = "Jennifer"
+
+[permalinks]
+  posts = "/:filename/"

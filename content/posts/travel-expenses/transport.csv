@@ -1,0 +1,6 @@
+method,legs,total miles,total cost,avg cost per leg,avg cost
+bus,16,3090,332.53,20.78,0.09
+carpool,3,558,82.60,27.53,0.15
+train,9,1946,327.75,36.42,0.15
+fly,13,22761,1193.90,91.84,0.19
+boat,3,549,193.52,64.51,0.29

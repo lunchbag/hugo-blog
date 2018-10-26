@@ -1,0 +1,9 @@
+# HUGO-GENERATED
+public/
+
+# OSX
+.DS_Store
+
+# OTHERS
+node_modules/
+content/posts/working-holiday-visa/secret.js

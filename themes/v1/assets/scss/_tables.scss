@@ -1,0 +1,58 @@
+/* Tabular tables */
+.g-post {
+  table {
+    width: 100%;
+    margin: 30px auto 30px auto;
+    font-size: 0.9rem;
+    font-family: "Karla";
+    border-collapse: collapse;
+  }
+
+  thead {
+    border-bottom: 2px solid #63585f;
+  }
+
+  thead th {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+
+  thead th:first-child {
+    text-align: left;
+    padding-left: 10px;
+  }
+
+  thead th:last-child {
+    padding-right: 10px;
+  }
+
+  tbody tr:hover {
+    cursor: default;
+    background-color: #fff121;
+  }
+
+  tfoot {
+    border-top: 2px solid #63585f;
+    border-bottom: 2px solid #63585f;
+    font-weight: bold;
+  }
+
+  td {
+    padding: 10px 0px 10px 10px;
+  }
+
+  td:last-child {
+    padding-right: 10px;
+  }
+
+  td.col1 {
+    text-transform: capitalize;
+  }
+
+  td.datacol {
+    text-align: right;
+  }
+}

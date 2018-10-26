@@ -1,0 +1,208 @@
+/* Main stuff */
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+  align-items: center;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+h1,
+.title {
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-size: 4rem;
+  text-align: center;
+  color: #f42c56;
+}
+
+.title {
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: "Roboto Slab";
+  font-size: 1.5rem;
+  margin-top: 45px;
+  text-align: center;
+}
+
+b {
+  padding: 5px 2px;
+  background-color: #fff121;
+}
+
+/* Flex setup */
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.item_parent {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.item_child {
+  padding: 20px;
+  width: 100%;
+}
+
+/* Index */
+
+#header {
+  font-family: "Source Sans Pro";
+  font-size: 300px;
+  letter-spacing: 10px;
+  color: #eee;
+  position: fixed;
+  top: 28%;
+  margin: 0 auto;
+  z-index: -1;
+}
+
+.index {
+  text-align: center;
+  margin: 15% auto;
+}
+
+.index p {
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-size: 2.5rem;
+}
+
+/* Tabular tables */
+
+table {
+  width: 100%;
+  margin: 30px auto 30px auto;
+  font-size: 0.9rem;
+  font-family: "Karla";
+  border-collapse: collapse;
+}
+
+thead {
+  border-bottom: 2px solid #63585f;
+}
+
+thead th {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: right;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+thead th:first-child {
+  text-align: left;
+  padding-left: 10px;
+}
+
+thead th:last-child {
+  padding-right: 10px;
+}
+
+tbody tr:hover {
+  cursor: default;
+  background-color: #fff121;
+}
+
+tfoot {
+  border-top: 2px solid #63585f;
+  border-bottom: 2px solid #63585f;
+  font-weight: bold;
+}
+
+td {
+  padding: 10px 0px 10px 10px;
+}
+
+td:last-child {
+  padding-right: 10px;
+}
+
+td.col1 {
+  text-transform: capitalize;
+}
+
+td.datacol {
+  text-align: right;
+}
+
+/* Content */
+
+p,
+ul {
+  font-family: "Karla";
+  font-size: 1rem;
+  line-height: 2rem;
+  margin: 20px auto;
+}
+
+p.tip {
+  position: relative;
+  background-color: #f42c56;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+p.tip:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-width: 0 20px 20px 0;
+  border-style: solid;
+  border-color: #ce2347 #f6f6f6;
+}
+
+p.note {
+  display: block;
+  border: 1px solid black;
+  padding: 20px 32px;
+}
+
+/* Links */
+
+a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 6px solid #21e0ff;
+}
+
+a:hover {
+  padding: 5px 0;
+  background-color: #21e0ff;
+  color: #fff;
+  border-bottom: 0;
+}
+
+p.tip a {
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}
+
+@media screen and (max-device-width: 700px) {
+  body {
+    text-align: justify;
+  }
+
+  p,
+  ul,
+  table {
+    font-size: 1.5rem;
+    line-height: 3rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}

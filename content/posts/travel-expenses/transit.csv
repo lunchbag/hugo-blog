@@ -1,0 +1,5 @@
+method,count,total cost,avg cost
+bus/subway,48,144.51,3.01
+local taxi,6,29.56,4.93
+uber,6,81.75,13.63
+bike rental,4,40.14,10.04

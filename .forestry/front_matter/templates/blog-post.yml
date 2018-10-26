@@ -1,0 +1,38 @@
+---
+label: Blog Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: Categories
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  label: Slug
+  name: slug
+- type: tag_list
+  name: tags
+  label: Tags
+pages:
+- content/posts/lunchbag-in-france-living-in-the-mountains.md
+- content/posts/how-to-move-out-of-the-country-pt-1.md
+- content/posts/how-to-move-out-of-the-country-pt-2.md
+- content/posts/pre-departure-thoughts.md
+- content/posts/lunchbag-in-france-a-dinner-service-in-a-french-restaurant.md
+- content/posts/one-week-in-munich.md
+- content/posts/checking-in-things-i-ve-learned.md
+- content/posts/why-i-quit-my-job-to-go-on-a-sabbatical.md
+- content/posts/lunchbag-in-estonia-a-truly-underrated-gem.md
+- content/posts/lunchbag-in-france-culture-shocks-food-drinks-edition.md
+- content/posts/traveling-when-things-don-t-go-as-planned.md
+- content/posts/thailand-2-week-update.md
+- content/posts/my-road-to-minimalism-the-first-steps.md
+- content/posts/choosing-a-virtual-mailbox.md
+- content/posts/my-most-loved-food-in-san-francisco.md

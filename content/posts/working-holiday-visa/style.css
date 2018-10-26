@@ -1,0 +1,245 @@
+/****** General ******/
+html,
+body {
+  font-family: "Yantramanav", Sans-serif;
+}
+
+h1 {
+  font-family: "Raleway";
+  text-align: center;
+  padding: 50px 0 10px;
+  font-weight: bold;
+}
+
+a {
+  color: #c8675a;
+  font-weight: bold;
+  border-bottom: 1px dashed #c8675a;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin: 50px 0 30px;
+  font-size: 0.9em;
+}
+
+/****** Mapbox! ******/
+.map {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 50px;
+  display: block;
+  height: 600px;
+  background-color: #eee;
+}
+
+/****** Back to Map icon ******/
+#back-to-map {
+  display: none;
+  background-image: url("../img/map.png");
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  background-color: #ccc;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+#back-to-map:hover {
+  background-image: url("../img/up-white.png");
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+/****** Introduction ******/
+#information {
+  margin: 25px auto 50px auto;
+  padding-bottom: 25px;
+  max-width: 1200px;
+  width: 90%;
+  border-bottom: 2px solid black;
+  font-size: 1.1em;
+}
+
+/****** Disqus ******/
+#disqus_thread {
+  margin: 25px auto 50px auto;
+  padding-bottom: 25px;
+  max-width: 1200px;
+  width: 90%;
+}
+
+/****** Each country table ******/
+.whv-main {
+  margin: 0px auto;
+  padding: 10px;
+  width: 90%;
+  max-width: 1200px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+/****** Each individual country column (country overview, fast facts, notes) ******/
+.whv-main-td {
+  vertical-align: top;
+  padding: 15px 15px 15px 15px;
+  font-size: 1.1em;
+}
+
+/****** Each column's default width ******/
+.whv-country-overview {
+  width: 30%;
+}
+
+.whv-fast-facts {
+  width: 35%;
+}
+
+.whv-notes {
+  width: 35%;
+}
+
+.whv-header {
+  text-transform: uppercase;
+  font-weight: 300;
+  display: block;
+  color: #7896ab;
+}
+
+.quote {
+  display: block;
+  border-left: 5px solid #ddd;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+/****** First column: Country overview ******/
+.whv-main-td:first-child {
+  border-right: 1px solid black;
+  width: 25%;
+}
+
+span.whv-country-name {
+  color: #5a9586;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 1.4em;
+}
+
+span.whv-country-link {
+  display: block;
+  font-size: 1em;
+}
+
+/****** Last column: Notes ******/
+.whv-main-td:last-child {
+  border-left: 1px dashed black;
+}
+
+/****** Middle column: Fast facts table ******/
+table#whv-inner {
+  width: 100%;
+  padding: 0;
+}
+
+/* Heading */
+table#whv-inner td {
+  vertical-align: top;
+  padding-top: 0;
+  width: 50%;
+}
+
+/* Preserve spacing */
+table#whv-inner tr:first-child td {
+  padding-bottom: 15px;
+}
+
+/* Responsive. Stack tables if width < 750px ******/
+@media screen and (max-device-width: 800px) {
+  #information {
+    border-bottom: 0px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+  }
+  /****** Mapbox! ******/
+  .map {
+    display: none;
+  }
+  /****** Each country table ******/
+  .whv-main {
+    margin: 0px auto;
+    padding: 10px 0;
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  }
+  /****** Each individual country column (country overview, fast facts, notes) ******/
+  .whv-main-td {
+    display: block;
+  }
+  .whv-main-td:first-child {
+    border-right: 0;
+    border-bottom: 1px solid black;
+    width: inherit;
+  }
+  .whv-main-td:last-child {
+    border-left: 0px solid black;
+  }
+  /****** Each column's default width ******/
+  .whv-country-overview {
+    padding: 0 15px 15px 15px;
+    width: inherit;
+  }
+  .whv-fast-facts {
+    width: inherit;
+  }
+  .whv-notes {
+    width: inherit;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #information {
+    border-bottom: 0px;
+  }
+  /****** Mapbox! ******/
+  .map {
+    display: none;
+  }
+  /****** Each country table ******/
+  .whv-main {
+    margin: 0px auto;
+    padding: 10px 0;
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  }
+  /****** Each individual country column (country overview, fast facts, notes) ******/
+  .whv-main-td {
+    display: block;
+  }
+  .whv-main-td:first-child {
+    border-right: 0;
+    border-bottom: 1px solid black;
+    width: inherit;
+  }
+  .whv-main-td:last-child {
+    border-left: 0px solid black;
+  }
+  /****** Each column's default width ******/
+  .whv-country-overview {
+    padding: 0 15px 15px 15px;
+    width: inherit;
+  }
+  .whv-fast-facts {
+    width: inherit;
+  }
+  .whv-notes {
+    width: inherit;
+  }
+}

@@ -1,0 +1,73 @@
+body {
+  background-color: #f9f9f9;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.index-container {
+  margin: 50px;
+  width: 60%;
+  max-width: 800px;
+
+  h2 {
+    font-family: "Montserrat";
+    font-weight: 700;
+    margin-top: 40px;
+  }
+
+  #profile-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .introduction {
+    font-family: "Merriweather";
+    line-height: 1.8rem;
+    font-weight: 300;
+
+    span {
+      font-size: 0.9rem;
+    }
+  }
+
+  .post-list {
+    display: flex;
+    flex-direction: column;
+
+    .post {
+      display: flex;
+      margin-top: 8px;
+
+      .post-date {
+        min-width: 160px;
+        padding-right: 20px;
+        position: relative;
+        top: -3px;
+        text-align: right;
+        font-family: "Merriweather";
+        font-size: 0.8rem;
+        font-weight: 300;
+        line-height: 1.8rem;
+        color: #beb8ba;
+        white-space: nowrap;
+      }
+
+      .post-title {
+        font-family: "Montserrat";
+        font-weight: 700;
+        font-size: 1.1rem;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: #222;
+    border-bottom: 1px dashed #aaa;
+
+    &:hover {
+      border-bottom: none;
+    }
+  }
+}
