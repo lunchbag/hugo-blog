@@ -1,4 +1,4 @@
-baseURL = "https://naughty-villani-d3c70a.netlify.com/"
+baseURL = "http://lunchbag.ca/"
 languageCode = "en-us"
 title = "lunchbag"
 theme = "v1"
