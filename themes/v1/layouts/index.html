@@ -15,7 +15,7 @@
 			{{ range (.Paginate .Pages).Pages }}
 			<div class="post">
 				<span class="post-date">
-					<time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+					<time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "Jan 2, 2006" }}</time>
 				</span>
 				<span class="post-title">
 					<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>

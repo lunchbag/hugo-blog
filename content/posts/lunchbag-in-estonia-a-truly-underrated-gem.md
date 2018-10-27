@@ -155,14 +155,17 @@ This is my hit list for the next time I am in Estonia. There are so many hidden 
 ### The partially flooded abandoned Soviet prison on the beautiful beach of Rummu
 
 ![](/img/The-Underwater-Prison-Estonia.jpg)
-<span class="caption"><a href="http://www.amazingplacesonearth.com/underwater-prison-estonia/
-">[source]</a></span>
+<span class="credit"><a href="http://www.amazingplacesonearth.com/underwater-prison-estonia/
+">Credit</a></span>
 
 ### The Pähni Megaphones– an art installation that amplifies a forest's natural sound
 
+A bunch of these giant megaphones can be found throughout the forest.
+
 ![](/img/pahni.jpeg)
-<span class="caption">A bunch of these giant megaphones can be found throughout the forest. <a href="http://www.atlasobscura.com/places/pahni-megaphones">[source]</a></span>
+<span class="credit"><a href="http://www.atlasobscura.com/places/pahni-megaphones">Credit</a></span>
+
+Sometimes, musicians will play concerts there.
 
 ![](/img/pahni1.jpg)
-<span class="caption">Sometimes, musicians will play concerts there.
-<a href="https://twitter.com/meludiaww/status/646767499715964928">[source]</span></span>
+<span class="credit"><a href="https://twitter.com/meludiaww/status/646767499715964928">Credit</span></span>

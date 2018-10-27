@@ -15,7 +15,7 @@ Here's where I ended up:
 
 ![](/img/france-auvergne-map.png)
 
-#### Quick profile of the commune to give an idea of the geography
+## Quick profile of the commune to give an idea of the geography
 
 _Area:_ 44.26 km sq, equivalent to 17.09 sq mi
 _Population:_ 397
@@ -23,7 +23,7 @@ _Population Density:_ 9 people per km sq, or 23 people per sq mi
 
 Below is an attempt at a snapshot of life in the mountains while I stayed with Simon, Céline, and their two young boys for some time. (_Names have been changed._)
 
-## Building a house from scratch
+# Building a house from scratch
 
 A friend of Simon's bought a large piece of land in the village. For the past 2 years, he has been single-handedly building a house, or rather, his future family's sanctuary.
 
@@ -63,7 +63,7 @@ He also wanted to transfer all the salmon from the original, smaller pond into t
 ![](/img/IMG_7638.jpg)
 <span class="caption">Simon and his younger son fishing in the larger pond with a gorgeous backdrop</span>
 
-## Visiting the parents
+# Visiting the parents
 
 Céline's parents live nearby. By nearby, I mean about a 10 minute drive up a windy road with breathtaking views along the way. There are no traffic signs, no speed limits, and certainly no red lights. Drive in the middle of the two lanes as you please since you're more than likely the only one on the road and that's a risk everyone seems to take.
 
@@ -83,7 +83,7 @@ I asked to see the inside but unfortunately, when we visited, they were just her
 ![](/img/IMG_7573.jpg)
 <span class="caption">Happy cows make award-winning cheese</span>
 
-## Fly fishing in the wilderness
+# Fly fishing in the wilderness
 
 Simon is a professional fly fisher who runs a business taking people out to various lakes and rivers in and around France. Though I'm not a super adventure type of person, I'll try most things once and I was thrilled to learn more about fly fishing from someone who I can tell is very passionate about it.
 

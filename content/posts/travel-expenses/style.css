@@ -3,8 +3,7 @@
 body {
   width: 600px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
+  display: block;
   font-weight: normal;
   align-items: center;
   background-color: #f8f8f8;
@@ -57,17 +56,6 @@ b {
 
 /* Index */
 
-#header {
-  font-family: "Source Sans Pro";
-  font-size: 300px;
-  letter-spacing: 10px;
-  color: #eee;
-  position: fixed;
-  top: 28%;
-  margin: 0 auto;
-  z-index: -1;
-}
-
 .index {
   text-align: center;
   margin: 15% auto;
@@ -77,6 +65,10 @@ b {
   font-family: "Source Sans Pro";
   text-transform: uppercase;
   font-size: 2.5rem;
+}
+
+.index svg {
+  max-width: 105%;
 }
 
 /* Tabular tables */
@@ -190,19 +182,40 @@ p.tip a {
   border-bottom: 2px solid #fff;
 }
 
-@media screen and (max-device-width: 700px) {
+@media screen and (max-width: 800px) {
   body {
-    text-align: justify;
+    width: 100%;
+    padding: 0 50px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
   }
 
-  p,
-  ul,
-  table {
-    font-size: 1.5rem;
-    line-height: 3rem;
+  .index p {
+    font-size: 1.8rem;
   }
 
-  h2 {
-    font-size: 2rem;
+  h1,
+  .title {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  h1,
+  .title {
+    font-size: 2.6rem;
   }
 }

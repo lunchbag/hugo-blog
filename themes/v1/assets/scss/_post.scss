@@ -7,6 +7,18 @@
   color: #333;
   display: block;
 
+  @media (max-width: 800px) {
+    width: 100%;
+    padding: 0 50px;
+    box-sizing: border-box;
+  }
+  @media (max-width: 600px) {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
   h1.title {
     font-family: "Source Sans Pro";
     text-transform: uppercase;
@@ -14,8 +26,19 @@
     text-align: center;
     font-weight: 900;
     color: #f42c56;
-    margin-top: 100px;
     margin-bottom: 0px;
+
+    @media (max-width: 800px) {
+      font-size: 3rem;
+    }
+
+    @media (max-width: 600px) {
+      font-size: 2.5rem;
+    }
+  }
+
+  h1 {
+    margin-top: 64px;
   }
 
   h2,
@@ -28,17 +51,22 @@
   h2 {
     text-align: center;
     font-size: 1.6rem;
+    @media (max-width: 600px) {
+      font-size: 1.5rem;
+    }
   }
 
   h3 {
     font-size: 1.35rem;
+    @media (max-width: 600px) {
+      font-size: 1.2rem;
+    }
   }
 
-  b,
-  strong {
-    padding: 5px 2px;
-    background-color: #fff121;
-  }
+  // b,
+  // strong {
+  //   font-weight: bold;
+  // }
 
   /* Date/Author */
   .post-info {
@@ -65,6 +93,11 @@
     font-size: 1.35rem;
     line-height: 2.4rem;
     margin: 20px auto;
+    position: relative;
+
+    @media (max-width: 600px) {
+      font-size: 1.2rem;
+    }
   }
 
   p.tip {
@@ -91,18 +124,49 @@
   }
 
   img {
+    display: block;
     margin: 32px auto;
     position: relative;
-    max-width: 100%;
+    width: 100%;
     z-index: -1;
+    & + span.credit {
+      font-family: "Inconsolata";
+      font-size: 1rem;
+      font-weight: 900;
+      padding: 0 20px;
+      background-color: #21e0ff;
+      position: absolute;
+      top: 52px;
+      right: -10px;
+
+      & > a {
+        border-bottom: none;
+        color: #fff;
+      }
+      & > a:hover {
+        background-color: transparent;
+        color: #000;
+      }
+      &:before {
+        content: "";
+        position: absolute;
+        border-style: solid;
+        bottom: 100%;
+        right: 0;
+        border-width: 0.7em 0 0 0.7em;
+        border-color: transparent #08a3bd transparent #08a3bd;
+      }
+    }
     & + span.caption {
-      font-family: "Shadows Into Light", cursive;
-      font-size: 1.3rem;
+      font-family: "Inconsolata";
+      font-size: 1.1rem;
+      font-weight: bold;
       text-align: center;
       display: block;
       width: 85%;
       background-color: #fff71c;
-      margin: -16px auto 0 auto;
+      padding: 0 10px;
+      margin: -64px auto 0 auto;
       z-index: 10;
       color: #3e3a3a;
     }
@@ -145,14 +209,11 @@
   }
 
   blockquote {
-    margin: 40px;
-    padding: 40px;
-    background-color: #f7f9f9;
-    border-left: 10px solid #deeff1;
+    margin: 40px 0;
+    padding: 20px 40px;
+    background-color: #fff;
+    border-left: 10px solid #00fa9a;
     font-family: "Amiri", "Merriweather", sans-serif;
-    p {
-      margin-bottom: 0;
-    }
   }
 
   input {

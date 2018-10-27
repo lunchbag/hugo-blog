@@ -11,7 +11,7 @@ In getting ready for <a href="how-to-move-out-of-the-country-pt-1">a big change<
 
 Here's a humble and honest look at what I've achieved thus far:
 
-## Getting rid of books
+# Getting rid of books
 
 Books are heavy. They also take up a lot of space. The library has a lot of space, which it conveniently fills with a lot of books. I understand some people want to keep their books like trophies after they've finished reading them (or even if they haven't read them at all) but the library is basically a giant communal bookshelf! And the best part is, it's free.
 
@@ -25,13 +25,13 @@ I ended up donating or giving away all my books (except for 2– one for sentime
 
 Nowadays, I read a lot. My Kindle, admittedly neglected for the first 2 years of ownership, has skyrocketed to the top of my valuable possessions list. The best part is my S.O. and I are on a 'family plan' so all my books are visible to him and vice versa.
 
-## Finding the joy in walking
+# Finding the joy in walking
 
 The underlying effort here is in taking less Uber/Lyfts and instead walking if it will take less than 45 minutes. The ease of calling a car to whisk you away to the next destination seems convenient but it makes us unreasonably intolerant when the timing doesn't work out to our exact liking. There's nothing like calling a car and finding that it's 3 minutes away and rushing all your goodbyes. Alternatively, if you give early farewells, there's also that feeling of awkward disappointment in finding out that your car will be another 10 minutes.
 
 Walking is underrated. A nice long stroll in between activities is a refreshing way to clear your head and could also double as exercise for the day. You feel the crisp air and see other people walking past you. You can smile at the passerbys and sometimes you get a smile back. You can catch up on your latest podcasts or audiobooks– it's much better than having your eyes peeled to your phone screen.
 
-## Giving up nail polish
+# Giving up nail polish
 
 Growing up, my mom never let me paint my nails. I remember being curious about it once so I decided I would quickly paint one nail and afterwards, just 'wash it off' before my mom came home. It smelt so bad and I learned the hard way that nail polish is not water-soluble. I had no idea a product called 'nail polish remover' even existed. My mom got so mad at me and I didn't paint my nails again for many years.
 
@@ -45,7 +45,7 @@ So, I decided I didn't need any of this. I don't care for any of this anymore! I
 
 I finally got rid of my nail polish habit once and for all. Gone are the two medium-sized tin cases bursting with lacquer and nail tools claiming residence in the corner of my bathroom cabinet. It felt good to give away my polishes, though it was hard because I did have sentimental attachment to certain colors that I received as gifts. But at the end of the day, I think they caused me more worry than joy. Besides, rock climbing on the regular nowadays gives me a solid reason to avoid this past habit!
 
-## Showering and drying hair
+# Showering and drying hair
 
 My whole getting-ready routine used to take over 30 minutes. I'm not exactly sure what I would be doing in the shower, but thinking back, it may have been some combination of shampooing, conditioning, body washing, shaving, washing my face, brushing my teeth, and temporarily forgetting that water is a scarce resource to make room for many <a href="http://reddit.com/r/showerthoughts">shower thoughts</a>. After that, allocate about 15 minutes for post-shower rituals such as doing my hair and applying make-up.
 
@@ -53,7 +53,7 @@ Nowadays, my shower time is 6 minutes. I know it takes me that long because I al
 
 The major difference maker has been training my hair to dry naturally without looking completely lifeless. I use the word 'training' because my hair dresser always tells me that hair has memory. Accordingly, since high school, my hair has become dependent on my routine of blow drying while adding countless volumnizing products. But with anything, gradual change is possible with persistence. This has awarded me a huge benefit– getting back 15 minutes of my day, especially in the morning, is huge. And it feels great to arrive at a hotel or an AirBnb and not be stressed by the lack of a hair dryer.
 
-## Going make-up free
+# Going make-up free
 
 Currently, my make-up kit consists of 1 foundation, 1 eyebrow pencil, 1 eyeliner, 1 mascara, and 1 eyelash curler– the latter 3 I'm just keeping for special occasions. I use foundation more frequently, usually if I anticipate drinking alcohol since I do get a bit flushed. But all other times, I go make-up free– it makes me look like a 17 year old but I'm at an age now where I'm okay with that!
 
@@ -65,7 +65,7 @@ For me, this is a signifcant turnaround. I accumulated a ridiculous amount of be
 
 ![](/img/makeup2.png)<span class="caption">November 2009. The peak. This was my room in college. That entire drawer was literally filled with make-up and personal care products (hair stuff, body lotion, accessories, etc).</span>
 
-## Hello, menstrual cup!
+# Hello, menstrual cup!
 
 This might be T.M.I. but I feel really good about this one and I must share it. I used to have boxes of tampons and pads because, well, I'll always need them. Despite this stockpile, I would never have any on me when I needed it, so I would buy another box. It was justifiable because I'll eventually use them all anyway. It was simply a universal truth of being a woman.
 

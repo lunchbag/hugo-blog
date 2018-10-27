@@ -19,7 +19,7 @@
 {{- $cssOptions		:= cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 {{- $style			:= resources.Get "scss/index.scss" | toCSS $cssOptions }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Heebo:300,800|Lora:700|Montserrat:700|Karla:400,700|Merriweather:300, 800, 900|Noto+Serif:700|Open+Sans|Source+Sans+Pro:700|Nunito:300|Roboto+Slab|Roboto|Shadows+Into+Light|Amiri:400i">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Inconsolata|Heebo:300,800|Lora:700|Montserrat:700|Karla:400,700|Merriweather:300, 800, 900|Noto+Serif:700|Open+Sans|Source+Sans+Pro:700|Nunito:300|Roboto+Slab|Roboto|Shadows+Into+Light|Amiri:400i">
 
 <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}images/favicon-16x16.png">

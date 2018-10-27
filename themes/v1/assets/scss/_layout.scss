@@ -12,6 +12,24 @@ body {
   width: 60%;
   max-width: 800px;
 
+  @media (max-width: 900px) {
+    width: 85%;
+  }
+
+  @media (max-width: 600px) {
+    width: 100%;
+    margin: 50px auto;
+    padding: 40px;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 500px) {
+    width: 100%;
+    margin: 50px auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
   h2 {
     font-family: "Montserrat";
     font-weight: 700;
@@ -41,8 +59,12 @@ body {
       display: flex;
       margin-top: 8px;
 
+      @media (max-width: 500px) {
+        flex-direction: column;
+      }
+
       .post-date {
-        min-width: 160px;
+        min-width: 100px;
         padding-right: 20px;
         position: relative;
         top: -3px;
@@ -53,12 +75,20 @@ body {
         line-height: 1.8rem;
         color: #beb8ba;
         white-space: nowrap;
+
+        @media (max-width: 500px) {
+          text-align: left;
+        }
       }
 
       .post-title {
         font-family: "Montserrat";
         font-weight: 700;
         font-size: 1.1rem;
+
+        @media (max-width: 500px) {
+          margin-bottom: 20px;
+        }
       }
     }
   }

@@ -36,7 +36,7 @@ _Mission ([Website](http://farmhousesf.com))_
 
 My #1 pick for best Thai restaurant in San Francisco! I typically get take-out or delivery (on Caviar or Postmates) from here. Everything here is generally fantastic but my go-to would definitely be the panang curry. It comes with fragrant blue rice. It is dyed naturally from a flower that grows in Thailand called the blue pea flower!
 
-![](/img/sf-food-farmhouse.JPG)
+![](/img/sf-food-farmhouse.jpg)
 <span class="caption">The yellow curry, also fantastic, comes with a side of crispy roti!</span>
 
 <p class="tip">If you eat in for dinner, make sure to grab a reservation online! They fill up fast.</p>
@@ -46,7 +46,7 @@ My #1 pick for best Thai restaurant in San Francisco! I typically get take-out o
 _Potrero Hill ([Website](http://mochicasf.com))_
 
 ![](/img/sf-food-mochica.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/mochica-san-francisco-2?select=8NkabCFVlnoI71dlXqnt4w">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/mochica-san-francisco-2?select=8NkabCFVlnoI71dlXqnt4w">Credit</a></span>
 
 This is Chorizo stuffed calamari with an amazing yellow pesto and a side salad. It's without a doubt one of the most flavorful dishes I've ever eaten. Note that this is an appetizer, is tiny, and costs $13. Every time I come here and order this dish (and I definitely order it every time!), I honestly feel that the portion gets smaller and smaller. But at the same time, every time I put it in my mouth, I honestly feel that it's gotten tastier and tastier.
 
@@ -61,7 +61,7 @@ Even though this is listed as a "wonton house", I have not had good experiences 
 You can get thin egg noodles or rice noodles here. I prefer rice noodles, always!
 
 ![](/img/sf-food-yin-du.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/yin-du-wonton-noodle-san-francisco?select=faNOVbIYW-HJgqwbWjKrfw">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/yin-du-wonton-noodle-san-francisco?select=faNOVbIYW-HJgqwbWjKrfw">Credit</a></span>
 
 <p class="tip">Don't expect good (or any) service here. Cash only.</p>
 
@@ -72,7 +72,7 @@ _Civic Center ([Website](http://azalinas.com))_
 Azalina's is a little storefront nestled in the back corner of an upscale supermarket. They serve up extremely flavorful Malaysian dishes. My personal favorite is the roasted chicken over rice. The chicken is perfectly seasoned and cooked, and there is a good ratio of rice, white sauce, and fantastic thinly sliced pieces of potato. They also include a dollop of their spicy chili spread.
 
 ![](/img/sf-food-azalinas.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/azalinas-san-francisco-2?select=MGsH568Vl1xwR-zluh1ZGQ">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/azalinas-san-francisco-2?select=MGsH568Vl1xwR-zluh1ZGQ">Credit</a></span>
 
 Alternatively, my S.O. **loves** the fried chicken over rice more. The chicken, admittedly, is better fried here, but I'm not a fan of how little rice that dish comes with. Also, no potatoes, just lots of greens! I guess it's good to offset the fried chicken with some veggies :)
 
@@ -85,7 +85,7 @@ The first time I tried these were at Outside Lands. My S.O. and I wanted to get 
 Porcini donuts are like donut holes that have been puffed up and fried perfectly to a thin outer crisp. Porcini mushroom powder is then sprinkled generously all over and it is served with a type of whipped crème fraîche cheese (you will definitely ask for more of this).
 
 ![](/img/sf-food-porcini.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/rich-table-san-francisco?select=UgwmNwvaP5CrqYzQ-KNL0Q">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/rich-table-san-francisco?select=UgwmNwvaP5CrqYzQ-KNL0Q">Credit</a></span>
 
 <p class="tip">If you want to come here, you'll almost certainly need a reservation. This is a somewhat popular restaurant and it's quite small inside. Counter seating is the best if you're going in a pair!</p>
 
@@ -112,7 +112,7 @@ Mission ([Website](http://basaseafoodexpress.net))
 Lots of people come here for the sushi, but the winner here is the salmon sashimi or the poké! You can buy an entire block of salmon (which they will slice for you if you ask!) comprising of about 15 slices for less than $10. The quality is pretty good considering the price. I'm always excited to get some take-out from here whenever I'm in the area.
 
 ![](/img/sf-food-basa.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/basa-seafood-express-san-francisco?select=M_il2vMMmHjXfrK1YnwfzA">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/basa-seafood-express-san-francisco?select=M_il2vMMmHjXfrK1YnwfzA">Credit</a></span>
 
 <p class="tip">Parking around here is difficult. Also, they close at 7PM.</p>
 
@@ -141,7 +141,7 @@ For brunch, my favorite entree is the karaage chicken and waffles. They give a v
 _Millbrae (<a href="https://www.yelp.com/biz/hd-chinese-yunnan-rice-noodle-millbrae">Yelp</a>)_
 
 ![](/img/sf-food-hd.jpg)
-<span class="caption"><a href="https://www.yelp.com/biz_photos/hd-chinese-yunnan-rice-noodle-millbrae?select=rUUlybHgJSkbbwHHR5z9sA">Credit</a></span>
+<span class="credit"><a href="https://www.yelp.com/biz_photos/hd-chinese-yunnan-rice-noodle-millbrae?select=rUUlybHgJSkbbwHHR5z9sA">Credit</a></span>
 
 I definitely have a bias here. This restaurant holds a special place in my heart– it's where I have frequented solo many times because eating here was always a very comforting experience for me.
 

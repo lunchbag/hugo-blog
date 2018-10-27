@@ -9,6 +9,21 @@ body {
   margin: 50px;
   width: 60%;
   max-width: 800px; }
+  @media (max-width: 900px) {
+    .index-container {
+      width: 85%; } }
+  @media (max-width: 600px) {
+    .index-container {
+      width: 100%;
+      margin: 50px auto;
+      padding: 40px;
+      box-sizing: border-box; } }
+  @media (max-width: 500px) {
+    .index-container {
+      width: 100%;
+      margin: 50px auto;
+      padding: 20px;
+      box-sizing: border-box; } }
   .index-container h2 {
     font-family: "Montserrat";
     font-weight: 700;
@@ -28,8 +43,11 @@ body {
     .index-container .post-list .post {
       display: flex;
       margin-top: 8px; }
+      @media (max-width: 500px) {
+        .index-container .post-list .post {
+          flex-direction: column; } }
       .index-container .post-list .post .post-date {
-        min-width: 160px;
+        min-width: 100px;
         padding-right: 20px;
         position: relative;
         top: -3px;
@@ -40,10 +58,16 @@ body {
         line-height: 1.8rem;
         color: #beb8ba;
         white-space: nowrap; }
+        @media (max-width: 500px) {
+          .index-container .post-list .post .post-date {
+            text-align: left; } }
       .index-container .post-list .post .post-title {
         font-family: "Montserrat";
         font-weight: 700;
         font-size: 1.1rem; }
+        @media (max-width: 500px) {
+          .index-container .post-list .post .post-title {
+            margin-bottom: 20px; } }
   .index-container a {
     text-decoration: none;
     color: #222;
@@ -61,6 +85,17 @@ body {
   /* Date/Author */
   /* Content */
   /* Links */ }
+  @media (max-width: 800px) {
+    #g-post {
+      width: 100%;
+      padding: 0 50px;
+      box-sizing: border-box; } }
+  @media (max-width: 600px) {
+    #g-post {
+      margin: 0 auto;
+      width: 100%;
+      padding: 0 20px;
+      box-sizing: border-box; } }
   #g-post h1.title {
     font-family: "Source Sans Pro";
     text-transform: uppercase;
@@ -68,8 +103,15 @@ body {
     text-align: center;
     font-weight: 900;
     color: #f42c56;
-    margin-top: 100px;
     margin-bottom: 0px; }
+    @media (max-width: 800px) {
+      #g-post h1.title {
+        font-size: 3rem; } }
+    @media (max-width: 600px) {
+      #g-post h1.title {
+        font-size: 2.5rem; } }
+  #g-post h1 {
+    margin-top: 64px; }
   #g-post h2,
   #g-post h3 {
     font-family: "Lora";
@@ -78,12 +120,14 @@ body {
   #g-post h2 {
     text-align: center;
     font-size: 1.6rem; }
+    @media (max-width: 600px) {
+      #g-post h2 {
+        font-size: 1.5rem; } }
   #g-post h3 {
     font-size: 1.35rem; }
-  #g-post b,
-  #g-post strong {
-    padding: 5px 2px;
-    background-color: #fff121; }
+    @media (max-width: 600px) {
+      #g-post h3 {
+        font-size: 1.2rem; } }
   #g-post .post-info {
     text-align: center;
     margin-top: 8px;
@@ -102,7 +146,13 @@ body {
     font-weight: 200;
     font-size: 1.35rem;
     line-height: 2.4rem;
-    margin: 20px auto; }
+    margin: 20px auto;
+    position: relative; }
+    @media (max-width: 600px) {
+      #g-post p,
+      #g-post ul,
+      #g-post ol {
+        font-size: 1.2rem; } }
   #g-post p.tip {
     position: relative;
     background-color: #f42c56;
@@ -121,18 +171,44 @@ body {
     border: 1px solid black;
     padding: 20px 32px; }
   #g-post img {
+    display: block;
     margin: 32px auto;
     position: relative;
-    max-width: 100%;
+    width: 100%;
     z-index: -1; }
+    #g-post img + span.credit {
+      font-family: "Inconsolata";
+      font-size: 1rem;
+      font-weight: 900;
+      padding: 0 20px;
+      background-color: #21e0ff;
+      position: absolute;
+      top: 52px;
+      right: -10px; }
+      #g-post img + span.credit > a {
+        border-bottom: none;
+        color: #fff; }
+      #g-post img + span.credit > a:hover {
+        background-color: transparent;
+        color: #000; }
+      #g-post img + span.credit:before {
+        content: "";
+        position: absolute;
+        border-style: solid;
+        bottom: 100%;
+        right: 0;
+        border-width: 0.7em 0 0 0.7em;
+        border-color: transparent #08a3bd transparent #08a3bd; }
     #g-post img + span.caption {
-      font-family: "Shadows Into Light", cursive;
-      font-size: 1.3rem;
+      font-family: "Inconsolata";
+      font-size: 1.1rem;
+      font-weight: bold;
       text-align: center;
       display: block;
       width: 85%;
       background-color: #fff71c;
-      margin: -16px auto 0 auto;
+      padding: 0 10px;
+      margin: -64px auto 0 auto;
       z-index: 10;
       color: #3e3a3a; }
     #g-post img .inline {
@@ -160,13 +236,11 @@ body {
     color: #fff;
     border-bottom: 2px solid #fff; }
   #g-post blockquote {
-    margin: 40px;
-    padding: 40px;
-    background-color: #f7f9f9;
-    border-left: 10px solid #deeff1;
+    margin: 40px 0;
+    padding: 20px 40px;
+    background-color: #fff;
+    border-left: 10px solid #00fa9a;
     font-family: "Amiri", "Merriweather", sans-serif; }
-    #g-post blockquote p {
-      margin-bottom: 0; }
   #g-post input {
     font-size: 1em;
     padding: 10px;
