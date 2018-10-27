@@ -4,6 +4,7 @@ date = "2017-07-03"
 slug = "france-dinner-service"
 tags = []
 title = "lunchbag in France: A dinner service in a French restaurant"
+keywords = "france"
 
 +++
 

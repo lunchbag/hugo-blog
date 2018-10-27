@@ -5,7 +5,7 @@ theme = "v1"
 paginate = "100"
 
 [params]
-  author = "Jennifer"
+  author = "Jennifer Yip"
 
 [permalinks]
   posts = "/:filename/"
