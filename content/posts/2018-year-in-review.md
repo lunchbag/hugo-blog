@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-01-14T11:00:00-05:00"
-draft = true
 slug = "2018-review"
 tags = []
 title = "2018 Year In Review"
