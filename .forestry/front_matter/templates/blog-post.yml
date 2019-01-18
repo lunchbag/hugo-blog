@@ -21,6 +21,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/greetings-from-fukuoka.md
 - content/posts/my-most-loved-food-in-san-francisco.md
 - content/posts/choosing-a-virtual-mailbox.md
 - content/posts/checking-in-things-i-ve-learned.md
