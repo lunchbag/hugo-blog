@@ -11,7 +11,7 @@ Hello from the other side of the world! Justin and I are currently in Fukuoka, J
 
 ## Um what? Where? Why?
 
-We first read about the city 2 years ago on a weekend trip to Tainan, Taiwan. I picked out a bilingual travel magazine and flipped to a page that highlighted Fukuoka in Japan. Neither of us had heard of it before but after reading the article, we both knew that one day we wanted to end up there together (_cheesy, but it's true._)
+We first read about this city 2 years ago on a weekend trip to Tainan, Taiwan. I picked out a bilingual travel magazine and flipped to a page that highlighted Fukuoka in Japan. Neither of us had heard of it before but after reading the article, we both knew that one day we wanted to end up there together (_cheesy, but it's true._)
 
 ![](/uploads/Screenshot 2019-01-18 21.22.21.png)
 
