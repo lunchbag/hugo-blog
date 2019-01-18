@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-01-17T11:00:00-05:00"
-draft = true
 slug = ""
 tags = []
 title = "Greetings from Fukuoka!"
