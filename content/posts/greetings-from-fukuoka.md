@@ -19,7 +19,7 @@ The article painted the picture of an up-and-coming city where today’s Japanes
 
 ## Deciding to live here
 
-Though Justin moved to Toronto in late 2017, we knew that eventually, we wanted to go abroad together. We'd never done this before since Justin went to Taiwan for his own personal purposes and I spent most of my travels alone in Europe. This time, we wanted to plan, anticipate, and experience everything together. Initially, we had an idea of going to Busan, South Korea but eventually decided on Fukuoka, Japan. (Conveniently, Busan is just a short ferry ride away from Fukuoka!)
+Though Justin and I moved to Toronto in late 2017, we knew that eventually, we wanted to go abroad together. We'd never done this before since Justin went to Taiwan for his own personal purposes and I spent most of my travels alone in Europe. This time, we wanted to plan, anticipate, and experience everything together. Initially, we had an idea of going to Busan, South Korea but eventually decided on Fukuoka, Japan. (Conveniently, Busan is just a short ferry ride away from Fukuoka!)
 
 It was around April of 2018 that we decided firmly on Fukuoka. We set a rough departure date of January, primarily so we could spend Christmas with Justin’s family and New Year’s with mine before leaving. We also wanted to time it so that we would miss the most brutal part of Toronto winters but be back in time for the beautiful summer and fall.
 
