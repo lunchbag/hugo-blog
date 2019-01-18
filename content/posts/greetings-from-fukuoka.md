@@ -57,8 +57,8 @@ After we settled in, we decided to get a bite to eat. It was quite late, around 
 
 The first thing I asked was, 英語のメニューはありますか, which means, is there an English menu?
 
-<a href="/uploads/MVIMG_20190117_232022.jpg">![](/uploads/MVIMG_20190117_232022.jpg)</a>
-<span class="caption">Their English menu is more like a reference dictionary</span>
+![](/uploads/MVIMG_20190117_232022.jpg)
+<span class="caption">Their English menu is more like a reference dictionary (<a href="/uploads/MVIMG_20190117_232022.jpg">larger version</a>)</span>
 
 Next, we decided to order our beers. I decided on a small (小さい) Sapporo draft and Justin wanted a medium but wasn’t sure how to order a 中 (since this word has a bunch of different pronunciations in Japanese), so he decided to go with a large (大).
 
