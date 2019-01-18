@@ -9,11 +9,11 @@ title = "Greetings from Fukuoka!"
 +++
 Hello from the other side of the world! Justin and I are currently in Fukuoka, Japan and we’ll be here until May.
 
-![](/uploads/Screenshot 2019-01-18 21.22.21.png)
-
 ## Um what? Where? Why?
 
 We first read about the city 2 years ago on a weekend trip to Tainan, Taiwan. I picked out a bilingual travel magazine and flipped to a page that highlighted Fukuoka in Japan. Neither of us had heard of it before but after reading the article, we both knew that one day we wanted to end up there together (_cheesy, but it's true._)
+
+![](/uploads/Screenshot 2019-01-18 21.22.21.png)
 
 The article painted the picture of an up-and-coming city where today’s Japanese youths, who are being priced out of Tokyo and Osaka, are flocking to in droves. With its proximity to the beautiful mountains rich in history, it maintains balance between the new, modern Japanese bustle with the slow, traditional countryside lifestyle. Apparently, the mayor of Fukuoka looks to Seattle as a model city, admiring their bike-friendly roads and tech-driven economy. Their similarities as port cities is his inspiration to be able to replicate desirable living standards for his city. Fukuoka itself already has a lot of culture especially in the food scene. In fact, it’s the birthplace of the tonkotsu (pork bone broth) ramen, which is likely the style of ramen that you have had before!
 
@@ -50,13 +50,13 @@ Thankfully, we use Wunderlist religiously and were able to get everything done i
 
 We arrived late last night. A man from the rental property company met us at our  building. He brought his own pair of house slippers to use while he showed us around our apartment.
 
-![](/uploads/Screenshot 2019-01-18 21.19.52.png)
+![](/uploads/Screenshot 2019-01-18 21.19.52.jpg)
 
 After we settled in, we decided to get a bite to eat. It was quite late, around 11pm, so we were hoping that places wouldn’t be closed. Obviously, we were the new folks in town because there were at least 6 izakayas (Japanese-style bars that also serve food) open within a 20 meter radius, and they all close between 1AM and 5AM! We decided to go to the izakaya that was right around the corner from our apartment. It was our first meal in Japan and we were excited to put our Japanese to the test.
 
 The first thing I asked was, 英語のメニューはありますか, which means, is there an English menu?
 
-![](/uploads/MVIMG_20190117_232022-1.jpg)
+![](/uploads/MVIMG_20190117_232022.jpg)
 
 Next, we decided to order our beers. I decided on a small (小さい) Sapporo draft and Justin wanted a medium but wasn’t sure how to order a 中 (since this word has a bunch of different pronunciations in Japanese), so he decided to go with a large (大).
 
