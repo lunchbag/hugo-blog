@@ -62,6 +62,6 @@ The first thing I asked was, 英語のメニューはありますか, which mean
 
 Next, we ordered our beers. I decided on a small (小さい) Sapporo draft and Justin wanted a medium but wasn’t sure how to order a 中 (since this word has a bunch of different pronunciations in Japanese), so he decided to go with a large (大).
 
-We ordered a bunch of skewers and were so happy that our first neighbourhood izakaya was so welcoming. We will surely be back because as I write this, Justin is feverishly translating their entire menu and, every few minutes, he's eagerly telling me about their off-beat offerings.
+We ordered a bunch of skewers and were thrilled that our first neighbourhood izakaya was so welcoming. We will surely be back because as I write this, Justin is feverishly translating their entire menu and, every few minutes, he's eagerly telling me about their off-beat offerings.
 
 乾杯! Cheers!
