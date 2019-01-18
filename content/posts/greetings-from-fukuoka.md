@@ -37,7 +37,7 @@ The planning process took months due to all the moving parts. Here's a subset of
 
 1. Finding contract work that would be open to time off and/or 16 hour difference starting in January;
 2. Starting a packing list early to make sure we don’t forget anything (for example, we read randomly that deodorant is hard to come by in Japan so I told Justin to make sure we get some extras packed!);
-3. Start a “finishing marathon” in which we try to finish all the perishable items/condiments in our fridge and pantry. The last thing we want is to come back to rotten items in our kitchen;
+3. Starting a “finishing marathon” in which we try to finish all the perishable items/condiments in our fridge and pantry. The last thing we want is to come back to rotten items in our kitchen;
 4. Looking into eliminating unused costs while we’re gone, such as our car insurance;
 5. Looking into flights and the best/cheapest flight path since we also wanted to visit Taipei and Hong Kong;
 6. Looking into long-term accommodation options in Fukuoka. Airbnb is heavily regulated in Japan, so the available options were much too expensive;
@@ -62,6 +62,6 @@ The first thing I asked was, 英語のメニューはありますか, which mean
 
 Next, we decided to order our beers. I decided on a small (小さい) Sapporo draft and Justin wanted a medium but wasn’t sure how to order a 中 (since this word has a bunch of different pronunciations in Japanese), so he decided to go with a large (大).
 
-We ordered a bunch of skewers and were so happy that our first neighbourhood izakaya was so welcoming. We will surely be back because as I write this, Justin is feverishly translating their entire menu and, every few minutes, he's turning around to tell me excitedly about their off-beat offerings.
+We ordered a bunch of skewers and were so happy that our first neighbourhood izakaya was so welcoming. We will surely be back because as I write this, Justin is feverishly translating their entire menu and, every few minutes, he's eagerly telling me about their off-beat offerings.
 
 乾杯! Cheers!
