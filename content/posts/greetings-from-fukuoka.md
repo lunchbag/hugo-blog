@@ -17,7 +17,7 @@ We first read about this city 2 years ago on a weekend trip to Tainan, Taiwan. I
 
 The article painted the picture of an up-and-coming city where today’s Japanese youths, who are being priced out of Tokyo and Osaka, are flocking to in droves. With its proximity to the beautiful mountains rich in history, it maintains balance between the new, modern Japanese bustle with the slow, traditional countryside lifestyle. Apparently, the mayor of Fukuoka looks to Seattle as a model city, admiring their bike-friendly roads and tech-driven economy. Their similarities as port cities is his inspiration to be able to replicate desirable living standards for his city. Fukuoka itself already has a lot of culture especially in the food scene. In fact, it’s the birthplace of the tonkotsu (pork bone broth) ramen, which is likely the style of ramen that you have had before!
 
-## Deciding to live there
+## Deciding to live here
 
 Though Justin moved to Toronto in late 2017, we knew that eventually, we wanted to go abroad together. We'd never done this before since Justin went to Taiwan for his own personal purposes and I spent most of my travels alone in Europe. This time, we wanted to plan, anticipate, and experience everything together. Initially, we had an idea of going to Busan, South Korea but eventually decided on Fukuoka, Japan. (Conveniently, Busan is just a short ferry ride away from Fukuoka!)
 
@@ -27,7 +27,7 @@ It was around April of 2018 that we decided firmly on Fukuoka. We set a rough de
 
 Learning Japanese was going to be essential, especially if we were going to be spending a long period of time there and we were going to a part of Japan that doesn’t see as many western tourists as say, Tokyo. There would undoubtedly be less English-friendly experiences in Fukuoka.
 
-We started off by learning the alphabets. Written Japanese is essentially made up of 3 different sets of characters– Hiragana (46 characters), which is phonetic like our alphabet; Katagana (46 characters), which has a one-to-one mapping to Hiragana; and kanji (infinite characters, probably), which are Chinese words that have no phonetic properties– you just have to memorize as many of them as you can! We felt slightly relieved that both of us have existing knowledge of a limited set of kanjis; mine coming from years of Chinese school when I was younger and Justin’s from his year-long stint of learning Chinese in Taiwan.
+We started off by learning the alphabets. Written Japanese is made up of 3 different sets of characters– Hiragana (46 characters), which is phonetic like our alphabet; Katagana (46 characters), which has a one-to-one mapping to Hiragana; and kanji (infinite characters, probably), which are Chinese words that have no phonetic properties– you just have to memorize as many of them as you can! We felt slightly relieved that both of us have existing knowledge of a limited set of kanjis; mine coming from years of Chinese school when I was younger and Justin’s from his year-long stint of learning Chinese in Taiwan.
 
 Next, we moved onto phone apps. We started with Duolingo but eventually found that it lacked in a lot of areas and ultimately landed on [Memrise](http://memrise.com) as our primary learning tool. We also supplemented with [JapanesePod101](https://www.japanesepod101.com/), a [textbook](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401) that Justin’s parents got for his birthday, and various episodes of Terrace House on Netflix.
 
