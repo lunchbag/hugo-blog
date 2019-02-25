@@ -11,7 +11,7 @@ Hello world!
 
 It’s been over a month since our last correspondence. Justin and I have been doing very well in Fukuoka. We settled in fairly quickly, having found a routine that works for us which includes grocery shopping at our local supermarket, going to the gym every morning and rotating through a trio of hot teas (soba tea, green tea, and rooibos!) throughout the day.
 
-Our time has been split between working on our personal programming projects, continuing our contracting work, keeping up our fitness regimen, learning Japanese, and anything food-related such as cooking at home and seeking out restaurants. These are precisely the goals we set out for ourselves before we left home. 
+Our time has been split between working on our personal programming projects, continuing our contracting work, keeping up our fitness regimen, learning Japanese, and anything food-related such as cooking at home and seeking out restaurants. These are precisely the goals we set out for ourselves before we left home.
 
 We have not seen a lot of the tourist spots, local attractions and have only managed to take 2 day trips out of the city so far (Itoshima x2 and Yanagawa). Although we do take the effort to take days off from our routine to explore, our goal in Fukuoka is not to vacation, but to see how well we can integrate! We wanted to see if we are able to be just as, if not more, productive in a foreign environment while preserving our values (staying financial lean and physically healthy) and personal goals (fitness, cooking, etc), thereby proving that this lifestyle could be sustainable to repeat in the future– our ultimate goal.
 
@@ -48,12 +48,15 @@ This is without a doubt the biggest disappointment we have encountered in Fukuok
 
 Thankfully, we have discovered a whopping two places in the city of Fukuoka that are open to laptop workers. The first is called Startup Cafe and it has been a godsend– we probably go about 5 times a week. It is essentially a free co-working space open from 10AM to 10PM with very fast internet. The atmosphere is like a library and we believe it’s funded by the local government in an attempt to stir up entrepreneurial interests among locals. They provide free tax, immigration, and law consulting services and put on lots of local events. The downside is that they will be renovating starting March 1st and there will be no free co-working space offered anymore!
 
-The second alternative is a store called Tsutaya. Now, there are two kinds of Tsutayas, so you have to be careful. One of them is a time portal back to the 90’s and the other one is set in the future. The one from the past is a multi-story CD and DVD rental store that puts Blockbuster to shame. The other one is a re-imagined bookstore concept that allows you to read books and shop for related items in the store. They have a large Starbucks with free wi-fi and outlets where you can stay for literally hours on your laptop. The downside is that it's extremely popular and getting any seat at all is difficult.
+![](/uploads/startupcafe.jpg)
+<span class="caption">One view of the Fukuoka Start-up Cafe</span>
+
+The second alternative is a store called Tsutaya. Now, there are two kinds of Tsutayas, so you have to be careful. One of them is a time portal back to the 90’s and the other one is set in the future. The one from the past is a multi-story CD and DVD rental store that puts the Blockbuster catalog to shame. The other one is a re-imagined bookstore concept that allows you to read books and shop for related items in the store. They have a large Starbucks with free wi-fi and outlets where you can stay for literally hours on your laptop. The downside is that it's extremely popular and getting any seat at all is difficult.
 
 ![](/uploads/MVIMG_20190130_152812.jpg)
 <span class="caption">One section of DVD out of literally dozens. These English series are all available to rent.</span>
 
-We'll have to figure out what to do soon in terms of where we'll be working. We're considering signing up for a co-working space if it's not too expensive, or simply working out of the Starbucks here.
+We'll have to figure out next motnh what to do in terms of where we'll be working. We're considering signing up for a co-working space if it's not too expensive, or simply working out of the Starbucks here.
 
 ## Smokers
 
