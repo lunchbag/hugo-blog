@@ -53,7 +53,7 @@ The second alternative is a store called Tsutaya. Now, there are two kinds of Ts
 ![](/uploads/MVIMG_20190130_152812.jpg)
 <span class="caption">One section of DVD out of literally dozens. These English series are all available to rent.</span>
 
-We'll have to figure out next motnh what to do in terms of where we'll be working. We're considering signing up for a co-working space if it's not too expensive, or simply working out of the Starbucks here.
+We'll have to figure out next month what to do in terms of where we'll be working. We're considering signing up for a co-working space if it's not too expensive, or simply working out of the Starbucks here.
 
 ### Smokers
 
@@ -61,7 +61,7 @@ In Japan, it is still legal to smoke indoors at restaurants. It's terrible. Ther
 
 ### Coffee selection
 
-While (mostly) everything in Japan is cheaper than in the Western world, one thing that is not is the coffee here. A latte usually will run you at least ¥500 which is about US$4.50 and it usually comes in a much smaller size than what you can get at home for that price (unless you live in SF). On top of that, decaffeinated coffee is extremely rare in Japan as are non-dairy milk options.
+While (mostly) everything in Japan is cheaper than in the Western world, one thing that is not is the coffee here. A latte will run you at least ¥500 which is about US$4.50 and it usually comes in a much smaller size than what you would get at home for that price (unless you live in SF). On top of that, decaffeinated coffee is extremely rare in Japan as are non-dairy milk options.
 
 ## What's different
 
@@ -71,14 +71,14 @@ _Alternative title: Mundane things that I find interesting!_
 
 The way the bus works here is quite interesting. The pricing is variable which means the further you ride, the more expensive your fare will be.
 
-You enter through the back door where you tap your IC card. When you tap, you'll notice a number, which indicates your ride segment. At the front of the bus is a screen with a grid. Whatever the number is under your ride segment number is the price you'll pay. As the bus drives further, the numbers will go up accordingly!
+You enter through the back door where you tap your IC card. When you tap, you'll notice a number which indicates your ride segment. At the front of the bus is a screen with a grid. Whatever the number is under your ride segment number is the price you'll pay. As the bus drives further, the numbers will go up accordingly!
 
 ![](/uploads/MVIMG_20190212_174716.jpg)
 <span class="caption">Shaky image of the fare screen at the front of the bus</span>
 
 ### Raised rubber tiles
 
-All main streets in Japan have these yellow raised rubber tiles for the visually impaired. When you get to an intersection, the rubber tiles fan out and are yellow circles instead. It's kind of like braille for your feet.
+All main streets in Japan have these yellow raised rubber tiles for the visually impaired. When you get to an intersection, the rubber tiles fan out and are yellow circles instead. I like to think of it as braille for your feet!
 
 ![](/uploads/MVIMG_20190224_121058.jpg)
 <span class="caption">Tactile rubber tiles at an intersection</span>
