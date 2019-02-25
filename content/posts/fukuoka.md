@@ -19,7 +19,7 @@ That being said, our first month in Fukuoka has definitely been an adventure. We
 
 ### Supermarkets
 
-The supermarkets in Fukuoka will be sorely missed when we leave– the asian grocery store in Markham do not compare. Very affordable Japanese ingredients make it very easy to experiment with cooking new dishes that would normally cost me $20 just for the raw ingredients back home (I'm referring mainly to kelp, bonito flakes, and sake). 
+The supermarkets in Fukuoka will be sorely missed when we leave– the asian grocery store in Markham do not compare. Very affordable Japanese ingredients make it very easy to experiment with cooking new dishes that would normally cost me $20 just for the raw ingredients back home (I'm referring mainly to kelp, bonito flakes, and sake).
 
 In my opinion, supermarket sushi here is comparable to lower mid-tier sushi restaurants back home in Toronto. The kicker though is that the value is amazing. On top of that, if you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
 
@@ -59,12 +59,24 @@ _Alternative title: Mundane things that I find interesting!_
 
 ### The bus system
 
-The way the bus works here is quite interesting. The pricing is variable which means the further you ride, the more expensive your fare will be. 
+The way the bus works here is quite interesting. The pricing is variable which means the further you ride, the more expensive your fare will be.
 
 You enter through the back door only where you tap your IC card. When you tap, you'll notice a number. That's the number that indicates your ride segment. At the front of the bus is a screen with a grid. Whatever the number is under your ride segment number is the price you'll pay. As the bus drives further, the numbers will go up accordingly!
 
-![](/uploads/MVIMG_20190212_174711.jpg)
+![](/uploads/MVIMG_20190212_174716.jpg)
 
 ### Raised rubber tiles
 
-All main streets in Fukuoka have these yellow raised rubber tiles. They are for the visually impaired! When you get to an intersection, the rubber tiles fan out and are yellow circles instead. 
+All main streets in Fukuoka have these yellow raised rubber tiles. They are for the visually impaired! When you get to an intersection, the rubber tiles fan out and are yellow circles instead.
+
+![](/uploads/MVIMG_20190224_121058.jpg)
+
+### High school reputations
+
+Apparently this is a thing in Taiwan as well because when we first stumbled upon this, our Taiwanese friend was surprised that we had never seen something like this before.
+
+This, being a full-blown board of statistics of the graduating class of the high school it's placed in front of.
+
+![](/uploads/MVIMG_20190224_124203.jpg)On the left (blue) side is a list of all the universities and colleges and the number of recent graduates were admitted to. The middle (red) column is a list of all the companies that graduates who chose not to go to university will be working at. It's also denoted whether this company is a corporation, public service (i.e. police force), or a small company/start-up. On the right side lists various "certifications" and how many of the graduating students were able to get them. Apparently Microsoft Office must be a highly regarded skill in Japan.
+
+It seems what high school you went to in Japan as well as how many years it took you to complete it bears a lot of weight for the rest of your life. A friend that we met in Japanese told us that even if you are 50 years old and applying for a job, you must put down the city you came from, your birthday, the high school you went to, and what year you graduated. From that, employers can calculate if you were able to complete high school in the standard 4 years or if you had to take an extra year to complete it. From this, they seem to be able to judge your character and employability. In Japan, your successes and failures seem to follow you throughout your entire career.
