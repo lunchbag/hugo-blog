@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = "2019-02-24T10:00:00-05:00"
 draft = true
 slug = "fukuoka-first-month"
 tags = []
