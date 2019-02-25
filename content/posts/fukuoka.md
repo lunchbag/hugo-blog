@@ -21,7 +21,7 @@ That being said, our first month in Fukuoka has definitely been an adventure. We
 
 The supermarkets in Fukuoka will be sorely missed when we leave– the asian grocery store in Markham do not compare. Very affordable Japanese ingredients remove barriers to experimenting with new dishes that would normally cost $20 just for the raw ingredients back home (I'm referring mainly to kelp, bonito flakes, and sake).
 
-In my opinion, the quality of supermarket sushi here is comparable to lower mid-tier sushi restaurants back home in Toronto, though the value simply cannot be ebat. On top of that, if you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
+In my opinion, the quality of supermarket sushi here is comparable to lower mid-tier sushi restaurants back home in Toronto, though the value simply cannot be beat. On top of that, if you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
 
 ![](/uploads/MVIMG_20190124_202222.jpg)
 <span class="caption">Delicious double-discounted supermarket sushi! Total came out to be US$8.43 for both!</span>
