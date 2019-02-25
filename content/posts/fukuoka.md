@@ -85,7 +85,7 @@ All main streets in Japan have these yellow raised rubber tiles for the visually
 
 ### High school reputations
 
-Apparently this is a thing in Taiwan as well because when we first stumbled upon this, our Taiwanese friend was surprised that we had never seen something like this before.
+Apparently this is a thing in Taiwan as well because when we first stumbled upon it, our Taiwanese friend was surprised that we had never seen something like this before.
 
 "This" being a full-blown poster board of statistics for a particular high school's graduating class.
 
