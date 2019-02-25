@@ -13,11 +13,9 @@ It’s been over a month since our last correspondence. Justin and I have been d
 
 Our time has been split between working on our personal programming projects, continuing our contracting work, keeping up our fitness regimen, learning Japanese, and anything food-related such as cooking at home and seeking out restaurants. These are precisely the goals we set out for ourselves before we left home.
 
-We have not seen a lot of the tourist spots, local attractions and have only managed to take 2 day trips out of the city so far (Itoshima x2 and Yanagawa). Although we do take the effort to take days off from our routine to explore, our goal in Fukuoka is not to vacation, but to see how well we can integrate! We wanted to see if we are able to be just as, if not more, productive in a foreign environment while preserving our values (staying financial lean and physically healthy) and personal goals (fitness, cooking, etc), thereby proving that this lifestyle could be sustainable to repeat in the future– our ultimate goal.
+We have not seen a lot of the tourist spots, local attractions and have only managed to take 3 day trips out of the city so far (Itoshima x2 and Yanagawa). Although we do take the effort to take days off from our routine to explore, our goal in Fukuoka is not to vacation, but to see how well we can integrate! We wanted to see if we are able to be just as, if not more, productive in a foreign environment while preserving our values (staying financial lean and physically healthy) and personal goals (fitness, cooking, programming, etc), thereby proving that this lifestyle could be sustainable to repeat in the future– our ultimate goal.
 
-That being said, our first month in Fukuoka has definitely been an adventure. We ate new and amazing food, learned a lot of surprising new things, struggled a ton, and had small language barrier wins.
-
-Below is a small sample of a few anecdotes we find interesting! (Side note: not much specific foods and language stuff mentioned here; I'm saving most of that for another blog post!)
+That being said, our first month in Fukuoka has definitely been an adventure. Below is a small sample of a few anecdotes we find interesting! (Side note: not much specific foods and language stuff mentioned here; I'm saving most of that for another blog post!)
 
 # What's awesome
 
@@ -25,12 +23,12 @@ Below is a small sample of a few anecdotes we find interesting! (Side note: not 
 
 The supermarkets in Fukuoka will be sorely missed when we leave– the asian grocery store in Markham do not compare. Very affordable Japanese ingredients remove barriers to experimenting with new dishes that would normally cost $20 just for the raw ingredients back home (I'm referring mainly to kelp, bonito flakes, and sake).
 
-In my opinion, the quality of supermarket sushi here is comparable to mid-tier sushi restaurants back home in Toronto, though the value simply cannot be beat. On top of that, if you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
+In my opinion, the quality of supermarket sushi here is comparable to mid-tier sushi restaurants back home in Toronto, though the value simply cannot be beat. If you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
 
 ![](/uploads/MVIMG_20190124_202222.jpg)
 <span class="caption">Delicious double-discounted supermarket sushi! Total came out to be US$8.43 for both!</span>
 
-Furthermore, the selection of yuzu products is unbelievable. For the uninitiated, yuzu is a  flavourful citrus fruit popular in Japan and Korea. Its peel and zest can enhance any dish, soup, cocktail, dessert– you name it. Since arriving in Japan, we've discovered so many more applications of this fruit, most notably in sauces and condiments! Yuzu kosho (柚子胡椒) is a paste made from chili peppers and yuzu peels and is wonderfully addicting to add to any meats. Yuzu ponzu (similar to a light vinaigrette) and yuzu ichimi (Japanese chili pepper seasoning) also sit on a shelf in our pantry. Not to mention, our favorite つけ麺 (tsukemen, dipping ramen noodle) uses yuzu in their soup! We'll definitely be bringing back yuzu products in our suitcases.
+Furthermore, the selection of yuzu products is unbelievable. For the uninitiated, yuzu is a  flavourful citrus fruit popular in Japan and Korea. Its peel and zest can enhance any dish, soup, cocktail, dessert– you name it. Since arriving in Japan, we've discovered so many more applications of this fruit, most notably in sauces and condiments! Yuzu kosho (柚子胡椒) is a paste made from chili peppers and yuzu peels and is wonderfully addicting to add to any meats. Yuzu ponzu (similar to a light vinaigrette) and yuzu ichimi (Japanese chili pepper seasoning) also sit on a shelf in our pantry. Not to mention, our favorite つけ麺 (tsukemen, dipping ramen noodle) restaurant uses yuzu in their soup! We'll definitely be bringing back yuzu products in our suitcases.
 
 ![](/uploads/MVIMG_20190120_130509.jpg)
 <span class="caption">Our favourite つけ麺, a spicy broth with fatty pork and yuzu peels floating around</span>
