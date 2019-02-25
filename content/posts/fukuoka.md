@@ -81,7 +81,7 @@ You enter through the back door where you tap your IC card. When you tap, you'll
 
 ## Raised rubber tiles
 
-All main streets in Japan have these yellow raised rubber tiles. They are for the visually impaired! When you get to an intersection, the rubber tiles fan out and are yellow circles instead. It's kind of like a braille for your feet!
+All main streets in Japan have these yellow raised rubber tiles for the visually impaired. When you get to an intersection, the rubber tiles fan out and are yellow circles instead. It's kind of like braille for your feet.
 
 ![](/uploads/MVIMG_20190224_121058.jpg)
 <span class="caption">Tactile rubber tiles at an intersection</span>
