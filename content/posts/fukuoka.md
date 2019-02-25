@@ -17,7 +17,7 @@ We have not seen a lot of the tourist spots, local attractions and have only man
 
 That being said, our first month in Fukuoka has definitely been an adventure. We ate new and amazing food, learned a lot of surprising new things, struggled a ton, and had small language barrier wins.
 
-Below is a small sample of a few anecdotes we find interesting! (Side note: not much specific foods are mentioned here; I'm saving most of the specific food-related stuff for another blog post!)
+Below is a small sample of a few anecdotes we find interesting! (Side note: not much specific foods and language stuff mentioned here; I'm saving most of that for another blog post!)
 
 # What's awesome
 
@@ -93,7 +93,7 @@ Apparently this is a thing in Taiwan as well because when we first stumbled upon
 "This" being a full-blown poster board of statistics for a particular high school's graduating class.
 
 ![](/uploads/MVIMG_20190224_124203.jpg)
-<span class="caption">One of two giant boards posted in front of a high school in Yamagawa</span>
+<span class="caption">One of two giant boards posted in front of a high school in Yanagawa</span>
 
 On the left (blue) side is a list of all the universities and colleges and the number of recent graduates who were admitted. The middle (red) column is a list of all the companies that graduates who will not be going to university will be working at. It also denotes whether the company is a corporation, public service (i.e. police force), or a small company/start-up. On the right side lists various "certifications" and how many of the graduating students were able to get them. Apparently Microsoft Office is a highly regarded skill in Japan.
 
