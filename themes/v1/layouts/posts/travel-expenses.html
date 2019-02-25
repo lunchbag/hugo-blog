@@ -1,13 +1,12 @@
 {{ define "page_css" }}
-  <meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
-  <link href="https://fonts.googleapis.com/css?family=Merriweather|Source+Sans+Pro:700|Karla:400,700|Roboto+Slab" rel="stylesheet">
-  <link href="style.css" rel="stylesheet">
+<meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
+<link href="style.css" rel="stylesheet">
 {{ end }}
 {{ define "page_js" }}
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script>
-  <script src="/js/d3.v4.min.js"></script>
-  <script src="money.js" defer></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script>
+<script src="/js/d3.v4.min.js"></script>
+<script src="money.js" defer></script>
 {{ end }}
 {{ define "main" }}
-  {{ .Content }}
+{{ .Content }}
 {{ end }}

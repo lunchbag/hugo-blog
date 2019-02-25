@@ -1,8 +1,8 @@
 {{ define "page_css" }}
-  <meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
-  <link href="https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Playfair+Display" rel="stylesheet">
-  <link href="style.css" rel="stylesheet">
+<meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
+<link href="https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Playfair+Display" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 {{ end }}
 {{ define "main" }}
-  {{ .Content }}
+{{ .Content }}
 {{ end }}

@@ -1,29 +1,32 @@
 {{ define "page_css" }}
-  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.js"></script>
-  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.css" rel="stylesheet">
-  <link href="style.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Raleway:800|Archivo+Black|Yantramanav:100,300" rel="stylesheet">
-  <meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.mapbox.com https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://s3.amazonaws.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://api.tiles.mapbox.com https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.js"></script>
+<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway:800|Archivo+Black|Yantramanav:100,300" rel="stylesheet">
+<meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.mapbox.com https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://s3.amazonaws.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://api.tiles.mapbox.com https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
 {{ end }}
 {{ define "page_js" }}
-  <script src="countries.js"></script>
-  <script src="secret.js"></script>
-  <script src="index.js"></script>
-  <script>/**
-  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-  var disqus_config = function () {
-  this.page.url = window.location.origin + window.location.pathname;
-  this.page.identifier = window.location.pathname.slice(1);
-  this.page.title = "Canadian's Guide to Working Holiday Visas";
+<script src="countries.js"></script>
+<script src="secret.js"></script>
+<script src="index.js"></script>
+<script>
+  /**
+   *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+   *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  var disqus_config = function() {
+    this.page.url = window.location.origin + window.location.pathname;
+    this.page.identifier = window.location.pathname.slice(1);
+    this.page.title = "Canadian's Guide to Working Holiday Visas";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = '//lunchbag.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  })();</script><noscript>Please enable JavaScript to view the<a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    var d = document,
+      s = d.createElement('script');
+    s.src = '//lunchbag.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script><noscript>Please enable JavaScript to view the<a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {{ end }}
 {{ define "main" }}
-  {{ .Content }}
+{{ .Content }}
 {{ end }}

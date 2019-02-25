@@ -1,15 +1,46 @@
 {{ define "main" }}
-	<main id="g-post">
-		<div class="post">
-			<h1 class="title">{{ .Title }}</h1>
-			<div class="post-info">
-				<span>
-					{{- if .PublishDate }}
-						Written on <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
-					{{- end }}
-				</span>
-			</div>
-			{{ .Content }}
+<!-- {{ partial "post-header.html" . }} -->
+
+<main id="g-post">
+	<div class="post">
+		<h1 class="title">{{ .Title }}</h1>
+		<div class="post-info">
+			<span>
+				{{- if .PublishDate }}
+				Written on <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+				{{- end }}
+			</span>
 		</div>
-	</main>
+		{{ .Content }}
+	</div>
+
+	<div class="post-post">
+		<div class="thank-you"><span>Thank you for your readership!</span></div>
+		<div class="feedback"><button>I like this post.</button></div>
+		<!-- <form class="feedback-form">
+			<label for="feedback">Leave a private, anonymous (optional) comment below.
+				<input class="feedback" type="text" name="feedback"></input>
+			</label>
+		</form> -->
+		<div class="next-prev-post">
+			<div class="post-post-container">
+				{{if .PrevInSection}}
+				<a href="{{.PrevInSection.Permalink}}">
+					<h1>Prev Post</h1>
+					<p>{{.PrevInSection.Title}}</p>
+				</a>
+				{{end}}
+			</div>
+			<div class="post-post-container">
+				{{if .NextInSection}}
+				<a href="{{.NextInSection.Permalink}}">
+					<h1>Next Post</h1>
+					<p>{{.NextInSection.Title}}</p>
+				</a>
+				{{end}}
+			</div>
+		</div>
+	</div>
+
+</main>
 {{ end }}

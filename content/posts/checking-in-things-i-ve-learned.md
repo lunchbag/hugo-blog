@@ -6,6 +6,7 @@ tags = []
 title = "Checking in: things I've learned"
 
 +++
+
 It's been 8 months since I left San Francisco and 6.5 months since I've been traveling abroad. In the short period of time, I've gone through many ups (making new friends, discovering lots about myself) and many downs (medical emergencies, heartbreak).
 
 6.5 months never seemed like a long time when I was working in San Francisco especially in the context of growth. Life at work is slow and steady and a sign from upper management that you're progressing along the path they've arbitrarily laid out, also known as a promotion, occurs once a year, if at all.
@@ -22,9 +23,9 @@ My mistake was in thinking ambition starts and ends with one's career.
 
 I understand that a high earning potential is important, but it is certainly not a pre-requisite to being happy. I now believe it is a better mindset to continuously seek sustainable happiness, rather than to be successful in a career and/or make lots of money.
 
-In my previous high-paying job, was I happy? Sure, I felt *important* being paid for tasks I knew how to do ranging from the mundane and tedious to the weekend-long and soul-sucking. Leaving my office at 1AM, or working overtime, being burnt out, and then spending a bunch of money on fancy new gadgets to justify my suffering was not sustainable. But in some ways, this behaviour is glorified by millenials as a necessary evil to achieving the American Dream.
+In my previous high-paying job, was I happy? Sure, I felt _important_ being paid for tasks I knew how to do ranging from the mundane and tedious to the weekend-long and soul-sucking. Leaving my office at 1AM, or working overtime, being burnt out, and then spending a bunch of money on fancy new gadgets to justify my suffering was not sustainable. But in some ways, this behaviour is glorified by millenials as a necessary evil to achieving the American Dream.
 
-It's important to be able to step away from that and really think about whether or not the culture is working for you. To quote Mitch Albom's *Tuesdays with Morrie*:
+It's important to be able to step away from that and really think about whether or not the culture is working for you. To quote Mitch Albom's _Tuesdays with Morrie_:
 
 > The culture we have does not make people feel good about themselves. And you have to be strong enough to say if the culture doesn't work, don't buy it. Create your own.
 
@@ -34,11 +35,12 @@ When you travel and spend a lot of time in different cities with different cultu
 
 This applies to a lot of things of varying degrees, for example:
 
-1. everyday carry– If you're a man, come to Europe and you might not feel so self-conscious about carrying a tote bag or wearing a scarf in mild weather back in America.
-* fashion– Needless to say, people dress differently everywhere you go. Get inspired by trends wherever you go!
-* food and meal habits– Eat with your hands, use the tabletop as your plate, have a strong drink before or after your meal as you please.
-* taking selfies (and photos of food), which is somewhat stigmatized in America (among 25+), but highly common in Asia
-* smoking cigarettes are much more common and not as frowned upon in Europe than Canada or the United States
+1.  everyday carry– If you're a man, come to Europe and you might not feel so self-conscious about carrying a tote bag or wearing a scarf in mild weather back in America.
+
+- fashion– Needless to say, people dress differently everywhere you go. Get inspired by trends wherever you go!
+- food and meal habits– Eat with your hands, use the tabletop as your plate, have a strong drink before or after your meal as you please.
+- taking selfies (and photos of food), which is somewhat stigmatized in America (among 25+), but highly common in Asia
+- smoking cigarettes are much more common and not as frowned upon in Europe than Canada or the United States
 
 In the end, you are more comfortable with being different wherever you go. You become a walking scrapbook of the favourite parts of your travels.
 
@@ -56,10 +58,11 @@ Trusting yourself is so important, and it's so overlooked. It's easy to think or
 
 For me, I trust that:
 
-1. I have good judgement
-* I will always make sure I feel safe
-* I have the means to figure out an escape plan if needed
-* I have all things considered and I will prioritize certain things if needed
+1.  I have good judgement
+
+- I will always make sure I feel safe
+- I have the means to figure out an escape plan if needed
+- I have all things considered and I will prioritize certain things if needed
 
 I trust myself therefore I can be flexible with my plans and that has lead to some of the best experiences so far on this trip.
 
@@ -77,15 +80,15 @@ Interestingly, familiarity has now become a warning sign to me. When things star
 
 ## On meeting new people
 
-This world is full of amazing people and the only way to meet these people is to get out there. People from completely different backgrounds and upbringings whose life trajectories should have never crossed with yours, yet somehow, you find yourself spending 3 nights together on a tiny island of 2000 inhabitants on a small lake in Northern Italy sharing stories and making new memories. *True story.*
+This world is full of amazing people and the only way to meet these people is to get out there. People from completely different backgrounds and upbringings whose life trajectories should have never crossed with yours, yet somehow, you find yourself spending 3 nights together on a tiny island of 2000 inhabitants on a small lake in Northern Italy sharing stories and making new memories. _True story._
 
 I've met some truly amazing people, lifelong friends I am hoping, and I continuously look forward to the next time we meet:
 
-1. An amazing girl from Atlanta, Georgia who was spending the summer in Lyon at the veterinary school training to become a horse surgeon.
-2. A friendly couple who has lived all around the world, and are currently based in Paris. They accidentally stumbled upon our little restaurant and ended up eating 2 meals with us and staying late each night for drinks. They have an adopted daughter who is Chinese-Canadian and who currently lives in San Francisco and is my age. Crazy!
-3. The ambitious owners of the campsite and restaurant who, in 10 years, plan on buying a yacht and sailing around the world. I'm hoping they'll pick me up in Canada somewhere.
-4. An opportunistic guy from Santa Cruz, California who is doing his masters in Mathematics at one of the top universities in Munich for a low cost of 200 euros because he figured out that he wants to be a community college math teacher. For that, you only need a masters in the subject and you don't need to go to teacher's college. He also figured out that certain grad school programs in Germany are offered to foreigners at the same low rate as they are to citizens. Although he doesn't particularly enjoy the fact that he's in school, he's loving being in Munich and having 2 years abroad.
-5. A very sweet girl from Northern Italy who is completing her medical residency in Paris. We met in Thailand on the farm, and kept in touch this whole time and she is helping me out a lot by letting me keep my extra luggage at her apartment during the summer!
+1.  An amazing girl from Atlanta, Georgia who was spending the summer in Lyon at the veterinary school training to become a horse surgeon.
+2.  A friendly couple who has lived all around the world, and are currently based in Paris. They accidentally stumbled upon our little restaurant and ended up eating 2 meals with us and staying late each night for drinks. They have an adopted daughter who is Chinese-Canadian and who currently lives in San Francisco and is my age. Crazy!
+3.  The ambitious owners of the campsite and restaurant who, in 10 years, plan on buying a yacht and sailing around the world. I'm hoping they'll pick me up in Canada somewhere.
+4.  An opportunistic guy from Santa Cruz, California who is doing his masters in Mathematics at one of the top universities in Munich for a low cost of 200 euros because he figured out that he wants to be a community college math teacher. For that, you only need a masters in the subject and you don't need to go to teacher's college. He also figured out that certain grad school programs in Germany are offered to foreigners at the same low rate as they are to citizens. Although he doesn't particularly enjoy the fact that he's in school, he's loving being in Munich and having 2 years abroad.
+5.  A very sweet girl from Northern Italy who is completing her medical residency in Paris. We met in Thailand on the farm, and kept in touch this whole time and she is helping me out a lot by letting me keep my extra luggage at her apartment during the summer!
 
 and so much more!
 
@@ -94,8 +97,9 @@ and so much more!
 There is a quote from a book that I read which really resonates with me and I return to it from time to time to remind myself. It is from a book called 'Spaceman of Bohemia', and it lists 2 coping mechanisms for life.
 
 The first one:
+
 > Every decision is a reaction against the fear of the worst: making children to avoid being forgotten, fuck someone at the reunion in case the opportunity never comes again, and the Holy Grail of paradoxes: marry to combat the loneliness, then plunge into that constant marital desire to be alone. This is the life that cannot be won, but it does offer the comforts of battle– the human heart is content when distracted by war.
 
 And, the second one:
 
->An across-the-board acceptance of the absurd all around us. Everything that exists, from consciousness and the digestive workings of the human body, to sound waves and bladeless fans, is magnificently unlikely. It seems so much likelier that things would not exist at all and yet the world shows up to class every morning as the cosmos take attendance. Why combat the unlikeliness? This is the way to survive in this world– to wake up in the morning and receive a cancer diagnosis, discover that a man has murdered 40 children, discover that the milk has gone bad, and exclaim, "How unlikely! Yet here we are," and have a laugh and a swim in the chaos, swim without fear, swim without expectation, but always with an appreciation of every whim, the beauty of screwball twists and jerks that pump blood through our emaciated veins.
+> An across-the-board acceptance of the absurd all around us. Everything that exists, from consciousness and the digestive workings of the human body, to sound waves and bladeless fans, is magnificently unlikely. It seems so much likelier that things would not exist at all and yet the world shows up to class every morning as the cosmos take attendance. Why combat the unlikeliness? This is the way to survive in this world– to wake up in the morning and receive a cancer diagnosis, discover that a man has murdered 40 children, discover that the milk has gone bad, and exclaim, "How unlikely! Yet here we are," and have a laugh and a swim in the chaos, swim without fear, swim without expectation, but always with an appreciation of every whim, the beauty of screwball twists and jerks that pump blood through our emaciated veins.
