@@ -2,9 +2,9 @@
 categories = []
 date = ""
 draft = true
-slug = ""
+slug = "fukuoka-first-month"
 tags = []
-title = "Fukuoka"
+title = "Life in Fukuoka: the first month"
 
 +++
 Hello world!
