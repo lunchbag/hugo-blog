@@ -16,9 +16,9 @@ We have not seen a lot of the tourist spots, local attractions and have only man
 
 That being said, our first month in Fukuoka has definitely been an adventure. Below is a small sample of a few anecdotes we find interesting! (Side note: not much specific foods and language stuff mentioned here; I'm saving most of that for another blog post!)
 
-## What's awesome
+# What's awesome
 
-### Supermarkets
+## Supermarkets
 
 The supermarkets in Fukuoka will be sorely missed when we leave– the asian grocery store in Markham do not compare. Very affordable Japanese ingredients remove barriers to experimenting with new dishes that would normally cost $20 just for the raw ingredients back home (I'm referring mainly to kelp, bonito flakes, and sake).
 
@@ -37,9 +37,9 @@ The other notable difference about the supermarkets here, or at least the Sunny�
 ![](/uploads/MVIMG_20190214_113749.jpg)
 <span class="caption">Preparing to pack up our own groceries!</span>
 
-## What's not so great
+# What's not so great
 
-### Working remotely
+## Working remotely
 
 This is without a doubt the biggest disappointment we have encountered in Fukuoka (and maybe Japan in general?). Justin and I both work remotely, so we need a reliable internet connection and our laptops to get things done. In all the cities we have spent considerable time in (San Francisco, Taipei, Toronto), coffee shop culture is very welcoming to laptop workers. However, in Japan, coffee shop culture is very different. From what we can tell, using your laptop is frowned upon yet staying at a coffee shop for hours on your phone is okay! (Side note: the Starbucks here seems to allow laptop workers but we try to avoid these.)
 
@@ -55,19 +55,19 @@ The second alternative is a store called Tsutaya. Now, there are two kinds of Ts
 
 We'll have to figure out next motnh what to do in terms of where we'll be working. We're considering signing up for a co-working space if it's not too expensive, or simply working out of the Starbucks here.
 
-### Smokers
+## Smokers
 
 In Japan, it is still legal to smoke indoors at restaurants. It's terrible. There's no worse feeling than getting excited about the food you just struggled to order, and then having the patron next to you start smoking a cigarette.
 
-### Coffee selection
+## Coffee selection
 
 While (mostly) everything in Japan is cheaper than in the Western world, one thing that is not is the coffee here. A latte usually will run you at least ¥500 which is about US$4.50 and it usually comes in a much smaller size than what you can get at home for that price (unless you live in SF). On top of that, decaffeinated coffee is extremely rare in Japan as are non-dairy milk options.
 
-## What's different
+# What's different
 
 _Alternative title: Mundane things that I find interesting!_
 
-### The bus system
+## The bus system
 
 The way the bus works here is quite interesting. The pricing is variable which means the further you ride, the more expensive your fare will be.
 
@@ -76,14 +76,14 @@ You enter through the back door where you tap your IC card. When you tap, you'll
 ![](/uploads/MVIMG_20190212_174716.jpg)
 <span class="caption">Shaky image of the fare screen at the front of the bus</span>
 
-### Raised rubber tiles
+## Raised rubber tiles
 
 All main streets in Japan have these yellow raised rubber tiles for the visually impaired. When you get to an intersection, the rubber tiles fan out and are yellow circles instead. It's kind of like braille for your feet.
 
 ![](/uploads/MVIMG_20190224_121058.jpg)
 <span class="caption">Tactile rubber tiles at an intersection</span>
 
-### High school reputations
+## High school reputations
 
 Apparently this is a thing in Taiwan as well because when we first stumbled upon this, our Taiwanese friend was surprised that we had never seen something like this before.
 
