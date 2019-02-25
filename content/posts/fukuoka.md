@@ -93,7 +93,7 @@ Apparently this is a thing in Taiwan as well because when we first stumbled upon
 "This" being a full-blown poster board of statistics for a particular high school's graduating class.
 
 ![](/uploads/MVIMG_20190224_124203.jpg)
-<span class="caption">One of two of these giant boards posted in front of a high school in Yamagawa</span>
+<span class="caption">One of two giant boards posted in front of a high school in Yamagawa</span>
 
 On the left (blue) side is a list of all the universities and colleges and the number of recent graduates who were admitted. The middle (red) column is a list of all the companies that graduates who chose not to go to university will be working at. It also denotes whether this company is a corporation, public service (i.e. police force), or a small company/start-up. On the right side lists various "certifications" and how many of the graduating students were able to get them. Apparently Microsoft Office is a highly regarded skill in Japan.
 
