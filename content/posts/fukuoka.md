@@ -45,8 +45,7 @@ This is without a doubt the biggest disappointment we have encountered in Fukuok
 
 Thankfully, we have discovered a whopping two places in the city of Fukuoka that are open to laptop workers. The first is called Startup Cafe and it has been a godsend– we probably go about 5 times a week. It is essentially a free co-working space open from 10AM to 10PM with very fast internet. The atmosphere is like a library and we believe it’s funded by the local government in an attempt to stir up entrepreneurial interests among locals. They provide free tax, immigration, and law consulting services and put on lots of local events. The downside is that they will be renovating starting March 1st and there will be no free co-working space offered anymore!
 
-![](/uploads/startupcafe.jpg)
-<span class="caption">One view of the Fukuoka Start-up Cafe</span>
+![](/uploads/startupcafe.jpg) <span class="caption">One view of the Fukuoka Start-up Cafe, basically our second home</span>
 
 The second alternative is a store called Tsutaya. Now, there are two kinds of Tsutayas, so you have to be careful. One of them is a time portal back to the 90’s and the other one is set in the future. The one from the past is a multi-story CD and DVD rental store that puts the Blockbuster catalog to shame. The other one is a re-imagined bookstore concept that allows you to read books and shop for related items in the store. They have a large Starbucks with free wi-fi and outlets where you can stay for literally hours on your laptop. The downside is that it's extremely popular and getting any seat at all is difficult.
 
