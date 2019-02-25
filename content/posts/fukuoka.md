@@ -24,15 +24,17 @@ The supermarkets in Fukuoka will be sorely missed when we leave– the asian gro
 In my opinion, the quality of supermarket sushi here is comparable to lower mid-tier sushi restaurants back home in Toronto, though the value simply cannot be ebat. On top of that, if you go after 7:30pm, most of the sushi and sashimi will be discounted and if you get lucky, you get a coveted second discount sticker!
 
 ![](/uploads/MVIMG_20190124_202222.jpg)
-<span class="caption">Delicious double-discounted supermarket sushi! Both 
+<span class="caption">Delicious double-discounted supermarket sushi! Total came out to be US$8.43 for both!</span>
 
-Furthermore, the selection of yuzu products is unbelievable. For the uninitiated, yuzu is a very flavourful citrus fruit popular in Japan and Korea. Its peel and zest can enhance any dish, soup, cocktail, cake– you name it. Since arriving in Japan, we've discovered so many more applications of this fruit, most notably in sauces and condiments! Yuzu kosho (柚子胡椒) is a paste made from chili pepers and yuzu peels and is wonderfully addicting to add to any meats. Yuzu ponzu and yuzu ichimi (Japanese chili pepper seasoning) are also among our pantry. Not to mention, our favorite つけ麺 (tsukemen, dipping ramen noodle) uses yuzu in their soup! We'll definitely be bringing back yuzu products in our suitcases.
+Furthermore, the selection of yuzu products is unbelievable. For the uninitiated, yuzu is a very flavourful citrus fruit popular in Japan and Korea. Its peel and zest can enhance any dish, soup, cocktail, cake– you name it. Since arriving in Japan, we've discovered so many more applications of this fruit, most notably in sauces and condiments! Yuzu kosho (柚子胡椒) is a paste made from chili peppers and yuzu peels and is wonderfully addicting to add to any meats. Yuzu ponzu and yuzu ichimi (Japanese chili pepper seasoning) also sit on a shelf in our pantry. Not to mention, our favorite つけ麺 (tsukemen, dipping ramen noodle) uses yuzu in their soup! We'll definitely be bringing back yuzu products in our suitcases.
 
 ![](/uploads/MVIMG_20190120_130509.jpg)
+<span class="caption">Our favourite つけ麺, a spicy broth with fatty pork and yuzu peels floating around</span>
 
 The other notable difference about the supermarkets here, or at least the Sunny’s (which are owned by Walmart) is that there is a special station past the checkout counter where you can take your time to pack your own groceries. It works like this: you bring your basket to the cashier. The cashier grabs another basket and places it on the other side of the food scanner. They then scan everything from your basket and then places it neatly into the other basket. Finally, you pay, and you take your re-packed basket to the packing counter where they provide you with thin clear plastic bags in case you have meat that you want to double-pack. I really like this system a lot because everything moves faster and it takes away that pressure of packing your groceries quickly.
 
 ![](/uploads/MVIMG_20190214_113749.jpg)
+<span class="caption">Preparing to pack up our own groceries!</span>
 
 ## What's not so great
 
@@ -45,6 +47,7 @@ Thankfully, we have discovered a whopping two places in the city of Fukuoka that
 The second alternative is a store called Tsutaya. Now, there are two kinds of Tsutayas, so you have to be careful. One of them is a time portal back to the 90’s and the other one is set in the future. The one from the past is a multi-story CD and DVD rental store that makes Blockbuster look like a pop up shop. The other one is a re-imagined bookstore concept that allows you to read books and shop for related items in the store. They have a large Starbucks with free wi-fi and outlets where you can stay for literally hours on your laptop.
 
 ![](/uploads/MVIMG_20190130_152812.jpg)
+<span class="caption">One section of DVD out of literally dozens. These English series are all available to rent.</span>
 
 ### Smokers
 
@@ -65,12 +68,14 @@ The way the bus works here is quite interesting. The pricing is variable which m
 You enter through the back door only where you tap your IC card. When you tap, you'll notice a number. That's the number that indicates your ride segment. At the front of the bus is a screen with a grid. Whatever the number is under your ride segment number is the price you'll pay. As the bus drives further, the numbers will go up accordingly!
 
 ![](/uploads/MVIMG_20190212_174716.jpg)
+<span class="caption">Shaky image of the fare screen at the front of the bus</span>
 
 ### Raised rubber tiles
 
 All main streets in Fukuoka have these yellow raised rubber tiles. They are for the visually impaired! When you get to an intersection, the rubber tiles fan out and are yellow circles instead.
 
 ![](/uploads/MVIMG_20190224_121058.jpg)
+<span class="caption">Tactile rubber tiles at an intersection</span>
 
 ### High school reputations
 
@@ -78,6 +83,9 @@ Apparently this is a thing in Taiwan as well because when we first stumbled upon
 
 This, being a full-blown board of statistics of the graduating class of the high school it's placed in front of.
 
-![](/uploads/MVIMG_20190224_124203.jpg)On the left (blue) side is a list of all the universities and colleges and the number of recent graduates were admitted to. The middle (red) column is a list of all the companies that graduates who chose not to go to university will be working at. It's also denoted whether this company is a corporation, public service (i.e. police force), or a small company/start-up. On the right side lists various "certifications" and how many of the graduating students were able to get them. Apparently Microsoft Office must be a highly regarded skill in Japan.
+![](/uploads/MVIMG_20190224_124203.jpg)
+<span class="caption">One of two of these giant boards posted in front of a high school in Yamagawa</span>
+
+On the left (blue) side is a list of all the universities and colleges and the number of recent graduates were admitted to. The middle (red) column is a list of all the companies that graduates who chose not to go to university will be working at. It's also denoted whether this company is a corporation, public service (i.e. police force), or a small company/start-up. On the right side lists various "certifications" and how many of the graduating students were able to get them. Apparently Microsoft Office must be a highly regarded skill in Japan.
 
 It seems what high school you went to in Japan as well as how many years it took you to complete it bears a lot of weight for the rest of your life. A friend that we met in Japanese told us that even if you are 50 years old and applying for a job, you must put down the city you came from, your birthday, the high school you went to, and what year you graduated. From that, employers can calculate if you were able to complete high school in the standard 4 years or if you had to take an extra year to complete it. From this, they seem to be able to judge your character and employability. In Japan, your successes and failures seem to follow you throughout your entire career.
