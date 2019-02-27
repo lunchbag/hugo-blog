@@ -21,12 +21,14 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/fukuoka.md
+- content/posts/greetings-from-fukuoka.md
+- content/posts/2018-year-in-review.md
+- content/posts/one-week-in-munich.md
 - content/posts/lunchbag-in-france-living-in-the-mountains.md
 - content/posts/how-to-move-out-of-the-country-pt-1.md
 - content/posts/how-to-move-out-of-the-country-pt-2.md
 - content/posts/pre-departure-thoughts.md
-- content/posts/lunchbag-in-france-a-dinner-service-in-a-french-restaurant.md
-- content/posts/one-week-in-munich.md
 - content/posts/checking-in-things-i-ve-learned.md
 - content/posts/why-i-quit-my-job-to-go-on-a-sabbatical.md
 - content/posts/lunchbag-in-estonia-a-truly-underrated-gem.md
