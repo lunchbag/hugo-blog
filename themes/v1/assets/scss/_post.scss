@@ -80,7 +80,7 @@
       text-transform: uppercase;
       background-color: #e0e0e0;
       color: #fff;
-      padding: 2px 5px;
+      padding: 2px 10px;
       box-shadow: 1px 1px 0px 0px #ccc;
     }
   }
@@ -287,7 +287,7 @@
         text-transform: uppercase;
         background-color: #e0e0e0;
         color: #fff;
-        padding: 2px 5px;
+        padding: 2px 10px;
         box-shadow: 1px 1px 0px 0px #ccc;
       }
     }
@@ -329,6 +329,19 @@
           h1,
           p {
             text-align: right;
+          }
+        }
+
+        a {
+          position: relative;
+          top: 0;
+          transition: all 0.1s ease-in;
+
+          &:hover {
+            top: -3px;
+            cursor: pointer;
+            h1 {
+            }
           }
         }
       }

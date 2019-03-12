@@ -35,7 +35,7 @@ body {
     font-family: "Merriweather";
     line-height: 1.8rem;
     font-weight: 300; }
-    .index-container .introduction span {
+    .index-container .introduction p {
       font-size: 0.9rem; }
   .index-container .post-list {
     display: flex;
@@ -138,7 +138,7 @@ body {
       text-transform: uppercase;
       background-color: #e0e0e0;
       color: #fff;
-      padding: 2px 5px;
+      padding: 2px 10px;
       box-shadow: 1px 1px 0px 0px #ccc; }
   #g-post p,
   #g-post ul,
@@ -285,7 +285,7 @@ body {
       text-transform: uppercase;
       background-color: #e0e0e0;
       color: #fff;
-      padding: 2px 5px;
+      padding: 2px 10px;
       box-shadow: 1px 1px 0px 0px #ccc; }
   #g-post .post-post .feedback {
     margin: 64px auto 0 auto;
@@ -315,6 +315,13 @@ body {
       #g-post .post-post .next-prev-post .post-post-container:last-child h1,
       #g-post .post-post .next-prev-post .post-post-container:last-child p {
         text-align: right; }
+      #g-post .post-post .next-prev-post .post-post-container a {
+        position: relative;
+        top: 0;
+        transition: all 0.1s ease-in; }
+        #g-post .post-post .next-prev-post .post-post-container a:hover {
+          top: -3px;
+          cursor: pointer; }
     #g-post .post-post .next-prev-post h1 {
       font-size: 1rem;
       font-family: "Source Sans Pro";
