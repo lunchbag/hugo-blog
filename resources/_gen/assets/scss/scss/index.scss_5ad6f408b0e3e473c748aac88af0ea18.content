@@ -35,8 +35,9 @@ body {
     font-family: "Merriweather";
     line-height: 1.8rem;
     font-weight: 300; }
-    .index-container .introduction p {
-      font-size: 0.9rem; }
+    .index-container .introduction p,
+    .index-container .introduction span {
+      font-size: 0.9rem !important; }
   .index-container .post-list {
     display: flex;
     flex-direction: column; }

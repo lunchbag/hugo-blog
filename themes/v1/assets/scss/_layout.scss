@@ -46,8 +46,9 @@ body {
     line-height: 1.8rem;
     font-weight: 300;
 
-    p {
-      font-size: 0.9rem;
+    & p,
+    & span {
+      font-size: 0.9rem !important;
     }
   }
 
