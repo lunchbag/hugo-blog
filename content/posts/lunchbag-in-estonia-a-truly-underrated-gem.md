@@ -6,7 +6,6 @@ tags = []
 title = "lunchbag in Estonia: A truly underrated gem"
 
 +++
-
 > Estonia is that quirky friend full of mystery, stories and potential, and it quickly becomes an absolute delight the moment you start getting to know her. I am fully infatuated ❤️
 
 Estonia was among my best last-minute decisions and at the top of the list of countries to revisit when I get the chance. It is one of the most interesting countries I've been to, and truly there is no other place I can compare it to.
@@ -143,10 +142,10 @@ I took a short hike along this line of seemingly abandoned buildings. When I got
 
 ## Miscellaneous great things
 
-- The food was divine. I tried so many new cuisines: [Turkish](https://foursquare.com/v/antalya-kebab/4d29bb61849f370430678141), [Georgian](https://foursquare.com/v/argo-baar/5352d210498e955480ec04b2), [Estonian](https://foursquare.com/v/leib-resto-ja-aed/4dcbfd5afa76d745f060ffd0), and [Russian](https://foursquare.com/v/a-pushkin/5375d29c498e7811b3f3148a)!
-- The hostel I stayed at, [Red Emperor](www.hostelworld.com/hosteldetails.php/Red-Emperor-Bar-and-Hostel/Tallinn/57527), restored my faith in hostels. It was squeaky clean, had great staff, incredible happy hour beer prices (1 euro for a pint!) and a great atmosphere with a bar next door which attracts with locals and travellers. Highly recommended.
-- Lots of modern architecture to marvel at during a stroll downtown, and lots of hidden street art all around!
-- Estonia has a **lot** of trees which makes for beautiful and calming scenery while taking the train around the country.
+* The food was divine. I tried so many new cuisines: [Turkish](https://foursquare.com/v/antalya-kebab/4d29bb61849f370430678141), [Georgian](https://foursquare.com/v/argo-baar/5352d210498e955480ec04b2), [Estonian](https://foursquare.com/v/leib-resto-ja-aed/4dcbfd5afa76d745f060ffd0), and [Russian](https://foursquare.com/v/a-pushkin/5375d29c498e7811b3f3148a)!
+* The hostel I stayed at, [Red Emperor](www.hostelworld.com/hosteldetails.php/Red-Emperor-Bar-and-Hostel/Tallinn/57527), restored my faith in hostels. It was squeaky clean, had great staff, incredible happy hour beer prices (1 euro for a pint!) and a great atmosphere with a bar next door which attracts with locals and travellers. Highly recommended.
+* Lots of modern architecture to marvel at during a stroll downtown, and lots of hidden street art all around!
+* Estonia has a **lot** of trees which makes for beautiful and calming scenery while taking the train around the country.
 
 ## Next time in Estonia
 
@@ -167,5 +166,4 @@ A bunch of these giant megaphones can be found throughout the forest.
 
 Sometimes, musicians will play concerts there.
 
-![](/img/pahni1.jpg)
-<span class="credit"><a href="https://twitter.com/meludiaww/status/646767499715964928">Credit</span></span>
+![](/img/pahni1.jpg) <span class="credit"><a href="https://twitter.com/meludiaww/status/646767499715964928">Credit</a></span></span>
