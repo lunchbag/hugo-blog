@@ -20,6 +20,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/life-in-fukuoka-the-second-month.md
 - content/posts/fukuoka.md
 - content/posts/greetings-from-fukuoka.md
 - content/posts/2018-year-in-review.md
