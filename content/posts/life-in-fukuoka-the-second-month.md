@@ -9,11 +9,15 @@ title = "Life in Fukuoka: On Culture Shock"
 +++
 Preface: This post is ripe with generalizations based on my observations as a foreigner in Japan who spent her last 25+ years in Canada and the US. Please note that when I say “the Japanese”, surely I know not everyone here abides by these principles. And certainly this is not an article about how awesome everything is in Japan, just some real things we have noticed and struggle with and laugh off in our day-to-day. Please enjoy!
 
+![](/uploads/IMG_20190316_181941.jpg)
+
 We’re into the second month now and officially halfway through our stint in Japan. It’s been interesting to look back and reflect on how our perception of Fukuoka and Japan in general has changed since first arriving starry-eyed. Unsurprisingly, living and attempting to integrate into Japanese society is far different from visiting for a short number of days or weeks. For someone like me who finds immense joy in noticing and analyzing all the details, it’s been a real hoot.
 
-Dare I say we’ve officially surpassed tourist status? Restaurant owners and coffee shop keepers are starting to recognize us. Our neighbourhood sake bar recounted seeing us walking around the area a few times. We’re getting better at navigating the local bus lines of this canal city wherein we’re starting to feel the comforts and familiarity of Home. 
+Dare I say we’ve officially surpassed tourist status? Restaurant owners and coffee shop keepers are starting to recognize us. Our neighbourhood sake bar recounted seeing us walking around the area a few times. We’re getting better at navigating the local bus lines of this canal city wherein we’re starting to feel the comforts and familiarity of Home.
 
-While scaling Fukuoka as a city has been relatively straightforward, the cultural landscape has been more difficult to penetrate. We’re really starting to notice the extreme differences and lack of overlap between Japan and Canada & US. For starters, as I’m sitting here typing this at a Starbucks, the lady next to me has left her phone charging and her purse unattended for about 15 minutes now. 
+While scaling Fukuoka as a city has been relatively straightforward, the cultural landscape has been more difficult to penetrate. We’re really starting to notice the extreme differences and lack of overlap between Japan and Canada & US. For starters, as I’m sitting here typing this at a Starbucks, the lady next to me has left her phone charging and her purse unattended for about 15 minutes now.
+
+![](/uploads/MVIMG_20190328_154046.jpg)
 
 By far the biggest difference and shock is the ubiquity of common courtesy in Japanese society. The hyper-awareness of when one might be inconveniencing someone else is instilled deeply. I feel this extends into all facets of life here, such as why everything in public from shops to the streets is always kept so tidy and clean. On top of that, the Japanese concept of hospitality, _Omotenashi_, in which one attempts to anticipate someone else’s needs before it’s shown or even realized by the person themselves, embellishes an already dutiful society.
 
@@ -33,21 +37,25 @@ The Japanese are also relatively conservative people. They don’t dress in reve
 
 Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there is no canonical side of the street to walk on.
 
-Now, I recognize I might come across pretty critical and I want to diverge from that. There are plenty of resources and other blog posts out there that can go on and on about the great things about Japan, and I just wanted to share deep observations I have made from being immersed here for the last 2 months. In fairness, there are tons of great perks from having a society where 99% of members are courteous, kind, and trustworthy. This is literally a fantasy world. When I was still living in San Francisco and I had a car, I often dreamt of a place where 'courtesy re-park' could be a thing– a concept in which anyone could re-park anyone else's car if they just needed an inch or two more for parallel parking. I firmly believe Japan is the society in which that would work. 
+Now, I recognize I might come across pretty critical and I want to diverge from that. There are plenty of resources and other blog posts out there that can go on and on about the great things about Japan, and I just wanted to share deep observations I have made from being immersed here for the last 2 months. In fairness, there are tons of great perks from having a society where 99% of members are courteous, kind, and trustworthy. This is literally a fantasy world. When I was still living in San Francisco and I had a car, I often dreamt of a place where 'courtesy re-park' could be a thing– a concept in which anyone could re-park anyone else's car if they just needed an inch or two more for parallel parking. I firmly believe Japan is the society in which that would work.
 
 Justin and I went to our first concert in Japan a few weeks ago to see a female hip hop duo, an electronic music producer and a ska band perform live. The venue was filled with young people dancing and drinking. There were noticeable differences between the way people act at concerts here. For one, while I'm here to report that even in Japan, people will push their way to the front, the difference is that here, they genuinely look displeased and are bowing their heads apologetically to everyone they happen to pass by. I also noticed that there is way less obnoxiously loud singing and woo-ing or screaming to take advantage of the lull moments, just to be noticed. But to me, the biggest difference was the behaviour when all the performers came out to take a group photo with the audience. Now, I've been in plenty of these, or rather I have tried to be but because I am short and no longer desire to be at the front of any show, I'm just hidden among a sea of arms in the air. To illustrate my point, here are some random concert selfies I found on the internet:
 
+![](/uploads/CMtgeL2WEAEiGTr.jpeg)
+
 Gloria Gaynor ([link](https://twitter.com/gloriagaynor/status/633706245032144896 "link"))
+
+![](/uploads/a79d168b32a28a222a12fecaaef95b99.jpg)
 
 Dave Matthews
 
+![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)
+
 Some random group from Morocco ([link](https://moroccosmodernlife.wordpress.com/ "link"))
 
-Ed Sheeran ([link](https://www.instagram.com/p/BhUHXKCl7fW/?utm_source=ig_embed "https://www.instagram.com/p/BhUHXKCl7fW/?utm_source=ig_embed"))
+Now here's the photo from the concert we went to ([link](https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1))
 
-Now here's the photo from the concert we went to:
-
-([link](https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1))
+![](/uploads/D18imRwVYAE8ghC.jpeg)
 
 I'm actually in it! Thank you Japanese people and your aversion to being in the way of others.
 
