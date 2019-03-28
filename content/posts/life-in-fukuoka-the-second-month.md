@@ -34,3 +34,6 @@ The Japanese are also relatively conservative people. They don’t dress in reve
 Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there is no canonical side of the street to walk on.
 
 Every bit of this experience is enjoyable to us, even the frustrating parts. Personally, these culture shocks are my favourite parts of any travel I do. It forces us to question why we do things a certain way and challenges what we perceive as normal. In the end, it helps us understand ourselves and the world better. Not a day passes by that I’m not grateful I can live my life in a completely different way but with the same human beings.
+
+* we were just curious (start up cafe)
+* picture at concerts with hands in the air
