@@ -4,7 +4,7 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "Life in Fukuoka: The Second Month"
+title = "Life in Fukuoka: On Society"
 
 +++
 Preface: This post is ripe with generalizations based on my observations as a foreigner in Japan who spent her last 25+ years in Canada and the US. Please note that when I say “the Japanese”, surely I know not everyone here abides by these principles. And certainly this is not an article about how awesome everything is in Japan, just some real things we have noticed and struggle with and laugh off in our day-to-day. Please enjoy!
