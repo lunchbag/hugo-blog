@@ -19,6 +19,7 @@ Dare I say we’ve officially surpassed tourist status? Restaurant owners and co
 While scaling Fukuoka as a city has been relatively straightforward, the cultural landscape has been more difficult to penetrate. We’re really starting to notice the extreme differences and lack of overlap between Japan and Canada & US. For starters, as I’m sitting here typing this at a Starbucks, the lady next to me has left her phone charging and her purse unattended for about 15 minutes now.
 
 ![](/uploads/MVIMG_20190328_154046.jpg)
+<span class="caption">Gone in 60 seconds if this was in San Francisco</span>
 
 By far the biggest difference and shock is the ubiquity of common courtesy in Japanese society. The hyper-awareness of when one might be inconveniencing someone else is instilled deeply. I feel this extends into all facets of life here, such as why everything in public from shops to the streets is always kept so tidy and clean. On top of that, the Japanese concept of hospitality, _Omotenashi_, in which one attempts to anticipate someone else’s needs before it’s shown or even realized by the person themselves, embellishes an already dutiful society.
 
