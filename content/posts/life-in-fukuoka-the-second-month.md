@@ -44,16 +44,13 @@ Now, I recognize I might come across pretty critical and I want to diverge from 
 Justin and I went to our first concert in Japan a few weeks ago to see a female hip hop duo, an electronic music producer and a ska band perform live. The venue was filled with young people dancing and drinking. There were noticeable differences between the way people act at concerts here. For one, while I'm here to report that even in Japan, people will push their way to the front, the difference is that here, they genuinely look displeased and are bowing their heads apologetically to everyone they happen to pass by. I also noticed that there is way less obnoxiously loud singing and woo-ing or screaming to take advantage of the lull moments, just to be noticed. But to me, the biggest difference was the behaviour when all the performers came out to take a group photo with the audience. Now, I've been in plenty of these, or rather I have tried to be but because I am short and no longer desire to be at the front of any show, I'm just hidden among a sea of arms in the air. To illustrate my point, here are some random concert selfies I found on the internet:
 
 ![](/uploads/CMtgeL2WEAEiGTr.jpeg)
-
-Gloria Gaynor ([link](https://twitter.com/gloriagaynor/status/633706245032144896 "link"))
+<span class="caption">Gloria Gaynor ([link](https://twitter.com/gloriagaynor/status/633706245032144896 "link"))</a>
 
 ![](/uploads/a79d168b32a28a222a12fecaaef95b99.jpg)
-
-Dave Matthews
+<span class="caption">Dave Matthews</a>
 
 ![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)
-
-Some random group from Morocco ([link](https://moroccosmodernlife.wordpress.com/ "link"))
+<span class="caption">Some random group from Morocco ([link](https://moroccosmodernlife.wordpress.com/ "link"))</a>
 
 Now here's the photo from the concert we went to ([link](https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1))
 
