@@ -10,6 +10,7 @@ title = "Life in Fukuoka: On Society and Culture Shock"
 Preface: This post is ripe with generalizations based on my observations as a foreigner in Japan who spent her last 25+ years in Canada and the US. Please note that when I say “the Japanese”, surely I know not everyone here abides by these principles. And certainly this is not an article about how awesome everything is in Japan, just some real things we have noticed and struggle with and laugh off in our day-to-day. Please enjoy!
 
 ![](/uploads/IMG_20190316_181941.jpg)
+<span class="caption">Low tide canals in Fukuoka at sunset during the winter</span>
 
 We’re into the second month now and officially halfway through our stint in Japan. It’s been interesting to look back and reflect on how our perception of Fukuoka and Japan in general has changed since first arriving starry-eyed. Unsurprisingly, living and attempting to integrate into Japanese society is far different from visiting for a short number of days or weeks. For someone like me who finds immense joy in noticing and analyzing all the details, it’s been a real hoot.
 
