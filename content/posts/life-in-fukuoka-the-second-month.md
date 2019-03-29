@@ -53,9 +53,10 @@ Justin and I went to our first concert in Japan a few weeks ago to see a female 
 ![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)
 <span class="caption">Some random group from Morocco (<a href="https://moroccosmodernlife.wordpress.com">link</a>)</a>
 
-Now here's the photo from the concert we went to (<a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">link</a>)
+Now here's the photo from the concert we went to:
 
-  <a href="/uploads/D18imRwVYAE8ghC.jpeg">![](/uploads/D18imRwVYAE8ghC.jpeg)</a>
+![](/uploads/D18imRwVYAE8ghC.jpeg)
+<span class="caption"><a href="/uploads/D18imRwVYAE8ghC.jpeg">Click</a> here for a bigger version! (<a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">original link</a>)</span>
 
 I'm actually in it! Thank you Japanese people and your aversion to being in the way of others.
 
