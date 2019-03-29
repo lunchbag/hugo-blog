@@ -78,6 +78,6 @@ Now here's the photo from the concert we went to:
 
 I'm actually in it! Thank you Japanese people and your aversion to being in the way of others. Also, notice that the only people raising their hands are the ones on the sides, presumably because they know they wouldn't be in anyone's way!
 
-At the end of the day, every bit of this experience is enjoyable to us, even the frustrating bits. Personally, these culture shocks are my favourite parts of any travel I do. It forces us to question why we do things a certain way and challenges what we perceive as normal. Ultimately, it helps us understand ourselves and the world better, plus it creates lots of interesting stories to share!
+At the end of the day, every bit of the experience of being in Japan is enjoyable to us, even the frustrating bits. They are fun to decipher and when we ask our Japanese friends for more context, it often ends in mutual shock that the other culture doesn't do a particular thing the same way. Personally, these culture shocks are my favourite parts of any travel I do. It forces us to question why we do things a certain way and challenges what we perceive as normal. Ultimately, it helps us understand ourselves and the world better, plus it creates lots of interesting stories to share!
 
 <small>\[1\] Unsurprisingly, in the Japanese dub for Rick and Morty, the Meeseeks are voiced by a woman.<a id="footnotes"></a></small>
