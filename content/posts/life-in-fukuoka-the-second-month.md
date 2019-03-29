@@ -7,7 +7,7 @@ tags = []
 title = "Life in Fukuoka: On Society and Culture Shock"
 
 +++
-Preface: This post is ripe with generalizations based on my observations as a foreigner in Fukuoka who spent her last 25+ years in Canada and the US. Please note that when I say “the Japanese”, surely I know not everyone here abides by these principles. And more than anything, I'm referring to the people we interact with day-to-day in Fukuoka, which is far less diverse than Tokyo. Please enjoy!
+Preface: This post is ripe with generalizations based on my observations as a foreigner in Fukuoka. Note that when I say “the Japanese”, surely I know not everyone here abides by these principles. And more than anything, I'm referring to the people we interact with day-to-day in Fukuoka, which is located near the country-side and is much less diverse than Tokyo. Please enjoy!
 
 ![](/uploads/IMG_20190316_181941.jpg)
 <span class="caption">Low tide canals in Fukuoka at sunset during the winter</span>
