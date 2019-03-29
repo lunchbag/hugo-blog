@@ -27,7 +27,7 @@ This can be felt in every day life. The bus driver waits for each new passenger 
 
 Then, it gets more intense. We’ve noticed that hosts at a very fancy restaurant will stay in the bowing position on the streets while covertly stealing glances to see if the diners have left their field of vision (In Japanese culture, there is a hierarchy when it comes to who should give the last bow). Multiple people have apologized to us for their poor level of English. (How I would respond if my Japanese was half decent: '<i>Um hello? We are in Japan and <u>our</u> Japanese is poor. <u>We</u> are sorry! We’re in <u>your</u> country! And if you’re speaking English at all, we absolutely think that’s amazing!</i>) If you go to a large department store, you might catch a worker awkwardly running without trying to seem like they’re running because their arms are clinging by their side. Chances are they are getting something for someone and they don’t want to keep them waiting too long since department stores in Japan are huge, but they also don’t want to cause alarm by running through a store frantically.
 
-It seems that while the Japanese are heedful of inconveniencing others, sometimes they are insistent on inconveniencing themselves to sacrifice for your ease. But to us foreigners, this usually results in an elevated level of awkwardness because we are unaware of how to navigate such a social situation. If you’ve ever seen the episode of Rick & Morty with the Meeseeks box, this is exactly how we feel about Japanese service people sometimes. For those unaware of the episode, Meeseeks<a href="#footnotes">\[1\]</a> are creatures who are created to serve a singular purpose for which they will go to any length to fulfill \[..\] If a Meeseeks is not given a purpose at the beginning of its existence it seems to default to taking the purpose of the Meeseeks before it (<a href="https://rickandmorty.fandom.com/wiki/Mr._Meeseeks" target="_blank">credit</a>).
+It seems that while the Japanese are heedful of inconveniencing others, sometimes they are insistent on inconveniencing themselves to sacrifice for your ease. But to us foreigners, this usually results in an elevated level of awkwardness because we are unaware of how to navigate such a social situation. If you’ve ever seen the episode of Rick & Morty with the Meeseeks box, this is exactly how we feel about Japanese service people sometimes. For those unaware of the episode, Meeseeks<sup><a href="#footnotes">[1]</a></sup> are creatures who are created to serve a singular purpose for which they will go to any length to fulfill \[..\] If a Meeseeks is not given a purpose at the beginning of its existence it seems to default to taking the purpose of the Meeseeks before it (<a href="https://rickandmorty.fandom.com/wiki/Mr._Meeseeks" target="_blank">credit</a>).
 
 ![](/uploads/meeseeks.jpg)
 <span class="caption">Two Meeseeks summoned to help Beth and Summer with whatever they desire</span>
@@ -55,20 +55,18 @@ I recognize I might come across pretty cynical and I want to diverge from that. 
 Justin and I went to our first concert in Japan a few weeks ago to see a female hip hop duo, an electronic music producer and a ska band perform live. The venue was filled with young people dancing and drinking. There were noticeable differences between the way people act at concerts here. While I can report that even in Japan, people will push their way to the front, the difference is that they genuinely look displeased and are bowing their heads apologetically to everyone they happen to pass by. I also noticed that there is way less obnoxiously loud singing and woo-ing or screaming to take advantage of the lull moments, just to be potentially noticed by the band. But to me, the biggest difference was the behaviour when all the performers came out to take a group photo with the audience at the end of the show. I've been in plenty of these, or rather I have tried to be but because I am short and have no desire to be in the front row of any show, I usually just accept that I'll be hidden among a sea of arms in the air. To illustrate my point, here are some random concert selfies I found on the internet:
 
 ![](/uploads/CMtgeL2WEAEiGTr.jpeg)
-<span class="caption">Gloria Gaynor (<a href="https://twitter.com/gloriagaynor/status/633706245032144896">link</a>)</a>
+<span class="credit"><a href="https://twitter.com/gloriagaynor/status/633706245032144896">credit</a></span><span class="caption">Gloria Gaynor</a>
 
-![](/uploads/selena.jpg) <span class="caption">Selena Gomez (<a href="https://www.instagram.com/p/BFp4_l3ujLU/" target="_blank">link</a>)</span>
+![](/uploads/selena.jpg)<span class="credit"><a href="https://www.instagram.com/p/BFp4_l3ujLU/" target="_blank">credit</a></span><span class="caption">Selena Gomez</span>
 
-![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)
-<span class="caption">Some random group from Morocco (<a href="https://moroccosmodernlife.wordpress.com">link</a>)</a>
+![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)<span class="credit"><a href="https://moroccosmodernlife.wordpress.com">credit</a></span><span class="caption">Some random group from Morocco</a>
 
 Now here's the photo from the concert we went to:
 
-![](/uploads/D18imRwVYAE8ghC.jpeg)
-<span class="caption"><a href="/uploads/D18imRwVYAE8ghC.jpeg">Click</a> here for a bigger version! (<a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">original link</a>)</span>
+![](/uploads/D18imRwVYAE8ghC.jpeg)<span class="credit"><a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">credit</a></span><span class="caption"><a href="/uploads/D18imRwVYAE8ghC.jpeg">Click</a> here for a bigger version!</span>
 
 I'm actually in it! Thank you Japanese people and your aversion to being in the way of others. Also, notice that the only people raising their hands are the ones on the sides, presumably because they know they wouldn't be in anyone's way!
 
 At the end of the day, every bit of this experience is enjoyable to us, even the frustrating bits. Personally, these culture shocks are my favourite parts of any travel I do. It forces us to question why we do things a certain way and challenges what we perceive as normal. Ultimately, it helps us understand ourselves and the world better, plus it creates lots of interesting stories to share!
 
-<small><a id="footnotes"></a>\[1\] Unsurprisingly, in the Japanese dub for Rick and Morty, the Meeseeks are voiced by a woman.</small>
+<small>[1] Unsurprisingly, in the Japanese dub for Rick and Morty, the Meeseeks are voiced by a woman.<a id="footnotes"></a></small>
