@@ -16,7 +16,7 @@ We’re just passed our second month here and officially halfway through our sti
 
 Dare I say we’ve officially surpassed tourist status? Restaurant owners and coffee shop keepers are starting to recognize us. Staff at our neighbourhood sake bar recounted seeing us walking around the area. We’re getting better at navigating the local bus lines of this canal city wherein we’re starting to feel the comforts and familiarity of Home.
 
-While discovering Fukuoka as a city has been relatively straightforward, the cultural landscape has been more difficult to decipher. We’re realizing every day the extreme differences and lack of overlap between Japan and Canada & the US. For starters, as I’m sitting here typing at a busy Starbucks, the lady next to me has left her phone charging and her purse unattended for about 15 minutes now.
+While discovering Fukuoka as a city has been relatively straightforward, the cultural landscape has been more difficult to scale. We’re realizing every day the extreme differences and lack of overlap between Japan and Canada & the US. For starters, as I’m sitting here typing at a busy Starbucks, the lady next to me has left her phone charging and her purse unattended for about 15 minutes now.
 
 ![](/uploads/MVIMG_20190328_154046.jpg)
 <span class="caption">Gone in 60 seconds if this was in San Francisco</span>
