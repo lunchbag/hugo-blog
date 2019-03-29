@@ -55,9 +55,12 @@ I recognize I might come across pretty cynical and I want to diverge from that. 
 Justin and I went to our first concert in Japan a few weeks ago to see a female hip hop duo, an electronic music producer and a ska band perform live. The venue was filled with young people dancing and drinking. There were noticeable differences between the way people act at concerts here. While I can report that even in Japan, people will push their way to the front, the difference is that they genuinely look displeased and are bowing their heads apologetically to everyone they happen to pass by. I also noticed that there is way less obnoxiously loud singing and woo-ing or screaming to take advantage of the lull moments, just to be potentially noticed by the band. But to me, the biggest difference was the behaviour when all the performers came out to take a group photo with the audience at the end of the show. I've been in plenty of these, or rather I have tried to be but because I am short and have no desire to be in the front row of any show, I usually just accept that I'll be hidden among a sea of arms in the air. To illustrate my point, here are some random concert selfies I found on the internet:
 
 ![](/uploads/CMtgeL2WEAEiGTr.jpeg)
-<span class="caption">Gloria Gaynor (<a href="https://twitter.com/gloriagaynor/status/633706245032144896">link</a>)</a>
+<span class="credit"><a href="https://twitter.com/gloriagaynor/status/633706245032144896">credit</a></span>
+<span class="caption">Gloria Gaynor</a>
 
-![](/uploads/selena.jpg) <span class="caption">Selena Gomez (<a href="https://www.instagram.com/p/BFp4_l3ujLU/" target="_blank">link</a>)</span>
+![](/uploads/selena.jpg)
+<span class="credit"><a href="https://www.instagram.com/p/BFp4_l3ujLU/" target="_blank">credit</a></span>
+<span class="caption">Selena Gomez</span>
 
 ![](/uploads/544947_10152488638743806_2699667185578059831_n.jpg)
 <span class="caption">Some random group from Morocco (<a href="https://moroccosmodernlife.wordpress.com">link</a>)</a>
@@ -65,7 +68,8 @@ Justin and I went to our first concert in Japan a few weeks ago to see a female 
 Now here's the photo from the concert we went to:
 
 ![](/uploads/D18imRwVYAE8ghC.jpeg)
-<span class="caption"><a href="/uploads/D18imRwVYAE8ghC.jpeg">Click</a> here for a bigger version! (<a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">original link</a>)</span>
+<span class="credit"><a href="https://twitter.com/aboutmusicjp/status/1107642086306648065/photo/1">credit</a></span>
+<span class="caption"><a href="/uploads/D18imRwVYAE8ghC.jpeg">Click</a> here for a bigger version!</span>
 
 I'm actually in it! Thank you Japanese people and your aversion to being in the way of others. Also, notice that the only people raising their hands are the ones on the sides, presumably because they know they wouldn't be in anyone's way!
 
