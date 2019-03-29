@@ -6,7 +6,6 @@ tags = []
 title = "lunchbag in France: Culture shocks, food & drinks edition"
 
 +++
-
 _Disclaimer: these are **generalizations** based on what I have observed over 5 weeks of serving and bartending in a French restaurant. Most of the French customers we get are in the 40+ age group but we have also gotten groups of younger people (20 to 30s) stay with us for several days. I also often try to bring up my observations with a French friend to get their take on it._
 
 ## Meals
@@ -23,7 +22,7 @@ _Les apéros_ are very important to the French. I once made the mistake of bring
 
 An _apéritif_ is the drink you have before your meal, specifically, before you even think about what you'll be having for your meal.
 
-Most people have a preferred _aperitif_– a martini, a kir, a ricard, or a glass of wine are the most popular (I go into more detail about these in the next section). Nice restaurants will have a house apertif, not to be confused with the house cocktail- that's for later in the night.
+Most people have a preferred <i>apéritif</i>– a martini, a kir, a ricard, or a glass of wine are the most popular (I go into more detail about these in the next section). Nice restaurants will have a house apertif, not to be confused with the house cocktail- that's for later in the night.
 
 Not nearly as popular as the _apéritif_ but still important to some of the French, the _digestifs_ are usually some strong liquor to sip on after the meal is over. Some _digestifs_ people have ordered with me are double shots of cointreau and double shots of whisky.
 
