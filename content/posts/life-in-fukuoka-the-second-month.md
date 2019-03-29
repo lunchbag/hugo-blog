@@ -42,15 +42,25 @@ They also have special vocabulary that exonerates them from giving any further i
 
 There’s a lot that we still can’t quite figure out. When we think we have reasoned an unfamiliar habit or reaction, we discover something contradictory. For instance, in Japan, the notion of _mottainai_ is very strong. In short, it represents an ideal of not wasting anything and not taking more than you need of anything. It ties into a lot of behaviour. We've heard anecdotes on how the Japanese seldom throw things out or replace them even if it's broken. [This recent Economist segment](https://twitter.com/theeconomist/status/913754755507343361?lang=en) describes an ongoing radical recycling movement. Sounds great and eco-friendly, yet Japanese consumption of single-use plastic is awful. We've experienced shopkeepers’ mindless excessive bagging of anything you buy, disposable wet towels wrapped in plastic served at numerous restaurants, single-day-use face masks which are worn by nearly everyone during winter, and a new plastic sleeve for covering your wet umbrella anytime you enter a shop or restaurant.
 
-\[\]
+![](/uploads/fruit.jpg)
+<span class="caption">A common sight at supermarkets: individually wrapped vegetables</span>
 
 Additionally, there is a strong notion of not disturbing or causing discomfort to others. Anyone who’s been to Japan will notice how quiet the subways are, even when they are absolutely packed. You could hear a pimple pop on a bus full of people during rush hour. They just don’t talk. However, when allergy season comes around, for some reason, is when this rule has its one exception. I now have confirmation that Asian men are the loudest sneezers in the world. I thought it was just my dad for the longest time. There is no effort to conceal the sneeze. It is as if all the noise they have pent-up is permitted to come out all at once and it is excusable, because, well, the entire country of Japan goes through allergy season together at the same time.
 
 The Japanese are also relatively conservative people. They don’t dress in revealing clothes compared to the west and they can be profoundly shy. So shy that in most public (and even in some home) restrooms, the sound of streaming water will play to mask the sound of one’s peeing. You might think you could understand why performing a normal human function behind closed doors might make them feel uncomfortable until you learn that hot springs and public bathhouses in which patrons are expected to strip fully naked is pretty much a standard activity.
 
-Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there lacks a canonical side of the street to walk on. This can be startling and create danger especially in the small side streets of Fukuoka where bikers, cars, scooters and pedestrians all share one bi-directional, single-lane road.
+Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there lacks a canonical side of the street to walk on. This can be startling and create danger while we're walking on the sidewalks and bikers are zooming by and there's no decided side of the street we should be on.
 
-\[\]
+Yet there is obviously organization to all this chaos. There's rarely honking and everyone seems to be able to manoeuvre obstacles. We walk down this small side street all the time and it is shared by bikers, pedestrians, scooters and cars. The craziest thing is that while it's a single lane road, it is actually bi-directional. I stood there for a few minutes and it didn't take long to capture the following photos to show various states of occupancy:
+
+![](/uploads/men.jpg)
+<span class="caption">Pedestrians taking up the whole street</span>
+
+![](/uploads/MVIMG_20190329_201515.jpg)
+<span class="caption">A car coming through with pedestrians in the way</span>
+
+![](/uploads/MVIMG_20190329_220401.jpg)
+<span class="caption">Three cars trying to navigate around each other</span>
 
 I recognize I might come across pretty cynical and I want to diverge from that. In fairness, there are tons of great perks from having a society where 99% of members are courteous, kind, and trustworthy. This is literally a fantasy world. When I was still living in San Francisco and I had a car, I often dreamt of a place where 'courtesy re-park' could be a thing– a concept in which anyone could re-park anyone else's car if they just needed an inch or two more for parallel parking. I wouldn't be the least bit surprised if this already happens in some Japanese towns.
 
