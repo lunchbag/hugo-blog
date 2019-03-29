@@ -49,9 +49,9 @@ Additionally, there is a strong notion of not disturbing or causing discomfort t
 
 The Japanese are also relatively conservative people. They don’t dress in revealing clothes compared to the west and they can be profoundly shy. So shy that in most public (and even in some home) restrooms, the sound of streaming water will play to mask the sound of one’s peeing. You might think you could understand why performing a normal human function behind closed doors might make them feel uncomfortable until you learn that hot springs and public bathhouses in which patrons are expected to strip fully naked is pretty much a standard activity.
 
-Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there lacks a canonical side of the street to walk on. This can be startling and create danger while we're walking on the sidewalks and bikers are zooming by and there's no decided side of the street we should be on.
+Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some reason, there lacks a canonical side of the street to walk on. We are constantly startled while we're walking on the sidewalks; bikers are zooming by and pedestrians are usually all over the place. 
 
-Yet there is obviously organization to all this chaos. There's rarely honking and everyone seems to be able to manoeuvre obstacles. We walk down this small side street all the time and it is shared by bikers, pedestrians, scooters and cars. The craziest thing is that while it's a single lane road, it is actually bi-directional. I stood there for a few minutes and it didn't take long to capture the following photos to show various states of occupancy:
+Yet there is somehow organization to all this chaos. There's rarely honking and everyone seems to be able to manoeuvre whatever obstacles are in the way. We walk down this small side street all the time and it is shared by bikers, pedestrians, scooters and cars. The craziest thing is that while it's a single lane road, it is actually bi-directional. I stood there for a few minutes and it didn't take long to capture the following photos to show various states of occupancy:
 
 ![](/uploads/men.jpg)
 <span class="caption">Pedestrians taking up the whole street</span>
