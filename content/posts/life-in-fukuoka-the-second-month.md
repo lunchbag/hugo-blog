@@ -37,7 +37,7 @@ Additionally, there is a strong notion of not disturbing or causing discomfort t
 
 The Japanese are also relatively conservative people. They don’t dress in revealing clothes compared to the west and they can be profoundly shy. So shy that in most public (and even in some home) restrooms, the sound of streaming water will play to mask the sound of one’s peeing. You might think you could understand why performing a normal human function behind closed doors might make them feel uncomfortable until you learn that hot springs and public bathhouses in which patrons are expected to strip fully naked is pretty much a standard activity.
 
-Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there lacks a canonical side of the street to walk on. This can be startling and create obvious danger especially in the small side streets of Fukuoka where bikers, cars, scooters and pedestrians all share one bi-directional, single-lane road.
+Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some irrational reason, there lacks a canonical side of the street to walk on. This can be startling and create danger especially in the small side streets of Fukuoka where bikers, cars, scooters and pedestrians all share one bi-directional, single-lane road.
 
 \[\]
 
