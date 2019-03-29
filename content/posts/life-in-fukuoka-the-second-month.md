@@ -61,4 +61,4 @@ I'm actually in it! Thank you Japanese people and your aversion to being in the 
 
 At the end of the day, every bit of this experience is enjoyable to us, even the frustrating bits. Personally, these culture shocks are my favourite parts of any travel I do. It forces us to question why we do things a certain way and challenges what we perceive as normal. Ultimately, it helps us understand ourselves and the world better, plus it creates lots of interesting stories to share!
 
-<small id="footnotes">[1] In the Japanese dub for Rick and Morty the Meeseeks are voiced by a woman.</small>
+  <small><a id="footnotes"></a>[1] In the Japanese dub for Rick and Morty the Meeseeks are voiced by a woman.</small>
