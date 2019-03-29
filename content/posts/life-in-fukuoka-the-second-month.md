@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-03-28T11:00:00-04:00"
-draft = true
 slug = "fukuoka-culture-shock"
 tags = []
 title = "Life in Fukuoka: On Society and Culture Shock"
