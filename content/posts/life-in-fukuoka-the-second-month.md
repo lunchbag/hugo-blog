@@ -12,7 +12,7 @@ Preface: This post is ripe with generalizations based on my observations as a fo
 ![](/uploads/IMG_20190316_181941.jpg)
 <span class="caption">Low tide canals in Fukuoka at sunset during the winter</span>
 
-We’re into the second half of our time here and officially halfway through our stint in Japan. It’s been interesting to look back and reflect on how our perception of Fukuoka and Japan in general has changed since first arriving starry-eyed. Unsurprisingly, living and attempting to integrate into Japanese society generates different situations than visiting for a short number of days or weeks does. For someone like me who finds immense joy in noticing and analyzing all the details, it’s been amusing to say the least.
+We’re just passed our second month here and officially halfway through our stint in Japan. It’s been interesting to look back and reflect on how our perception of Fukuoka and Japan in general has changed since first arriving starry-eyed. Unsurprisingly, living and attempting to integrate into Japanese society generates different situations than visiting for a short number of days or weeks does. For someone like me who finds immense joy in noticing and analyzing all the details, it’s been amusing to say the least.
 
 Dare I say we’ve officially surpassed tourist status? Restaurant owners and coffee shop keepers are starting to recognize us. Staff at our neighbourhood sake bar recounted seeing us walking around the area. We’re getting better at navigating the local bus lines of this canal city wherein we’re starting to feel the comforts and familiarity of Home.
 
