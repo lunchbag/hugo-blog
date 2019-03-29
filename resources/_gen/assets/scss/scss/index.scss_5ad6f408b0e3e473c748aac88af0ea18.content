@@ -217,6 +217,10 @@ body {
       margin: -50px auto 0 auto;
       z-index: 10;
       color: #3e3a3a; }
+      @media (max-width: 600px) {
+        #g-post img + span.caption,
+        #g-post img + span.credit + span.caption {
+          font-size: 0.9rem; } }
     #g-post img .inline {
       width: 60% !important;
       left: -5% !important;
