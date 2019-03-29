@@ -50,7 +50,7 @@ The Japanese are also relatively conservative people. They don’t dress in reve
 
 Lastly, while the archetype of anything Japanese is highly efficient and process-oriented, for some reason, there lacks a canonical side of the street to walk on. We are constantly startled when we're walking on the sidewalks even though we are trying hard to be aware of our surroundings. If you want that Japanese "Mario Kart" experience, just walk on the sidewalks with bikers zooming by and pedestrians all over the place.
 
-Yet there is somehow organization to all this chaos. There's rarely honking and everyone seems to be able to manoeuvre whatever obstacles are in the way. We walk down this small side street all the time and it is shared by bikers, pedestrians, scooters and cars. The craziest thing is that while it's a single lane road, it is actually bi-directional. I stood there for a few minutes and it didn't take long to capture the following photos to show various states of occupancy:
+Yet there is somehow organization to all this chaos. There's rarely honking and everyone seems to be able to manoeuvre whatever obstacles are in the way. We walk down this small side street all the time and it is shared by bikers, pedestrians, scooters and cars. The craziest part is that while it appears as a single lane road, it is actually bi-directional. I stood there for a few minutes and it didn't take long to capture the following photos to show various states of occupancy:
 
 ![](/uploads/men.jpg)
 <span class="caption">Pedestrians taking up the whole street</span>
