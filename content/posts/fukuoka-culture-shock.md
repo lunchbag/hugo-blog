@@ -8,7 +8,7 @@ title = "Life in Fukuoka: On society and culture shock"
 +++
 <i>Disclaimer: This post is ripe with generalizations based on my observations as a foreigner in Fukuoka. Note that when I say “the Japanese”, I know not everyone here abides by these principles. And more than anything, I'm referring to the people we interact with day-to-day in Fukuoka, which is located near the country-side and is much less diverse than Tokyo. Please enjoy!</i>
 
-![](/uploads/IMG_20190316_181941.jpg)
+![](/uploads/smaller canal-1.jpg)
 <span class="caption">Low tide canals in Fukuoka at sunset during the winter</span>
 
 We’re just passed our second month here and officially halfway through our stint in Japan. It’s been interesting to look back and reflect on how our perception of Fukuoka and Japan in general has changed since first arriving starry-eyed. Unsurprisingly, living and attempting to integrate into Japanese society generates different situations than visiting for a short period of time would. For someone like me who finds immense joy in noticing and analyzing all the details, it’s been amusing to say the least.
@@ -58,7 +58,7 @@ Yet there is somehow organization to all this chaos. There's rarely honking and 
 ![](/uploads/MVIMG_20190329_201515.jpg)
 <span class="caption">A car coming through with pedestrians in the way</span>
 
-![](/uploads/MVIMG_20190329_220401.jpg)
+![](/uploads/smaller.jpg)
 <span class="caption">Three cars trying to navigate around each other</span>
 
 In fairness, there are tons of great perks from having a society where 99% of members are courteous, kind, and trustworthy. This is literally a fantasy world. When I was still living in San Francisco and I had a car, I often dreamt of a place where 'courtesy re-park' could be a thing– a concept in which anyone could re-park anyone else's car if they just needed an inch or two more for parallel parking. I wouldn't be the least bit surprised if this already happens in some Japanese towns.
