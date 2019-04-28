@@ -2,7 +2,7 @@
 categories = []
 date = "2019-04-24T11:00:00-04:00"
 draft = true
-slug = "building-lunch-money"
+slug = "lunch-money"
 tags = []
 title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 
