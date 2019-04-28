@@ -21,7 +21,7 @@ This is the story of my journey in creating this app from scratch and how it fit
 
 # October 2017: The Inception
 
-The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually amounting to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget strained by our lack of expertise in spreadsheet formulas stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
+The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually, it amounted to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget tool, strained by our lack of expertise in spreadsheet formulas, stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
 
 <img src="/uploads/google-sheets.jpg" class="expanded" />
 <span class="credit">Redacted</span>
@@ -30,7 +30,7 @@ The story starts way back to when Justin and I moved to Toronto to start our lif
 
 We are about 3 months from our departure date and going through a small crisis trying to figure out exactly how we were going to pass our time abroad. Beyond our travel dates and work situation, we had no plan for what we would actually be doing; we just knew we wanted to use this time away to accelerate our personal growth. Some ideas we had that did not materialize included getting into calligraphy, learning some form of martial arts, joining some local sports league, and taking online courses in something we were interested in, like digital animation.
 
-On a trip to visit Justins’ family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">That ended up catalyzing the decision to build the app version and I decided I would work on this while in Japan.</span>
+On a trip to visit Justins’ family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">This catalyzed the decision to build the app version and I resolved to work on it while in Japan.</span>
 
 We also decided to take a break from our current freelancing contracts starting around Christmas time and ending the first week of February so that we could start our trip without work obligations and settle into Japan at our own pace.
 
@@ -61,7 +61,7 @@ The first thing we did after moving into our apartment was look for a neighbourh
 
 ## Cooking
 
-I was really looking forward to cooking more Japanese cuisine and experimenting with ingredients that are not as readily available or affordable in Toronto. We are also used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
+I knew from the beginning that I wanted to learn Japanese cuisine and experiment with ingredients that are not as readily available or affordable in Toronto. We are also used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
 
 ## Language learning
 
@@ -77,7 +77,7 @@ It was very sad at first, but ultimately it was a huge blessing that the Start-U
 
 <span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was glorious and Justin immediately filed a handful of bugs. Perfect!
 
-I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to 7:30am mornings, we were getting up at much later hours in the day.
+I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
 
 # March 2019 and April 2019: Final stretches
 
