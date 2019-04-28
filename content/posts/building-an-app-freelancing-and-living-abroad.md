@@ -7,7 +7,7 @@ tags = []
 title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 
 +++
-<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta here</a> or keep reading for the story, process, and motivation behind this.</p>
+<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta</a> or <a href="#features">skip to the part about what makes the app different</a>. Keep reading for the story, process, and motivation behind this.</p>
 
 Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while freelancing.
 
@@ -119,9 +119,10 @@ Although it was overwhelming how much I had to do on top of the basic coding (de
 
 I am so lucky that the areas in which I am weakest or find the most tedious (dev ops-related stuff, mostly) happen to be among Justin's favorite technical challenges. He's saved my butt a few times by helping me properly set up my environments, fix my error tracking, and he even wrote my daily currency rate fetching script!
 
+<a name="features"></a>
 # Lunch Money: How it's different
 
-On to the app! There are 3 key features and concepts that were core to our spreadsheet.
+On to the app! I will expand on the 3 key concepts core to our spreadsheet that I've adapted into the app.
 
 ## Multi-currency supported natively
 
