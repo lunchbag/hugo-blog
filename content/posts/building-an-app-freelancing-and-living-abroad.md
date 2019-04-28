@@ -41,7 +41,7 @@ I couldn’t wait to get started, so I fired up Sketch and began making some ini
 
 # December 2018: Programming Kick-off
 
-I decided to start programming during the Christmas break. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="_blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
+I started programming during the Christmas break, a week before leaving for Japan. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="_blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
 
 I was pretty excited to get into Typescript– I’d heard a lot of good things but the opportunity to use it just hadn't come up. I was also curious about what it would be like to work with a UI framework like Semantic and excited at the idea that it would save me a lot of time and CSS-induced headaches. It was nice that I would be learning something new with this project! This is important because if I spend a considerable amount of time on this and it falls flat, I will at least have an up-to-date skill set.
 
@@ -49,9 +49,9 @@ Prior to starting, I wanted to set a clear goal in case I lose track. <span clas
 
 # January 2019: The Arrival and Settling into a Routine
 
-Justin and I are both the type of people who will happily stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. We both get really into what we’re doing at the moment. For me this is an incredibly elusive feeling and a mode in which I can hammer out a bunch of work and feel like a million bucks after.
+Once in a blue moon, I initiate a project that absolutely consumes me. Actually, Justin and I are both the type of people who can stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. For me, this is an incredibly elusive high and a mode in which I can hammer out a bunch of work and feel like a million bucks after. It is definitely a feeling that I long for especially after a long bout of comparitively monotonous work, and excitedly, I knew it would overtake us in Japan with this new undertaking.
 
-The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
+The danger, however, is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
 
 ## Fitness
 
@@ -67,13 +67,13 @@ Since we were going to be living in a foreign city that doesn't see many Western
 
 # February 2019: Running on nitro
 
-February was by far the most productive month, clocking in about 88 hours of work on Lunch Money. It was our first full month in Fukuoka and we had very minimal external obligations. We also found a free co-working space ("the Start-up Cafe") that we ended up holing ourselves in nearly every day for at least a couple of hours. At the end of February, The Start-Up Cafe closed for renovations and would not re-open until after we leave Japan.
+February was by far the most productive month, clocking in about 88 hours of work on Lunch Money. It was our first full month in Fukuoka and we had very minimal external obligations. We also found a free co-working space (<a href="https://startupcafe.jp/en/startup-cafe/" target="_blank">The Startup Cafe</a>) that we ended up holing ourselves in nearly every day for at least a couple of hours. At the end of February, The Startup Cafe closed for renovations and would not re-open until after we leave Japan.
 
-It was very sad at first, but ultimately it was a huge blessing that the Start-Up Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffees in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
+It was very sad at first, but ultimately it was a blessing that the Startup Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffees in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
 
 ## Milestones
 
-<span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was glorious and Justin immediately filed a handful of bugs. Perfect!
+<span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was a glorious feeling and Justin immediately filed a handful of bugs. Perfect!
 
 I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
 
@@ -135,7 +135,7 @@ Transactions are tracked in their native currency. For example, a transaction fr
 
 Most budgeting apps treat your recurring expenses like any other transaction by categorizing and tracking them in the monthly budget. However, these are charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
 
-In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
+In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this system because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
 
 <img src="/uploads/recurring.jpg" class="expanded" />
 <span class="caption">Recurring expenses allow you to easily see your minimum monthly expenditures</span>
