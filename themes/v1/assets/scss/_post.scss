@@ -144,7 +144,7 @@
     &.expanded {
       width: 140% !important;
       left: -20%;
-      @media screen and (max-device-width: 980px) {
+      @media (max-width: 980px) {
         width: 100%;
         left: 0;
       }
