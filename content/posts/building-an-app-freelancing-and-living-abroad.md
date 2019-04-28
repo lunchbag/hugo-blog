@@ -101,7 +101,7 @@ Inevitably, I would lose motivation. I wondered often why I was even doing this 
 
 I sometimes questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? I would often try to to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
 
-But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is something that is fun, luxurious, and normally out-of-reach to us.
+But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is something that is fun, luxurious, and normally out-of-reach for us.
 
 In the end, we are not leaving Fukuoka as strangers to the city. We saved a lot of the sightseeing and day trips for when my parents visited which ended up being a fantastic decision since we were able to share all the joys of new discoveries together. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We did what makes us happy and <span class="highlight">it comforts me knowing that regardless of what that might be, we are growing and learning continuously</span>!
 
