@@ -97,9 +97,9 @@ When you’re a one-person team working on everything from design to coding and 
 
 ## "Proper" use of time abroad
 
-I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? 
+I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending a lot of time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? 
 
-It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
+It was a challenge to explain our situation to people and equally difficult to convey that we were having an excellent time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
 I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
