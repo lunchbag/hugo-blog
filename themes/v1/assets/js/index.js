@@ -10,6 +10,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
   }
 
   window.addEventListener("scroll", function(e) {
-    checkHeader();
+    if ($header) checkHeader();
   });
 });
