@@ -9,28 +9,28 @@ title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 +++
 <p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta here</a> or keep reading for the story, process, and motivation behind this.</p>
 
-Last August, Justin and I booked our round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while working as freelance software engineers.
+Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while freelancing.
 
 <!-- At the time, I was working as a <a href="https://lunchbag.dev">freelance software engineer</a> and Justin was about to quit his full-time job to transition into freelancing as well. This would mark the culmination of a plan we had set in motion a few months prior– we knew that if we were going to be living abroad for a considerable amount of time, we had to plan our income streams around that and the best solution was for us both to be working temporary contracts remotely. -->
 
-We knew that leaving a familiar place for such a long time would force us to wrap up everything we had going on currently. Ideally, when we arrive to our new home, we would start with an largely empty calendar to focus on whatever we want.
+We knew that leaving a familiar place for such a long time would force us to wrap up everything we had going on currently. Ideally, when we arrive to our new home, we would start with a mostly free calendar to focus on whatever we want.
 
-<span class="highlight">So, that "whatever we want" for me ended up being an app that I have been wanting to develop for almost a year now.</span>
+<span class="highlight">So, that "whatever we want" for me ended up being an app that I have been itching to develop for a while.</span>
 
 This is the story of my journey in creating this app from scratch and how it fit in with other commitments such as freelancing, living/traveling abroad, learning Japanese, and hosting our visiting friends and family.
 
 # October 2017: The Inception
 
-The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually amounting to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget strained by our lack of expertise in spreadsheet formulas stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
+The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually, it amounted to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget tool, strained by our lack of expertise in spreadsheet formulas, stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
 
-![](/uploads/google-sheets.jpg)
+<img src="/uploads/google-sheets.jpg" class="expanded" />
 <span class="credit">Redacted</span>
 
 # September 2018: Finding Purpose Abroad
 
 We are about 3 months from our departure date and going through a small crisis trying to figure out exactly how we were going to pass our time abroad. Beyond our travel dates and work situation, we had no plan for what we would actually be doing; we just knew we wanted to use this time away to accelerate our personal growth. Some ideas we had that did not materialize included getting into calligraphy, learning some form of martial arts, joining some local sports league, and taking online courses in something we were interested in, like digital animation.
 
-On a trip to visit Justins’ family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">That ended up catalyzing the decision to build the app version and I decided I would work on this while in Japan.</span>
+On a trip to visit Justins’ family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">This catalyzed the decision to build the app version and I resolved to work on it while in Japan.</span>
 
 We also decided to take a break from our current freelancing contracts starting around Christmas time and ending the first week of February so that we could start our trip without work obligations and settle into Japan at our own pace.
 
@@ -38,7 +38,7 @@ We also decided to take a break from our current freelancing contracts starting 
 
 I couldn’t wait to get started, so I fired up Sketch and began making some initial designs to get the creative juices flowing.
 
-![](/uploads/design.jpg)
+<img src="/uploads/design.jpg" class="expanded" />
 <span class="caption">The first design iteration of the Transactions page based on the layout of our spreadsheet</span>
 
 # December 2018: Programming Kick-off
@@ -53,15 +53,15 @@ Prior to starting, I wanted to set a clear goal in case I lose track. <span clas
 
 Justin and I are both the type of people who will happily stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. We both get really into what we’re doing at the moment. For me this is an incredibly elusive feeling and a mode in which I can hammer out a bunch of work and feel like a million bucks after.
 
-The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that would best set ourselves up for overall success.</span>
+The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
 
 ## Fitness
 
-The first thing we did after moving into our apartment was look for a neighbourhood gym. It was important to make sure we kept our fitness regimen knowing we would be spending a considerable amount of time in front of the computer every day. Also, we were living in the land of ramen noodles and we knew we would be trying lots of new food and eating a lot!
+The first thing we did after moving into our apartment was look for a neighbourhood gym. It was crucial that we kept our fitness regimen since we would be spending a considerable amount of time in front of the computer every day. Also, we were living in the land of ramen noodles and we knew we would be trying lots of new food and eating a lot!
 
 ## Cooking
 
-I was really looking forward to cooking more Japanese cuisine and experimenting with ingredients that are not as readily available or affordable in Toronto. We are also used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
+I knew from the beginning that I wanted to learn Japanese cuisine and experiment with ingredients that are not as readily available or affordable in Toronto. We are already used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
 
 ## Language learning
 
@@ -77,7 +77,7 @@ It was very sad at first, but ultimately it was a huge blessing that the Start-U
 
 <span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was glorious and Justin immediately filed a handful of bugs. Perfect!
 
-I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to 7:30am mornings, we were getting up at much later hours in the day.
+I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
 
 # March 2019 and April 2019: Final stretches
 
@@ -85,77 +85,77 @@ By contrast, March and April were much busier since both our parents visited and
 
 ## Milestones
 
-By this point, Justin and I are using Lunch Money every day and it has very much become part of our routine now! The spreadsheet, which had served us very well for over a year, officially became a thing of the past.
+By this point, Justin and I are using Lunch Money every day and it has very much become part of our routine now! The spreadsheet, which had served us very well for over a year, officially retired.
 
 ![](/uploads/chart.svg)
 
-During my time in Japan, I was able to spend <span class="highlight">215 hours coding Lunch Money</span> while <span class="highlight">going to the gym 41 times during the 83 days</span> we were in town and signed up, and we also <span class="highlight">cooked two-thirds of our meals at home.</span> <i>Yes, I keep tabs on everything.</i>
+During my time in Japan, I was able to spend <span class="highlight">215 hours working on Lunch Money</span> while <span class="highlight">going to the gym 41 times during the 83 days</span> we were in town and signed up, and we also <span class="highlight">cooked two-thirds of our meals at home</span>. <i>Yes, I keep tabs on everything.</i>
 
 # Reflection: The Hard Parts
 
 ## Losing motivation
 
-Inevitably, I would lose motivation. I wondered often why I was even doing this in the first place. Who would even use it? When you’re a one-person team working on everything from design to coding to marketing, you’re supposed to carry knowledge of the grand vision all the way down to the name of every individual variable. It's easy to lose sight of the motivation when you're knee deep in bugs and code and sometimes hard to see the light at the end of a tunnel on a day when you feel you weren't as productive as you should have been. <span class="highlight">Shout out to my husband for periodically reigniting my fire!</span>
+When you’re a one-person team working on everything from design to coding and everything around and in between, you’re supposed to carry knowledge of the grand vision all the way down to the name of every individual variable. It's easy to lose sight of the reason you're doing this when you're knee deep in tasks and bugs. The worst is when I spend an entire afternoon in front of the computer and leave feeling like I wasn't as productive as I should have been. However, this usually passes with a little pep talk from Justin. <span class="highlight">Shout out to my husband for periodically reigniting my fire!</span>
 
 ## "Proper" use of time abroad
 
-I sometimes questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? Part of me often wanted to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
+I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? I would sometimes try to to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
 
-But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is something that is fun, luxurious, and normally out-of-reach to us.
+But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
-In the end, we are not leaving Fukuoka as strangers to the city. We saved a lot of the sightseeing and day trips for when my parents visited which ended up being a fantastic decision since we were able to share all the joys of new discoveries together. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We did what makes us happy and <span class="highlight">it comforts me knowing that regardless of what that might be, we are growing and learning continuously</span>!
+I eventually realized these feelings showed that for whatever reason, I was much too concerned about what people were thinking of us. 
+
+In the end, we are not leaving Fukuoka as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
 
 # Reflection: The Good Parts
 
-## Getting organized on my own
+## Getting organized and going at my own pace
 
-I loved being able to start a big project from scratch and figuring out the best ways to organize everything from notes to tasks to time tracking. To keep track of features and bugs, I used <a href="https://asana.com" target="_blank">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="http://try.hrv.st/2-104977" target="_blank">Harvest</a> which I highly recommend for its ease of use and beautiful design.
+I loved being able to start a big project from scratch and figuring out the best ways to stay organized. This helped keep everything sorted and prioritized properly which in turn keeps my mental energy up. To keep track of features and bugs, I used <a href="https://asana.com" target="_blank">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="http://try.hrv.st/2-104977" target="_blank">Harvest</a> which I highly recommend for its ease of use and beautiful design.
 
-## Going at my own pace
-
-Although it was overwhelming how much I had to do on top of the basic coding (adding analytics, error tracking, log tracking, setting up domains and e-mails, figuring out branding, etc), I enjoyed having such varying tasks. For instance, it was nice to have something completely unrelated to programming that I could do whenever I got mentally exhausted from staring at code.
+Although it was overwhelming how much I had to do on top of the basic coding (design from branding to icons, analytics, error tracking, admin stuff like domains and e-mails, etc), I enjoyed having such varying tasks. For instance, it was nice to have something completely unrelated to programming that I could do whenever I got exhausted from staring at code.
 
 ## Getting help from the technical hubby
 
-Justin helped me a lot by lending a hand with parts I’m weak at. He's saved my butt a few times helping me properly set up my environments, fix my error tracking, and he even wrote my currency rate fetching script!
+I am so lucky that the areas in which I am weakest or find the most tedious (dev ops-related stuff, mostly) happen to be among Justin's favorite technical challenges. He's saved my butt a few times by helping me properly set up my environments, fix my error tracking, and he even wrote my daily currency rate fetching script!
 
 # Lunch Money: How it's different
 
-On to the app! There are 3 key differences from other major budgeting apps that were core to our spreadsheet and very important to us and our lifestyle.
+On to the app! There are 3 key features and concepts that were core to our spreadsheet.
 
 ## Multi-currency supported natively
 
-Multicurrency support is a non-negotiable to us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
+Multicurrency support is a non-negotiable for us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
 
-![](/uploads/transactions.jpg)
+<img src="/uploads/transactions.jpg" class="expanded" />
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
 
-Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates.
+Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates. You can even set your budget in one currency while tracking spending in many others and it will all work correctly and seamlessly!
 
 ## Recurring expenses are not part of the budget!
 
-It never made sense to me why other budgeting apps make you include your recurring expenses in the monthly budget. If you know that every month, you’ll be paying exactly whatever amount for a Netflix subscription, gym membership and car insurance, why carry the mental burden of categorizing and remembering those amounts for your budget every month?
+Most budgeting apps treat your recurring expenses like any other transaction by categorizing and tracking them in the monthly budget. However, these are charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
 
-We recognized this when we were doing our spreadsheet, so I created a Recurring Expenses sheet that kept track of our monthly and annual expenses. I really like this system because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
+In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
 
-![](/uploads/recurring.jpg)
-<span class="caption">Recurring expenses show up in their own page so you can easily see your minimum monthly expenditures</span>
+<img src="/uploads/recurring.jpg" class="expanded" />
+<span class="caption">Recurring expenses allow you to easily see your minimum monthly expenditures</span>
 
-In Lunch Money, recurring expenses are not categorized and show up as a separate type of transaction. If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
+If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses!
 
 ## Re-budget every month with last month's data
 
-I don’t like the concept of rolling over budgets because <span class="highlight">I believe that we should be building good habits rather than trying to cover up bad ones</span>!
+I don’t like the concept of rolling over budgets because <span class="highlight">I believe  we should be building good habits rather than trying to cover up bad ones</span>! 
 
-Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should be more prudent going forward.
+Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
-![](/uploads/budget.jpg)
+<img src="/uploads/budget.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
-We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is something that gets better with time! It will take a while, and <span class="highlight">along the way you will strengthen your ability to predict and anticipate future spending</span>.
+We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
 
 # Sign up for beta
 
-What I am looking for now are friends and strangers alike who are interested in a new budgeting solution, and ideally those who would find the multi-currency feature useful and have banking institutions in Canada and America. I am excited to see where Lunch Money could go and what others think of it!
+What I am looking for are friends and strangers alike who are interested in a new budgeting solution. Ideally, they would find the multi-currency feature useful, have banking institutions in Canada and/or America and would be willing to provide continuous feedback. I am excited to see where Lunch Money could go and what others think of it!
 
 If you made it this far and like what you see, please <a href="https://money.lunchbag.ca">sign up for the beta</a> which will likely be ready around the beginning of June.
