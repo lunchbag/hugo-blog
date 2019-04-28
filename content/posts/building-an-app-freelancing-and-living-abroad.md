@@ -9,7 +9,7 @@ title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 +++
 <p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta here</a> or keep reading for the story, process, and motivation behind this.</p>
 
-Last August, Justin and I booked our round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while working as freelance software engineers.
+Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while working as freelance software engineers.
 
 <!-- At the time, I was working as a <a href="https://lunchbag.dev">freelance software engineer</a> and Justin was about to quit his full-time job to transition into freelancing as well. This would mark the culmination of a plan we had set in motion a few months prior– we knew that if we were going to be living abroad for a considerable amount of time, we had to plan our income streams around that and the best solution was for us both to be working temporary contracts remotely. -->
 
