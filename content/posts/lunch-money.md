@@ -151,7 +151,7 @@ Justin and I’s end-of-the-month routine revolves around setting the next month
 <img src="/uploads/budget3.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
-We also consider upcoming events that might need some extra budgeting. For example, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
+We also consider upcoming events that might need some extra budgeting. For example, a friend's wedding would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
 
 # Sign up for beta
 
