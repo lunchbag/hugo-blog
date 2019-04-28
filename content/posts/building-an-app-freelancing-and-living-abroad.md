@@ -11,8 +11,6 @@ title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 
 Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while freelancing.
 
-<!-- At the time, I was working as a <a href="https://lunchbag.dev">freelance software engineer</a> and Justin was about to quit his full-time job to transition into freelancing as well. This would mark the culmination of a plan we had set in motion a few months prior– we knew that if we were going to be living abroad for a considerable amount of time, we had to plan our income streams around that and the best solution was for us both to be working temporary contracts remotely. -->
-
 We knew that leaving a familiar place for such a long time would force us to wrap up everything we had going on currently. Ideally, when we arrive to our new home, we would start with a mostly free calendar to focus on whatever we want.
 
 <span class="highlight">So, that "whatever we want" for me ended up being an app that I have been itching to develop for a while.</span>
@@ -99,11 +97,11 @@ When you’re a one-person team working on everything from design to coding and 
 
 ## "Proper" use of time abroad
 
-I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? I would sometimes try to to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
+I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? 
 
-But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
+It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
-I eventually realized these feelings showed that for whatever reason, I was much too concerned about what people were thinking of us. 
+I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
 In the end, we are not leaving Fukuoka as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
 
