@@ -27,7 +27,7 @@ The story starts way back to when Justin and I moved to Toronto to start our lif
 
 We are about 3 months from our departure date and going through a small crisis trying to figure out exactly how we were going to pass our time abroad. Beyond our travel dates and work situation, we had no plan for what we would actually be doing; we just knew we wanted to use this time away to accelerate our personal growth. Some ideas we had that did not materialize included getting into calligraphy, learning some form of martial arts, joining some local sports league, and taking online courses in something we were interested in, like digital animation.
 
-On a trip to visit Justins’ family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">This catalyzed the decision to build the app version and I resolved to work on it while in Japan.</span>
+On a trip to visit Justin’s family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">This catalyzed the decision to build the app version and I resolved to work on it while in Japan.</span>
 
 We also decided to take a break from our current freelancing contracts starting around Christmas time and ending the first week of February so that we could start our trip without work obligations and settle into Japan at our own pace.
 
