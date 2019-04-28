@@ -41,7 +41,7 @@ I couldn’t wait to get started, so I fired up Sketch and began making some ini
 
 # December 2018: Programming Kick-off
 
-I decided to start programming during the Christmas break. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="_blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
+I started programming during the Christmas break, a week before leaving for Japan. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="_blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
 
 I was pretty excited to get into Typescript– I’d heard a lot of good things but the opportunity to use it just hadn't come up. I was also curious about what it would be like to work with a UI framework like Semantic and excited at the idea that it would save me a lot of time and CSS-induced headaches. It was nice that I would be learning something new with this project! This is important because if I spend a considerable amount of time on this and it falls flat, I will at least have an up-to-date skill set.
 
@@ -49,9 +49,9 @@ Prior to starting, I wanted to set a clear goal in case I lose track. <span clas
 
 # January 2019: The Arrival and Settling into a Routine
 
-Justin and I are both the type of people who will happily stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. We both get really into what we’re doing at the moment. For me this is an incredibly elusive feeling and a mode in which I can hammer out a bunch of work and feel like a million bucks after.
+Once in a blue moon, I initiate a project that absolutely consumes me. Actually, Justin and I are both the type of people who can stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. For me, this is an incredibly elusive high and a mode in which I can hammer out a bunch of work and feel like a million bucks after. It is definitely a feeling that I long for especially after a long bout of comparitively monotonous work, and excitedly, I knew it would overtake us in Japan with this new undertaking.
 
-The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
+The danger, however, is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
 
 ## Fitness
 
