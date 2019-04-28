@@ -67,13 +67,13 @@ Since we were going to be living in a foreign city that doesn't see many Western
 
 # February 2019: Running on nitro
 
-February was by far the most productive month, clocking in about 88 hours of work on Lunch Money. It was our first full month in Fukuoka and we had very minimal external obligations. We also found a free co-working space ("the Start-up Cafe") that we ended up holing ourselves in nearly every day for at least a couple of hours. At the end of February, The Start-Up Cafe closed for renovations and would not re-open until after we leave Japan.
+February was by far the most productive month, clocking in about 88 hours of work on Lunch Money. It was our first full month in Fukuoka and we had very minimal external obligations. We also found a free co-working space (<a href="https://startupcafe.jp/en/startup-cafe/" target="_blank">The Startup Cafe</a>) that we ended up holing ourselves in nearly every day for at least a couple of hours. At the end of February, The Startup Cafe closed for renovations and would not re-open until after we leave Japan.
 
-It was very sad at first, but ultimately it was a huge blessing that the Start-Up Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffees in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
+It was very sad at first, but ultimately it was a blessing that the Startup Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffees in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
 
 ## Milestones
 
-<span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was glorious and Justin immediately filed a handful of bugs. Perfect!
+<span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was a glorious feeling and Justin immediately filed a handful of bugs. Perfect!
 
 I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
 
@@ -135,7 +135,7 @@ Transactions are tracked in their native currency. For example, a transaction fr
 
 Most budgeting apps treat your recurring expenses like any other transaction by categorizing and tracking them in the monthly budget. However, these are charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
 
-In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
+In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this system because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
 
 <img src="/uploads/recurring.jpg" class="expanded" />
 <span class="caption">Recurring expenses allow you to easily see your minimum monthly expenditures</span>
