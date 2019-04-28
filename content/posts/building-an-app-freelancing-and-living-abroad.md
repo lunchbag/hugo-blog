@@ -122,7 +122,7 @@ I am so lucky that the areas in which I am weakest or find the most tedious (dev
 <a name="features"></a>
 # Lunch Money: How it's different
 
-On to the app! There are 3 key features and concepts that were core to our spreadsheet.
+On to the app! I will expand on the 3 key concepts core to our spreadsheet that I've adapted into the app.
 
 ## Multi-currency supported natively
 
