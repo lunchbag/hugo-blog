@@ -109,17 +109,15 @@ In the end, we are not leaving Fukuoka as strangers to the city. Justin and I ef
 
 # Reflection: The Good Parts
 
-## Getting organized on my own
+## Getting organized and going at my own pace
 
-I loved being able to start a big project from scratch and figuring out the best ways to organize everything from notes to tasks to time tracking. To keep track of features and bugs, I used <a href="https://asana.com" target="_blank">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="http://try.hrv.st/2-104977" target="_blank">Harvest</a> which I highly recommend for its ease of use and beautiful design.
+I loved being able to start a big project from scratch and figuring out the best ways to stay organized. This helped keep everything sorted and prioritized properly which in turn keeps my mental energy up. To keep track of features and bugs, I used <a href="https://asana.com" target="_blank">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="http://try.hrv.st/2-104977" target="_blank">Harvest</a> which I highly recommend for its ease of use and beautiful design.
 
-## Going at my own pace
-
-Although it was overwhelming how much I had to do on top of the basic coding (adding analytics, error tracking, design, setting up domains and e-mails, figuring out branding, etc), I enjoyed having such varying tasks. For instance, it was nice to have something completely unrelated to programming that I could do whenever I got mentally exhausted from staring at code.
+Although it was overwhelming how much I had to do on top of the basic coding (design from branding to icons, analytics, error tracking, admin stuff like domains and e-mails, etc), I enjoyed having such varying tasks. For instance, it was nice to have something completely unrelated to programming that I could do whenever I got exhausted from staring at code.
 
 ## Getting help from the technical hubby
 
-Justin helped me a lot by lending a hand with parts I’m weak at. He's saved my butt a few times helping me properly set up my environments, fix my error tracking, and he even wrote my currency rate fetching script!
+I am so lucky that the areas in which I am weakest or find the most tedious (dev ops-related stuff, mostly) happen to be among Justin's favorite technical challenges. He's saved my butt a few times by helping me properly set up my environments, fix my error tracking, and he even wrote my daily currency rate fetching script!
 
 # Lunch Money: How it's different
 
@@ -132,29 +130,29 @@ Multicurrency support is a non-negotiable for us because we have money in both A
 <img src="/uploads/transactions.jpg" class="expanded" />
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
 
-Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates.
+Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates. You can even set your budget in one currency while tracking spending in many others and it will all work correctly and seamlessly!
 
 ## Recurring expenses are not part of the budget!
 
-Most budgeting apps treat your recurring expenses like any other transaction and make you include them in the monthly budget. However, these are static charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
+Most budgeting apps treat your recurring expenses like any other transaction by categorizing and tracking them in the monthly budget. However, these are charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
 
-In Lunch Money, recurring expenses are not categorized. They show up as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
+In Lunch Money, recurring expenses show as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it can tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first place to look.
 
 <img src="/uploads/recurring.jpg" class="expanded" />
 <span class="caption">Recurring expenses allow you to easily see your minimum monthly expenditures</span>
 
-If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
+If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses!
 
 ## Re-budget every month with last month's data
 
-I don’t like the concept of rolling over budgets because <span class="highlight">I believe that we should be building good habits rather than trying to cover up bad ones</span>! 
+I don’t like the concept of rolling over budgets because <span class="highlight">I believe  we should be building good habits rather than trying to cover up bad ones</span>! 
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
 <img src="/uploads/budget.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
-We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time! <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
+We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
 
 # Sign up for beta
 
