@@ -95,17 +95,17 @@ During my time in Japan, I was able to spend <span class="highlight">215 hours w
 
 ## Losing motivation
 
-Inevitably, I would lose motivation. I wondered often why I was even doing this in the first place. Who would even use it? When you’re a one-person team working on everything from design to coding to marketing, you’re supposed to carry knowledge of the grand vision all the way down to the name of every individual variable. It's easy to lose sight of the motivation when you're knee deep in bugs and code and sometimes hard to see the light at the end of a tunnel on a day when you feel you weren't as productive as you should have been. <span class="highlight">Shout out to my husband for periodically reigniting my fire!</span>
+When you’re a one-person team working on everything from design to coding and everything around and in between, you’re supposed to carry knowledge of the grand vision all the way down to the name of every individual variable. It's easy to lose sight of the reason you're doing this when you're knee deep in tasks and bugs. The worst is when I spend an entire afternoon in front of the computer and leave feeling like I wasn't as productive as I should have been. However, this usually passes with a little pep talk from Justin. <span class="highlight">Shout out to my husband for periodically reigniting my fire!</span>
 
 ## "Proper" use of time abroad
 
 I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? I would sometimes try to to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
 
-But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is something that is fun, luxurious, and normally out-of-reach for us.
+But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
 I eventually realized these feelings showed that for whatever reason, I was much too concerned about what people were thinking of us. 
 
-In the end, we are not leaving Fukuoka as strangers to the city. We saved a lot of the sightseeing and day trips for when my parents visited which ended up being a fantastic decision since we were able to share all the joys of new discoveries together. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place.
+In the end, we are not leaving Fukuoka as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
 
 # Reflection: The Good Parts
 
@@ -123,7 +123,7 @@ Justin helped me a lot by lending a hand with parts I’m weak at. He's saved my
 
 # Lunch Money: How it's different
 
-On to the app! There are 3 key differences from other major budgeting apps that were core to our spreadsheet and very important to us and our lifestyle.
+On to the app! There are 3 key features and concepts that were core to our spreadsheet.
 
 ## Multi-currency supported natively
 
