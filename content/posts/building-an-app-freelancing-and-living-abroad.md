@@ -136,25 +136,25 @@ Transactions are tracked in their native currency. For example, a transaction fr
 
 ## Recurring expenses are not part of the budget!
 
-It never made sense to me why other budgeting apps make you include your recurring expenses in the monthly budget. If you know that every month, you’ll be paying exactly whatever amount for a Netflix subscription, gym membership and car insurance, why carry the mental burden of categorizing and remembering those amounts for your budget every month?
+Most budgeting apps treat your recurring expenses like any other transaction and make you include them in the monthly budget. However, these are static charges that will not change month-to-month and there is very little value in categorizing and budgeting for those amounts as if they are adjustable!
 
-We recognized this when we were doing our spreadsheet, so I created a Recurring Expenses sheet that kept track of our monthly and annual expenses. I really like this system because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
+In Lunch Money, recurring expenses are not categorized. They show up as a separate type of transaction and are managed on their own page. I really like this separation because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
 
 <img src="/uploads/recurring.jpg" class="expanded" />
-<span class="caption">Recurring expenses show up in their own page so you can easily see your minimum monthly expenditures</span>
+<span class="caption">Recurring expenses allow you to easily see your minimum monthly expenditures</span>
 
-In Lunch Money, recurring expenses are not categorized and show up as a separate type of transaction. If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
+If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
 
 ## Re-budget every month with last month's data
 
-I don’t like the concept of rolling over budgets because <span class="highlight">I believe that we should be building good habits rather than trying to cover up bad ones</span>!
+I don’t like the concept of rolling over budgets because <span class="highlight">I believe that we should be building good habits rather than trying to cover up bad ones</span>! 
 
-Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should be more prudent going forward.
+Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
 <img src="/uploads/budget.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
-We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is something that gets better with time! It will take a while, and <span class="highlight">along the way you will strengthen your ability to predict and anticipate future spending</span>.
+We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time! <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
 
 # Sign up for beta
 
