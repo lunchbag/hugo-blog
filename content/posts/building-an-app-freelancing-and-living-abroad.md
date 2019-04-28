@@ -119,8 +119,7 @@ Although it was overwhelming how much I had to do on top of the basic coding (de
 
 I am so lucky that the areas in which I am weakest or find the most tedious (dev ops-related stuff, mostly) happen to be among Justin's favorite technical challenges. He's saved my butt a few times by helping me properly set up my environments, fix my error tracking, and he even wrote my daily currency rate fetching script!
 
-<a name="#features"></a>
-# Lunch Money: How it's different
+<a name="#features">Lunch Money: How it's different</a>
 
 On to the app! There are 3 key features and concepts that were core to our spreadsheet.
 
