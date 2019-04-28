@@ -127,7 +127,7 @@ On to the app! There are 3 key features and concepts that were core to our sprea
 
 ## Multi-currency supported natively
 
-Multicurrency support is a non-negotiable to us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
+Multicurrency support is a non-negotiable for us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
 
 <img src="/uploads/transactions.jpg" class="expanded" />
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
