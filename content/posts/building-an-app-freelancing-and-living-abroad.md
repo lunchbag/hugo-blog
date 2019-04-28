@@ -38,7 +38,7 @@ We also decided to take a break from our current freelancing contracts starting 
 
 I couldn’t wait to get started, so I fired up Sketch and began making some initial designs to get the creative juices flowing.
 
-![](/uploads/design.jpg)
+<img src="/uploads/design.jpg" class="expanded" />
 <span class="caption">The first design iteration of the Transactions page based on the layout of our spreadsheet</span>
 
 # December 2018: Programming Kick-off
@@ -127,7 +127,7 @@ On to the app! There are 3 key differences from other major budgeting apps that 
 
 Multicurrency support is a non-negotiable to us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
 
-![](/uploads/transactions.jpg)
+<img src="/uploads/transactions.jpg" class="expanded" />
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
 
 Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates.
@@ -138,7 +138,7 @@ It never made sense to me why other budgeting apps make you include your recurri
 
 We recognized this when we were doing our spreadsheet, so I created a Recurring Expenses sheet that kept track of our monthly and annual expenses. I really like this system because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
 
-![](/uploads/recurring.jpg)
+<img src="/uploads/recurring.jpg" class="expanded" />
 <span class="caption">Recurring expenses show up in their own page so you can easily see your minimum monthly expenditures</span>
 
 In Lunch Money, recurring expenses are not categorized and show up as a separate type of transaction. If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
@@ -149,7 +149,7 @@ I don’t like the concept of rolling over budgets because <span class="highligh
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should be more prudent going forward.
 
-![](/uploads/budget.jpg)
+<img src="/uploads/budget.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
 We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is something that gets better with time! It will take a while, and <span class="highlight">along the way you will strengthen your ability to predict and anticipate future spending</span>.
