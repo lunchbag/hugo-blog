@@ -13,9 +13,9 @@ Last August, Justin and I booked our round-trip tickets from Toronto to Asia lea
 
 <!-- At the time, I was working as a <a href="https://lunchbag.dev">freelance software engineer</a> and Justin was about to quit his full-time job to transition into freelancing as well. This would mark the culmination of a plan we had set in motion a few months prior– we knew that if we were going to be living abroad for a considerable amount of time, we had to plan our income streams around that and the best solution was for us both to be working temporary contracts remotely. -->
 
-We knew that leaving a familiar place for such a long time would force us to wrap up everything we had going on currently. Ideally, when we arrive to our new home, we would start with an largely empty calendar to focus on whatever we want.
+We knew that leaving a familiar place for such a long time would force us to wrap up everything we had going on currently. Ideally, when we arrive to our new home, we would start with a mostly free calendar to focus on whatever we want.
 
-<span class="highlight">So, that "whatever we want" for me ended up being an app that I have been wanting to develop for almost a year now.</span>
+<span class="highlight">So, that "whatever we want" for me ended up being an app that I have been thinking of developing for a while now.</span>
 
 This is the story of my journey in creating this app from scratch and how it fit in with other commitments such as freelancing, living/traveling abroad, learning Japanese, and hosting our visiting friends and family.
 
