@@ -99,7 +99,7 @@ Inevitably, I would lose motivation. I wondered often why I was even doing this 
 
 ## "Proper" use of time abroad
 
-I sometimes questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? Part of me often wanted to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
+I sometimes questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending almost all our time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? I would often try to to de-glorify our travels abroad because I felt guilty for not doing more "fun" things that were typical of a vacation.
 
 But this wasn't a vacation! It was a challenge to explain our situation to people and equally difficult to convey that we were having a great time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is something that is fun, luxurious, and normally out-of-reach to us.
 
