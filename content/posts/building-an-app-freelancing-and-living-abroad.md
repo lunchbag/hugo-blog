@@ -97,13 +97,13 @@ When you’re a one-person team working on everything from design to coding and 
 
 ## "Proper" use of time abroad
 
-I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending a lot of time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here? 
+I occasionally questioned how we were spending our time. We were in an enviable situation living in a new country with much to discover yet we were spending a lot of time working on our computers. Was that pretty lame? Was it considered squandering our opportunity here?
 
 It was a challenge to explain our situation to people and equally difficult to convey that we were having an excellent time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
 I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
-In the end, we are not leaving as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
+In the end, we are not leaving as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together.
 
 # Reflection: The Good Parts
 
@@ -118,6 +118,7 @@ Although it was overwhelming how much I had to do on top of the basic coding (de
 I am so lucky that the areas in which I am weakest or find the most tedious (dev ops-related stuff, mostly) happen to be among Justin's favorite technical challenges. He's saved my butt a few times by helping me properly set up my environments, fix my error tracking, and he even wrote my daily currency rate fetching script!
 
 <a name="features"></a>
+
 # Lunch Money: How it's different
 
 On to the app! I will expand on the 3 key concepts core to our spreadsheet that I've adapted into the app.
@@ -144,11 +145,11 @@ If you connect your bank accounts to Lunch Money, we will automatically detect w
 
 ## Re-budget every month with last month's data
 
-I don’t like the concept of rolling over budgets because <span class="highlight">I believe  we should be building good habits rather than trying to cover up bad ones</span>! 
+I don’t like the concept of rolling over budgets because <span class="highlight">I believe  we should be building good habits rather than trying to cover up bad ones</span>!
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
-<img src="/uploads/budget.jpg" class="expanded" />
+![](/uploads/budget.jpg)
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
 We also consider upcoming events that might need some extra budgeting. For example, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
