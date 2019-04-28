@@ -15,22 +15,23 @@
 </script>
 
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" /> {{- if
-eq .URL "/" }}
-<meta name="description" content="{{ .Site.Params.Description }}" /> {{- else if
-.Description }} <meta name="description" content="{{ .Description }}" /> {{- end
-}} <meta content="{{ delimit .Keywords ", " }}" name="keywords"> {{ partial
-"seo-schema" . }}
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{{- if eq .URL "/" }}
+<meta name="description" content="{{ .Site.Params.Description }}" />
+{{- else if .Description }}
+<meta name="description" content="{{ .Description }}" />
+{{- end }}
+<meta content="{{ delimit .Keywords ", " }}" name="keywords">
+{{ partial "seo-schema" . }}
 <title>
-  {{- if eq .URL "/" }} {{ .Site.Title }} {{- else }} {{ .Title }} &middot; {{
-  .Site.Title }} {{- end }}
+  {{- if eq .URL "/" }} {{ .Site.Title }} {{- else }} {{ .Title }} &middot; {{ .Site.Title }} {{- end }}
 </title>
 
-{{- $inServerMode := .Site.IsServer }} {{- $cssTarget := "css/style.css" }} {{-
-$cssOptions := cond ($inServerMode) (dict "targetPath" $cssTarget
-"enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle"
-"compressed") }} {{- $style := resources.Get "scss/index.scss" | toCSS
-$cssOptions }} <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+{{- $inServerMode := .Site.IsServer }}
+{{- $cssTarget := "css/style.css" }}
+{{- $cssOptions := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
+{{- $style := resources.Get "scss/index.scss" | toCSS $cssOptions }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 <link
   rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Inconsolata|Montserrat:700|Karla:400,700|Merriweather:300, 800, 900|Source+Sans+Pro:300,700,900|Nunito:300|Roboto+Slab:300,400,700|Amiri:400i"
