@@ -53,15 +53,15 @@ Prior to starting, I wanted to set a clear goal in case I lose track. <span clas
 
 Justin and I are both the type of people who will happily stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. We both get really into what we’re doing at the moment. For me this is an incredibly elusive feeling and a mode in which I can hammer out a bunch of work and feel like a million bucks after.
 
-The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that would best set ourselves up for overall success.</span>
+The danger to this is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
 
 ## Fitness
 
-The first thing we did after moving into our apartment was look for a neighbourhood gym. It was important to make sure we kept our fitness regimen knowing we would be spending a considerable amount of time in front of the computer every day. Also, we were living in the land of ramen noodles and we knew we would be trying lots of new food and eating a lot!
+The first thing we did after moving into our apartment was look for a neighbourhood gym. It was crucial that we kept our fitness regimen since we would be spending a considerable amount of time in front of the computer every day. Also, we were living in the land of ramen noodles and we knew we would be trying lots of new food and eating a lot!
 
 ## Cooking
 
-I knew from the beginning that I wanted to learn Japanese cuisine and experiment with ingredients that are not as readily available or affordable in Toronto. We are also used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
+I knew from the beginning that I wanted to learn Japanese cuisine and experiment with ingredients that are not as readily available or affordable in Toronto. We are already used to cooking at home, so we were looking forward to keeping that up while abroad since it's generally the more frugal and healthier option.
 
 ## Language learning
 
@@ -85,7 +85,7 @@ By contrast, March and April were much busier since both our parents visited and
 
 ## Milestones
 
-By this point, Justin and I are using Lunch Money every day and it has very much become part of our routine now! The spreadsheet, which had served us very well for over a year, officially became a thing of the past.
+By this point, Justin and I are using Lunch Money every day and it has very much become part of our routine now! The spreadsheet, which had served us very well for over a year, officially retired.
 
 ![](/uploads/chart.svg)
 
