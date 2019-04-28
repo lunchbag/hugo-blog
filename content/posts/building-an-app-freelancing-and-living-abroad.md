@@ -89,7 +89,7 @@ By this point, Justin and I are using Lunch Money every day and it has very much
 
 ![](/uploads/chart.svg)
 
-During my time in Japan, I was able to spend <span class="highlight">215 hours coding Lunch Money</span> while <span class="highlight">going to the gym 41 times during the 83 days</span> we were in town and signed up, and we also <span class="highlight">cooked two-thirds of our meals at home.</span> <i>Yes, I keep tabs on everything.</i>
+During my time in Japan, I was able to spend <span class="highlight">215 hours working on Lunch Money</span> while <span class="highlight">going to the gym 41 times during the 83 days</span> we were in town and signed up, and we also <span class="highlight">cooked two-thirds of our meals at home</span>. <i>Yes, I keep tabs on everything.</i>
 
 # Reflection: The Hard Parts
 
