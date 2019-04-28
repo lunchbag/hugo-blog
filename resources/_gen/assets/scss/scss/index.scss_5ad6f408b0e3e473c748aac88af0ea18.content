@@ -115,6 +115,8 @@ body {
         font-size: 2rem; } }
   #g-post h1 {
     margin-top: 64px; }
+  #g-post h1 {
+    font-family: "Roboto Slab"; }
   #g-post h2,
   #g-post h3 {
     font-family: "Roboto Slab";
@@ -131,6 +133,9 @@ body {
     @media (max-width: 600px) {
       #g-post h3 {
         font-size: 1.2rem; } }
+  #g-post b,
+  #g-post strong {
+    font-weight: 900; }
   #g-post .post-info {
     text-align: center;
     margin-top: 18px;
@@ -158,6 +163,9 @@ body {
       #g-post ol {
         font-size: 1rem;
         line-height: 2rem; } }
+  #g-post span.highlight {
+    padding: 2px 2px;
+    background-color: #fff71c; }
   #g-post p.tip {
     position: relative;
     background-color: #f42c56;
@@ -180,7 +188,11 @@ body {
     margin: 32px auto;
     position: relative;
     width: 100%;
-    z-index: -1; }
+    z-index: -1;
+    border: 1px solid #eee; }
+    #g-post img.expanded {
+      width: 140% !important;
+      left: -20%; }
     #g-post img + span.credit {
       font-family: "Inconsolata";
       font-size: 1rem;
@@ -204,6 +216,10 @@ body {
         right: 0;
         border-width: 0.7em 0 0 0.7em;
         border-color: transparent #08a3bd transparent #08a3bd; }
+    #g-post img.expanded + span.credit {
+      right: calc(-20% - 12px); }
+    #g-post img:not(.expanded) + span.credit {
+      right: -12px; }
     #g-post img + span.caption,
     #g-post img + span.credit + span.caption {
       font-family: "Inconsolata";
@@ -234,16 +250,15 @@ body {
     padding-top: 16px;
     margin-top: 64px; }
   #g-post a {
-    padding: 0 3px;
+    padding: 0;
     position: relative;
-    color: #21e0ff;
+    color: #333;
     font-weight: bold;
     text-decoration: none;
     z-index: 1;
-    display: inline-block; }
+    border-bottom: 3px solid #21e0ff; }
   #g-post a:hover {
-    background-color: #21e0ff;
-    color: #fff;
+    color: #000;
     border-bottom: 0; }
   #g-post p.tip a {
     color: #fff;
