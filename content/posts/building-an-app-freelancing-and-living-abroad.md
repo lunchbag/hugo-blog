@@ -9,7 +9,7 @@ title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 +++
 <p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta here</a> or keep reading for the story, process, and motivation behind this.</p>
 
-Last August, Justin and I booked our round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka">live in Japan</a> for the majority of our time abroad while working as freelance software engineers.
+Last August, Justin and I booked our round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while working as freelance software engineers.
 
 <!-- At the time, I was working as a <a href="https://lunchbag.dev">freelance software engineer</a> and Justin was about to quit his full-time job to transition into freelancing as well. This would mark the culmination of a plan we had set in motion a few months prior– we knew that if we were going to be living abroad for a considerable amount of time, we had to plan our income streams around that and the best solution was for us both to be working temporary contracts remotely. -->
 
@@ -23,7 +23,7 @@ This is the story of my journey in creating this app from scratch and how it fit
 
 The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually amounting to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget strained by our lack of expertise in spreadsheet formulas stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
 
-<img src="../images/lm/google-sheets.jpg" class="expanded"/>
+![](/uploads/google-sheets.jpg)
 <span class="credit">Redacted</span>
 
 # September 2018: Finding Purpose Abroad
@@ -38,12 +38,12 @@ We also decided to take a break from our current freelancing contracts starting 
 
 I couldn’t wait to get started, so I fired up Sketch and began making some initial designs to get the creative juices flowing.
 
-<img src="../images/lm/design.jpg" class="expanded"/>
+![](/uploads/design.jpg)
 <span class="caption">The first design iteration of the Transactions page based on the layout of our spreadsheet</span>
 
 # December 2018: Programming Kick-off
 
-I decided to start programming during the Christmas break. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
+I decided to start programming during the Christmas break. First step was to figure out my stack. I explored a few different ideas and eventually landed on a mix of new (Typescript, <a href="https://react.semantic-ui.com" target="_blank">Semantic UI</a>) and familiar (Node.js, React, PostgreSQL) technologies.
 
 I was pretty excited to get into Typescript– I’d heard a lot of good things but the opportunity to use it just hadn't come up. I was also curious about what it would be like to work with a UI framework like Semantic and excited at the idea that it would save me a lot of time and CSS-induced headaches. It was nice that I would be learning something new with this project! This is important because if I spend a considerable amount of time on this and it falls flat, I will at least have an up-to-date skill set.
 
@@ -65,7 +65,7 @@ I was really looking forward to cooking more Japanese cuisine and experimenting 
 
 ## Language learning
 
-Since we were going to be living in a foreign city that doesn't see many Western tourists, we agreed that we should learn enough basic Japanese to get by everyday life. We set aside time every day to practice Japanese via apps like Memrise, Lingodeer and Tandem in addition to going out to restaurants and coffee shops to try to make small talk with shop owners.
+Since we were going to be living in a foreign city that doesn't see many Western tourists, we agreed that we should learn enough basic Japanese to get by everyday life. We set aside time every day to practice Japanese via apps like <a href="https://www.memrise.com/" target="_blank">Memrise</a>, <a href="https://www.lingodeer.com/" target="_blank">Lingodeer</a> and <a href="https://www.tandem.net" target="_blank">Tandem</a> in addition to going out to restaurants and coffee shops to try to make small talk with shop owners.
 
 # February 2019: Running on nitro
 
@@ -87,7 +87,7 @@ By contrast, March and April were much busier since both our parents visited and
 
 By this point, Justin and I are using Lunch Money every day and it has very much become part of our routine now! The spreadsheet, which had served us very well for over a year, officially became a thing of the past.
 
-<img src="../images/lm/chart.svg"/>
+![](/uploads/chart.svg)
 
 During my time in Japan, I was able to spend <span class="highlight">215 hours coding Lunch Money</span> while <span class="highlight">going to the gym 41 times during the 83 days</span> we were in town and signed up, and we also <span class="highlight">cooked two-thirds of our meals at home.</span> <i>Yes, I keep tabs on everything.</i>
 
@@ -109,7 +109,7 @@ In the end, we are not leaving Fukuoka as strangers to the city. We saved a lot 
 
 ## Getting organized on my own
 
-I loved being able to start a big project from scratch and figuring out the best ways to organize everything from notes to tasks to time tracking. To keep track of features and bugs, I used <a href="https://asana.com">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="https://getharvest.com">Harvest</a> which I highly recommend for its ease of use and beautiful design.
+I loved being able to start a big project from scratch and figuring out the best ways to organize everything from notes to tasks to time tracking. To keep track of features and bugs, I used <a href="https://asana.com" target="_blank">Asana</a> religiously. For time-tracking on both Lunch Money and my contracting work, I used <a href="http://try.hrv.st/2-104977" target="_blank">Harvest</a> which I highly recommend for its ease of use and beautiful design.
 
 ## Going at my own pace
 
@@ -127,10 +127,10 @@ On to the app! There are 3 key differences from other major budgeting apps that 
 
 Multicurrency support is a non-negotiable to us because we have money in both American and Canadian banks and we like to keep track of our cash spending in local currencies when we are travelling. <span class="highlight">Lunch Money was designed from the beginning with multi-currency in mind.</a>
 
-<img src="../images/lm/transactions.jpg" class="expanded" />
+![](/uploads/transactions.jpg)
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
 
-Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA\$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates.
+Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates.
 
 ## Recurring expenses are not part of the budget!
 
@@ -138,7 +138,7 @@ It never made sense to me why other budgeting apps make you include your recurri
 
 We recognized this when we were doing our spreadsheet, so I created a Recurring Expenses sheet that kept track of our monthly and annual expenses. I really like this system because <span class="highlight">it’s able to tell us exactly how much money we need to simply get through the month</span>. If you need to cut spending, recurring expenses should be the first ones to consider.
 
-<img src="../images/lm/recurring.jpg" class="expanded" />
+![](/uploads/recurring.jpg)
 <span class="caption">Recurring expenses show up in their own page so you can easily see your minimum monthly expenditures</span>
 
 In Lunch Money, recurring expenses are not categorized and show up as a separate type of transaction. If you connect your bank accounts to Lunch Money, we will automatically detect which of your transactions are recurring expenses! This makes setting up your account easier.
@@ -149,7 +149,7 @@ I don’t like the concept of rolling over budgets because <span class="highligh
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should be more prudent going forward.
 
-<img src="../images/lm/budget.jpg" class="expanded" />
+![](/uploads/budget.jpg)
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
 We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is something that gets better with time! It will take a while, and <span class="highlight">along the way you will strengthen your ability to predict and anticipate future spending</span>.
