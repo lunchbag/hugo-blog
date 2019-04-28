@@ -23,7 +23,7 @@ This is the story of my journey in creating this app from scratch and how it fit
 
 The story starts way back to when Justin and I moved to Toronto to start our life together in October 2017. <span class="highlight">One of the first things we did was set up a budgeting spreadsheet.</span> It started off simple and innocent just tracking our daily transactions and eventually amounting to over 20 tabs and dozens of cross-sheet equations. Our routine and process strengthened while our DIY budget strained by our lack of expertise in spreadsheet formulas stagnated. As this was happening, the idea of turning it into an app, which would allow for more computational freedom, started to float around in my head.
 
-![](/uploads/google-sheets.jpg)
+<img src="/uploads/google-sheets.jpg" class="expanded" />
 <span class="credit">Redacted</span>
 
 # September 2018: Finding Purpose Abroad
