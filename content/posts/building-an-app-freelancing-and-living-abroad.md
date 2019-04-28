@@ -49,7 +49,7 @@ Prior to starting, I wanted to set a clear goal in case I lose track. <span clas
 
 # January 2019: The Arrival and Settling into a Routine
 
-Once in a blue moon, I initiate a project that absolutely consumes me. Actually, Justin and I are both the type of people who can stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. For me, this is an incredibly elusive high and a mode in which I can hammer out a bunch of work and feel like a million bucks after. It is definitely a feeling that I long for especially after a long bout of comparitively monotonous work, and excitedly, I knew it would overtake us in Japan with this new undertaking.
+Once in a blue moon, I initiate a project that absolutely consumes me. Actually, Justin and I are both the type of people who can stay up late working on something that interests us, just to wake up early the next morning to pick back where we left off. For me, this is an incredibly elusive high and a mode in which I can hammer out a bunch of work and feel like a million bucks after. It is definitely a feeling that I yearn for especially after a long bout of comparitively monotonous work, and excitedly, I knew it would overtake us in Japan.
 
 The danger, however, is that we can easily lose sight of other priorities. <span class="highlight">We have additional goals that are important to us, so we prioritized finding an effective daily routine that could best set ourselves up for overall success.</span>
 
@@ -69,7 +69,7 @@ Since we were going to be living in a foreign city that doesn't see many Western
 
 February was by far the most productive month, clocking in about 88 hours of work on Lunch Money. It was our first full month in Fukuoka and we had very minimal external obligations. We also found a free co-working space (<a href="https://startupcafe.jp/en/startup-cafe/" target="_blank">The Startup Cafe</a>) that we ended up holing ourselves in nearly every day for at least a couple of hours. At the end of February, The Startup Cafe closed for renovations and would not re-open until after we leave Japan.
 
-It was very sad at first, but ultimately it was a blessing that the Startup Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffees in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
+It was very sad at first, but ultimately it was a blessing that the Startup Cafe closed because it forced us to find other options. As a result, we started working out of various Starbucks and Manu Coffee's in different neighbourhoods allowing us to weave in exploring more of the city with working every day!
 
 ## Milestones
 
@@ -79,7 +79,7 @@ I also started freelancing again. I scheduled daily standup meetings for 7:30am,
 
 # March 2019 and April 2019: Final stretches
 
-By contrast, March and April were much busier since both our parents visited and we found ourselves out and about a lot more as Spring approached. We spent a total of 3 weeks out of town– in Tokyo to meet up with Justin's parents and in Okinawa and Taipei. Finally, my parents visited us in Fukuoka for about 2.5 weeks. <span class="highlight">All in all, this translated into a forced but much-needed break away from Lunch Money.</span> I still kept up my freelancing commitments but the rest of the time was mostly spent sightseeing and passing quality time with our loved ones.
+By contrast, March and April were much busier since both our parents visited and we found ourselves out and about a lot more as spring approached. We spent a total of 3 weeks out of town– in Tokyo to meet up with Justin's parents and in Okinawa and Taipei. Finally, my parents visited us in Fukuoka for about 2.5 weeks. <span class="highlight">All in all, this translated into a forced but much-needed break away from Lunch Money.</span> I still kept up my freelancing commitments but the rest of the time was mostly spent sightseeing and passing quality time with our loved ones.
 
 ## Milestones
 
@@ -103,7 +103,7 @@ It was a challenge to explain our situation to people and equally difficult to c
 
 I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
-In the end, we are not leaving Fukuoka as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
+In the end, we are not leaving as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together. 
 
 # Reflection: The Good Parts
 
@@ -129,7 +129,7 @@ Multicurrency support is a non-negotiable for us because we have money in both A
 <img src="/uploads/transactions.jpg" class="expanded" />
 <span class="caption">Choose from over 50 currencies to use in your budget!</span>
 
-Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while our Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates. You can even set your budget in one currency while tracking spending in many others and it will all work correctly and seamlessly!
+Transactions are tracked in their native currency. For example, a transaction from our Canadian credit card might show up as CA$30.00 while Japanese yen spending displays ¥1,800. When we calculate your total spending for the month, we add everything up in your primary currency according to current exchange rates. You can even set your budget in one currency while tracking spending in many others and it will all work correctly and seamlessly!
 
 ## Recurring expenses are not part of the budget!
 
@@ -151,7 +151,7 @@ Justin and I’s end-of-the-month routine revolves around setting the next month
 <img src="/uploads/budget.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
-We also consider upcoming events that might need some extra budgeting. For instance, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
+We also consider upcoming events that might need some extra budgeting. For example, upcoming weddings would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
 
 # Sign up for beta
 
