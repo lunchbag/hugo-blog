@@ -76,7 +76,7 @@ It was very sad at first, but ultimately it was a blessing that the Startup Cafe
 
 <span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was a glorious feeling and Justin immediately filed a handful of bugs. Perfect!
 
-I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
+I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule thereby increasing my productivity overall. Prior to this, we were getting up at much later hours in the day.
 
 # March 2019 and April 2019: Final stretches
 
