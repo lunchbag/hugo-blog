@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-04-27T11:00:00-04:00"
-draft = true
 slug = "lunch-money"
 tags = []
 title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
