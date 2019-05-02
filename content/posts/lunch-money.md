@@ -102,7 +102,7 @@ I occasionally questioned how we were spending our time. We were in an enviable 
 
 It was a challenge to explain our situation to people and equally difficult to convey that we were having an excellent time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
-I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
+I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now enjoying the fruits of our labour and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
 In the end, we are not leaving as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together.
 
