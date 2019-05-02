@@ -148,7 +148,7 @@ I don’t like the concept of rolling over budgets because <span class="highligh
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
-<img src="/uploads/budget3.jpg" class="expanded" />
+<img src="/uploads/budget-cropped.jpg" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
 We also consider upcoming events that might need some extra budgeting. For example, a friend's wedding would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
