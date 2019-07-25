@@ -8,7 +8,7 @@ title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 +++
 <img src="/uploads/transactions-cropped.jpg" style="display:none;" />
 
-<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta</a> or <a href="#features">skip to the part about what makes the app different</a>. Keep reading for the story, process, and motivation behind this.</p>
+<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://lunchmoney.cc">Sign up for the private beta</a> or <a href="#features">skip to the part about what makes the app different</a>. Keep reading for the story, process, and motivation behind this.</p>
 
 Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while freelancing.
 
@@ -159,4 +159,4 @@ We also consider upcoming events that might need some extra budgeting. For examp
 
 What I am looking for are friends and strangers alike who are interested in a new budgeting solution. Ideally, they would find the multi-currency feature useful, have banking institutions in Canada and/or America and would be willing to provide continuous feedback. I am excited to see where Lunch Money could go and what others think of it!
 
-If you made it this far and like what you see, please <a href="https://money.lunchbag.ca">sign up for the beta</a> which will likely be ready around the beginning of June.
+If you made it this far and like what you see, please <a href="https://lunchmoney.cc">sign up for the beta</a> which will likely be ready around the beginning of June.
