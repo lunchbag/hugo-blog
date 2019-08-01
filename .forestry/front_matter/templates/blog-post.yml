@@ -20,6 +20,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/lunch-money.md
 - content/posts/fukuoka-culture-shock.md
 - content/posts/fukuoka.md
 - content/posts/2018-year-in-review.md
@@ -36,6 +37,5 @@ pages:
 - content/posts/my-most-loved-food-in-san-francisco.md
 - content/posts/choosing-a-virtual-mailbox.md
 - content/posts/greetings-from-fukuoka.md
-- content/posts/lunch-money.md
 - content/posts/one-week-in-munich.md
 - content/posts/traveling-when-things-don-t-go-as-planned.md
