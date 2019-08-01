@@ -159,4 +159,4 @@ We also consider upcoming events that might need some extra budgeting. For examp
 
 What I am looking for are friends and strangers alike who are interested in a new budgeting solution. Ideally, they would find the multi-currency feature useful, have banking institutions in Canada and/or America and would be willing to provide continuous feedback. I am excited to see where Lunch Money could go and what others think of it!
 
-If you made it this far and like what you see, please <a href="https://lunchmoney.cc">sign up for the beta</a> which will likely be ready around the beginning of June.
+If you made it this far and like what you see, please <a href="https://lunchmoney.cc">sign up for the open beta</a>.
