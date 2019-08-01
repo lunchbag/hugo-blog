@@ -1,12 +1,14 @@
 +++
 categories = []
-date = "2019-04-27T11:00:00-04:00"
+date = "2019-07-31T11:00:00-04:00"
 slug = "lunch-money"
 tags = []
 title = "Life in Fukuoka: Building an app, freelancing, and living abroad"
 
 +++
-<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://money.lunchbag.ca">Sign up for the private beta</a> or <a href="#features">skip to the part about what makes the app different</a>. Keep reading for the story, process, and motivation behind this.</p>
+<img src="/uploads/transactions-cropped.jpg" style="display:none;" />
+
+<p class="note">TL;DR: Lived in Japan for 5 months and spent most of that time developing a budgeting app from scratch, working as a freelance software engineer, learning Japanese and getting acquainted with the local culture. <a href="https://lunchmoney.cc">Sign up for the open beta</a> or <a href="#features">skip to the part about what makes the app different</a>. Keep reading for the story, process, and motivation behind this.</p>
 
 Last August, Justin and I booked round-trip tickets from Toronto to Asia leaving January 3 and returning May 8th. Our plan was to <a href="/fukuoka" target="_blank">live in Japan</a> for the majority of our time abroad while freelancing.
 
@@ -25,7 +27,7 @@ The story starts way back to when Justin and I moved to Toronto to start our lif
 
 # September 2018: Finding Purpose Abroad
 
-We are about 3 months from our departure date and going through a small crisis trying to figure out exactly how we were going to pass our time abroad. Beyond our travel dates and work situation, we had no plan for what we would actually be doing; we just knew we wanted to use this time away to accelerate our personal growth. Some ideas we had that did not materialize included getting into calligraphy, learning some form of martial arts, joining some local sports league, and taking online courses in something we were interested in, like digital animation.
+We are about 3 months from our departure date and going through a small crisis trying to figure out exactly how we were going to pass our time abroad. Beyond our travel dates and work situation (we both had freelancing contracts lined up), we had no plan for what we would actually be doing; we just knew we wanted to use this time away to accelerate our personal growth. Some ideas we had that did not materialize included getting into calligraphy, learning some form of martial arts, joining some local sports league, and taking online courses in something we were interested in, like digital animation.
 
 On a trip to visit Justin’s family, it was revealed that my sister-in-law was still using the budgeting spreadsheet I had set her up with a few months prior and was looking to get her boyfriend on it, too! <span class="highlight">This catalyzed the decision to build the app version and I resolved to work on it while in Japan.</span>
 
@@ -74,7 +76,7 @@ It was very sad at first, but ultimately it was a blessing that the Startup Cafe
 
 <span class="highlight">On February 9, I reached my first goal and got Justin and I up and running on an internal alpha.</span> I had a working version of Lunch Money with the basic features from our spreadsheet. It was a glorious feeling and Justin immediately filed a handful of bugs. Perfect!
 
-I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule. Prior to this, we were getting up at much later hours in the day.
+I also started freelancing again. I scheduled daily standup meetings for 7:30am, forcing myself to wake up by then. Although I had more commitments now, it actually helped me get by on a more rigid schedule thereby increasing my productivity overall. Prior to this, we were getting up at much later hours in the day.
 
 # March 2019 and April 2019: Final stretches
 
@@ -100,7 +102,7 @@ I occasionally questioned how we were spending our time. We were in an enviable 
 
 It was a challenge to explain our situation to people and equally difficult to convey that we were having an excellent time just going to a coffee shop to work for 4 to 6 hours a day whenever possible. The freedom to work endlessly on a passion project is fun, luxurious, and normally out-of-reach for us.
 
-I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now reaping the rewards and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
+I eventually came to my senses and understood that I didn't need to prove anything. It took a lot of planning, effort and sacrifice to re-arrange parts of our lives to make this time in Fukuoka work. We're now enjoying the fruits of our labour and having a great time abroad doing what we love even though it doesn't fit the template for the perfect Instagram story.
 
 In the end, we are not leaving as strangers to the city. Justin and I effectively ate our way through Fukuoka which is surely our favorite way of getting to know a new place. We saved a lot of the sightseeing and day trips for when my parents visited which was a fantastic decision since we were able to share all the joys of new discoveries together.
 
@@ -148,7 +150,7 @@ I don’t like the concept of rolling over budgets because <span class="highligh
 
 Justin and I’s end-of-the-month routine revolves around setting the next month’s budget. We do so by looking at what we budgeted for the current month and how much we were over or under. This might let us know that we were wildly unrealistic last month and that we should adjust going forward. We call this course correction!
 
-<img src="/uploads/budget3.jpg" class="expanded" />
+<img src="/uploads/Screenshot 2019-08-01 14.34.55.png" class="expanded" />
 <span class="caption">Set this month's budget by seeing your budget from last month versus how much you actually spent!</span>
 
 We also consider upcoming events that might need some extra budgeting. For example, a friend's wedding would require extra budgeting in the Gifts category. This monthly reflection and planning helps us come up with a reasonable budget for the forthcoming month and is a skill that improves over time. <span class="highlight">With course correction, you will strengthen your ability to predict and anticipate future spending.</span>
@@ -157,4 +159,4 @@ We also consider upcoming events that might need some extra budgeting. For examp
 
 What I am looking for are friends and strangers alike who are interested in a new budgeting solution. Ideally, they would find the multi-currency feature useful, have banking institutions in Canada and/or America and would be willing to provide continuous feedback. I am excited to see where Lunch Money could go and what others think of it!
 
-If you made it this far and like what you see, please <a href="https://money.lunchbag.ca">sign up for the beta</a> which will likely be ready around the beginning of June.
+If you made it this far and like what you see, please <a href="https://lunchmoney.cc">sign up for the open beta</a>.
