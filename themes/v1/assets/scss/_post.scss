@@ -38,6 +38,7 @@
   }
 
   h1 {
+    text-align: center;
     @media (max-width: 1100px) {
       font-size: 2rem;
     }
@@ -56,13 +57,8 @@
   h2,
   h3 {
     font-family: "Roboto Slab";
-    font-family: "Roboto Slab";
     font-weight: 700;
     margin-top: 45px;
-  }
-
-  h1 {
-    text-align: center;
   }
 
   h2 {
