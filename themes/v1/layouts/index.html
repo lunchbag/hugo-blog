@@ -1,31 +1,32 @@
 {{ define "main" }}
 <div class="index-container">
-	<section><img id="profile-image" src="images/lunchbag.png" /></section>
-	<section class="introduction">
-		<h2>Welcome!</h2>
-		<span>
-			Pursuing interests in writing, digital design, and language
-			learning.</span><span>On the side, I am a <a href="https://lunchbag.dev" target="_blank">freelance</a> web
-			developer and software engineer.
-		</span>
-		<span>Currently, my husband and I are based in Fukuoka, Japan.</span>
-		<span>Get in touch via <a href="mailto:jen@lunchbag.ca">email</a>.</span>
-	</section>
+  <section><img id="profile-image" src="images/lunchbag.png" /></section>
+  <section class="introduction">
+    <h2>Welcome!</h2>
+    <span>
+      Primarily working on
+      <a href="https://lunchmoney.cc" target="_blank">Lunch Money</a>.</span
+    >
+    <span>Currently, my husband and I are based in Toronto, Ontario.</span>
+    <span>Get in touch via <a href="mailto:jen@lunchbag.dev">email</a>.</span>
+  </section>
 
-	<section class="posts">
-		<h2>Updates</h2>
-		<div class="post-list">
-			{{ range (.Paginate .Pages).Pages }}
-			<div class="post">
-				<span class="post-date">
-					<time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "Jan 2, 2006" }}</time>
-				</span>
-				<span class="post-title">
-					<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
-				</span>
-			</div>
-			{{ end }}
-		</div>
-	</section>
+  <section class="posts">
+    <h2>Updates</h2>
+    <div class="post-list">
+      {{ range (.Paginate .Pages).Pages }}
+      <div class="post">
+        <span class="post-date">
+          <time datetime="{{ .PublishDate }}"
+            >{{ .PublishDate.Format "Jan 2, 2006" }}</time
+          >
+        </span>
+        <span class="post-title">
+          <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+        </span>
+      </div>
+      {{ end }}
+    </div>
+  </section>
 </div>
 {{ end }}
