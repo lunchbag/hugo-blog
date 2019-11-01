@@ -329,9 +329,9 @@ body {
       margin: 0;
       width: 80px;
       height: 80px;
-      border: 0;
-      padding-right: 2em; }
+      border: 0; }
     #g-post .post-post .author .author-name {
+      padding-left: 2em;
       margin: 0;
       font-weight: 500;
       font-size: 1.1rem;

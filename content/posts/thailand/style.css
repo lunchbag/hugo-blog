@@ -109,3 +109,29 @@ a:hover {
   cursor: pointer;
   background-image: url("../img/left.png");
 }
+
+.author {
+  margin: 4em 0 4em 0;
+  padding: 1em 1em;
+  border: 1px solid #888;
+  display: flex;
+  align-items: center;
+}
+
+.author img.image {
+  background: none;
+  border-bottom: 0px;
+  margin:0;
+  object-fit: contain;
+  width: 80px;
+  height: 80px;
+  border: 0;
+}
+
+.author .author-name {
+  padding-left: 1em;
+  margin: 0;
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+}
