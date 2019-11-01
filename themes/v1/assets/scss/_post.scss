@@ -303,6 +303,28 @@
       }
     }
 
+    .author {
+      margin: 4em 0 1em 0;
+      padding: 1.5em 2em;
+      border: 1px solid #888;
+      display: flex;
+      align-items: center;
+      img {
+        margin:0;
+        width: 80px;
+        height: 80px;
+        border: 0;
+        padding-right: 2em;
+      }
+
+      .author-name {
+        margin: 0;
+        font-weight: 500;
+        font-size: 1.1rem;
+        line-height: 1.8rem;
+      }
+    }
+
     .feedback {
       margin: 64px auto 0 auto;
       text-align: center;

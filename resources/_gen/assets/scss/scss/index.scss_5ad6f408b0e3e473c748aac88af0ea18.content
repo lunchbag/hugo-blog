@@ -319,6 +319,23 @@ body {
       color: #fff;
       padding: 2px 10px;
       box-shadow: 1px 1px 0px 0px #ccc; }
+  #g-post .post-post .author {
+    margin: 4em 0 1em 0;
+    padding: 1.5em 2em;
+    border: 1px solid #888;
+    display: flex;
+    align-items: center; }
+    #g-post .post-post .author img {
+      margin: 0;
+      width: 80px;
+      height: 80px;
+      border: 0;
+      padding-right: 2em; }
+    #g-post .post-post .author .author-name {
+      margin: 0;
+      font-weight: 500;
+      font-size: 1.1rem;
+      line-height: 1.8rem; }
   #g-post .post-post .feedback {
     margin: 64px auto 0 auto;
     text-align: center; }
