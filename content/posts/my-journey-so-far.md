@@ -29,58 +29,64 @@ I made the decision to leave the startup shortly after we started 500 Startups, 
 
 After nearly 5 years of living in San Francisco, I made the difficult yet firm decision to move back home to Toronto. I gave away or sold almost all my stuff and said my goodbyes with no regrets. San Francisco had treated me well, but I was getting too comfortable for my own good.
 
-#### January 2017
+## 2017
+
+### January
 
 I set off in mid-January to meet my boyfriend at the time in Taipei. He had already been there for 2 months studying Chinese at NTU. I didn't have much of a plan of what I was going to do there so I ended up self-studying Mandarin Chinese as well.
 
-#### February 2017
+### February
 
 I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. I stayed at a farm where I helped herd sheep at sunrise, went through a medical emergency, was the first tourist in a small Thai village known for its monkey forest, and went Thai-style camping near the border of Laos.
 
-#### May 2017
+### May
 
 Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort. I set off to Europe on a working holiday visa. I spent most of my time in France where I was practice my French through experiences like living with a family in the middle of the mountains and working as a bartender/waitress at a restaurant in rural Burgundy. I stayed for weeks in both Paris and Lyon and fell in love with both cities.
 
 Later on, I traveled through Italy, Estonia, Finland (went to a music festival there), Sweden, Denmark, the U.K., and finally back to France where my parents met me for a 2-week vacation before heading back home.
 
-#### September 2017
+### September
 
 I had a blast of a summer yet never felt more ready to go back to Toronto. 
 
-#### October 2017
+### October
 
 My boyfriend at the time joined me in Toronto and we moved in together in a great neighbourhood located in Downtown, Toronto.
 
-#### December 2017
+### December
 
 We got engaged while on a 3 week trip to Mexico. We started in Mexico City, then moved on to Oaxaca where we took the bumpiest car ride of our lives to San Jose del Pacifico. We stayed in a cozy cabin overlooking a beautiful cliff of trees where my now husband proposed to me. Next, we went to Puerto Escondido, to date still one of my favorite vacation spots.
 
-#### February 2018
+## 2018
+
+### February
 
 We got married in an intimate ceremony in the house I grew up in with both of our parents as witnesses.
 
-#### April 2018
+### April
 
  - Released first app to App Store
 
-#### June 2018
+### June
 
 I started freelancing for two different companies. This really helped accelerate and improve my knowledge of React.
 
-#### January 2019
+## 2019
+
+### January
 
 My husband and I set off to Fukuoka, Japan for the next 4 months! Our first time escaping the Canadian winter. It was still quite cold, but never got below freezing and we only saw snow once (and it melted as soon as it hit the ground.
 
 During our time in Fukuoka, I started working on my own app while freelancing for 2 companies in parallel. 
 
-#### May 2019
+### May
 
 Back to Toronto!
 
-#### August 2019
+### August
 
 Launched lunchmoney.app, went full-time
 
-#### What's next?
+## What's next?
 
 Jan 2020 - Digital nomad in Taipei
