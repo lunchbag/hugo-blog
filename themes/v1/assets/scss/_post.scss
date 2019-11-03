@@ -423,10 +423,12 @@
 /** Mailchimp stuff */
 #mc_embed_signup {
   #mce-EMAIL {
-    font-family: "Nunito", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1rem;
     padding: 0.6em;
+    font-weight: 400;
     width: 400px;
+    max-width: 80%;
     border: 1px solid #888;
 
     &:focus {
@@ -435,7 +437,7 @@
   }
 
   #mc-embedded-subscribe {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 1.1rem;
     padding: 0.5em;
     border: 1px solid #f42c56;
@@ -486,7 +488,7 @@
 
   #mc_embed_signup {
     #mce-EMAIL {
-      width: 100%;
+      max-width: 100%;
       box-sizing: border-box;
       font-size: 0.9rem;
     }
