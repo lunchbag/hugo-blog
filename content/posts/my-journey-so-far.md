@@ -4,10 +4,10 @@ date = 2019-11-03T04:00:00Z
 draft = true
 slug = ""
 tags = []
-title = "My Journey So Far"
+title = "My journey so far"
 
 +++
-This is a recounting of my journey so far. My journey is my own and was always under my own control. I'm not sure if it's fair to say that it's a digital nomad's journey, or an entrepreneur's. Every part of my travel was a different phase of my life. It is an ongoing journey and I hope it never ends :)
+This is a recounting of my journey so far. I'm not sure if it's fair to say that it's a digital nomad's journey, or an entrepreneur's, but it is my own journey. Every part of my travel was a different phase of my life. It is ongoing and I hope it never ends.
 
 # 2012
 
