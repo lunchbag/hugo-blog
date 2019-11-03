@@ -243,3 +243,28 @@ table#whv-inner tr:first-child td {
     width: inherit;
   }
 }
+
+.author {
+  max-width: 600px;
+  margin: 4em auto 4em auto;
+  padding: 1.5em 2em;
+  border: 1px solid #888;
+  display: flex;
+  align-items: center;
+}
+
+.author img.image {
+  margin:0;
+  object-fit: contain;
+  width: 80px;
+  height: 80px;
+  border: 0;
+}
+
+.author .author-name {
+  padding-left: 2em;
+  margin: 0;
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+}

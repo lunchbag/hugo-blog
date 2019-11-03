@@ -13,7 +13,7 @@
     box-sizing: border-box;
   }
   @media (max-width: 600px) {
-    margin: 0 auto;
+    margin: 0 auto 280px auto;
     width: 100%;
     padding: 0 20px;
     box-sizing: border-box;
@@ -406,6 +406,94 @@
           background: none;
         }
       }
+    }
+
+    div.back-to-home {
+      margin: 0 auto;
+      width: 100%;
+      font-family: "Source Sans Pro", sans-serif;
+      font-weight: 700;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 1em;
+    }
+  }
+}
+
+/** Mailchimp stuff */
+#mc_embed_signup {
+  #mce-EMAIL {
+    font-family: "Nunito", sans-serif;
+    font-size: 1rem;
+    padding: 0.6em;
+    width: 400px;
+    border: 1px solid #888;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  #mc-embedded-subscribe {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.1rem;
+    padding: 0.5em;
+    border: 1px solid #f42c56;
+    background-color: #f42c56;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+}
+
+#floating-subscribe {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1em;
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  width: 250px;
+  z-index: 100;
+
+  @media(max-width: 600px) {
+    width: 100%;
+    box-sizing: border-box;
+    right: 0;
+    bottom: 0;
+  }
+
+  h2 {
+    text-align: left !important;
+    margin-top: 0px !important;
+    font-size: 1.2rem !important;
+  }
+
+  p {
+    font-size: 1rem !important;
+    line-height: 1.3rem !important;
+    margin: 0.5em 0 1em 0 !important;
+  }
+
+  span {
+    display: block;
+    text-align: center;
+    margin-top: 0.5em;
+    font-family: "Nunito", sans-serif;
+    font-size: 0.8em;
+    color: #888;
+  }
+
+  #mc_embed_signup {
+    #mce-EMAIL {
+      width: 100%;
+      box-sizing: border-box;
+      font-size: 0.9rem;
+    }
+
+    #mc-embedded-subscribe {
+      width: 100%;
+      font-size: 0.9rem;
     }
   }
 }
