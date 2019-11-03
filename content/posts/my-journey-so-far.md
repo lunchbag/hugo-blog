@@ -65,11 +65,11 @@ We got married in an intimate ceremony in the house I grew up in with both of ou
 
 ## April - Getting back into software development
 
- - Released first app to App Store
+Since getting back, a lot has changed. For one, "React" was now the hot new thing and I had no experience in it whatsoever. I decided to take time to learn React (specifically React Native) since I figured it would be a useful skill to have. It took me about 2 months but I was able to release an app to the App Store.
 
-## June
+## June - Streghthening my skills
 
-I started freelancing for two different companies. This really helped accelerate and improve my knowledge of React.
+I started freelancing for two different companies. At one company, I was one of two engineers and I owned a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this really helped accelerate and improve my knowledge of the framework.
 
 # 2019
 
