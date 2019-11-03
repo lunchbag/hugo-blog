@@ -83,12 +83,12 @@ During our time in Fukuoka, [I started working on my own app while freelancing f
 
 ## May
 
-Back to Toronto!
+We arrived back in Toronto just in time to enjoy the beautiful summers here. I continued to freelance for 2 companies while working on [Lunch Money](https://lunchmoney.app) on the side.
 
-## August
+## September
 
-Launched lunchmoney.app, went full-time
+[I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time.
 
 # What's next?
 
-Jan 2020 - Digital nomad in Taipei
+In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey!
