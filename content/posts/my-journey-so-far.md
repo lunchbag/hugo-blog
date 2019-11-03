@@ -77,6 +77,8 @@ I started freelancing for two different companies. At one company, I was one of 
 
 [My husband and I set off to Fukuoka, Japan](https://lunchbag.ca/greetings-from-fukuoka/) for the next 4 months! Our first time escaping the Canadian winter. It was still quite cold, but never got below freezing and we only saw snow once (and it melted as soon as it hit the ground).
 
+We absolutely [fell in love with Japan](https://lunchbag.ca/fukuoka/) and I personally derived a lot of fun from [noticing the differences in our cultures](https://lunchbag.ca/fukuoka-culture-shock/).
+
 During our time in Fukuoka, [I started working on my own app while freelancing for 2 companies](https://lunchbag.ca/lunch-money/) in parallel.
 
 ## May
