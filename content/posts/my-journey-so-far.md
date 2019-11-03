@@ -17,13 +17,13 @@ I graduated from a Canadian university with a degree in computer engineering and
 
 # 2016
 
-## September - Getting outside my comfort zone for the first time
+## September - Leaving the comfort zone for the first time
 
-I stayed at Twitter for almost 4 years, experiencing its startup days and well into post-IPO grown-up phase. I ended up leaving because I grew frustrated with the increasing layers of middle management and bureaucracy.
+I stayed at Twitter for almost 4 years, experiencing its startup days and well into post-IPO grown-up phase. I ended up leaving because I grew frustrated with the increasing layers of middle management and bureaucracy. Of course it would have been much easier to stay for many more years, but I was craving a big change.
 
 I ended up co-founding a start-up with my then-roommate and (now still) good friend. We worked on it together for a year, went through the first ever batch of YCombinator Fellowship and eventually made it into 500 Startups.
 
-I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point I am 26 years old and had evaluated that I didn't want to spend the rest of my 20s living in a tech bubble and working on a startup. I wanted to go out and explore the world and meet people who were on different journeys in life.
+I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had evaluated that I didn't want to spend the rest of my 20s living in a tech bubble and working on a startup. I wanted to go out and explore the world and meet people who were on different journeys in life.
 
 ## November - Making a decision for myself
 
