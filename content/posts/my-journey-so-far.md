@@ -89,6 +89,6 @@ We arrived back in Toronto just in time to enjoy the beautiful summers here. I c
 
 [I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time.
 
-# What's next?
+# 2020 - What's next?
 
 In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey!
