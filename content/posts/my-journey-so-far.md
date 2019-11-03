@@ -9,11 +9,15 @@ title = "My Journey So Far"
 +++
 This is a recounting of my journey so far. My journey is my own and was always under my own control. I'm not sure if it's fair to say that it's a digital nomad's journey, or an entrepreneur's. Every part of my travel was a different phase of my life. It is an ongoing journey and I hope it never ends :)
 
-#### May 2012
+## 2012
+
+### **May**
 
 I graduated from a Canadian university with a degree in computer engineering and my first job was as a software engineer at Twitter in San Francisco.
 
-#### September 2016
+## 2016
+
+### September
 
 I stayed at Twitter for almost 4 years, experiencing its startup days and well into post-IPO grown-up phase. I ended up leaving because I grew frustrated with the increasing layers of middle management and bureaucracy. 
 
@@ -21,7 +25,7 @@ I ended up co-founding a start-up with my then-roommate and (now still) good fri
 
 I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point I am 26 years old and had evaluated that I didn't want to spend the rest of my 20s living in a tech bubble and working on a startup. I wanted to go out and explore the world and meet people who were on different journeys in life.
 
-#### November 2016
+### November
 
 After nearly 5 years of living in San Francisco, I made the difficult yet firm decision to move back home to Toronto. I gave away or sold almost all my stuff and said my goodbyes with no regrets. San Francisco had treated me well, but I was getting too comfortable for my own good.
 
