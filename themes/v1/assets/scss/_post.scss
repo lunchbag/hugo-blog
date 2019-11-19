@@ -309,11 +309,15 @@
       border: 1px solid #888;
       display: flex;
       align-items: center;
-      img {
-        margin:0;
-        width: 80px;
-        height: 80px;
-        border: 0;
+
+      .image-container {
+        min-width: 80px;
+        max-width: 80px;
+        img {
+          margin:0;
+          width: 100%;
+          border: 0;
+        }
       }
 
       .author-name {
