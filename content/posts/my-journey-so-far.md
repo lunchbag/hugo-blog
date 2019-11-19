@@ -45,7 +45,7 @@ I went to Thailand... without my laptop! Shocking. I started in Bangkok and back
 
 ## May - First time solo long-term traveling
 
-Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort, so I set off to Europe on a working holiday visa. I spent most of my time in France where I was working on improving my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)). 
+Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort, so I set off to Europe on a working holiday visa. I spent most of my time in France where I was working on improving my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)).
 
 I stayed for weeks in both Paris and Lyon and fell in love with both cities.
 
@@ -55,11 +55,11 @@ Later on, I traveled through Italy, [Estonia](https://lunchbag.ca/lunchbag-in-es
 
 I had a blast of a summer yet never felt more ready to go back to Toronto. I had [learned a lot](https://lunchbag.ca/checking-in-things-i-ve-learned/) and [grown as a person](https://lunchbag.ca/why-i-quit-my-job-to-go-on-a-sabbatical/) in ways I could never have imagined or planned for myself.
 
-I had decided early on in May to move back to Toronto. It was a decision I made with my heart that I trusted would work itself out. I didn't want to go back to San Francisco because I had already made the decision to leave, and Toronto was where my parents resided. 
+I had decided early on in May to move back to Toronto. It was a decision I made with my heart that I trusted would work itself out. I didn't want to go back to San Francisco because I had already made the decision to leave, and Toronto was where my parents resided.
 
 ## October - Reunion with my love
 
-My boyfriend joined me in Toronto from Taipei and we moved in together downtown. 
+My boyfriend joined me in Toronto from Taipei and we moved in together downtown.
 
 ## December
 
@@ -75,11 +75,11 @@ We got married in an intimate ceremony in the house I grew up in with both of ou
 
 At this point, I hadn't done any programming in over a year. And since then, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I decided to take time to learn React (specifically React Native). It took me about 2 months but I was able to release an app to the App Store.
 
-![](/uploads/Screenshot 2019-11-18 20.50.34.png)
+![](/uploads/Screenshot 2019-11-18 20.50.34.png)<span class="caption">A phrasebook app inspired by my own travels! It has almost no downloads aside from my mom.</span>
 
 ## June - Streghthening my skills
 
-I knew I had to get back to work, but after taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to work for someone else's vision or company anymore. I found a happy medium by pursuing freelancing, inspired by a friend of mine who had recently lived abroad in Paris for a year while freelancing. 
+I knew I had to get back to work, but after taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to work for someone else's vision or company anymore. I found a happy medium by pursuing freelancing, inspired by a friend of mine who had recently lived abroad in Paris for a year while freelancing.
 
 Through my network, I was able to find two freelancing jobs. At one company, I was one of two engineers and I was in charge of a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this gig really helped accelerate and improve my knowledge of the framework. While it was a lot to context-switch between two clients, I believe it was really beneficial to my professional development to have been in both an ownership role and in a position to learn and grow.
 
@@ -104,6 +104,10 @@ My husband got his dream job working as an engineer at a blockchain company. The
 ## September
 
 [I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time! It was an unreal feeling to have so many people sign up and try out my product. I am grateful for everyone who has given the product a chance and even more thankful for all the feedback, bug reports and feature requests that came in.
+
+# A look back in terms of Github contributions
+
+![](/uploads/Group.png)
 
 # 2020 - What's next?
 
