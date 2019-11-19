@@ -53,9 +53,9 @@ Later on, I traveled through Italy, [Estonia](https://lunchbag.ca/lunchbag-in-es
 
 ## September - Going home
 
-I had a blast of a summer yet never felt more ready to go back to Toronto. I had [learned a lot](https://lunchbag.ca/checking-in-things-i-ve-learned/) and [grown as a person](https://lunchbag.ca/why-i-quit-my-job-to-go-on-a-sabbatical/) in ways I could never have imagined or planned for myself.
-
 I had decided early on in May to move back to Toronto. It was a decision I made with my heart that I trusted would work itself out. I didn't want to go back to San Francisco because I had already made the decision to leave, and Toronto was where my parents resided.
+
+I had a blast of a summer yet never felt more ready to go back to Toronto. I had [learned a lot](https://lunchbag.ca/checking-in-things-i-ve-learned/) and [grown as a person](https://lunchbag.ca/why-i-quit-my-job-to-go-on-a-sabbatical/) in ways I could never have imagined or planned for myself.
 
 ## October - Reunion with my love
 
