@@ -23,7 +23,7 @@ I stayed at Twitter for almost 4 years, experiencing both its startup heydays an
 
 I ended up joining the startup as a co-founder and formed the one-person engineering team. We worked on it together for a year, went through the first batch of YCombinator Fellowship and eventually made it into 500 Startups.
 
-I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 4 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I need to explore the world and find people who were on different journeys  motivated by something other than money or a certain lifestyle.
+I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 4 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I needed to find people who were on different journeys motivated by something other than money or a certain lifestyle and the only way to do that was to go out and find them myself.
 
 ## November - Making a decision for myself
 
