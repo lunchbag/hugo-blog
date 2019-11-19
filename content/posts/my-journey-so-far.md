@@ -82,9 +82,13 @@ At this point, I hadn't done any programming in over a year. And as is expected 
 
 ## June - Strengthening my skills
 
-As it turns out, phrasebook apps are not as lucrative as I thought they would be. I was beginning to feel anxious about not having made a single penny in the last 1.5 years. It was probably time to start thinking about a steady income stream. After thinking through my feelings and experiences both as an IC at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to get stuck working for someone else's vision or company for a long time. I ended up finding a happy medium by pursuing the non-committal alternative of full-time employment– freelancing!
+As it turns out, phrasebook apps are not as lucrative as I thought they would be. I was beginning to feel anxious about not having made a single penny in the last 1.5 years. It was probably time to start thinking about a steady income stream. 
 
-Through my network, I was able to find two freelancing jobs. At one company, I was one of two engineers and I was in charge of a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this gig really helped accelerate and improve my knowledge of the framework. While it was a lot to context-switch between two clients, I believe it was really beneficial to my professional development to have been in both an ownership role and in a position to learn and grow.
+After thinking through my feelings and experiences both as an IC at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to get stuck working for someone else's vision or company for a long time. I ended up finding a happy medium by pursuing the non-committal alternative of full-time employment– freelancing!
+
+Through my network, I was able to find two freelancing jobs. At one company, I was one of two engineers and I was in charge of a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this gig really helped accelerate and improve my knowledge of the framework. 
+
+While it was a lot to context-switch between two clients, I believe it was really beneficial to my professional development to have been in both an ownership role and in a position to learn and grow.
 
 # 2019
 
