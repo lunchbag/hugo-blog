@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2019-11-18T05:00:00Z
-draft = true
 slug = ""
 tags = []
 title = "My journey so far"
@@ -15,7 +14,7 @@ This is a recounting of my journey so far post-college. I feel as though I've al
 
 I graduated from a Canadian university with a degree in computer engineering and my first job was as a software engineer at Twitter in San Francisco.
 
-# 2016
+# 2015
 
 ## September - Leaving the comfort zone for the first time
 
@@ -23,11 +22,13 @@ I stayed at Twitter for almost 4 years, experiencing both its startup heydays an
 
 I ended up joining the startup as a co-founder and formed the one-person engineering team. We worked on it together for a year, went through the first batch of YCombinator Fellowship and eventually made it into 500 Startups.
 
+# 2016
+
+## November - Second big decision in 2 years
+
 I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 4 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I needed to find people who were on different journeys motivated by something other than money or a certain lifestyle and the only way to do that was to go out and find them myself.
 
-## November - Making a decision for myself
-
-After nearly 5 years of living in San Francisco, I made the difficult yet firm decision to move back home to Toronto. I gave away or sold almost all my stuff and said my goodbyes with no regrets (Read: How to move out of the country, [part 1](https://lunchbag.ca/how-to-move-out-of-the-country-pt-1/) & [part 2](https://lunchbag.ca/how-to-move-out-of-the-country-pt-2/)). San Francisco had treated me well, but I was close to overstaying my welcome.
+I gave away or sold almost all my stuff and said my goodbyes with no regrets (Read: How to move out of the country, [part 1](https://lunchbag.ca/how-to-move-out-of-the-country-pt-1/) & [part 2](https://lunchbag.ca/how-to-move-out-of-the-country-pt-2/)). San Francisco had treated me well, but I was close to overstaying my welcome.
 
 # 2017 - A Hiatus in Programming
 
@@ -37,7 +38,7 @@ I wrote out my [pre-departure thoughts](https://lunchbag.ca/pre-departure-though
 
 ## February - First time solo backpacking
 
-I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. I was actively trying to avoid the tourist hot spots such as Chiang Mai or Pai because I was more interested in immersing in the local culture. A few things that happened:
+I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. I was actively trying to avoid the tourist hot spots because I was more interested in immersing in the local culture. A few things that happened:
 
 * [I stayed at a farm where I helped herd sheep at sunrise](https://lunchbag.ca/thailand-2-week-update/),
 * [I went through a medical emergency and experience first-class medical care](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/),
