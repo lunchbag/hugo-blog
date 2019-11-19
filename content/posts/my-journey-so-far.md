@@ -108,7 +108,7 @@ My husband got his dream job working as an engineer at a blockchain company. The
 
 # 2020 - What's next?
 
-In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey. We have also been taking lessons in Mandarin Chinese so here's to hoping our language skills improve while we're there and we're able to interact more with locals!
+In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April. I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey. We have also been taking lessons in Mandarin Chinese so here's to hoping our language skills improve while we're there and we're able to interact more with locals!
 
 # A look back in terms of Github contributions
 
