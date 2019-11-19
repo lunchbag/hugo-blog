@@ -26,7 +26,7 @@ I ended up joining the startup as a co-founder and formed the one-person enginee
 
 ## November - Second big decision in 2 years
 
-I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 4 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I needed to find people who were on different journeys motivated by something other than money or a certain lifestyle and the only way to do that was to go out and find them myself.
+I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 5 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I needed to find people who were on different journeys motivated by something other than money or a certain lifestyle and the only way to do that was to go out and find them myself.
 
 I gave away or sold almost all my stuff and said my goodbyes with no regrets (Read: How to move out of the country, [part 1](https://lunchbag.ca/how-to-move-out-of-the-country-pt-1/) & [part 2](https://lunchbag.ca/how-to-move-out-of-the-country-pt-2/)). San Francisco had treated me well, but I was close to overstaying my welcome.
 
@@ -46,7 +46,7 @@ I went to Thailand... without my laptop! Shocking. I started in Bangkok and back
 
 ## May - First time solo long-term traveling
 
-Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort, so I set off to Europe on a working holiday visa. I spent most of my time in France where I was working on improving my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)).
+Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort, so I set off to Europe on a working holiday visa. I spent most of my time in France where I was working on improving my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy in exchange for lodging](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)).
 
 I stayed for weeks in both Paris and Lyon and fell in love with both cities.
 
