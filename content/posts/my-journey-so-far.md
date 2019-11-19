@@ -37,11 +37,17 @@ I wrote out my [pre-departure thoughts](https://lunchbag.ca/pre-departure-though
 
 ## February - First time solo backpacking
 
-I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. [I stayed at a farm where I helped herd sheep at sunrise](https://lunchbag.ca/thailand-2-week-update/), [went through a medical emergency](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/), [was the first tourist in a small Thai village known for its monkey forest, and went Thai-style camping near the border of Laos](https://lunchbag.ca/thailand/).
+I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. A few things that happened:
+
+* [I stayed at a farm where I helped herd sheep at sunrise](https://lunchbag.ca/thailand-2-week-update/),
+* [I went through a medical emergency](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/)
+* [I was the first tourist in a small Thai village known for its monkey forest and went Thai-style camping nearby](https://lunchbag.ca/thailand/)
 
 ## May - First time solo long-term traveling
 
-Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort. I set off to Europe on a working holiday visa. I spent most of my time in France where I was practice my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)). I stayed for weeks in both Paris and Lyon and fell in love with both cities.
+Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort. I set off to Europe on a working holiday visa. I spent most of my time in France where I was practice my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)). 
+
+I stayed for weeks in both Paris and Lyon and fell in love with both cities.
 
 Later on, I traveled through Italy, [Estonia](https://lunchbag.ca/lunchbag-in-estonia-a-truly-underrated-gem/), Finland (went to a music festival there), Sweden, Denmark, the U.K., and finally back to France where my parents met me for a 2-week vacation before heading back home.
 
@@ -55,7 +61,7 @@ My boyfriend at the time joined me in Toronto and we moved in together in a grea
 
 ## December
 
-We got engaged while on a 3 week trip to Mexico. We started in Mexico City, then moved on to Oaxaca where we took the bumpiest car ride of our lives to San Jose del Pacifico. We stayed in a cozy cabin overlooking a beautiful cliff of trees where my now husband proposed to me. Next, we went to Puerto Escondido, to date still one of my favorite vacation spots.
+We got engaged while on a 3 week trip to Mexico. We started in Mexico City, then moved on to Oaxaca where we took the bumpiest collectivo ride of our lives to San Jose del Pacifico. We stayed in a cozy cabin overlooking a beautiful cliff of trees where my now husband proposed to me. Next, we went to Puerto Escondido, to date still one of my favorite vacation spots.
 
 # 2018
 
