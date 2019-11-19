@@ -8,6 +8,8 @@ title = "My journey so far"
 +++
 This is a recounting of my journey so far post-college. I feel as though I've allowed myself to fully explore every phase of life and follow every inkling of curiosity. It is an ongoing journey and I hope it keeps surprising me!
 
+Note: I've written in depth about a number of my experiences mentioned here, so instead of going into detail, I've just linked to the relevant blog post where appropriate.
+
 # 2012
 
 ## May - Stepping out into the real world!
@@ -94,7 +96,7 @@ We absolutely [fell in love with Japan](https://lunchbag.ca/fukuoka/) and I pers
 
 During our time in Fukuoka, [I started working on my own app while continuing to freelance for 2 companies](https://lunchbag.ca/lunch-money/) in parallel.
 
-## May - Back to our home base 
+## May - Back to our home base
 
 We arrived back in Toronto just in time to enjoy the beautiful summers here. I continued to freelance for 2 companies while working on [Lunch Money](https://lunchmoney.app) on the side.
 
