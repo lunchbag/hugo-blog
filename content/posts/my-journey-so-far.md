@@ -43,7 +43,7 @@ I wrote out my [pre-departure thoughts](https://lunchbag.ca/pre-departure-though
 I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. I was actively trying to avoid the tourist hot spots because I was more interested in immersing in the local culture. A few things that happened:
 
 * [I stayed at a farm where I helped herd sheep at sunrise](https://lunchbag.ca/thailand-2-week-update/),
-* [I went through a medical emergency and experience first-class medical care](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/),
+* [I went through a medical emergency and experienced first-class medical care](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/),
 * [I was the first tourist in a small Thai village known for its monkey forest and went Thai-style camping nearby](https://lunchbag.ca/thailand/)
 
 ## May - First time solo long-term traveling
