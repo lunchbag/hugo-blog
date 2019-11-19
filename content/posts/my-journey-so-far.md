@@ -7,7 +7,7 @@ tags = []
 title = "My journey so far"
 
 +++
-This is a recounting of my journey so far. I'm hesitant to say it's a digital nomad's journey, or an entrepreneur's, but it is my own (mostly unplanned) journey. Every part represented and catalyzed a different phase in my life. It is ongoing and I hope it keeps surprising me!
+This is a recounting of my journey so far as an adult. I'm hesitant to say it's a digital nomad's journey, or an entrepreneur's, but it is my own (mostly unplanned) journey. Every part represented and catalyzed a different phase in my life. It is ongoing and I hope it keeps surprising me!
 
 # 2012
 
