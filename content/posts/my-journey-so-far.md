@@ -19,17 +19,17 @@ I graduated from a Canadian university with a degree in computer engineering and
 
 ## September - Leaving the comfort zone for the first time
 
-I stayed at Twitter for almost 4 years, experiencing its startup days and well into post-IPO grown-up phase. I ended up leaving because I grew frustrated with the increasing layers of middle management and bureaucracy. Of course it would have been much easier to stay for many more years, but I was craving a big change.
+I stayed at Twitter for almost 4 years, experiencing its startup days and well into post-IPO growing pains phase. Eventually, I quit because I grew frustrated with the increasing layers of middle management and bureaucracy. At the same time, my good friend and current roommate was about a year into her startup. I witnessed her work ethics and determination every day.
 
-I ended up co-founding a start-up with my then-roommate and (now still) good friend. We worked on it together for a year, went through the first ever batch of YCombinator Fellowship and eventually made it into 500 Startups.
+I ended up joining the startup as a co-founder and formed the one-person engineering team. We worked on it together for a year, went through the first batch of YCombinator Fellowship and eventually made it into 500 Startups.
 
-I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had evaluated that I didn't want to spend the rest of my 20s living in a tech bubble and working on a startup. I wanted to go out and explore the world and meet people who were on different journeys in life.
+I made the decision to leave the startup shortly after we started 500 Startups, mainly because I was burning out. At this point, I am 26 years old and had resolved not to spend the rest of my 20s living in a tech bubble and working on a startup. I guess you could say after 4 years of the Silicon Valley grind, I was getting jaded. As cliche as it was, I just felt like I need to explore the world and find people who were on different journeys  motivated by something other than money or a certain lifestyle.
 
 ## November - Making a decision for myself
 
-After nearly 5 years of living in San Francisco, I made the difficult yet firm decision to move back home to Toronto. I gave away or sold almost all my stuff and said my goodbyes with no regrets (Read: How to move out of the country, [part 1](https://lunchbag.ca/how-to-move-out-of-the-country-pt-1/) & [part 2](https://lunchbag.ca/how-to-move-out-of-the-country-pt-2/)). San Francisco had treated me well, but I was getting too comfortable for my own good.
+After nearly 5 years of living in San Francisco, I made the difficult yet firm decision to move back home to Toronto. I gave away or sold almost all my stuff and said my goodbyes with no regrets (Read: How to move out of the country, [part 1](https://lunchbag.ca/how-to-move-out-of-the-country-pt-1/) & [part 2](https://lunchbag.ca/how-to-move-out-of-the-country-pt-2/)). San Francisco had treated me well, but I was close to overstaying my welcome.
 
-# 2017
+# 2017 - A Hiatus in Programming
 
 ## January - First time long-term traveling
 
@@ -37,27 +37,29 @@ I wrote out my [pre-departure thoughts](https://lunchbag.ca/pre-departure-though
 
 ## February - First time solo backpacking
 
-I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. A few things that happened:
+I went to Thailand... without my laptop! Shocking. I started in Bangkok and backpacked my way through the Eastern part of Thailand. I was actively trying to avoid the tourist hot spots such as Chiang Mai or Pai because I was more interested in immersing in the local culture. A few things that happened:
 
 * [I stayed at a farm where I helped herd sheep at sunrise](https://lunchbag.ca/thailand-2-week-update/),
-* [I went through a medical emergency](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/)
+* [I went through a medical emergency and experience first-class medical care](https://lunchbag.ca/traveling-when-things-don-t-go-as-planned/),
 * [I was the first tourist in a small Thai village known for its monkey forest and went Thai-style camping nearby](https://lunchbag.ca/thailand/)
 
 ## May - First time solo long-term traveling
 
-Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort. I set off to Europe on a working holiday visa. I spent most of my time in France where I was practice my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)). 
+Summer was descending upon Asia, which is the last place I want to be at that time due to the humidity and discomfort, so I set off to Europe on a working holiday visa. I spent most of my time in France where I was working on improving my French through experiences like [living with a family in the middle of the mountains](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/) and [working as a bartender/waitress at a restaurant in rural Burgundy](https://lunchbag.ca/france-dinner-service/) (further reading: [Culture shocks, food & drinks edition](https://lunchbag.ca/lunchbag-in-france-culture-shocks-food-drinks-edition/)). 
 
 I stayed for weeks in both Paris and Lyon and fell in love with both cities.
 
-Later on, I traveled through Italy, [Estonia](https://lunchbag.ca/lunchbag-in-estonia-a-truly-underrated-gem/), Finland (went to a music festival there), Sweden, Denmark, the U.K., and finally back to France where my parents met me for a 2-week vacation before heading back home.
+Later on, I traveled through Italy, [Estonia](https://lunchbag.ca/lunchbag-in-estonia-a-truly-underrated-gem/), Finland (went to a music festival there!), Sweden (where I ran my first 5k!), Denmark, the U.K., and finally back to France where my parents met me for a 2-week vacation before heading back home.
 
 ## September - Going home
 
 I had a blast of a summer yet never felt more ready to go back to Toronto. I had [learned a lot](https://lunchbag.ca/checking-in-things-i-ve-learned/) and [grown as a person](https://lunchbag.ca/why-i-quit-my-job-to-go-on-a-sabbatical/) in ways I could never have imagined or planned for myself.
 
+I had decided early on in May to move back to Toronto. It was a decision I made with my heart that I trusted would work itself out. I didn't want to go back to San Francisco because I had already made the decision to leave, and Toronto was where my parents resided. 
+
 ## October - Reunion with my love
 
-My boyfriend at the time joined me in Toronto and we moved in together in a great neighbourhood located in Downtown, Toronto.
+My boyfriend joined me in Toronto from Taipei and we moved in together downtown. 
 
 ## December
 
@@ -71,17 +73,21 @@ We got married in an intimate ceremony in the house I grew up in with both of ou
 
 ## April - Getting back into software development
 
-Since getting back, a lot has changed. For one, "React" was now the hot new thing and I had no experience in it whatsoever. I decided to take time to learn React (specifically React Native) since I figured it would be a useful skill to have. It took me about 2 months but I was able to release an app to the App Store.
+At this point, I hadn't done any programming in over a year. And since then, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I decided to take time to learn React (specifically React Native). It took me about 2 months but I was able to release an app to the App Store.
 
-## June - Stregthening my skills
+![](/uploads/Screenshot 2019-11-18 20.50.34.png)
 
-I started freelancing for two different companies. At one company, I was one of two engineers and I owned a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this really helped accelerate and improve my knowledge of the framework.
+## June - Streghthening my skills
+
+I knew I had to get back to work, but after taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to work for someone else's vision or company anymore. I found a happy medium by pursuing freelancing, inspired by a friend of mine who had recently lived abroad in Paris for a year while freelancing. 
+
+Through my network, I was able to find two freelancing jobs. At one company, I was one of two engineers and I was in charge of a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this gig really helped accelerate and improve my knowledge of the framework. While it was a lot to context-switch between two clients, I believe it was really beneficial to my professional development to have been in both an ownership role and in a position to learn and grow.
 
 # 2019
 
 ## January - Going abroad together
 
-[My husband and I set off to Fukuoka, Japan](https://lunchbag.ca/greetings-from-fukuoka/) for the next 4 months! Our first time escaping the Canadian winter. It was still quite cold, but never got below freezing and we only saw snow once (and it melted as soon as it hit the ground).
+Winter had arrived, so [my husband and I set off to Fukuoka, Japan](https://lunchbag.ca/greetings-from-fukuoka/) for the next 4 months! We had always wanted to go abroad together and we found a reason to leave in the Canadian winters. We spent the last few months diligently adjusting our work and lifestyle to make our digital snow-mad journey a reality.
 
 We absolutely [fell in love with Japan](https://lunchbag.ca/fukuoka/) and I personally derived a lot of fun from [noticing the differences in our cultures](https://lunchbag.ca/fukuoka-culture-shock/).
 
@@ -91,10 +97,14 @@ During our time in Fukuoka, [I started working on my own app while freelancing f
 
 We arrived back in Toronto just in time to enjoy the beautiful summers here. I continued to freelance for 2 companies while working on [Lunch Money](https://lunchmoney.app) on the side.
 
+## June
+
+My husband got his dream job working as an engineer at a blockchain company. The best part is that the company is remote-friendly and was especially encouraging when we mentioned we might be living abroad in Asia next year!
+
 ## September
 
-[I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time.
+[I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time! It was an unreal feeling to have so many people sign up and try out my product. I am grateful for everyone who has given the product a chance and even more thankful for all the feedback, bug reports and feature requests that came in.
 
 # 2020 - What's next?
 
-In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey!
+In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey. Cheers!
