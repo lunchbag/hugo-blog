@@ -61,15 +61,15 @@ I had decided early on in May to move back to Toronto. It was a decision I made 
 
 My boyfriend joined me in Toronto from Taipei and we moved in together downtown.
 
-## December
+## December - Engagement
 
 We got engaged while on a 3 week trip to Mexico. We started in Mexico City, then moved on to Oaxaca where we took the bumpiest collectivo ride of our lives to San Jose del Pacifico. We stayed in a cozy cabin overlooking a beautiful cliff of trees where my now husband proposed to me. Next, we went to Puerto Escondido, to date still one of my favorite vacation spots.
 
 # 2018
 
-## February
+## February - Marriage
 
-We got married in an intimate ceremony in the house I grew up in with both of our parents as witnesses.
+We got married in an intimate ceremony in the house I grew up in with only our parents as witnesses.
 
 ## April - Getting back into software development
 
@@ -77,7 +77,7 @@ At this point, I hadn't done any programming in over a year. And since then, a l
 
 ![](/uploads/Screenshot 2019-11-18 20.50.34.png)<span class="caption">A phrasebook app inspired by my own travels! It has almost no downloads aside from my mom.</span>
 
-## June - Streghthening my skills
+## June - Strengthening my skills
 
 I knew I had to get back to work, but after taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to work for someone else's vision or company anymore. I found a happy medium by pursuing freelancing, inspired by a friend of mine who had recently lived abroad in Paris for a year while freelancing.
 
@@ -93,22 +93,26 @@ We absolutely [fell in love with Japan](https://lunchbag.ca/fukuoka/) and I pers
 
 During our time in Fukuoka, [I started working on my own app while freelancing for 2 companies](https://lunchbag.ca/lunch-money/) in parallel.
 
-## May
+## May - Back to our home base 
 
 We arrived back in Toronto just in time to enjoy the beautiful summers here. I continued to freelance for 2 companies while working on [Lunch Money](https://lunchmoney.app) on the side.
 
-## June
+## June - Planning for the next adventure
 
 My husband got his dream job working as an engineer at a blockchain company. The best part is that the company is remote-friendly and was especially encouraging when we mentioned we might be living abroad in Asia next year!
 
-## September
+## September - Starting my own adventure
 
 [I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time! It was an unreal feeling to have so many people sign up and try out my product. I am grateful for everyone who has given the product a chance and even more thankful for all the feedback, bug reports and feature requests that came in.
 
-# A look back in terms of Github contributions
-
-![](/uploads/Group.png "lunchbag Github contributions")<span class="caption">2015 - 2016: Founding engineer at a startup<br>2017 - Traveling<br>2018 - Getting back into programming<br>2019 - Lunch Money takeover</span>
-
 # 2020 - What's next?
 
-In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey. Cheers!
+In January 2020, my husband and I will be setting off for Taipei, Taiwan as our home base until late April! I'll be continuing to work full-time on Lunch Money while also blogging and sharing parts of my entrepreneurial journey. 
+
+# A look back in terms of Github contributions
+
+I thought this would be fun to share! My Github contributions from the last 5 years, from when I started as the founding engineer of a startup in 2015, to my almost 1.5 year long programming hiatus while I was traveling, and finally to my freelancing gigs that merged with my Lunch Money progress.
+
+![](/uploads/Group.png "lunchbag Github contributions")
+
+Do you notice the streak of dark greens in the first week of September 2019? That represents the frantic programming and bug fixes that ensued after the Hacker News launch. Fun times.
