@@ -73,7 +73,7 @@ We got married in an intimate ceremony in the house I grew up in with only our p
 
 ## April - Getting back into software development
 
-At this point, I hadn't done any programming in over a year. And as is expected in the world of programming, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I decided to take time to learn React (specifically React Native). It took me about 2 months but I was able to release an app to the App Store.
+At this point, I hadn't done any programming in over a year. And as is expected in the world of software engineering, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I decided to take time to learn React (specifically React Native). It took me about 2 months but I was able to release an app to the App Store.
 
 ![](/uploads/Screenshot 2019-11-18 20.50.34.png)<span class="caption">A phrasebook app inspired by my own travels! It has almost no downloads aside from my mom.</span>
 
