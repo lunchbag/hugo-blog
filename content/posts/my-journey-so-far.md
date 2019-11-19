@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2019-11-03T04:00:00Z
+date = 2019-11-18T05:00:00Z
 draft = true
 slug = ""
 tags = []
@@ -73,13 +73,13 @@ We got married in an intimate ceremony in the house I grew up in with only our p
 
 ## April - Getting back into software development
 
-At this point, I hadn't done any programming in over a year. And as is expected in the world of software engineering, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I decided to take time to learn React (specifically React Native). It took me about 2 months but I was able to release an app to the App Store.
+At this point, I hadn't done any programming in over a year. And as is expected in the world of software engineering, a lot had changed. The biggest change was that React was now the hottest thing and I had no experience in it at all. After deliberation on how to get back into employability, I took a chance and invested time in learning React. It took me about 2 months of going to coffee shops every day and following a bunch of random tutorials on React Native and Redux, but I was able to release a fully-functioning app to the App Store!
 
 ![](/uploads/Screenshot 2019-11-18 20.50.34.png)<span class="caption">A phrasebook app inspired by my own travels! It has almost no downloads aside from my mom.</span>
 
 ## June - Strengthening my skills
 
-I knew I had to get back to work, but after taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to work for someone else's vision or company anymore. I found a happy medium by pursuing freelancing, inspired by a friend of mine who had recently lived abroad in Paris for a year while freelancing.
+As it turns out, phrasebook apps are not as lucrative as I thought they would be. I was beginning to feel anxious about not having made a single penny in the last 1.5 years. It was probably time to start thinking about a steady income stream. After taking into account my feelings and experience both as an individual contributor at a large company and a founding engineer of a start-up, I knew if I could help it, I didn't want to get stuck working for someone else's vision or company for a long time. I ended up finding a happy medium by pursuing the non-committal alternative of full-time employment– freelancing!
 
 Through my network, I was able to find two freelancing jobs. At one company, I was one of two engineers and I was in charge of a large part of the stack. At the other company, I was in a team of about 4 other engineers and we were managed by one person. Their stack involved a fair amount of React so this gig really helped accelerate and improve my knowledge of the framework. While it was a lot to context-switch between two clients, I believe it was really beneficial to my professional development to have been in both an ownership role and in a position to learn and grow.
 
@@ -99,11 +99,11 @@ We arrived back in Toronto just in time to enjoy the beautiful summers here. I c
 
 ## June - Planning for the next adventure
 
-My husband got his dream job working as an engineer at a blockchain company. The best part is that the company is remote-friendly and was especially encouraging when we mentioned we might be living abroad in Asia next year!
+My husband got his dream job working as an engineer at a blockchain company. The best part is that the company is remote-friendly and was especially encouraging when we mentioned we might be living abroad in Asia next year for a few months!
 
 ## September - Starting my own adventure
 
-[I launched Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time! It was an unreal feeling to have so many people sign up and try out my product. I am grateful for everyone who has given the product a chance and even more thankful for all the feedback, bug reports and feature requests that came in.
+[I posted Lunch Money on Hacker News](https://news.ycombinator.com/item?id=20811287) and received the validation I needed to go full-time! It was an unreal feeling to have so many people sign up and try out my product. I am grateful for everyone who has given Lunch Money a chance and even more thankful for all the feedback, bug reports and feature requests that came in.
 
 # 2020 - What's next?
 
