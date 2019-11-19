@@ -20,7 +20,7 @@ I graduated from a Canadian university with a degree in computer engineering and
 
 ## September - Leaving the comfort zone for the first time
 
-I stayed at Twitter for almost 4 years, experiencing both its startup heydays and post-IPO growing pains. Eventually, I quit because I grew frustrated with the increasing layers of middle management and bureaucracy. At the same time, my roommate was working on getting her startup off the ground. I witnessed her work ethics and determination every day.
+I stayed at Twitter for almost 4 years, experiencing both its startup heydays and post-IPO growing pains. Eventually, I quit because I grew frustrated with the increasing layers of middle management and bureaucracy that come with any company on that trajectory. At the same time, my roommate was working on getting her startup off the ground. I witnessed her work ethics and determination every day.
 
 I ended up joining the startup as a co-founder and formed the one-person engineering team. We worked on it together for a year, went through the first batch of YCombinator Fellowship and eventually made it into 500 Startups.
 
