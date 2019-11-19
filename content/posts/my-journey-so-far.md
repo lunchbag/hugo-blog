@@ -92,7 +92,7 @@ Winter had arrived, so [my husband and I set off to Fukuoka, Japan](https://lunc
 
 We absolutely [fell in love with Japan](https://lunchbag.ca/fukuoka/) and I personally derived a lot of fun from [noticing the differences in our cultures](https://lunchbag.ca/fukuoka-culture-shock/).
 
-During our time in Fukuoka, [I started working on my own app while freelancing for 2 companies](https://lunchbag.ca/lunch-money/) in parallel.
+During our time in Fukuoka, [I started working on my own app while continuing to freelance for 2 companies](https://lunchbag.ca/lunch-money/) in parallel.
 
 ## May - Back to our home base 
 
