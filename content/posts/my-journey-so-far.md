@@ -107,7 +107,7 @@ My husband got his dream job working as an engineer at a blockchain company. The
 
 # A look back in terms of Github contributions
 
-![](/uploads/Group.png)
+![](/uploads/Group.png "lunchbag Github contributions")<span class="caption">2015 - 2016: Founding engineer at a startup<br>2017 - Traveling</span>
 
 # 2020 - What's next?
 
