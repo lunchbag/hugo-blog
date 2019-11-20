@@ -84,8 +84,6 @@ In short, having every form of communication from my users arrive in my work inb
 
 **Estimated savings:** $15 per month or $180 per year
 
-**Set up time cost - 15 minutes**
-
 # Drip Campaigns
 
 Let’s talk about drip campaigns. They are crucial to customer engagement and guiding your users to eventual conversion. However, many tools out there designed to help you manage your drip campaigns are overloaded with features and therefore really expensive. Also, they require set up and integration since you’ll want to update the service with your customer’s actions and traits so they can be segmented and targeted properly. Overall, I felt these tools brought a lot of extra overhead for a cost that was way too high.
