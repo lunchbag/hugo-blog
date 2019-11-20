@@ -31,11 +31,11 @@ I looked into other solutions and found that they seemed to be rolled into what 
 
 I also found other solutions such as Helpscout, offered at $25/month and packed with features, as well as startups using Notion as a knowledge base. Though this lacks analytics and the general look and feel of a knowledge base, the price came in lower at $4, up to $8 per month.
 
-So, even at the cheapest, it looked like on average about $10/month for a decently-featured hosted version that would allow you to host on your own domain. From afar, it seemed almost worth it giving that they're offering beautiful templates that were already hooked up and fully-featured and all you had to do was provide the content.
+So, even at the cheapest, it looked like on average about $10/month for a decently-featured hosted version. From afar, it seemed almost worth it giving that they're offering beautiful templates that were already hooked up and fully-featured and all you had to do was provide the content.
 
 ### Deciding to host my own
 
-I ended up realizing that all I really needed was a template. All the other features that were offered were not so useful to me, and at least not useful enough for me to justify the monthly price. This led me to browsing Themeforest for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
+I ended up realizing that all I really needed was a template. All the other features that were offered were not so useful to me, and at least not useful enough for me to justify the monthly price. This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
 I started browsing through Theme marketplaces for Jekyll or Hugo templates, since that’s what I’m familiar with and I know they are super easy to deploy. I found one that was simple, intuitive and not overloaded with extra features, and it costed $60.
 
