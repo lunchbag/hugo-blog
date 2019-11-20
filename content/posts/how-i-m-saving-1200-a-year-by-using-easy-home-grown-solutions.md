@@ -31,19 +31,19 @@ I looked into other solutions and found that they seemed to be rolled into what 
 
 I also found other solutions such as Helpscout, offered at $25/month and packed with features, as well as startups using Notion as a knowledge base. Though this lacks analytics and the general look and feel of a knowledge base, the price came in lower at $4, up to $8 per month.
 
-So, even at the cheapest, it looked like on average about $10/month for a decently-featured hosted version. From afar, it seemed almost worth it giving that they're offering beautiful templates that were already hooked up and fully-featured and all you had to do was provide the content.
+It was looking like it would cost on average about $10/month for a decently-featured hosted version. From afar, it was very enticing given that these services were offering beautiful templates that were already fully hooked up and all you had to do was provide the content.
 
 ### Deciding to host my own
 
-I ended up realizing that all I really needed was a template. All the other features that were offered were not so useful to me, and at least not useful enough for me to justify the monthly price. 
+I ended up realizing that all I really needed for my knowledge base was a good-looking template. All the other features that were offered were not so useful to me and would only be distractions. I didn't want to end up spending so much time getting this off the ground.
 
-I was capable of coding my own theme and have it look exactly how I want, but I decided that would be an extremely poor use of my time. I would rather be spending my time coding new features or improvements for the main site, than pretty-ing up the knowledge base.
+I am capable of coding my own theme and having it look exactly how I want, but I decided that would be an extremely poor use of my time. I would rather be spending my time coding new features or improvements for the main product than pretty-ing up the knowledge base.
 
 This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
 ![](/uploads/Screenshot 2019-11-20 11.07.57.png)<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
 
-It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after just a couple of months and considering a docs site is something I would want to have for as long as the product is around, this would end up saving me a lot in the long run. I bought the template, added some basic content, pushed it to Github and deployed it for free with Netlify.
+It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after just a couple of months and considering a docs site is something I would want to have for as long as the product is around, this will end up saving me a lot. I bought the template, added some basic content, pushed it to Github and deployed it for free with Netlify.
 
 ### Final Cost and Savings
 
