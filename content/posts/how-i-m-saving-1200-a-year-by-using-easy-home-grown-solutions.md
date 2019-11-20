@@ -41,8 +41,6 @@ I was capable of coding my own theme and have it look exactly how I want, but I 
 
 This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
-I started browsing through Theme marketplaces for Jekyll or Hugo templates, since that’s what I’m familiar with and I know they are super easy to deploy. I found one that was simple, intuitive and not overloaded with extra features, and it costed $60.
-
 ![](/uploads/Screenshot 2019-11-20 11.07.57.png)<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
 
 It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after just a couple of months and considering a docs site is something I would want to have for as long as the product is around, this would end up saving me a lot in the long run. I bought the template, added some basic content, pushed it to Github and deployed it for free with Netlify.
