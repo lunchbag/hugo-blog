@@ -27,7 +27,7 @@ I was also noticing a lot of the same questions. While this was a strong indicat
 
 ### The hunt for a solution
 
-Something like Discourse would be cool to have eventually if I build a community around Lunch Money, but for now it didn’t make sense and since our features are still evolving, I didn’t want to worry so much about outdated answers. Also, at $100 per month, the price point is unjustifiable.
+Something like Discourse would be cool to have eventually if I build a community around Lunch Money, but for now it didn’t make sense. Since our features are still evolving, I didn’t want to worry so much about outdated answers. Also, at $100 per month, the price point is unjustifiable.
 
 I looked into other solutions and found that they seemed to be rolled into what is known as customer service tools. The most popular option I could find was Zendesk, whose support docs system is an add-on, so you have to subscribe to a base plan first which in total would cost you at least $10 per month.
 
