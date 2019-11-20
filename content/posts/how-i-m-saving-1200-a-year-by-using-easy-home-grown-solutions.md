@@ -50,7 +50,7 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 **Paid solutions:**
 
 * Notion offered at $4 - $8 per month
-* Zendesk offered at $10/month
+* Freshdesk offered at $15/month
 * Helpscout offered at $25/month
 
 **Estimated savings:** $10 per month or $120 per year
@@ -77,8 +77,8 @@ In short, having every form of communication from my users arrive in my work inb
 
 **Paid solutions:**
 
+* Zendesk offered at $5/month
 * Front offered at $12 per month
-* Zendesk offered at $10/month
 * HiverHQ offered at $15/month
 * Helpscout offered at $25/month
 
