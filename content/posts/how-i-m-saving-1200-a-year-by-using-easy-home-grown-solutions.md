@@ -37,7 +37,7 @@ So, even at the cheapest, it looked like on average about $10/month for a decent
 
 I ended up realizing that all I really needed was a template. All the other features that were offered were not so useful to me, and at least not useful enough for me to justify the monthly price. 
 
-I was capable of coding my own theme and have it look exactly how I want, but I decided that would be an extremely poor use of my time. I would rather be spending my time coding new features or improvements for the main site, than to pretty-ing up the knowledge base.
+I was capable of coding my own theme and have it look exactly how I want, but I decided that would be an extremely poor use of my time. I would rather be spending my time coding new features or improvements for the main site, than pretty-ing up the knowledge base.
 
 This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
