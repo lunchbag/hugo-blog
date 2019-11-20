@@ -53,11 +53,11 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 * Freshdesk offered at $15/month
 * Helpscout offered at $25/month
 
-**Estimated savings:** $10 per month or $120 per year
+**Estimated savings:** $15 per month or $180 per year
 
 **Cost:** $49
 
-**Pays for itself in:** 5 months
+**Pays for itself in:** just over 3 months
 
 # Support Requests
 
@@ -120,6 +120,6 @@ The key is to make your homegrown solution robust and extensible from the beginn
 
 **Estimated savings:** $80 per month or $960 per year
 
-**Cost:** 3 hours * $75/hour = 150
+**Cost:** 3 hours at $75/hour = $150 in engineering cost
 
 **Pays for itself in:** 3 months
