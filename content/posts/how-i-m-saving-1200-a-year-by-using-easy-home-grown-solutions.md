@@ -4,16 +4,14 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "How I'm saving $1200 a year by using easy home-grown solutions"
+title = "How to save $100/month by rolling your own solutions up to the first 1000 users"
 
 +++
-Frugality is in my blood. Through determination, grit and discpline, my parents were able to pay off a mortgage early on minimum wage jobs. I learned a lot about the value of a dollar from them and have been frugal (or money-conscious) throughout my travels. This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you pay unfathomable value for the taste) and the founder of a budgeting app. So it’s no surprise that I found myself comparing pricing and evaluating if it was more worth it to just roll my own version.
+Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been become particularly frugal (or money-conscious) since I quit my full-time job 4 years ago. This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was more or less worth the time it would take to just roll my own solution.
 
-I'm a big advocate for doing your due diligence before you spend. Don't get me wrong though, I am willing to spend money if it's worth my time.
+To clarify, I'm not trying to say that I am never willing to spend money. I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth not paying $50/month for a service.
 
-Most of the time it definitely was, so I was able to “save” or rather, not spend or delay spending money on certain services.
-
-Of course, as Lunch Money grows and scales, some of these solutions may not make sense anymore or may get overloaded, at which point I would re-evaluate. But the point is that while bootstrapping and getting Lunch Money through its infancy, ..
+I have outlined 4 of my home-grown solutions which are currently saving me in total over $100 per month and I am confident these solutions can sustain Lunch Money to its first 1000 users. As we get close to that number, I will surely re-evaluate these solutions. But until then, here they are!
 
 # Knowledge Base
 
@@ -23,21 +21,31 @@ Of course, as Lunch Money grows and scales, some of these solutions may not make
 
 **Savings: $4+/month or $48+ annually (Helpscout offered at $25/month, Notion offered at $4 - $8 per month, Zendesk offered at $10/month)**
 
-Lunch Money was growing in complexity from all the features and improvements I had been implementing based on feedback. I was also starting to get support emails asking about the same few things. I figured it would be a good time to start thinking about a Docs system.
+### The problem: Lots of repeated information in support requests
+
+Since launching, I've been getting a steady stream of support requests and questions from users. That along with the fact that I was pushing out new features and improvements on the daily means a lot of information I was conveying would quickly be outdated. 
+
+I was also noticing a lot of the same questions. While this was a strong indicator that certain parts of the product could be more intuitive or have a walkthrough, I felt it was nearing the time for Lunch Money to have a centralized knowledge base.
+
+### The hunt for a solution
 
 Something like Discourse would be cool to have eventually when I could build a community around Lunch Money, but for now it didn’t make sense and since features were still evolving, I didn’t want to have to worry so much about outdated answers. Also the price point is ridiculous starting at $100 per month.
 
-I looked at many other solutions and they seemed to be rolled into what is known as customer service tools. The most popular option I could find was Zendesk, whose support docs system is an add-on, so you have to subscribe to a base plan first which would cost you at least $10 per month.
+I looked into other solutions and found that they seemed to be rolled into what is known as customer service tools. The most popular option I could find was Zendesk, whose support docs system is an add-on, so you have to subscribe to a base plan first which would cost you at least $10 per month.
 
-Even at the cheapest, it looked like about $10/month for a hosted version. These all seemed worth it because they offered templates that were already hooked up and fully-featured and all you had to do was provide the content.
+I also found other solutions such as Helpscout, offered at $25/month and packed with features, as well as startups using Notion as a knowledge base. Though this lacks analytics and the general look and feel of a knowledge base, the price came in lower at $4, up to $8 per month.
+
+So, even at the cheapest, it looked like on average about $10/month for a decently-featured hosted version that would allow you to host on your own domain. From afar, it seemed almost worth it giving that they're offering beautiful templates that were already hooked up and fully-featured and all you had to do was provide the content.
+
+### Deciding to host my own
+
+I ended up realizing that all I really needed was a template. All the other features that were offered were not so useful to me, and at least not useful enough for me to justify the monthly price. This led me to browsing Themeforest for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
 I started browsing through Theme marketplaces for Jekyll or Hugo templates, since that’s what I’m familiar with and I know they are super easy to deploy. I found one that was simple, intuitive and not overloaded with extra features, and it costed $60.
 
-![](/uploads/Screenshot 2019-11-20 11.07.57.png)
+![](/uploads/Screenshot 2019-11-20 11.07.57.png)<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
 
-<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
-
-So this template would pay for itself after 6 months. Another way of looking at it is in terms of how much I value my time. Let’s say I value my time at $60/hour. I probably can't build as good looking and functional Jekyll or Hugo site in an hour, and it’s not really worth it for me to find out if that’s true or not. So I ended up buying the template and saved myself a recurring charge.
+It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after 5 months. Another way of looking at it is in terms of how much I value my time. Let’s say I value my time at $75/hour. I probably can't build as good looking and functional Jekyll or Hugo site in less than an hour, and it’s not really worth it for me to find out if that’s true or not. So I ended up buying the template and saved myself a recurring charge. I added some basic content, pushed it to Github and deployed it for free with Netlify.
 
 # Support Requests
 
