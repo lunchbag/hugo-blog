@@ -4,7 +4,7 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "Frugal Tech: How I save $100 a month with home-grown solutions"
+title = "Frugal Tech: How my start-up saves $100 a month with home-grown solutions"
 
 +++
 Hi there, my name is Jen and I am building [Lunch Money](https://lunchmoney.app), a multicurrency personal finance tool for the modern-day spender. 
