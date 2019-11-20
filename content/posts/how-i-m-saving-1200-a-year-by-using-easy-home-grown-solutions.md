@@ -15,7 +15,7 @@ Most of the time it definitely was, so I was able to “save” or rather, not s
 
 Of course, as Lunch Money grows and scales, some of these solutions may not make sense anymore or may get overloaded, at which point I would re-evaluate. But the point is that while bootstrapping and getting Lunch Money through its infancy, ..
 
-## Knowledge Base
+# Knowledge Base
 
 **Type: Customer support tools**
 
@@ -35,7 +35,7 @@ I started browsing through Theme marketplaces for Jekyll or Hugo templates, sinc
 
 So this template would pay for itself after 6 months. Another way of looking at it is in terms of how much I value my time. Let’s say I value my time at $60/hour. I probably can't build as good looking and functional Jekyll or Hugo site in an hour, and it’s not really worth it for me to find out if that’s true or not. So I ended up buying the template and saved myself a recurring charge.
 
-## **Support Requests**
+# Support Requests
 
 **Set up time cost - 15 minutes**
 
@@ -59,7 +59,7 @@ I imagine as Lunch Money grows and support tickets grow, this might become unsus
 
 \+ gmail labels, snooze
 
-## Notifications and Alerting
+# Notifications and Alerting
 
 **Time cost - 10 minutes**
 
@@ -77,9 +77,9 @@ Here’s what I have webhooks set up to notify me about:
 
 I highly recommend at least implementing a webhook for when a new user signs up and set the new message notification tone to something pleasant. It will give you a slight jolt of dopamine and motivation whenever you hear that sound!
 
-## Drip Campaign
+# Drip Campaign
 
- **- Postmark $75**
+**- Postmark $75**
 
 **Time cost - 1+ hour**
 
