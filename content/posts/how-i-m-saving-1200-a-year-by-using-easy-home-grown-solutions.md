@@ -29,7 +29,7 @@ I was also noticing a lot of the same questions. While this was a strong indicat
 
 Something like Discourse would be cool to have eventually if I build a community around Lunch Money, but for now it didn’t make sense. Since our features are still evolving, I didn’t want to worry so much about outdated answers. Also, at $100 per month, the price point is unjustifiable.
 
-I looked into other solutions and found that they seemed to be rolled into what is known as customer service tools. The most popular option I could find was Zendesk, whose support docs system is an add-on, so you have to subscribe to a base plan first which in total would cost you at least $10 per month.
+I found that knowledge bases are typically a feature as part of a larger set of tools for customer support. The most popular option I could find was Zendesk, whose support docs system is an add-on, so you have to subscribe to a base plan first which in total would cost you at least $10 per month.
 
 I also found other solutions such as Helpscout, offered at $25/month and packed with features, as well as startups using Notion as a knowledge base. Though they lack analytics and the general look and feel of a knowledge base, the price comes in lower at $4 up to $8 per month.
 
@@ -37,9 +37,7 @@ It was looking like it would cost on average about $10/month for a decently-feat
 
 ### Deciding to host my own
 
-I realized that all I really needed for my knowledge base was a good-looking template. All the other features that were offered were not so useful to me and would only be distractions (e.g. comments, live chat, etc). I also didn't want to end up spending too much time getting this off the ground.
-
-I am capable of coding my own theme and having it look exactly how I want, but I decided that would be an extremely poor use of my time. I would rather be spending my time coding new features or improvements for the main product than pretty-ing up the knowledge base.
+I realized that all I really needed for my knowledge base was a good-looking template. All the other features that were offered were not so useful to me and would only be distractions (e.g. comments, live chat, etc). I also didn't want to spend too much time beyond writing content to get this off the ground.
 
 This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
@@ -49,7 +47,7 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 
 ### Final Cost and Savings
 
-**Set up time cost:** 10 minutes to find the template, 5 minutes to deploy to Github and Netlify (obviously excluding content-writing time)
+**Set up time cost:** 10 minutes to find the template, 5 minutes to deploy to Github and Netlify (excludes content-writing time)
 
 **Paid solutions:**
 
@@ -65,15 +63,15 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 
 # Support Requests
 
-While researching customer support tools, I noticed they also feature a way of handling requests that come in through email. However, at those price points, I simply couldn't justify it. I used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating support requests from my normal inbox.
+While researching customer support tools, I noticed they also handle support tickets that come in through email. However, at those price points, I simply couldn't justify it. I used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating support requests from my normal inbox.
 
 Here's the thing– your first few customers are so important. They will be your champions later on. It's imperative to give top-notch service from the very beginning. For me, this means support requests have a high priority and deserve to go to my work inbox which I check most frequently. I also don't want to install yet another app on my phone or have yet another tab always open in Chrome.
 
 ### Setting up my support email for free
 
-To allow users to email us at support@lunchmoney.app, I hooked up the domain to Mailgun (free) [to receive emails and route them appropriately to my inbox](https://documentation.mailgun.com/en/latest/quickstart-receiving.html#inbound-routes-and-parsing). This initially saved me the $6 it would cost to get on GSuite and have Google manage my work domain. 
+To allow users to email me at support@lunchmoney.app, I hooked up the domain to Mailgun (free) [to receive emails and route them appropriately to my inbox](https://documentation.mailgun.com/en/latest/quickstart-receiving.html#inbound-routes-and-parsing). This initially saved me the $6 it would cost to get on GSuite and have Google manage my work domain. 
 
-While I was happy with this solution for the first few months, I quickly noticed issues with relying on a free tier for something as important as my email. I was experiencing almost no deliverability to outlook.com and hotmail.com email addresses. This is because spammers also tend to use these services (Mailgun, Sendgrid) and "polluting" the shared IPs that are used in these free tiers, causing them to be blacklisted by email service providers.
+While I was happy with this solution for the first few months, I quickly noticed issues with relying on a free tier for something as important as my email. I was experiencing almost no deliverability to outlook.com and hotmail.com email addresses. This is because spammers also tend to use these services (Mailgun, Sendgrid) and they end up "polluting" the shared IPs that are used in these free tiers, causing them to be blacklisted by email service providers.
 
 Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite. 
 
@@ -102,7 +100,7 @@ Let’s talk about drip campaigns. They are crucial to customer engagement and g
 
 So I started thinking about what it would take to implement my own simple drip campaign. I figured I could start off pretty simple and just email a user over the course of their trial 3 times: when they sign up, one week before their trial ends to offer a trial extension, and on the last day of their trial.
 
-These were all straightforward queries to the database. I store the join dates for all users as well as a type so I know how long their trial is. I also have to hit the Stripe API to make sure that I wasn’t asking already-converted users to convert. This was another nice thing– I could query all the information directly when I needed it, instead of playing telephone between multiple services on webhooks.
+These were all straightforward queries to the database. I store the join dates for all users as well as a type so I know how long their trial is. I also have to hit the Stripe API to make sure that I wasn’t asking already-converted users to convert. This was another nice thing– I could query all the information directly when I needed it, instead of playing telephone between multiple services via webhooks.
 
 Using Redis queues with [Bull](https://optimalbits.github.io/bull/), I created a daily repeating worker which would, for each email template, query the database and retrieve all eligible users, double check their Stripe status and double check that they haven’t already been sent this email (safeguarding in case the queue hiccups and the job retries itself) and eventually sends the email.
 
