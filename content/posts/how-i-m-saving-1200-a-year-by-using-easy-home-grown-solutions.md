@@ -4,7 +4,7 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "How I save $1200 a year by rolling my own solutions as a one-person team"
+title = "The Frugal Founder: How I save $100 a month by DIY'ing my own solutions"
 
 +++
 Hi there, my name is Jen. I am the the one-person engineering, design and support team building Lunch Money, a multicurrency personal finance tool for the modern-day spender. 
