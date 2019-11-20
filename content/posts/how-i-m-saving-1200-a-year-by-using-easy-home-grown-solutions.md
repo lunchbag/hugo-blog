@@ -63,11 +63,9 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 
 # Support Requests
 
-While researching customer support tools, I noticed they also feature a way of handling customer service requests. At those price points, I simply couldn't justify it. I also used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating out support requests from my normal inbox.
+While researching customer support tools, I noticed they also feature a way of handling customer service requests. At those price points, I simply couldn't justify it. I used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating out support requests from my normal inbox.
 
-Here's the thing– your first few customers are so important. They will be your champions later on. It's imperative to give top-notch service from the very beginning. For me, this means support requests have a high priority and deserve to go to my work inbox which I check most frequently. I don't see myself installing another app on my phone or needing to have yet another tab always open on my Chrome.
-
-And let's be real– if you're a one person team, you don't need a shared inbox!
+Here's the thing– your first few customers are so important. They will be your champions later on. It's imperative to give top-notch service from the very beginning. For me, this means support requests have a high priority and deserve to go to my work inbox which I check most frequently. I also don't want to install yet another app on my phone or needing to have yet another tab always open on my Chrome.
 
 ### Setting up my support email for free
 
@@ -75,7 +73,7 @@ To allow users to email us at support@lunchmoney.app, I hooked up the domain to 
 
 Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite. 
 
-In short, having every form of communication from my users arrive in my work inbox has simplified my work flow. Furthermore, I use tags and the snooze feature religiously, and if you have a good system, this can also improve your workflow. Personally, my work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
+In short, having every form of communication from my users arrive in my work inbox has simplified my work flow and hasn't felt overwhelming yet. Furthermore, I use filters, tags and the snooze feature religiously, so if you have a good system, this can also improve your workflow. My work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
 
 ### Final Cost and Savings
 
