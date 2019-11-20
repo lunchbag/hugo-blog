@@ -11,7 +11,7 @@ Hi there, my name is Jen. I am the the one-person engineering, design and suppor
 
 Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been become particularly frugal (or money-conscious) since I quit my full-time job 4 years ago. This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was more or less worth the time it would take to just roll my own solution.
 
-To clarify, I'm not trying to say that I am never willing to spend money. I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth not paying $50/month for a service.
+To clarify, I'm not trying to say that I am not willing to spend money. I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth it if it means you can avoid paying $20 per month for a service– it all adds up!
 
 I have outlined 4 of my home-grown solutions which are currently saving me in total over $100 per month and I am confident these solutions can sustain Lunch Money to its first 1000 users. As we get close to that number, I will surely re-evaluate these solutions. But until then, here they are!
 
@@ -69,7 +69,7 @@ To allow users to email us at support@lunchmoney.app, I hooked up the domain to 
 
 Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite. 
 
-In short, having every form of communication from my users arrive in my work inbox has simplified my work flow. Furthermore, I use tags and the snooze feature religiously, and if you have a good system, this can also improve your workflow.
+In short, having every form of communication from my users arrive in my work inbox has simplified my work flow. Furthermore, I use tags and the snooze feature religiously, and if you have a good system, this can also improve your workflow. Personally, my work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
 
 ### Final Cost and Savings
 
@@ -86,55 +86,30 @@ In short, having every form of communication from my users arrive in my work inb
 
 **Set up time cost - 15 minutes**
 
-# Notifications and Alerting
+# Drip Campaigns
 
-For a feedback system, I have a button which is accessible from every page on Lunch Money where users can quickly enter feedback into a text area and hit Send. This sent as a message in Slack through my webhook. However, after launching, I quickly realized this was not feasible. I was getting a ton of feedback and it was starting to get buried in all my other alerts. It became very tedious to go through all my feedback in a Slack channel– I remembered the scrolling through past history experience in Slack was horrible. Also, it wasn’t a good searchable interface since I wasn’t playing for Slack (obviously), there would be no history.
+Let’s talk about drip campaigns. They are crucial to customer engagement and guiding your users to eventual conversion. However, many tools out there designed to help you manage your drip campaigns are overloaded with features and therefore really expensive. Also, they require set up and integration since you’ll want to update the service with your customer’s actions and traits so they can be segmented and targeted properly. Overall, I felt these tools brought a lot of extra overhead for a cost that was way too high.
 
-My feedback system works great for me now. When new feedback comes in, I get an email with the message, the user’s name, email and user ID. It has all the information I need in case I need to look something up in the database. Then I can just hit reply and start a thread with the user. If it’s a feature request, I will note down the user in my task management system so I know who to contact when I’ve implemented a change. Finally, I archive the email. My work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
+So I started thinking about what it would take to implement my own simple drip campaign. I figured I could start off pretty simple and just email a user over the course of their trial 3 times: when they sign up, one week before their trial ends to offer a trial extension, and on the last day of their trial.
 
-I imagine as Lunch Money grows and support tickets grow, this might become unsustainable but honestly I feel pretty good about the system for maybe 10x more volume.
+These were all straightforward queries to the database. I store the join dates for all users as well as a type so I know how long their trial is. I also have to hit the Stripe API to make sure that I wasn’t asking already-converted users to convert. This was another nice thing– I could query all the information I needed directly when I needed it, instead of playing telephone between multiple services.
 
-This doesn’t replace anything specific, but it’s a great way to get free alerting.
+Using Redis queues with [Bull](https://optimalbits.github.io/bull/), I created a daily repeating worker which would, for each email template, query the database and retrieve all eligible users, double check their Stripe status and double check that they haven’t already been sent this email (safeguarding in case the queue hiccups and the job retries itself) and sends them the email.
 
-Basically, if you don’t have a Slack channel for your project, start one! Slack is really powerful, especially if you already use it, it’s just an extra channel and it’s a very effective notification system also. Webhooks is where all the power is. Basically you can send a formatted request to a webhook and a bot that you set up will send that message in any channel.
+For these emails, I use [Postmark](https://postmarkapp.com) as my email service provider. I’m a big fan of Postmark after experiencing the lowest lows with Sendgrid and Mailgun. Postmark has a rigid selection process to ensure spammers do not get on their platform and so they maintain high deliverability rates. The best part is they offer a $75 credit to bootstrapped startups which gets you 7 months of free service if you send under 10,000 emails a month.
 
-Here’s what I have webhooks set up to notify me about:
+My solution is working great for me so far as I have no complaints. I have all the stats I need from Postmark regarding click-through rates and open rates. I can corroborate that easily by querying my database to see how many actually extended their trial. I have also since added a 4th email: if you extend your trial, we send an email to follow up on how the extension is going. 
 
-1. When a new user signs up
-2. When a user converts by entering their billing information
-3. When a user provides one-off form submissions, such as when I requested for interest in an API
-
-I highly recommend at least implementing a webhook for when a new user signs up and set the new message notification tone to something pleasant. It will give you a slight jolt of dopamine and motivation whenever you hear that sound!
-
-# Drip Campaign
-
-Let’s talk about drip campaigns. They are crucial to customer engagement and guiding your users to eventual conversion. However, every tool out there designed to help you manage your drip campaigns are overloaded with features and really expensive. I’m talking $50+ per month. Also, they require yet another integration since you’ll want to update the service with your customer’s actions and traits so they can be targeted properly. Overall, I felt it was a lot of extra overhead for a cost that was way too high.
-
-So I started thinking about implementing my own drip campaign. I figured I could start off pretty simple and just emailed a user over the course of their trial 3 times: once when they sign up, one week before their trial ends to offer a trial extension, and the day their trial is over.
-
-These were all pretty simple queries to the database. I store the join dates for all users as well as a type so I know how long their trial is. I’d also have to hit the Stripe API to make sure that I wasn’t asking them to subscribe when they already had. This was another nice thing– I could query all the information I needed directly when I needed it, instead of playing telephone between multiple services.
-
-So using my favorite things in the world– Redis queues with Bull– I created a daily repeating worker which would, for each email type, query the database and retrieve all eligible users, double check their Stripe status and double check that they haven’t already been sent this email (safeguarding in case the queue hiccups and the job repeats itself as is in the Bull documentation) and sends them the email.
-
-For these emails, I use Postmark as my email service provider. I’m a big fan of Postmark after experiencing the lowest lows with Sendgrid and Mailgun. Basically all my emails to outlook or [hotmail.com](http://hotmail.com) emails were not being delivered. They didn’t even show up in the spam box and they were not bouncing either. They were just lost in email purgatory somewhere. This is due to the fact that their free tiers are so popular that spammers will eventually cause these shared IPs to be blacklisted by certain email providers. Postmark has rigid selection process to ensure spammers do not get on their platform and so they boast really high deliverability rates. The best part is they offer a $75 credit to bootstrapped startups which gets you 7 months of free service if you send under 10,000 emails a month.
-
-My solution is working great for me so far as I have no complaints. I have all the stats I need from Postmark regarding click-through rates and open rates. I can corroborate that easily by querying my database to see how many actually extended their trial. I have also since added a 4th email: if you extend your trial, we send an email to follow up on how the extension is going. The key is to make your homegrown solution robust and extensible from the beginning. I can’t see a reason yet why I would switch to a paid full-service tool anytime soon!
+The key is to make your homegrown solution robust and extensible from the beginning. I can’t see a reason yet why I would switch to a paid full-service tool anytime soon!
 
 ### Final Cost and Savings
 
-**Set up time cost:** 15 minutes
+**Set up time cost:** 3 hours to set up queues once and write the code to power your campaign and write tests
 
 **Paid solutions:**
 
 * Drip offered at $49/month
 * Intercom offered at $49/month
+* Customer.io offered at $150/month
 
-**Estimated savings:** $49 per month or $588 per year
-
-**- Postmark $75**
-
-**Time cost - 1+ hour**
-
-**Savings - $50+/month**
-
-**Drip $49/month for 1000 users**
+**Estimated savings:** $80 per month or $960 per year
