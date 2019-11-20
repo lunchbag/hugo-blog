@@ -4,7 +4,7 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "The Frugal Founder series: How I save $100 a month by DIY'ing my own solutions"
+title = "The Frugal Founder series: How I save $100 a month with home-grown solutions"
 
 +++
 Hi there, my name is Jen. I am the the one-person engineering, design and support team building Lunch Money, a multicurrency personal finance tool for the modern-day spender. 
