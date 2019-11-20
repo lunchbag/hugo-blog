@@ -33,6 +33,10 @@ Even at the cheapest, it looked like about $10/month for a hosted version. These
 
 I started browsing through Theme marketplaces for Jekyll or Hugo templates, since that’s what I’m familiar with and I know they are super easy to deploy. I found one that was simple, intuitive and not overloaded with extra features, and it costed $60.
 
+![](/uploads/Screenshot 2019-11-20 11.07.57.png)
+
+<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
+
 So this template would pay for itself after 6 months. Another way of looking at it is in terms of how much I value my time. Let’s say I value my time at $60/hour. I probably can't build as good looking and functional Jekyll or Hugo site in an hour, and it’s not really worth it for me to find out if that’s true or not. So I ended up buying the template and saved myself a recurring charge.
 
 # Support Requests
