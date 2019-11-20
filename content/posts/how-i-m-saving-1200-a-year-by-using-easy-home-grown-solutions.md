@@ -4,9 +4,11 @@ date = ""
 draft = true
 slug = ""
 tags = []
-title = "How to save $100/month by rolling your own solutions up to the first 1000 users"
+title = "How I save $1200 a year by rolling my own solutions as a one-person team"
 
 +++
+Hi there, my name is Jen. I am the the one-person engineering, design and support team building Lunch Money, a multicurrency personal finance tool for the modern-day spender. 
+
 Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been become particularly frugal (or money-conscious) since I quit my full-time job 4 years ago. This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was more or less worth the time it would take to just roll my own solution.
 
 To clarify, I'm not trying to say that I am never willing to spend money. I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth not paying $50/month for a service.
@@ -55,33 +57,46 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 
 # Support Requests
 
+While researching customer support tools, I noticed they also feature a way of handling customer service requests. At those price points, I simply couldn't justify it. I also used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating out support requests from my normal inbox.
+
+Here's the thing– your first few customers are so important. They will be your champions later on. It's imperative to give top-notch service from the very beginning. For me, this means support requests have a high priority and deserve to go to my work inbox which I check most frequently. I don't see myself installing another app on my phone or needing to have yet another tab always open on my Chrome.
+
+And let's be real– if you're a one person team, you don't need a shared inbox!
+
+### Setting up my support email for free
+
+To allow users to email us at support@lunchmoney.app, I hooked up the domain to Mailgun (free) [to receive emails and route them appropriately to my inbox](https://documentation.mailgun.com/en/latest/quickstart-receiving.html#inbound-routes-and-parsing). This initially saved me the $6 it would cost to get on GSuite and have Google manage my work domain. While I was happy with this solution for the first few months, I quickly noticed issues with relying on a free tier for something as important as my email. I was experiencing almost no deliverability to outlook.com and hotmail.com email addresses. This is because spammers also tend to use these services (Mailgun, Sendgrid) and "polluting" the shared IPs that are used in these free tiers, causing them to be blacklisted by email service providers.
+
+Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite. 
+
+In short, having every form of communication from my users arrive in my work inbox has simplified my work flow. Furthermore, I use tags and the snooze feature religiously, and if you have a good system, this can also improve your workflow.
+
+### Final Cost and Savings
+
+**Set up time cost:** 15 minutes to set up Mailgun and/or GSuite
+
+**Paid solutions:**
+
+* Front offered at $12 per month
+* Zendesk offered at $10/month
+* HiverHQ offered at $15/month
+* Helpscout offered at $25/month
+
+**Estimated savings:** $15 per month or $180 per year
+
 **Set up time cost - 15 minutes**
-
-**Savings - $29+/month**
-
-**Front - $12 / month**
-
-**Helpscout - $25/month**
-
-**Zendesk - $5 - $19/month**
-
-While browsing customer support tools, I noticed many of them also offered a feedback system or a way of handling support requests. The price range of these ranged from $5/month to $60/month!
-
-For support emails, I hooked up my domain to Mailgun (free) to route all emails to my personal inbox. For a feedback system, I have a button which is accessible from every page on Lunch Money where users can quickly enter feedback into a text area and hit Send. This sent as a message in Slack through my webhook. However, after launching, I quickly realized this was not feasible. I was getting a ton of feedback and it was starting to get buried in all my other alerts. It became very tedious to go through all my feedback in a Slack channel– I remembered the scrolling through past history experience in Slack was horrible. Also, it wasn’t a good searchable interface since I wasn’t playing for Slack (obviously), there would be no history.
-
-Eventually I changed the feedback system to email me the feedback instead and I upgraded from using Mailgun to GSuite ($6/month) so I could have a separate inbox and not worry about routing issues with Mailgun. This made my workflow much easier since I could just reply to the email instead of copying and pasting the email address between Slack and Chrome.
-
-My feedback system works great for me now. When new feedback comes in, I get an email with the message, the user’s name, email and user ID. It has all the information I need in case I need to look something up in the database. Then I can just hit reply and start a thread with the user. If it’s a feature request, I will note down the user in my task management system so I know who to contact when I’ve implemented a change. Finally, I archive the email. My work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
-
-I imagine as Lunch Money grows and support tickets grow, this might become unsustainable but honestly I feel pretty good about the system for maybe 10x more volume.
-
-\+ gmail labels, snooze
 
 # Notifications and Alerting
 
 **Time cost - 10 minutes**
 
 **Savings**
+
+For a feedback system, I have a button which is accessible from every page on Lunch Money where users can quickly enter feedback into a text area and hit Send. This sent as a message in Slack through my webhook. However, after launching, I quickly realized this was not feasible. I was getting a ton of feedback and it was starting to get buried in all my other alerts. It became very tedious to go through all my feedback in a Slack channel– I remembered the scrolling through past history experience in Slack was horrible. Also, it wasn’t a good searchable interface since I wasn’t playing for Slack (obviously), there would be no history.
+
+My feedback system works great for me now. When new feedback comes in, I get an email with the message, the user’s name, email and user ID. It has all the information I need in case I need to look something up in the database. Then I can just hit reply and start a thread with the user. If it’s a feature request, I will note down the user in my task management system so I know who to contact when I’ve implemented a change. Finally, I archive the email. My work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
+
+I imagine as Lunch Money grows and support tickets grow, this might become unsustainable but honestly I feel pretty good about the system for maybe 10x more volume.
 
 This doesn’t replace anything specific, but it’s a great way to get free alerting.
 
