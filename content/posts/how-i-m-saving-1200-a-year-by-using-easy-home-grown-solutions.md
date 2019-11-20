@@ -15,12 +15,6 @@ I have outlined 4 of my home-grown solutions which are currently saving me in to
 
 # Knowledge Base
 
-**Type: Customer support tools**
-
-**Set up time cost: 15 minutes**
-
-**Savings: $4+/month or $48+ annually (Helpscout offered at $25/month, Notion offered at $4 - $8 per month, Zendesk offered at $10/month)**
-
 ### The problem: Lots of repeated information in support requests
 
 Since launching, I've been getting a steady stream of support requests and questions from users. That along with the fact that I was pushing out new features and improvements on the daily means a lot of information I was conveying would quickly be outdated. 
@@ -46,6 +40,18 @@ I started browsing through Theme marketplaces for Jekyll or Hugo templates, sinc
 ![](/uploads/Screenshot 2019-11-20 11.07.57.png)<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
 
 It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after 5 months. Another way of looking at it is in terms of how much I value my time. Let’s say I value my time at $75/hour. I probably can't build as good looking and functional Jekyll or Hugo site in less than an hour, and it’s not really worth it for me to find out if that’s true or not. So I ended up buying the template and saved myself a recurring charge. I added some basic content, pushed it to Github and deployed it for free with Netlify.
+
+### Final Cost and Savings
+
+**Set up time cost:** 10 minutes to find the template, 5 minutes to deploy to Github and Netlify (obviously excluding content-writing time)
+
+**Paid solutions:**
+
+* Notion offered at $4 - $8 per month
+* Zendesk offered at $10/month
+* Helpscout offered at $25/month
+
+**Estimated savings:** $10 per month or $120 per year
 
 # Support Requests
 
