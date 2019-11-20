@@ -7,13 +7,13 @@ tags = []
 title = "The Frugal Founder series: How I save $100 a month with home-grown solutions"
 
 +++
-Hi there, my name is Jen. I am the the one-person engineering, design and support team building Lunch Money, a multicurrency personal finance tool for the modern-day spender. 
+Hi there, my name is Jen and I am building Lunch Money, a multicurrency personal finance tool for the modern-day spender. 
 
 Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been particularly frugal (or money-conscious) since I quit my full-time job 4 years ago. This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was more or less worth the time it would take to just roll my own solution.
 
-To clarify, I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth it if it means you can avoid paying $20 per month for a service. Remember, it all adds up!
+To clarify, I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth yet another recurring monthly charge. Remember, it all adds up!
 
-I have outlined 3 home-grown solutions which are currently saving me in total over $100 per month and I am confident these solutions can sustain Lunch Money to its first 1000 users. As we get close to that number, I will surely re-evaluate these solutions. But until then, here they are!
+I have outlined 3 home-grown solutions which are currently saving me in total over $100 per month and I am confident these solutions can sustain Lunch Money well through the first 1000 users. As volumes increase, I will surely re-evaluate these solutions but until then, here they are!
 
 # Knowledge Base
 
