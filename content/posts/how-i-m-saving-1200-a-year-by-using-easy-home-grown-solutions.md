@@ -55,6 +55,10 @@ It took me 10 minutes to find a beautiful, simple template that met my basic nee
 
 **Estimated savings:** $10 per month or $120 per year
 
+**Cost:** $49
+
+**Pays for itself in:** 5 months
+
 # Support Requests
 
 While researching customer support tools, I noticed they also feature a way of handling customer service requests. At those price points, I simply couldn't justify it. I also used a service like Freshdesk exclusively at my first start-up and I can't exactly pinpoint the value it brought from separating out support requests from my normal inbox.
@@ -84,6 +88,10 @@ In short, having every form of communication from my users arrive in my work inb
 
 **Estimated savings:** $15 per month or $180 per year
 
+**Cost:** $6/month
+
+**Pays for itself:** immediately
+
 # Drip Campaigns
 
 Let’s talk about drip campaigns. They are crucial to customer engagement and guiding your users to eventual conversion. However, many tools out there designed to help you manage your drip campaigns are overloaded with features and therefore really expensive. Also, they require set up and integration since you’ll want to update the service with your customer’s actions and traits so they can be segmented and targeted properly. Overall, I felt these tools brought a lot of extra overhead for a cost that was way too high.
@@ -111,3 +119,7 @@ The key is to make your homegrown solution robust and extensible from the beginn
 * Customer.io offered at $150/month
 
 **Estimated savings:** $80 per month or $960 per year
+
+**Cost:** 3 hours * $75/hour = 150
+
+**Pays for itself in:** 3 months
