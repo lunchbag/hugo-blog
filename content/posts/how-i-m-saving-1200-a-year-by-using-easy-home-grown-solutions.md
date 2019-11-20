@@ -88,10 +88,6 @@ In short, having every form of communication from my users arrive in my work inb
 
 # Notifications and Alerting
 
-**Time cost - 10 minutes**
-
-**Savings**
-
 For a feedback system, I have a button which is accessible from every page on Lunch Money where users can quickly enter feedback into a text area and hit Send. This sent as a message in Slack through my webhook. However, after launching, I quickly realized this was not feasible. I was getting a ton of feedback and it was starting to get buried in all my other alerts. It became very tedious to go through all my feedback in a Slack channel– I remembered the scrolling through past history experience in Slack was horrible. Also, it wasn’t a good searchable interface since I wasn’t playing for Slack (obviously), there would be no history.
 
 My feedback system works great for me now. When new feedback comes in, I get an email with the message, the user’s name, email and user ID. It has all the information I need in case I need to look something up in the database. Then I can just hit reply and start a thread with the user. If it’s a feature request, I will note down the user in my task management system so I know who to contact when I’ve implemented a change. Finally, I archive the email. My work email is essentially an inbox so I like to keep it clean and as close to empty as possible!
@@ -112,14 +108,6 @@ I highly recommend at least implementing a webhook for when a new user signs up 
 
 # Drip Campaign
 
-**- Postmark $75**
-
-**Time cost - 1+ hour**
-
-**Savings - $50+/month**
-
-**Drip $49/month for 1000 users**
-
 Let’s talk about drip campaigns. They are crucial to customer engagement and guiding your users to eventual conversion. However, every tool out there designed to help you manage your drip campaigns are overloaded with features and really expensive. I’m talking $50+ per month. Also, they require yet another integration since you’ll want to update the service with your customer’s actions and traits so they can be targeted properly. Overall, I felt it was a lot of extra overhead for a cost that was way too high.
 
 So I started thinking about implementing my own drip campaign. I figured I could start off pretty simple and just emailed a user over the course of their trial 3 times: once when they sign up, one week before their trial ends to offer a trial extension, and the day their trial is over.
@@ -131,3 +119,22 @@ So using my favorite things in the world– Redis queues with Bull– I created 
 For these emails, I use Postmark as my email service provider. I’m a big fan of Postmark after experiencing the lowest lows with Sendgrid and Mailgun. Basically all my emails to outlook or [hotmail.com](http://hotmail.com) emails were not being delivered. They didn’t even show up in the spam box and they were not bouncing either. They were just lost in email purgatory somewhere. This is due to the fact that their free tiers are so popular that spammers will eventually cause these shared IPs to be blacklisted by certain email providers. Postmark has rigid selection process to ensure spammers do not get on their platform and so they boast really high deliverability rates. The best part is they offer a $75 credit to bootstrapped startups which gets you 7 months of free service if you send under 10,000 emails a month.
 
 My solution is working great for me so far as I have no complaints. I have all the stats I need from Postmark regarding click-through rates and open rates. I can corroborate that easily by querying my database to see how many actually extended their trial. I have also since added a 4th email: if you extend your trial, we send an email to follow up on how the extension is going. The key is to make your homegrown solution robust and extensible from the beginning. I can’t see a reason yet why I would switch to a paid full-service tool anytime soon!
+
+### Final Cost and Savings
+
+**Set up time cost:** 15 minutes
+
+**Paid solutions:**
+
+* Drip offered at $49/month
+* Intercom offered at $49/month
+
+**Estimated savings:** $49 per month or $588 per year
+
+**- Postmark $75**
+
+**Time cost - 1+ hour**
+
+**Savings - $50+/month**
+
+**Drip $49/month for 1000 users**
