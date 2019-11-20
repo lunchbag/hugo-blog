@@ -7,9 +7,9 @@ tags = []
 title = "Frugal Tech: How my start-up saves $100 a month with home-grown solutions"
 
 +++
-Hi there, my name is Jen and I am building [Lunch Money](https://lunchmoney.app), a multicurrency personal finance tool for the modern-day spender. 
+Hi there, my name is Jen and I am building [Lunch Money](https://lunchmoney.app), a multicurrency personal finance tool for the modern-day spender.
 
-Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been particularly frugal (or money-conscious) since I quit my full-time job 4 years ago. 
+Frugality is in my blood. Early on in life, I learned the value of a dollar from my parents and have been particularly frugal (or money-conscious) since I quit my full-time job 4 years ago.
 
 This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was more or less worth the time it would take to just roll my own solution.
 
@@ -21,7 +21,7 @@ I have outlined 3 home-grown solutions which are currently saving me in total ov
 
 ### The problem: Lots of repeated information in support requests
 
-Since launching, I've been getting a steady stream of support requests and questions from users. That along with the fact that I was pushing out new features and improvements on the daily means a lot of information I was conveying would quickly be outdated. 
+Since launching, I've been getting a steady stream of support requests and questions from users. That along with the fact that I was pushing out new features and improvements on the daily means a lot of information I was conveying would quickly be outdated.
 
 I was also noticing a lot of the same questions. While this was a strong indicator that certain parts of the product could be more intuitive or have a walkthrough, I felt it was nearing the time for Lunch Money to have a centralized knowledge base.
 
@@ -69,11 +69,11 @@ Here's the thing– your first few customers are so important. They will be your
 
 ### Setting up my support email for free
 
-To allow users to email me at support@lunchmoney.app, I hooked up the domain to Mailgun (free) [to receive emails and route them appropriately to my inbox](https://documentation.mailgun.com/en/latest/quickstart-receiving.html#inbound-routes-and-parsing). This initially saved me the $6 it would cost to get on GSuite and have Google manage my work domain. 
+To allow users to email me at support@lunchmoney.app, I hooked up the domain to Mailgun (free) [to receive emails and route them appropriately to my inbox](https://documentation.mailgun.com/en/latest/quickstart-receiving.html#inbound-routes-and-parsing). This initially saved me the $6 it would cost to get on GSuite and have Google manage my work domain.
 
 While I was happy with this solution for the first few months, I quickly noticed issues with relying on a free tier for something as important as my email. I was experiencing almost no deliverability to outlook.com and hotmail.com email addresses. This is because spammers also tend to use these services (Mailgun, Sendgrid) and they end up "polluting" the shared IPs that are used in these free tiers, causing them to be blacklisted by email service providers.
 
-Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite. 
+Eventually, I grew frustrated enough with the deliverability issues that I upgraded from Mailgun to GSuite.
 
 Having every form of communication from my users arrive in my work inbox has actually simplified my workflow and hasn't felt overwhelming yet. Furthermore, I use filters, tags and the snooze feature religiously, so if you have a good system, this can also help to improve your workflow. My work email is essentially my TODO list so I like to keep it clean and as close to empty as possible!
 
@@ -102,11 +102,11 @@ So I started thinking about what it would take to implement my own simple drip c
 
 These were all straightforward queries to the database. I store the join dates for all users as well as a type so I know how long their trial is. I also have to hit the Stripe API to make sure that I wasn’t asking already-converted users to convert. This was another nice thing– I could query all the information directly when I needed it, instead of playing telephone between multiple services via webhooks.
 
-Using Redis queues with [Bull](https://optimalbits.github.io/bull/), I created a daily repeating worker which would, for each email template, query the database and retrieve all eligible users, double check their Stripe status and double check that they haven’t already been sent this email (safeguarding in case the queue hiccups and the job retries itself) and eventually sends the email.
+Using Redis queues (free as a Heroku add-on) with [Bull](https://optimalbits.github.io/bull/), I created a daily repeating worker which would, for each email template, query the database and retrieve all eligible users, double check their Stripe status and double check that they haven’t already been sent this email (safeguarding in case the queue hiccups and the job retries itself) and eventually sends the email.
 
 I use [Postmark](https://postmarkapp.com) as my email service provider. I’m a big fan of Postmark after experiencing the lowest lows with Sendgrid and Mailgun. Postmark has a rigid selection process to ensure spammers do not get on their platform and so they maintain high deliverability rates. The best part is they offer a $75 credit to bootstrapped startups which gets you 7 months of free service if you send under 10,000 emails a month.
 
-My solution is working great for me so far as I have no complaints. I have all the open rate and CTR stats I need from Postmark and I can corroborate the data easily by querying my database to see how many actually extended their trial. I have also since added a 4th email: if you extend your trial, we send an email to follow up on how the extension is going. 
+My solution is working great for me so far as I have no complaints. I have all the open rate and CTR stats I need from Postmark and I can corroborate the data easily by querying my database to see how many actually extended their trial. I have also since added a 4th email: if you extend your trial, we send an email to follow up on how the extension is going.
 
 The key is to make your homegrown solution robust and extensible from the beginning. I can’t see a reason yet why I would switch to a paid full-service tool anytime soon!
 
