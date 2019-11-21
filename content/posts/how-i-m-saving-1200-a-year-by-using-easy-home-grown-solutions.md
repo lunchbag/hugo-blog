@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2019-11-20T05:00:00Z
+date = 2019-11-21T05:00:00Z
 slug = "frugal-tech-save-100-dollars-a-month-with-home-grown-solutions"
 tags = []
 title = "Frugal Tech: How my start-up saves $100 a month with home-grown solutions"
