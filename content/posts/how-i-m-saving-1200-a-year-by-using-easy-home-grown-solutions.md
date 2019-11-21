@@ -13,7 +13,7 @@ Frugality is in my blood. Early on in life, I learned the value of a dollar from
 
 This has permeated all aspects of my life now, as a self-proclaimed “froodie”– a frugal foodie (sure you can pay top dollar for the best food, but the real gems are when you find unfathomable value for the taste) and as the founder of a budgeting app. So it’s no surprise that in building my app, I found myself evaluating if paying for a service was worth saving the time it would take to just roll my own solution.
 
-I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth yet another recurring monthly charge. Remember, it all adds up!
+I'm a big believer that time is money, so if you value your time at a certain rate, then you can easily figure out if spending 1 to 2 hours engineering your own solution is worth yet another recurring monthly charge for potentially the lifetime of your product. Remember, it all adds up!
 
 I have outlined 3 home-grown solutions which are currently saving me in total over $100 per month and I am confident these solutions can sustain Lunch Money well through the first 1000 users. As volumes increase, I will surely re-evaluate these solutions but until then, here they are!
 
