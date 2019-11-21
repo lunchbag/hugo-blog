@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2019-11-21T05:00:00Z
-draft = true
 slug = "how-my-startup-saves-100-dollars-a-month-with-home-grown-solutions"
 tags = []
 title = "How my start-up saves $100+ a month with home-grown solutions"
