@@ -23,6 +23,8 @@
 {{- end }}
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
 {{ partial "seo-schema" . }}
+{{ template "_internal/opengraph.html" . }}
+
 <title>
   {{- if eq .URL "/" }} {{ .Site.Title }} {{- else }} {{ .Title }} &middot; {{ .Site.Title }} {{- end }}
 </title>
