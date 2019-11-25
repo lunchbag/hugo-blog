@@ -40,7 +40,7 @@ I realized that all I really needed for my knowledge base was a good-looking tem
 
 This led me to browsing [Themeforest](https://themeforest.net) for some Jekyll or Hugo themes since I was familiar with these static-site generators and I wasn't looking for the bloat that came with a Wordpress or Ghost site.
 
-![](/uploads/Screenshot 2019-11-20 18.22.06.png)<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
+![](/uploads/Screenshot 2019-11-20 18.22.06.png "Lunch Money knowledge base")<span class="caption">Lunch Money's knowledge base, powered by Jekyll (free) template from Themeforest for one-time payment of $49</span>
 
 It took me 10 minutes to find a beautiful, simple template that met my basic needs and it costed a one-time fee of $49. So this template would pay for itself after just a couple of months and considering a docs site is something I would want to have for as long as the product is around, this will end up saving me a lot. I bought the template, added some basic content, pushed it to Github and deployed it for free with Netlify.
 
