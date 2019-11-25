@@ -24,6 +24,11 @@ fields:
   config:
     required: false
   label: Description
+- name: Banana
+  type: text
+  config:
+    required: false
+  label: OG:Image
 pages:
 - content/posts/how-my-startup-saves-100-dollars-a-month-with-home-grown-solutions.md
 - content/posts/my-journey-so-far.md
