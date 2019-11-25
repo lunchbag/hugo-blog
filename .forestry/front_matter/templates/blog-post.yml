@@ -19,6 +19,11 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
 pages:
 - content/posts/how-my-startup-saves-100-dollars-a-month-with-home-grown-solutions.md
 - content/posts/my-journey-so-far.md
