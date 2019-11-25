@@ -2,6 +2,7 @@
 categories = []
 date = 2019-11-21T05:00:00Z
 description = "Hi there, my name is Jen and I am building Lunch Money, a multicurrency personal finance tool for the modern-day spender."
+images = ["/uploads/Screenshot 2019-11-20 18.22.06.png"]
 slug = "how-my-startup-saves-100-dollars-a-month-with-home-grown-solutions"
 tags = []
 title = "How my start-up saves $100+ a month with home-grown solutions"
