@@ -61,7 +61,7 @@ For a month and a half, we didn't have an About page. Our landing page was a sin
 
 So, turns out people love the whole indie developer story, and a lot of them also wanted to support a female solo founder to boot. This was incredibly heartwarming and I learned to embrace my story more.
 
-https://twitter.com/LunchbagLabs/status/1180518703487733766
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s not be strangers anymore 👋 We finally have an About page! <a href="https://t.co/koZiMSAM3o">https://t.co/koZiMSAM3o</a></p>&mdash; Lunch Money (@LunchbagLabs) <a href="https://twitter.com/LunchbagLabs/status/1180518703487733766?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 On a recent user survey sent out, 20% of responses mentioned the fact that it was an indie developer as a favorite thing about Lunch Money.
 
