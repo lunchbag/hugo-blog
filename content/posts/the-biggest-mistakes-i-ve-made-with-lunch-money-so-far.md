@@ -1,9 +1,9 @@
 +++
 categories = []
-date = 2020-02-17T16:00:00Z
-description = ""
+date = 2020-02-18T16:00:00Z
+description = "It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both big and small. But that's hardly the full picture."
 draft = true
-images = []
+images = ["/uploads/ogimage-blog-biggest-mistake.png"]
 slug = "lunch-money-mistakes"
 tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
@@ -29,7 +29,7 @@ Next, I ran into issues with a third-party email service provider, Sendgrid. I w
 
 Side note: Lunch Money's launch was by-and-large unplanned and accidental. If you want to read the "full story" of the launch, [check out the Indie Hackers post](https://www.indiehackers.com/product/lunch-money/got-on-front-page-of-hacker-news-today--LnVqxbaYPHu7vsPBx39) I had written at the end of the day.
 
-# Mistake: Assuming user sentiment 
+# Mistake: Assuming user sentiment
 
 I started Lunch Money as a web app since that is the platform I'm most comfortable with and can iterate quickest on. I like the idea of having more screen real estate for a proper user interface and I also have a lot more experience (and fun!) designing and coding for web apps over mobile apps.
 
@@ -63,7 +63,7 @@ At $8/month, there was a noticeable drop in signups. But that by itself was not 
 
 At launch time, we were offering a 45-day free trial. The idea was to allow users the experience of a whole monthly budgeting cycle to assess Lunch Money. Also, YNAB, who I perceived to be my biggest competitor, was offering a 38-day free trial so I thought that with a longer trial and lower price, Lunch Money would be more appealing.
 
-While I could have been right about that, it wasn't worth the painfully long sales cycle that came with offering a 45-day free trial PLUS the option for a whopping two week trial extension. Major facepalm. At the longest, users were not going to convert until 2 months after initially signing up. This made assessing product-market fit an unnecessarily long process. Also, very few users opted to extend the trial after 45 days which was unsurprising– if a user is still on the fence at day 45, they probably won't be subscribing. 
+While I could have been right about that, it wasn't worth the painfully long sales cycle that came with offering a 45-day free trial PLUS the option for a whopping two week trial extension. Major facepalm. At the longest, users were not going to convert until 2 months after initially signing up. This made assessing product-market fit an unnecessarily long process. Also, very few users opted to extend the trial after 45 days which was unsurprising– if a user is still on the fence at day 45, they probably won't be subscribing.
 
 ![](/uploads/Screen Shot 2020-02-18 at 8.39.31 PM.png)<span class="caption">Fully prepared to give away a 2 week trial extension on top of a 45 day free trial... 🤦‍♀️</span>
 
@@ -89,11 +89,11 @@ After some initial feedback, I decided to implement an [About page](https://lunc
 
 I now regularly get emails back from users letting me know that they find my story inspiring, or that they love that an indie developer is behind the product! I sent out a user survey recently and 20% of responses cited me as an indie developer as a reason why they love Lunch Money. This was incredibly heartwarming and I learned to embrace my story more.
 
-![](/uploads/Screen Shot 2020-02-18 at 8.18.31 PM.png)<span class="caption">So much ❤️ from our users!</span>
+![](/uploads/Screen Shot 2020-02-18 at 11.03.35 PM.png)<span class="caption">So much ❤️ from our users!</span>
 
 # Closing Thoughts
 
-I'm happy to report that despite all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. 
+I'm happy to report that despite all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive.
 
 Of course, I never thought that any one of these mistakes would be the downfall of Lunch Money but I'm sure in the moment, each one felt like the dumbest thing I could have possibly done.
 
