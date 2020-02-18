@@ -74,7 +74,7 @@ Eventually, at the advice of a friend much smarter than me, I decided to shorten
 
 It's worth mentioning now that this realization and the realization that I was charging too little happened in parallel so I actually ended up increasing the pricing to $8/month AND decreasing the free trial length to 14 days on the same day. Yes, I changed two very important variables at the same time. My sign ups dropped drastically and I had no way of knowing if it was because I was charging too high or my trial length was too short.
 
-<img src="https://media.giphy.com/media/fQMmw06EWWRP9fvhWv/giphy.gif"/><span class="caption">My two inner selves when I found out what I'd done</span>
+<img src="https://media.giphy.com/media/fQMmw06EWWRP9fvhWv/giphy.gif"/><span class="caption">My two inner selves when I realized what I'd done</span>
 
 <p class="tip"><b>Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)</b></p>
 
@@ -88,7 +88,7 @@ After some initial feedback, I decided to implement an [About page](https://lunc
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let's not be strangers anymore 👋 We finally have an About page! <a href="https://t.co/koZiMSAM3o">https://t.co/koZiMSAM3o</a></p>— Lunch Money (@LunchbagLabs) <a href="https://twitter.com/LunchbagLabs/status/1180518703487733766?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I now regularly get emails back from users letting me know that they find my story inspiring, or that they love that an indie developer is behind the product! I sent out a user survey recently and 20% of responses cited me as an indie developer as a reason why they love Lunch Money. This was incredibly heartwarming and I learned to embrace my story more.
+I now regularly get emails back from users letting me know that they find my story inspiring, or that they love the fact that an indie developer is behind the product! Also, I sent out a user survey recently and 20% of responses cited me as an indie developer as a reason why they love Lunch Money. All of this was incredibly heartwarming and I learned to embrace my story more.
 
 ![](/uploads/Screen Shot 2020-02-18 at 11.03.35 PM.png)<span class="caption">So much ❤️ from our users!</span>
 
