@@ -91,4 +91,8 @@ I sent out a user survey recently and 20% of responses mentioned me as an indie 
 
 # Closing Thoughts
 
-After all these mistakes (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. We're currently at just under 200 paying users with $900 in monthly recurring revenue and we're just getting started! This whole journey is a learning process and I'm grateful to be able to share mine transparently. I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
+After all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. 
+
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="[https://giphy.com/embed/xrH7ZLfJgrGY8](https://giphy.com/embed/xrH7ZLfJgrGY8 "https://giphy.com/embed/xrH7ZLfJgrGY8")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/style-joke-crush-xrH7ZLfJgrGY8](https://giphy.com/gifs/style-joke-crush-xrH7ZLfJgrGY8 "https://giphy.com/gifs/style-joke-crush-xrH7ZLfJgrGY8")">via GIPHY</a></p><span class="caption">My overdramatic self reacting to all my rookie mistakes</span>
+
+We're currently at just under 200 paying users with $900 in monthly recurring revenue and we're just getting started! This whole journey is a learning process and I'm grateful to be able to share mine transparently. I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
