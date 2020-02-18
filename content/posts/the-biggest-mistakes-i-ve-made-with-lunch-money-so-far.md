@@ -73,9 +73,9 @@ Eventually, at the advice of a friend much smarter than me, I decided to shorten
 
 It's worth mentioning now that this realization and the realization that I was charging too little happened in parallel so I actually ended up increasing the pricing to $8/month AND decreasing the free trial length to 14 days starting the same day. I changed two very important variables at the same time. My sign ups dropped drastically and I had no way of knowing if it was because I was charging too high or my trial length was too short.
 
-**Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)**
-
 <img src="https://media.giphy.com/media/fQMmw06EWWRP9fvhWv/giphy.gif"/><span class="caption">My two inner selves when I found out what I'd done</span>
+
+**Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)**
 
 **The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing. Since I determined $8 to be too high of a price for where Lunch Money was today, I now have a goal to improve Lunch Money to the point where it's worth $8/month. Until I get there, I'm offering a percentage discount so users know that ultimately, the product will increase in price. I started off with a 30% discount for Cyber Week which had great reception and it is now at 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable.
 
@@ -95,6 +95,6 @@ I sent out a user survey recently and 20% of responses mentioned me as an indie 
 
 After all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. 
 
-<img src="https://media.giphy.com/media/9jObH9PkVPTyM/giphy-downsized.gif"/><span class="caption">My overdramatic self reacting to all my rookie mistakes</span>
+<img src="https://media.giphy.com/media/9jObH9PkVPTyM/giphy-downsized.gif"/><span class="caption">My overdramatic self reacting to my rookie mistakes as they happen</span>
 
-We're currently at just under 200 paying users with $900 in monthly recurring revenue and we're just getting started! This whole journey is a learning process and I'm grateful to be able to share mine transparently. I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
+This whole journey is a learning process and I'm grateful to be able to share mine transparently. I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
