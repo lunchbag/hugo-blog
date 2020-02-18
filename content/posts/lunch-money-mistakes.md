@@ -34,7 +34,7 @@ I started Lunch Money as a web app since that is the platform I'm most comfortab
 
 However, at the back of my mind I always felt that I would need to have a mobile app. Who would use a new budgeting app if it was not mobile-first? Who even owns a laptop or desktop computer anymore?
 
-While I had a fully-functioning web app that was mobile responsive, I had also fully convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation for the fact. I was also a bit overzealous in my copy. I had a line that promised a mobile app was coming soon and I even called it the "pre-mobile launch".
+I had a fully-functioning web app that was mobile responsive, but I had also fully convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation for the fact. I was also a bit overzealous in my copy. I had a line that promised a mobile app was coming soon and I even called it the "pre-mobile launch".
 
 ![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM-1.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
 
