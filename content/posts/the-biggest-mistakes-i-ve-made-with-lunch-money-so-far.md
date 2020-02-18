@@ -4,7 +4,7 @@ date = 2020-02-17T16:00:00Z
 description = ""
 draft = true
 images = []
-slug = ""
+slug = "lunch-money-mistakes"
 tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
 
