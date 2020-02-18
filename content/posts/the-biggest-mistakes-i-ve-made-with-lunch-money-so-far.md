@@ -9,19 +9,19 @@ tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
 
 +++
-It's been 6 months since the official launch of Lunch Money so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
+It's been 6 months since the official launch of [Lunch Money](https://lunchmoney.app) so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
 Lunch Money's launch was by-and-large unplanned and accidental, but this wasn't the mistake.
 
-It was late August, and my product had been in public beta for a few weeks with 60 or so users. On a whim one day, I posted on Hacker News' Show HN. I asked a few friends to upvote it and I waited only to watch my post go into page 2 of "new" where it would surely never see the light of day again.
+It was late August, and my product had been in public beta for a few weeks with a few dozen users. On a whim one day, I posted on Hacker News' Show HN. I asked a few friends to upvote it and I waited only to watch my post go into page 2 of "new" where it would surely never see the light of day again.
 
-Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers upheld Lunch Money's standing on the front page for nearly 24 hours. I ended up getting a huge uptick in traffic that day and 1000 signups.
-
-![](/uploads/Screen Shot 2020-02-18 at 8.00.56 PM.png)
+Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers upheld Lunch Money's standing on the front page for nearly 24 hours!
 
 About two hours into the launch, I started to get notifications and emails that users couldn't connect their accounts via Plaid. I was freaking out and I instantly thought that Plaid was rate-limiting me. I spammed the Plaid support channel and the two friends I know who work at Plaid, crying for help. That is until I realized that it was my own dumb fault because I accidentally left my Plaid environment to development which only supported 100 connected accounts. I depleted my free test accounts which I had been diligently rationing up until this point.
+
+![](/uploads/Screen Shot 2020-02-18 at 8.00.56 PM.png)<span class="caption">Can you feel the panic in my words?</span>
 
 **Lesson learned: Have tests in place to check critical environment variables are properly set before deploying to production**
 
