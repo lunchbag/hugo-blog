@@ -11,7 +11,7 @@ title = "The biggest mistakes I've made with Lunch Money (so far)"
 +++
 Quick introduction: 👋 Hi, I'm Jen! I'm the founder, chief budgeter, engineer & designer behind [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both [big](https://www.indiehackers.com/product/lunch-money/mentioned-in-techcrunch-and-macrumors--LzBQz1KY0MspKE8mloW) and [small](https://www.indiehackers.com/product/lunch-money/shipped-a-boatload-of-new-features-improvements--LtvscbLRqs2xCBWNLIr). But that's hardly the full picture. While I like the idea of sharing highlights regularly to keep morale up, I thought it would be a good time to start a periodic series of reflection on the biggest mistakes I've made (so far).
+It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both [big](https://www.indiehackers.com/product/lunch-money/mentioned-in-techcrunch-and-macrumors--LzBQz1KY0MspKE8mloW) and [small](https://www.indiehackers.com/product/lunch-money/shipped-a-boatload-of-new-features-improvements--LtvscbLRqs2xCBWNLIr). But that's hardly the full picture. While I like the idea of sharing highlights regularly to keep morale up, I thought it would be a good time to reflect and start a periodic series on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
