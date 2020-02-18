@@ -77,7 +77,7 @@ It's worth mentioning now that this realization and the realization that I was c
 
 <p class="tip"><b>Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)</b></p>
 
-**The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing which was determined to be too high. I'd like to eventually get Lunch Money to a point where it was worth $8/month and until then, I'm offering lifetime percentage discounts. I started off with a 30% discount for Cyber Week which had great reception. Afterwards, I lowered the discount to 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable for the time being.
+**The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing which was determined to be too high. I'd like to eventually get Lunch Money to a point where it is worth $8/month and until then, I'm offering lifetime percentage discounts. I started off with a 30% discount for Cyber Week which had great reception. Afterwards, I lowered the discount to 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable for the time being.
 
 # Mistake: Being too afraid to share my story
 
