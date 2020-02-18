@@ -11,7 +11,7 @@ title = "The biggest mistakes I've made with Lunch Money (so far)"
 +++
 Quick introduction: 👋 Hi, I'm Jen! I'm the founder, chief budgeter, engineer & designer behind [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-It's been 6 months since the official launch of Lunch Money so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
+It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both [big](https://www.indiehackers.com/product/lunch-money/mentioned-in-techcrunch-and-macrumors--LzBQz1KY0MspKE8mloW) and [small](https://www.indiehackers.com/product/lunch-money/shipped-a-boatload-of-new-features-improvements--LtvscbLRqs2xCBWNLIr). But that's hardly the full picture. While I like the idea of sharing highlights regularly to keep morale up, I thought it would be a good time to start a periodic series of reflection on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
@@ -77,7 +77,7 @@ It's worth mentioning now that this realization and the realization that I was c
 
 <p class="tip"><b>Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)</b></p>
 
-**The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing. Since I determined $8 to be too high of a price for Lunch Money today, I now have a goal to improve Lunch Money to the point where it is indeed worth that much. Until I get there, I'm offering lifetime percentage discounts. I started off with a 30% discount for Cyber Week which had great reception. Afterwards, I lowered the discount to 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable for the time being.
+**The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing which was determined to be too high. I'd like to eventually get Lunch Money to a point where it was worth $8/month and until then, I'm offering lifetime percentage discounts. I started off with a 30% discount for Cyber Week which had great reception. Afterwards, I lowered the discount to 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable for the time being.
 
 # Mistake: Being too afraid to share my story
 
