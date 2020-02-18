@@ -33,9 +33,9 @@ Lunch Money's launch was by-and-large unplanned and accidental, but this wasn't 
 
 It was late August, and my product had been in public beta for a few weeks with 60 or so users. On a whim one day, I posted on Hacker News' Show HN. I asked a few friends to upvote it and I waited only to watch my post go into page 2 of "new" where it would surely never see the light of day again.
 
-Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers dutifully upheld Lunch Money's standing on the front page for nearly 24 hours. I ended up getting a huge uptick in traffic that day and 1000 signups. 
+Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers dutifully upheld Lunch Money's standing on the front page for nearly 24 hours. I ended up getting a huge uptick in traffic that day and 1000 signups.
 
-Hacker news comments about things not working
+![](/uploads/Screen Shot 2020-02-18 at 8.00.56 PM.png)
 
 About two hours into the launch, I started to get notifications and emails that users couldn't connect their accounts via Plaid. I was freaking out and I instantly thought that Plaid was rate-limiting me. I spammed the Plaid support channel and the two friends I know who work at Plaid, crying for help. That is until I realized that it was my own dumb fault because I accidentally left my Plaid environment to development which only supported 100 connected accounts. I depleted my free test accounts which I had been diligently rationing up until this point.
 
@@ -43,7 +43,7 @@ About two hours into the launch, I started to get notifications and emails that 
 
 Next, I ran into issues with a third-party email service provider, Sendgrid. I was using Sendgrid to send confirmation emails to new users as they signed up for Lunch Money. The issue was twofold which I discovered while prematurely celebrating the first fix. I had hit my 100 emails per day limit due to being on the free plan, so I quickly upgraded to a paid plan. Then, for some reason, Sendgrid rate limited me! I had to use their support chat (which, kudos to them was VERY responsive) in order to have them lift it.
 
-**Lessons learned: Ensure your current plans with third-party services you depend on are sufficient and monitor usage on launch day to catch issues before they arise **
+**Lessons learned: Ensure your current plans with third-party services you depend on are sufficient and monitor usage on launch day to catch issues before they arise**
 
 If you want to read the "full story" of the launch and my feelings at the end of the day, [check this Indie Hackers post](https://www.indiehackers.com/product/lunch-money/got-on-front-page-of-hacker-news-today--LnVqxbaYPHu7vsPBx39).
 
@@ -55,7 +55,7 @@ I was getting feedback over the next few weeks that my pricing was too low! If y
 
 # Mistake: ... and charging too high
 
-Over the course of 4 weeks, I experimented with pricing. I basically raised my price every time I came out with a new major feature, which, at that time, was happening on a weekly basis. These are core features to the product today, such as CSV import (+$2/month) and the Query Tool (+$1/month). My pricing basically went from $3/month to $5/month to $6/month and finally $8/month. 
+Over the course of 4 weeks, I experimented with pricing. I basically raised my price every time I came out with a new major feature, which, at that time, was happening on a weekly basis. These are core features to the product today, such as CSV import (+$2/month) and the Query Tool (+$1/month). My pricing basically went from $3/month to $5/month to $6/month and finally $8/month.
 
 At $8/month, I noticed a significant drop in user signups. However, this alone was not a mistake until it was further compounded with my next one...
 
@@ -75,7 +75,7 @@ Recovery: I ended up sticking with the shorter trial length and offering a disco
 
 # Mistake: Being too afraid to share my story
 
-For a month and a half, we didn't have an About page. I wasn't sure how Lunch Money would be perceived if people found out there was a singular engineer behind a personal finance app. I wrote an article on my personal blog that would link Lunch Money to me, but it would only be discoverable by those eager enough to read the origin story. 
+For a month and a half, we didn't have an About page. I wasn't sure how Lunch Money would be perceived if people found out there was a singular engineer behind a personal finance app. I wrote an article on my personal blog that would link Lunch Money to me, but it would only be discoverable by those eager enough to read the origin story.
 
 After some initial feedback, I decided to implement an About page and also start sending a welcome email to new users introducing myself as the one-woman team behind the product as well as a link to the origin story. The feedback was amazing and according to my analytics, the About page is one of the most visited page.
 
@@ -83,4 +83,4 @@ After some initial feedback, I decided to implement an About page and also start
 
 So, turns out people love the whole indie developer story, and a lot of them also wanted to support a female solo founder to boot. This was incredibly heartwarming and I learned to embrace my story more.
 
-Include screenshots: On a recent user survey sent out, 20% of responses mentioned the fact that it was an indie developer as a favorite thing about Lunch Money.
+![](/uploads/Screen Shot 2020-02-18 at 8.18.31 PM.png)<span class="caption">On a recent user survey sent out, 20% of responses mentioned the fact that it was an indie developer as a favorite thing about Lunch Money.</span>
