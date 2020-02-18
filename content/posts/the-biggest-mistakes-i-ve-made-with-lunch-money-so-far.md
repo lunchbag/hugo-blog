@@ -11,7 +11,7 @@ title = "The biggest mistakes I've made with Lunch Money (so far)"
 +++
 Quick introduction: 👋 Hi, I'm Jen! I'm the founder, chief budgeter, engineer & designer behind [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-It's been 6 months since the official launch of [Lunch Money](https://lunchmoney.app) so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
+It's been 6 months since the official launch of Lunch Money so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
@@ -93,8 +93,12 @@ I now regularly get emails back from users letting me know that they find my sto
 
 # Closing Thoughts
 
-After all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. 
+I'm happy to report that despite all these bumps in the road (and many more that didn't make the cut for this post!), [Lunch Money](https://lunchmoney.app) is still alive. 
+
+Of course, I never thought that any one of these mistakes would be the downfall of Lunch Money but I'm sure in the moment, each one felt like the dumbest thing I could have possibly done.
 
 <img src="https://media.giphy.com/media/9jObH9PkVPTyM/giphy-downsized.gif"/><span class="caption">My overdramatic self reacting to my mistakes as they happen</span>
 
-This whole journey is a learning process and I'm grateful to be able to share mine transparently. I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
+This whole journey is a learning process and I'm grateful to be able to share mine transparently. It's important to not only reflect on the highs and stay humble, but also face the lows and forgive yourself.
+
+I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
