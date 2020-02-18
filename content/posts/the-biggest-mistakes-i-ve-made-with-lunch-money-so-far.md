@@ -11,22 +11,6 @@ title = "The biggest mistakes I've made with Lunch Money (so far)"
 +++
 It's been 6 months since the official launch of Lunch Money so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
 
-# Mistake: Assuming user sentiment (Pre launch)
-
-I started Lunch Money as a web app since that is the platform I'm most comfortable with and I can iterate quickest on. I like the idea of having more screen real estate for a proper user interface and I also have a lot more experience (and fun!) designing and coding for web apps over mobile apps.
-
-However, at the back of my mind I always felt that I would need to have a mobile app. Who would use a new budgeting app if it was not mobile-first? Who even owns a laptop or desktop computer anymore?
-
-I had a fully-functioning web app that was mobile responsive but I had truly convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation. I was also overly apologetic in my copy. I had a line that promised that a mobile app was coming soon and the current offering had a special "pre-mobile" pricing.
-
-After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the product rather than halting it in favour of spawning a half-baked version on another platform.
-
-**Lesson learned: Don't assume what is and isn't important to your users. Focus on an MVP and wait for feedback.**
-
-Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would be nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have surely taken twice or more the amount of time if I also had to consider the mobile app whose update cycles would be at the mercy of Apple and Google.
-
-This is not to say that Lunch Money will never had a mobile app. I'm still working on rounding out core features and as the product approaches stability, we'll spend time thinking seriously about a mobile app. Whether that involves hiring a contractor, outsourcing the development or encouraging users to build their own via our developer API is still up in the air!
-
 # Mistake: Having an ill-prepared launch
 
 Lunch Money's launch was by-and-large unplanned and accidental, but this wasn't the mistake.
@@ -47,6 +31,22 @@ Next, I ran into issues with a third-party email service provider, Sendgrid. I w
 
 If you want to read the "full story" of the launch and my feelings at the end of the day, [check this Indie Hackers post](https://www.indiehackers.com/product/lunch-money/got-on-front-page-of-hacker-news-today--LnVqxbaYPHu7vsPBx39).
 
+# Mistake: Assuming user sentiment 
+
+I started Lunch Money as a web app since that is the platform I'm most comfortable with and I can iterate quickest on. I like the idea of having more screen real estate for a proper user interface and I also have a lot more experience (and fun!) designing and coding for web apps over mobile apps.
+
+However, at the back of my mind I always felt that I would need to have a mobile app. Who would use a new budgeting app if it was not mobile-first? Who even owns a laptop or desktop computer anymore?
+
+I had a fully-functioning web app that was mobile responsive but I had truly convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation. I was also overly apologetic in my copy. I had a line that promised that a mobile app was coming soon and the current offering had a special "pre-mobile" pricing.
+
+After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the product rather than halting it in favour of spawning a half-baked version on another platform.
+
+**Lesson learned: Don't assume what is and isn't important to your users. Focus on an MVP and wait for feedback.**
+
+Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would be nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have surely taken twice or more the amount of time if I also had to consider the mobile app whose update cycles would be at the mercy of Apple and Google.
+
+This is not to say that Lunch Money will never had a mobile app. I'm still working on rounding out core features and as the product approaches stability, we'll spend time thinking seriously about a mobile app. Whether that involves hiring a contractor, outsourcing the development or encouraging users to build their own via our developer API is still up in the air!
+
 # Mistake: Charging too low...
 
 As mentioned earlier, I priced Lunch Money initially to overcompensate for the lack of a mobile app. The first offering was at $3/month or $30/year.
@@ -56,8 +56,6 @@ I was getting feedback over the next few weeks that my pricing was too low! If y
 # Mistake: ... and charging too high
 
 Over the course of 4 weeks, I experimented with pricing. I basically raised my price every time I came out with a new major feature, which, at that time, was happening on a weekly basis. These are core features to the product today, such as CSV import (+$2/month) and the Query Tool (+$1/month). My pricing basically went from $3/month to $5/month to $6/month and finally $8/month.
-
-At $8/month, I noticed a significant drop in user signups. However, this alone was not a mistake until it was further compounded with my next one...
 
 # Mistake: Offering too long of a free trial
 
