@@ -25,6 +25,8 @@ About two hours into the launch, I started to get notifications and emails that 
 
 **Lesson learned: Have tests in place to check critical environment variables are properly set before deploying to production**
 
+![](/uploads/Screen Shot 2020-02-18 at 8.23.37 PM.png)<span class="caption">A simple test could have saved me a ton of headache</span>
+
 Next, I ran into issues with a third-party email service provider, Sendgrid. I was using Sendgrid to send confirmation emails to new users as they signed up for Lunch Money. The issue was twofold which I discovered while prematurely celebrating the first fix. I had hit my 100 emails per day limit due to being on the free plan, so I quickly upgraded to a paid plan. Then, for some reason, Sendgrid rate limited me! I had to use their support chat (which, kudos to them was VERY responsive) in order to have them lift it.
 
 **Lessons learned: Ensure your current plans with third-party services you depend on are sufficient and monitor usage on launch day to catch issues before they arise**
