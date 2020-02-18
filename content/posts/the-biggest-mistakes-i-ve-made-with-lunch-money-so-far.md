@@ -75,6 +75,8 @@ It's worth mentioning now that this realization and the realization that I was c
 
 **Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)**
 
+<img src="https://media.giphy.com/media/fQMmw06EWWRP9fvhWv/giphy.gif"/><span class="caption">My two inner selves when I found out what I'd done</span>
+
 **The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing. Since I determined $8 to be too high of a price for where Lunch Money was today, I now have a goal to improve Lunch Money to the point where it's worth $8/month. Until I get there, I'm offering a percentage discount so users know that ultimately, the product will increase in price. I started off with a 30% discount for Cyber Week which had great reception and it is now at 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable.
 
 # Mistake: Being too afraid to share my story
