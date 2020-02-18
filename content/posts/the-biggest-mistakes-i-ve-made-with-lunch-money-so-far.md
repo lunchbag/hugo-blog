@@ -65,7 +65,11 @@ Over the course of 4 weeks, I experimented with pricing. I basically raised my p
 
 At launch time, we were offering a 45-day free trial. The idea was to allow users the experience of a whole budgeting monthly cycle to assess Lunch Money. Also, YNAB, who I perceived to be my biggest competitor, was offering a 38-day free trial so I thought that with a longer trial and lower price, Lunch Money would be more appealing.
 
-While I could have been right about that, it wasn't worth the extremely long sales cycle that came with offering a 45-day free trial PLUS the option for a 1 week free trial extension. Major facepalm. At the longest, users were not going to convert until almost 2 months after initially signing up. This made assessing product-market fit an extremely long process. Eventually, at the advice of a friend much smarter than me, I decided to shorten the free trial length to 14 days. Even though I now ran the risk of users not having enough time to assess the product, I felt the shorter trial might instill some urgency in users, and I was still offering the option for a 1 week trial extension.
+While I could have been right about that, it wasn't worth the extremely long sales cycle that came with offering a 45-day free trial PLUS the option for a whopping two week free trial extension. Major facepalm. At the longest, users were not going to convert until 2 months after initially signing up. This made assessing product-market fit an extremely long process. And quite frankly, very few (single digit percentage) users opted to extend the trial after 45 days which made sense– if a user is still on the fence at day 45, they probably won't be subscribing. 
+
+![](/uploads/Screen Shot 2020-02-18 at 8.39.31 PM.png)<span class="caption">Fully prepared to give away a 2 week trial extension on top of a 45 day free trial... 🤦‍♀️</span>
+
+Eventually, at the advice of a friend much smarter than me, I decided to shorten the free trial length to 14 days. Even though I now ran the risk of users not having enough time to assess the product, I felt the shorter trial might instill some urgency in users, and I was still offering the option for a 1 week trial extension.
 
 **Lesson learned: Be aware of the downfalls of offering too long of a free trial**
 
