@@ -19,13 +19,13 @@ We [launched via Show HN](https://news.ycombinator.com/item?id=20811287) on Hack
 
 About an hour into the launch, I started to get notifications and emails that users couldn't connect their accounts via Plaid, our third-party banking importer. In a state of panic, I spammed their support channel and the two friends I know who worked there, crying for help. That is until I realized that it was my own dumb fault because I accidentally left my Plaid environment set to development which only supported 100 connected accounts. My free test accounts which I had been diligently rationing up until this point had been depleted and Plaid was rightfully denying any new connections.
 
-<p class="tip">Lesson learned: Have tests in place to check critical environment variables are properly set before deploying to production</p>
+<p class="tip"><b>Lesson learned: Have tests in place to check critical environment variables are properly set before deploying to production</b></p>
 
 ![](/uploads/Screen Shot 2020-02-18 at 8.23.37 PM.png)<span class="caption">A simple test could have saved me a ton of headache</span>
 
 Next, I ran into issues with a third-party email service provider, Sendgrid. I was using Sendgrid to send confirmation emails to new users as they signed up for Lunch Money. The issue was twofold which I discovered while prematurely celebrating the first fix. I had hit my 100 emails per day limit due to being on the free plan, so I quickly upgraded to a paid plan only to find out that Sendgrid was also rate-limiting me! Thankfully, this was quickly resolved through their responsive support chat.
 
-<p class="tip">Lessons learned: Ensure your current plans with third-party services you depend on are sufficient, and monitor usage on launch day to catch issues before they arise</p>
+<p class="tip"><b>Lessons learned: Ensure your current plans with third-party services you depend on are sufficient, and monitor usage on launch day to catch issues before they arise</b></p>
 
 Side note: Lunch Money's launch was by-and-large unplanned and accidental. If you want to read the "full story" of the launch, [check out the Indie Hackers post](https://www.indiehackers.com/product/lunch-money/got-on-front-page-of-hacker-news-today--LnVqxbaYPHu7vsPBx39) I had written at the end of the day.
 
@@ -41,7 +41,7 @@ While I had a fully-functioning web app that was mobile responsive, I had also f
 
 After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the core product rather than halting progress in favour of spawning a half-baked version on a new platform.
 
-<p class="tip">Lesson learned: Don't assume what is and isn't important to your users. Focus on an MVP and wait for feedback.</p>
+<p class="tip"><b>Lesson learned: Don't assume what is and isn't important to your users. Focus on an MVP and wait for feedback.</b></p>
 
 Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would have been nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have taken more than twice the time if I also had to consider the mobile app whose update cycles are at the mercy of Apple and Google.
 
@@ -69,13 +69,13 @@ While I could have been right about that, it wasn't worth the painfully long sal
 
 Eventually, at the advice of a friend much smarter than me, I decided to shorten the free trial length to 14 days. Even though I now ran the risk of users not having enough time to assess the product, I felt the shorter trial might instill some urgency in users, and I was still offering the option for a 1 week trial extension.
 
-<p class="tip">Lesson learned: Be aware of the difficulties in offering too long of a free trial</p>
+<p class="tip"><b>Lesson learned: Be aware of the difficulties in offering too long of a free trial</b></p>
 
 It's worth mentioning now that this realization and the realization that I was charging too little happened in parallel so I actually ended up increasing the pricing to $8/month AND decreasing the free trial length to 14 days on the same day. Yes, I changed two very important variables at the same time. My sign ups dropped drastically and I had no way of knowing if it was because I was charging too high or my trial length was too short.
 
 <img src="https://media.giphy.com/media/fQMmw06EWWRP9fvhWv/giphy.gif"/><span class="caption">My two inner selves when I found out what I'd done</span>
 
-<p class="tip">Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)</p>
+<p class="tip"><b>Lesson learned: If you are testing major changes, do not change two variables at the same time. (Duh!)</b></p>
 
 **The recovery:** I ended up sticking with the shorter trial length and offering a discount off the $8/month pricing. Since I determined $8 to be too high of a price for Lunch Money today, I now have a goal to improve Lunch Money to the point where it is indeed worth that much. Until I get there, I'm offering lifetime percentage discounts. I started off with a 30% discount for Cyber Week which had great reception. Afterwards, I lowered the discount to 20% off which amounts to $6.40/month. Based on the rate of new signups and a user feedback survey I sent out a few weeks ago, I'm confident the current trial length and monthly price are both reasonable for the time being.
 
