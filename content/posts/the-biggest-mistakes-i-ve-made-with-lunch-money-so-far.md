@@ -41,7 +41,7 @@ However, at the back of my mind I always felt that I would need to have a mobile
 
 I had a fully-functioning web app that was mobile responsive but I had truly convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation. I was also overly apologetic in my copy. I had a line that promised that a mobile app was coming soon and the current offering had a special "pre-mobile" pricing.
 
-![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM.png)
+![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
 
 After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the product rather than halting it in favour of spawning a half-baked version on another platform.
 
@@ -81,7 +81,7 @@ For a month and a half, we didn't have an About page. I wasn't sure how Lunch Mo
 
 After some initial feedback, I decided to implement an About page and also start sending a welcome email to new users introducing myself as the one-woman team behind the product as well as a link to the origin story. The feedback was amazing and according to my analytics, the About page is one of the most visited page.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let's not be strangers anymore 👋 We finally have an About page! <a href="https://t.co/koZiMSAM3o">https://t.co/koZiMSAM3o</a></p>— Lunch Money (@LunchbagLabs) <a href="https://twitter.com/LunchbagLabs/status/1180518703487733766?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let's not be strangers anymore 👋 We finally have an About page! <a href="https://t.co/koZiMSAM3o">https://t.co/koZiMSAM3o</a></p>— Lunch Money (@LunchbagLabs) <a href="https://twitter.com/LunchbagLabs/status/1180518703487733766?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So, turns out people love the whole indie developer story, and a lot of them also wanted to support a female solo founder to boot. This was incredibly heartwarming and I learned to embrace my story more.
 
