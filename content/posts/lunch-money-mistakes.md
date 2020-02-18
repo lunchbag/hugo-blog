@@ -36,7 +36,7 @@ However, at the back of my mind I always felt that I would need to have a mobile
 
 While I had a fully-functioning web app that was mobile responsive, I had also fully convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation for the fact. I was also a bit overzealous in my copy. I had a line that promised a mobile app was coming soon and I even called it the "pre-mobile launch".
 
-![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
+![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM-1.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
 
 After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the core product rather than halting progress in favour of spawning a half-baked version on a new platform.
 
@@ -44,7 +44,7 @@ After launching, I realized through user feedback that a mobile app was not the 
 
 Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would have been nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have taken more than twice the time if I also had to consider the mobile app whose update cycles are at the mercy of Apple and Google.
 
-![](/uploads/Screen Shot 2020-02-18 at 11.26.11 PM.png)<span class="caption">Embracing the fact that we're a web app!</span>
+![](/uploads/Screen Shot 2020-02-18 at 11.26.11 PM-1.png)<span class="caption">Embracing the fact that we're a web app!</span>
 
 This is not to say that Lunch Money will never have a mobile app. I'm still working on rounding out core features and as the product approaches stability, I'll spend time thinking seriously about a mobile app. Whether that involves hiring a contractor, outsourcing the development or encouraging users to build their own via our developer API is still up in the air!
 
