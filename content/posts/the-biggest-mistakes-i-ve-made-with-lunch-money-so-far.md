@@ -9,11 +9,13 @@ tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
 
 +++
+Quick introduction: 👋 Hi, I'm Jen! I'm the founder, chief budgeter, engineer & designer behind [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
+
 It's been 6 months since the official launch of [Lunch Money](https://lunchmoney.app) so I thought I would take this time to reflect on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
-Lunch Money was [launched via Show HN](https://news.ycombinator.com/item?id=20811287) on Hacker News in late August 2019. Readers upheld Lunch Money's standing on the front page for nearly 24 hours!
+We [launched via Show HN](https://news.ycombinator.com/item?id=20811287) on Hacker News in late August 2019. Readers upheld Lunch Money's standing on the front page for nearly 24 hours!
 
 About an hour into the launch, I started to get notifications and emails that users couldn't connect their accounts via Plaid, our third-party banking importer. Instantly assuming that Plaid was wrongfully rate-limiting me, I spammed their support channel and the two friends I know who worked there, crying for help. That is until I realized that it was my own dumb fault because I accidentally left my Plaid environment set to development which only supported 100 connected accounts. My free test accounts which I had been diligently rationing up until this point had been depleted.
 
