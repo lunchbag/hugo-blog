@@ -53,7 +53,7 @@ This is not to say that Lunch Money will never had a mobile app. I'm still worki
 
 # Mistake: Charging too low...
 
-As mentioned earlier, I priced Lunch Money initially to overcompensate for the lack of a mobile app. The first offering was at $3/month or $30/year.
+As mentioned earlier, I priced Lunch Money initially to overcompensate for the lack of a mobile app. The first offering was at $3/month or $29/year.
 
 I was getting feedback over the next few weeks that my pricing was too low! If your users are telling you your price is too low, it's even lower than you think.
 
