@@ -17,7 +17,7 @@ Lunch Money's launch was by-and-large unplanned and accidental, but this wasn't 
 
 It was late August, and my product had been in public beta for a few weeks with 60 or so users. On a whim one day, I posted on Hacker News' Show HN. I asked a few friends to upvote it and I waited only to watch my post go into page 2 of "new" where it would surely never see the light of day again.
 
-Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers dutifully upheld Lunch Money's standing on the front page for nearly 24 hours. I ended up getting a huge uptick in traffic that day and 1000 signups.
+Then, two days later, I was granted a second chance. The Hacker News moderators bestowed my post to the bottom of the front page which effectively marked the launch of Lunch Money. Readers upheld Lunch Money's standing on the front page for nearly 24 hours. I ended up getting a huge uptick in traffic that day and 1000 signups.
 
 ![](/uploads/Screen Shot 2020-02-18 at 8.00.56 PM.png)
 
