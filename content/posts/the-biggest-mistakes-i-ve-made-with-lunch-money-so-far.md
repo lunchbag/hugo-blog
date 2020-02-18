@@ -41,6 +41,8 @@ However, at the back of my mind I always felt that I would need to have a mobile
 
 I had a fully-functioning web app that was mobile responsive but I had truly convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation. I was also overly apologetic in my copy. I had a line that promised that a mobile app was coming soon and the current offering had a special "pre-mobile" pricing.
 
+![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM.png)
+
 After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the product rather than halting it in favour of spawning a half-baked version on another platform.
 
 **Lesson learned: Don't assume what is and isn't important to your users. Focus on an MVP and wait for feedback.**
