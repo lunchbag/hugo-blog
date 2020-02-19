@@ -88,7 +88,9 @@ After some initial feedback, I decided to implement an [About page](https://lunc
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let's not be strangers anymore 👋 We finally have an About page! <a href="https://t.co/koZiMSAM3o">https://t.co/koZiMSAM3o</a></p>— Lunch Money (@LunchbagLabs) <a href="https://twitter.com/LunchbagLabs/status/1180518703487733766?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I now regularly get emails back from users letting me know that they find my story inspiring, or that they love the fact that an indie developer is behind the product! 
+<p class="tip"><b>Lesson learned: People care about the narrative behind your product, so don't be afraid to tell your story!</b></p>
+
+I now regularly get emails back from users letting me know that they find my story inspiring, or that they love the fact that an indie developer is behind the product! 🥰
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mind is kind of blown that <a href="https://twitter.com/lunchbag?ref_src=twsrc%5Etfw">@lunchbag</a> made Lunch Money on her own _and_ she&#39;s the support staff. <br><br>The unbelievable thing is that Lunch Money is truly better than Mint and YNAB. I&#39;ve never been able to keep using budgeting software because they&#39;re so bad. Not anymore!</p>&mdash; Eric Windmill (@ericwindmill) <a href="https://twitter.com/ericwindmill/status/1226992389627072512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -104,6 +106,6 @@ Of course, I never thought that any one of these mistakes would be the downfall 
 
 <img src="https://media.giphy.com/media/9jObH9PkVPTyM/giphy-downsized.gif"/><span class="caption">My overdramatic self reacting to my mistakes as they happen</span>
 
-This whole journey is a learning process and I'm grateful to be able to share mine transparently. It's important to not only reflect on the highs and stay humble, but also face the lows and forgive yourself.
+This whole journey is a learning process and I'm grateful to be able to share mine transparently. It's important to not only celebrate the highs and stay humble, but also face the lows and forgive yourself.
 
 I'm sure there are many more mistakes to be made on the horizon and I look forward to writing and laughing about them in another 6 months!
