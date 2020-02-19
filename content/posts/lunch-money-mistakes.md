@@ -1,8 +1,8 @@
 +++
 categories = []
 date = 2020-02-17T16:00:00Z
-description = "It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both big and small. But that's hardly the full picture."
-images = ["/uploads/ogimage-blog-biggest-mistake-2.png"]
+description = "It's been 6 months since the official launch of Lunch Money and I've been sharing milestones, both big and small. But that's hardly the full picture."
+images = ["/uploads/og-image-square.jpg", "/uploads/ogimage-blog-biggest-mistake-2.png"]
 slug = "lunch-money-mistakes"
 tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
@@ -10,7 +10,7 @@ title = "The biggest mistakes I've made with Lunch Money (so far)"
 +++
 Quick introduction: 👋 Hi, I'm Jen! I'm the founder, chief budgeter, engineer & designer behind [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-It's been 6 months since the official launch of Lunch Money and since then, I've been sharing milestones, both [big](https://www.indiehackers.com/product/lunch-money/mentioned-in-techcrunch-and-macrumors--LzBQz1KY0MspKE8mloW) and [small](https://www.indiehackers.com/product/lunch-money/shipped-a-boatload-of-new-features-improvements--LtvscbLRqs2xCBWNLIr). But that's hardly the full picture. While I like the idea of sharing highlights regularly to keep morale up, I thought it would be a good time to reflect and start a periodic series on the biggest mistakes I've made (so far).
+It's been 6 months since the official launch of Lunch Money and I've been sharing milestones, both [big](https://www.indiehackers.com/product/lunch-money/mentioned-in-techcrunch-and-macrumors--LzBQz1KY0MspKE8mloW) and [small](https://www.indiehackers.com/product/lunch-money/shipped-a-boatload-of-new-features-improvements--LtvscbLRqs2xCBWNLIr). But that's hardly the full picture. While I like the idea of sharing highlights regularly to keep morale up, I thought it would be a good time to reflect and start a periodic series on the biggest mistakes I've made (so far).
 
 # Mistake: Having an ill-prepared launch
 
@@ -90,7 +90,7 @@ After some initial feedback, I decided to implement an [About page](https://lunc
 
 I now regularly get emails back from users letting me know that they find my story inspiring, or that they love the fact that an indie developer is behind the product! 🥰
 
-<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mind is kind of blown that <a href="https://twitter.com/lunchbag?ref_src=twsrc%5Etfw">@lunchbag</a> made Lunch Money on her own _and_ she&#39;s the support staff. <br><br>The unbelievable thing is that Lunch Money is truly better than Mint and YNAB. I&#39;ve never been able to keep using budgeting software because they&#39;re so bad. Not anymore!</p>&mdash; Eric Windmill (@ericwindmill) <a href="https://twitter.com/ericwindmill/status/1226992389627072512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mind is kind of blown that <a href="https://twitter.com/lunchbag?ref_src=twsrc%5Etfw">@lunchbag</a> made Lunch Money on her own _and_ she's the support staff. <br><br>The unbelievable thing is that Lunch Money is truly better than Mint and YNAB. I've never been able to keep using budgeting software because they're so bad. Not anymore!</p>— Eric Windmill (@ericwindmill) <a href="https://twitter.com/ericwindmill/status/1226992389627072512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p class="tip"><b>Lesson learned: People care about the narrative behind your product, so don't be afraid to tell your story!</b></p>
 
