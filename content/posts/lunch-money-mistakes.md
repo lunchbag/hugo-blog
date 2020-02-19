@@ -2,7 +2,7 @@
 categories = []
 date = 2020-02-17T16:00:00Z
 description = "It's been 6 months since the official launch of Lunch Money and I've been sharing milestones, both big and small. But that's hardly the full picture."
-images = ["/uploads/og-image-square.jpg", "/uploads/ogimage-blog-biggest-mistake-2.png"]
+images = ["/uploads/ogimage-blog-biggest-mistake-2.png"]
 slug = "lunch-money-mistakes"
 tags = []
 title = "The biggest mistakes I've made with Lunch Money (so far)"
