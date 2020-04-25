@@ -12,4 +12,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
   window.addEventListener("scroll", function(e) {
     if ($header) checkHeader();
   });
+
+  document.getElementById('floating-subscribe').addEventListener('click',function() {
+    document.getElementById('floating-subscribe').classList.add('visible')
+  })
 });

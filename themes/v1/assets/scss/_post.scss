@@ -454,30 +454,53 @@
 
 #floating-subscribe {
   background-color: #fff;
+  height: fit-content;
   border: 1px solid #ccc;
-  padding: 1em;
+  padding: 1em 1.15em;
+  border-radius:3px;
   position: fixed;
   right: 1em;
-  bottom: 1em;
+  bottom: -272px;
   width: 250px;
   z-index: 100;
+  transition: bottom 0.1s ease-in;
 
-  @media(max-width: 600px) {
+  &.visible {
+    bottom: 1em;
+  }
+
+  @media(max-width: 400px) {
     width: 100%;
     box-sizing: border-box;
     right: 0;
-    bottom: 0;
+    bottom: -250px;
+    border-radius: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &.visible {
+      bottom: -3px;
+    }
+  }
+
+  .clickable:hover {
+    cursor: pointer;
   }
 
   h2 {
     text-align: left !important;
     margin-top: 0px !important;
     font-size: 1.2rem !important;
+    cursor: pointer;
   }
 
   p {
     font-size: 1rem !important;
-    line-height: 1.3rem !important;
+    line-height: 1.4rem !important;
     margin: 0.5em 0 1em 0 !important;
   }
 
@@ -486,12 +509,23 @@
     text-align: center;
     margin-top: 0.5em;
     font-family: "Nunito", sans-serif;
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: #888;
   }
 
   #mc_embed_signup {
+    form {
+      width: 100%;
+    }
+
+    margin-bottom: 1.2em;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+
     #mce-EMAIL {
+      width: 100%;
       max-width: 100%;
       box-sizing: border-box;
       font-size: 0.9rem;

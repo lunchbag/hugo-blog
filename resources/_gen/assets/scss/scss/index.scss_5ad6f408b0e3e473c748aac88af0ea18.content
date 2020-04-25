@@ -185,7 +185,7 @@ body {
     background-color: #fff71c; }
   #g-post p.tip {
     position: relative;
-    background-color: #f42c56;
+    background-color: #ed3b61;
     color: #fff;
     padding: 10px 20px; }
   #g-post p.tip:before {
@@ -244,8 +244,7 @@ body {
           right: -12px; } }
     #g-post img:not(.expanded) + span.credit {
       right: -12px; }
-    #g-post img + span.caption,
-    #g-post img + span.credit + span.caption {
+    #g-post img + span.caption, #g-post img + span.credit + span.caption {
       font-family: "Inconsolata";
       font-size: 1.1rem;
       font-weight: bold;
@@ -259,8 +258,7 @@ body {
       color: #3e3a3a;
       line-height: 1.4rem; }
       @media (max-width: 600px) {
-        #g-post img + span.caption,
-        #g-post img + span.credit + span.caption {
+        #g-post img + span.caption, #g-post img + span.credit + span.caption {
           font-size: 0.9rem;
           line-height: 1.2rem;
           padding-top: 5px;
@@ -426,41 +424,65 @@ body {
 
 #floating-subscribe {
   background-color: #fff;
+  height: fit-content;
   border: 1px solid #ccc;
-  padding: 1em;
+  padding: 1em 1.15em;
+  border-radius: 3px;
   position: fixed;
   right: 1em;
-  bottom: 1em;
+  bottom: -272px;
   width: 250px;
-  z-index: 100; }
-  @media (max-width: 600px) {
+  z-index: 100;
+  transition: bottom 0.1s ease-in; }
+  #floating-subscribe.visible {
+    bottom: 1em; }
+  @media (max-width: 400px) {
     #floating-subscribe {
       width: 100%;
       box-sizing: border-box;
       right: 0;
-      bottom: 0; } }
+      bottom: -250px;
+      border-radius: 0;
+      border-right-width: 0;
+      border-left-width: 0; }
+      #floating-subscribe:hover {
+        cursor: pointer; }
+      #floating-subscribe.visible {
+        bottom: -3px; } }
+  #floating-subscribe .clickable:hover {
+    cursor: pointer; }
   #floating-subscribe h2 {
     text-align: left !important;
     margin-top: 0px !important;
-    font-size: 1.2rem !important; }
+    font-size: 1.2rem !important;
+    cursor: pointer; }
   #floating-subscribe p {
     font-size: 1rem !important;
-    line-height: 1.3rem !important;
+    line-height: 1.4rem !important;
     margin: 0.5em 0 1em 0 !important; }
   #floating-subscribe span {
     display: block;
     text-align: center;
     margin-top: 0.5em;
     font-family: "Nunito", sans-serif;
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: #888; }
-  #floating-subscribe #mc_embed_signup #mce-EMAIL {
-    max-width: 100%;
-    box-sizing: border-box;
-    font-size: 0.9rem; }
-  #floating-subscribe #mc_embed_signup #mc-embedded-subscribe {
+  #floating-subscribe #mc_embed_signup {
+    margin-bottom: 1.2em;
     width: 100%;
-    font-size: 0.9rem; }
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    #floating-subscribe #mc_embed_signup form {
+      width: 100%; }
+    #floating-subscribe #mc_embed_signup #mce-EMAIL {
+      width: 100%;
+      max-width: 100%;
+      box-sizing: border-box;
+      font-size: 0.9rem; }
+    #floating-subscribe #mc_embed_signup #mc-embedded-subscribe {
+      width: 100%;
+      font-size: 0.9rem; }
 
 /* Tabular tables */
 #g-post table {
