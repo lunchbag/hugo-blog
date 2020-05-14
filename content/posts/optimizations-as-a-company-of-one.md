@@ -54,7 +54,7 @@ Don't be shocked, but all support emails go directly to my email inbox. Every pa
 
 I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. I mean, there was no way I could ignore it. I am an inbox-zero fanatic.
 
-Obviously this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, but I also didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox. 
+Obviously this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, but I also didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox.
 
 ### Have users self-triage support tickets
 
@@ -73,7 +73,7 @@ The positive effects of this change were felt immediately. Seeing (5) next to "Q
 
 ### From canned responses to FAQs
 
-I get a lot of the same questions and feature requests via email. The most common ones are about the Plaid/Capital One integration and whether or not we'll have a mobile app. 
+I get a lot of the same questions and feature requests via email. The most common ones are about the Plaid/Capital One integration and whether or not we'll have a mobile app.
 
 In the beginning, I would type the response out by hand and it would vary slightly between every email. Then, I would just copy one response and paste it in an Evernote titled "Canned Responses" and use that same template for future questions.
 
@@ -83,7 +83,7 @@ Being able to identify the most common questions and making the answers to these
 
 ### Creating specific support flows
 
- While some common questions are a simple question and answer, there are sometimes common issues that can't quite be generalized with a blanket statement. For instance, I get a lot of support tickets about automatic imports. These are highly personal as they depend on the institution, the type of account, etc.
+While some common questions are a simple question and answer, there are sometimes common issues that can't quite be generalized with a blanket statement. For instance, I get a lot of support tickets about automatic imports. These are highly personal as they depend on the institution, the type of account, etc.
 
 Here is a typical interaction regarding issues with bank syncing:
 
@@ -106,9 +106,9 @@ If a user states their account balance is wrong, then we'll ask right away what 
 
 One of the great things about being the one doing customer support is being aware of all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips.
 
-## Optimizing engineering
+## Optimizing development
 
-### Keep your tasks organized
+### Keep tasks organized
 
 Whatever your preferred task management system is, it's imperative that it is kept up-to-date, organized and readable! You don't ever want to feel like something is too overwhelming or messy and slowly avoid using it. If it gets to that point, I would suggest starting fresh.
 
@@ -137,31 +137,58 @@ In Clickup, you can have various lists under a project each with custom statuses
   * List: Triage
     * This is the only place I allow things to get messy. No tags, just text
 
-### Tag your low-hanging fruits
+### Tag low-hanging fruits
 
-Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits, that is, quick tasks that usually require as little as one line and as much as 5 minutes to fix. 
+Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits, that is, quick tasks that usually require as little as one line and as much as 5 minutes to fix.
 
 I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish. Still being able to get something done is a great way to get a quick dose of dopamine that might help you get out of a slump.
 
+### Automate tasks without losing sight
+
+Account cancelation, workers
+
 ## Optimizing marketing
+
+### Timing marketing pushes
+
+At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30 and connects a bank account, and in May the end up churning, Plaid will charge me for this user in both April & May's invoices.
+
+This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
+
+For one, our data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, we'll consider you "churned" and will delete your data in 30 days. However, this certainly guarantees that I'll be paying one more month than I need to for churned users who connected bank accounts. So this grace period before data deletion has been revised to 5 days.
+
+With a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period, I have realized it is in my best interest to schedule marketing pushes towards the beginning of the month. At longest, a churned user would last 26 days in our system and making sure these 26 days ends before the start of a new month is a priority!
+
+Therefore, marketing pushes under my control, such as publicizing blog posts and launches will always be in the first few days of the calendar month. Once I switched over to this method, my Plaid bills has gone down significantly.
+
+### Merging marketing and engineering for a combo win
+
+Taking this a step further, the perk of having a spike in new users is that their trial period more-or-less overlap. I've therefore gotten into the following cycle to take full advantage of this:
+
+Day 1-4: Big marketing push, acquire lots of new users over the next few days!
+
+Day 2-7: Usually lots of new support tickets, bug reports, features requests come in. I prioritize the ones I can and get to work. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
+
+Somewhere between day 7 and 10, I will send out a newsletter with all the new features and improvements I was able to get done. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
 
 ## Optimizing yourself
 
+Lastly, as a company of one, the hard truth is that the company will only ever be as successful as you allow it to be. And sometimes you are your own worst enemy. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
+
 ### Write everything down
+
+Our brains are not wired to remember all our shower thoughts long-term. I always have Evernote handy to quickly jot down all sorts of ideas I have, no matter how crazy or obvious. One of the worst feelings and remembering how excited you were about an idea but having no clue what that idea was!
 
 ### Talk to others
 
+Being a company of one doesn't mean you can't have anyone to lean on. Network with other people, especially those specialize in verticals you're not as familiar with. Of course, make sure you offer as much back as you're looking for. 
+
+My company is part of my long-term goal as are the relationships I'm making during this journey.
+
 ### Have hobbies outside of work
+
+This is super important to stay well-rounded, not only as a person but for your own sanity! What keeps me occupied outside of Lunch Money is learning Chinese. I take 3 classes a week, 1.5 hours each. Even though sometimes it's really hard to peel away from work, I know in the end it's a nice forced break that I probably would otherwise never take. 
 
 ### Celebrate the small wins
 
-* Email inbox as to do list
-* Write every down. Keep evernote organized
-* get into a rhythm with engineering
-* big push > engineer > newsletter
-* support
-
-* filters
-* user self-triaging
-* pepper in tool tips
-* specific flows to decrease back and forth for common issues
+This is something I need to get better at– celebrating the small wins much more than you get down on when things go wrong. Celebrate at every milestone! It doesn't have to be something large and elaborate. Whenever my MRR increases or my user base increases to an arbitrarily special number, I always mention it to my husband and my parents and they always help me find ways to celebrate.
