@@ -58,17 +58,17 @@ All support emails go directly to my email inbox. Every page of Lunch Money has 
 
 ![](/uploads/screenshot-submit-bug-3.png)
 
-I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. I mean, there was no way I could ignore it. I am an inbox-zero fanatic.
+I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. I mean, there was no way I could ignore it. I am an inbox-zero fanatic and I also use my email as a To-Do list. My personal philosophy is that any emails that are not archived has an action waiting on me.
 
-Obviously this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, especially with the Gmail message preview, it just felt like a constant reminder of all the things I've yet to do.
+Obviously, this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, especially with the Gmail message preview, it just felt like a constant reminder of all the things I've yet to do.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)
 
-And of course, I didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox. Keeping it simple and relatively low-cost are always two important heuristics for me.
+And of course, I didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox. Keeping it simple and relatively low-cost are always two important heuristics.
 
 ## Self-triage support tickets
 
-One of the best optimizations I've ever made is to have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
+I knew I still wanted support tickets to come directly to my inbox, but I didn't need it necessarily in my main inbox. I realized seemingly much too late that I could just have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
 
 1. Bug report
 2. Question
@@ -77,34 +77,36 @@ One of the best optimizations I've ever made is to have users triage their own s
 
 ![](/uploads/screen-shot-2020-05-15-at-9.15.34-pm.png)
 
-I modified server code to include this in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
+I modified server code to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png)
 
-The best thing about this optimization is that it's free and simple to implement. The second best thing is that it keeps my inbox fairly decluttered. I'm also able to implement a "priority" system when responding to support tickets. For instance, I'll look at bug reports more than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
+With this system in place, I'm able to instantly prioritize support tickets. For example, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
-The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox with the little text preview which can easily derail my current train of thought. Now, it feels good to intentionally address support tickets rather than having them interrupt my day as they come in.
+The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox. It feels good to be able to intentionally set aside time to address support tickets at night rather than having them interrupt and distract me as they roll in throughout the day.
+
+![](/uploads/screen-shot-2020-05-15-at-10.49.27-pm.png)
 
 ## Creating specific support flows
 
-While some common questions are a simple question and answer, there are sometimes common issues that can't quite be generalized with a blanket statement. For instance, I get a lot of support tickets about automatic imports. These are highly personal as they depend on the institution, the type of account, etc.
+Common questions can usually be quickly identified and handled with the addition of a simple FAQ page. However, there are sometimes common issues that arise but will always require personalized support. For instance, I get a lot of support tickets about issues related to bank syncing.
 
-Here is a typical interaction regarding issues with bank syncing:
+Here is a typical interaction:
 
 **User:** I am having issues with my Chase accounts.  
-**Me:** What types of issues are you having? Is it with just one account or multiple accounts?  
+**Me:** What types of issues are you having?  
 **User:** I am not getting transactions.  
 **Me:** If you're missing transactions, please let me know a sample transaction and I will look into it for you.
 
-With the above, there are at least 3 emails exchanged before the issue can even begin to enter the resolution phase.
+There are at least 3 emails exchanged before the issue can even begin to enter the resolution phase.
 
-Eventually, I decided to create a specific support flow for bank syncing issues. I stuck this in the Details modal of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
+Eventually, I had received enough related support tickets that I was able to design a specific support flow for bank syncing issues to address 99% of the issues that arise. I stuck this in the Details modal of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
 The specific flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents some common resolutions before allowing the user to submit a ticket.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png)
 
-For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me, users will see this notice when they select the "My account is not syncing" options. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
+For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me now, users will see this notice when they select the "My account is not syncing" options. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.22.53-pm.png)
 
@@ -120,13 +122,21 @@ Some things that might be obvious to me as the designer and creator of the app m
 
 ## Always ship the MVP
 
-One thing I've learned is that the notion of an MVP does not end at first launch. Every major feature should also thought of as having a minimum viable state. If you spend time trying to perfect and code every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray.
+One thing I've realized is that the notion of an MVP does not end at first launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
 
-For instance, I recently launched Category Groups for nesting categories and creating an organization hierarchy in Lunch Money. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget.
+For instance, I recently launched the ability to nest categories into Category Groups. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget. We also want to make sure the sum of spending for a category group correctly reflects the sum of spending in the children categories.
+
+Once I got that core logic built out, I started working on the front-end. The spectrum of what I could have accomplished here was quite large. At the minimum, the user should be able to create a category group and assign existing categories to that group. Basic update and delete functionality would also need to be implemented. But how fancy was I going to get next? 
+
+I could implement drag-and-drop for categories or allow users to create a new category while creating a new category group. I could also implement features to remove a category from a group if you were to click into that category's detail modals or even allow changing the group it's in or creating a new group from a category. 
+
+In the end, I shipped Category Groups with only the basic functionality because I wanted to get it out the door as soon as possible. I figured if any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
 
 ## Automate tasks at the right time
 
-While automating can save you a lot of time in the long-term, it makes sense sometimes to do the manual heavy-lifting in the beginning before spending time to automate something.
+While automating tasks can save you a lot of time in the long-term, it makes sense sometimes to do the manual heavy-lifting in the beginning before spending the time to automate something.
+
+![](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
 ### Account cancellations
 
