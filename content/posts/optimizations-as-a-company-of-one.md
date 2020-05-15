@@ -34,7 +34,7 @@ In the last 7 days as the company of one behind Lunch Money, here's what I got d
 * **Networking:** Had 5x one hour networking Zoom calls
 * **Marketing:** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
 
-## Learning to juggle it all
+# Learning to juggle it all
 
 My favorite thing about being a solo founder is all the different hats I get to wear. I love being able to switch between completely different tasks because I feel it keeps the job interesting and helps refresh my mind.
 
@@ -46,13 +46,13 @@ If it's not already obvious, I like being hyper-efficient (without burning mysel
 
 As Lunch Money grows in user base and complexity, I have been able to identify various areas for improvements and optimizations in order to alleviate the overall workload. In this post, I will share my most successful strategies, peppered with anecdotes from my own app and experiences.
 
-## Optimizing Customer Support
+# Optimizing Customer Support
 
 Customer support is one of the most important pillars of a SaaS business and should not slip. I always thought that if I were to hire someone, it would be to do customer support but I've been slowly moving away from that idea. The fact that I get to speak directly the users and that users know it's me on the other end of that email is so valuable to Lunch Money's branding and commitment to users and I don't want to risk ideas or frustrations being lost in translation.
 
 On average, I receive almost 400 support emails per month and I had to figure out a way to continuously stay on top of this. I always knew that this would be the hardest part of the business to scale if I wanted to stay a company of one.
 
-### How do support tickets work at Lunch Money?
+## How do support tickets work at Lunch Money?
 
 All support emails go directly to my email inbox. Every page of Lunch Money has access to a "Feedback widget" at the bottom right of the screen. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind and it sends it through to straight to my inbox.
 
@@ -62,7 +62,7 @@ I'll never forget launch day when we amassed 1000 sign ups and well over 100 sup
 
 Obviously this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, but I also didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox.
 
-### Have users self-triage support tickets
+## Have users self-triage support tickets
 
 One of the best optimizations I've ever made is to have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
 
@@ -77,7 +77,7 @@ The best thing about this optimization is that it's free and simple to implement
 
 The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox with the little text preview which can easily derail my current train of thought. Now, it feels good to intentionally address support tickets rather than having them interrupt my day as they come in.
 
-### From canned responses to FAQs
+## From canned responses to FAQs
 
 I get a lot of the same questions and feature requests via email. The most common ones are about the Plaid/Capital One integration and whether or not we'll have a mobile app.
 
@@ -87,7 +87,7 @@ Finally, I put together a knowledge base and one of the first pages I implemente
 
 Being able to identify the most common questions and making the answers to these widely accessible is a simple way to address these straight away.
 
-### Creating specific support flows
+## Creating specific support flows
 
 While some common questions are a simple question and answer, there are sometimes common issues that can't quite be generalized with a blanket statement. For instance, I get a lot of support tickets about automatic imports. These are highly personal as they depend on the institution, the type of account, etc.
 
@@ -112,15 +112,15 @@ For instance, a common issue is that persistent 2FA will cause Plaid to lose con
 
 Similarly, if a user states their account balance is wrong, then we'll ask right away what the correct balance should be. Bam, we've already got all the information we need to start resolving the issue the second they submit their ticket!
 
-### Use tooltips to instantly demystify
+## Use tooltips to instantly demystify
 
 One of the great things about being the one doing customer support is being aware of all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips.
 
 Some things that might be obvious to me as the designer and creator of the app may not be obvious at all to someone who's looking at the UI for the first time. When someone writes in inquiring about a feature, take note and even consider asking why they were confused or if they noticed any existing tooltips you had in place. Maybe your tooltip has confusing language.
 
-## Optimizing engineering
+# Optimizing engineering
 
-### Keep tasks organized
+## Keep tasks organized
 
 Whatever your preferred task management system is, it's imperative that it is kept up-to-date, organized and readable! You don't ever want to feel like something is too overwhelming or messy and slowly avoid using it. If it gets to that point, I would suggest starting fresh.
 
@@ -149,23 +149,23 @@ In Clickup, you can have various lists under a project each with custom statuses
   * List: Triage
     * This is the only place I allow things to get messy. No tags, just text
 
-### Tag low-hanging fruits
+## Tag low-hanging fruits
 
 Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits, that is, quick tasks that usually require as little as one line and as much as 5 minutes to fix.
 
 I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish. Still being able to get something done is a great way to get a quick dose of dopamine that might help you get out of a slump.
 
-### Always ship the MVP
+## Always ship the MVP
 
 One thing I've learned is that the notion of an MVP does not end at first launch. Every major feature should also thought of as having a minimum viable state. If you spend time trying to perfect and code every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray.
 
 For instance, I recently launched Category Groups for nesting categories and creating an organization hierarchy in Lunch Money. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget.
 
-### Automate tasks at the right time
+## Automate tasks at the right time
 
 While automating can save you a lot of time in the long-term, it makes sense sometimes to do the manual heavy-lifting in the beginning before spending time to automate something.
 
-#### Account cancellations
+### Account cancellations
 
 Account cancellations were something that I manually handled for the first month-ish. A user who wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
 
@@ -177,7 +177,7 @@ After this, I still manually cancel their Stripe subscription and manually issue
 
 The volume I get for account cancelations (on average less than 1 per day) is not high enough yet for me to automate the rest of this, but if it picks up I'll know what to automate next.
 
-#### Referral program
+### Referral program
 
 Something that I'm glad I didn't spend the time to automate was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth. 
 
@@ -187,9 +187,9 @@ In the end, the referral program didn't bring on as many new users as I thought 
 
 Account cancelation, workers
 
-## Optimizing marketing
+# Optimizing marketing
 
-### Timing marketing pushes
+## Timing marketing pushes
 
 At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30 and connects a bank account, and in May the end up churning, Plaid will charge me for this user in both April & May's invoices.
 
@@ -201,7 +201,7 @@ With a 14-day trial, the potential for a 1 week trial extension and a 5 day grac
 
 Therefore, marketing pushes under my control, such as publicizing blog posts and launches will always be in the first few days of the calendar month. Once I switched over to this method, my Plaid bills has gone down significantly.
 
-### Merging marketing and engineering for a combo win
+## Merging marketing and engineering for a combo win
 
 Taking this a step further, the perk of having a spike in new users is that their trial period more-or-less overlap. I've therefore gotten into the following cycle to take full advantage of this:
 
@@ -211,24 +211,24 @@ Day 2-7: Usually lots of new support tickets, bug reports, features requests com
 
 Somewhere between day 7 and 10, I will send out a newsletter with all the new features and improvements I was able to get done. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
 
-## Optimizing yourself
+# Optimizing yourself
 
 Lastly, as a company of one, the hard truth is that the company will only ever be as successful as you allow it to be. And sometimes you are your own worst enemy. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
 
-### Write everything down
+## Write everything down
 
 Our brains are not wired to remember all our shower thoughts long-term. I always have Evernote handy to quickly jot down all sorts of ideas I have, no matter how crazy or obvious. One of the worst feelings and remembering how excited you were about an idea but having no clue what that idea was!
 
-### Talk to others
+## Talk to others
 
 Being a company of one doesn't mean you can't have anyone to lean on. Network with other people, especially those specialize in verticals you're not as familiar with. Of course, make sure you offer as much back as you're looking for.
 
 My company is part of my long-term goal as are the relationships I'm making during this journey.
 
-### Have hobbies outside of work
+## Have hobbies outside of work
 
 This is super important to stay well-rounded, not only as a person but for your own sanity! What keeps me occupied outside of Lunch Money is learning Chinese. I take 3 classes a week, 1.5 hours each. Even though sometimes it's really hard to peel away from work, I know in the end it's a nice forced break that I probably would otherwise never take.
 
-### Celebrate the small wins
+## Celebrate the small wins
 
 This is something I need to get better at– celebrating the small wins much more than you get down on when things go wrong. Celebrate at every milestone! It doesn't have to be something large and elaborate. Whenever my MRR increases or my user base increases to an arbitrarily special number, I always mention it to my husband and my parents and they always help me find ways to celebrate.
