@@ -11,11 +11,9 @@ title = "Optimizations as a company of one"
 +++
 Hello! My name is Jen and I'm the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
 
-In short, I am a company of one. I am the one who answers the customer support emails and I am the one who deploys major features. I am the one who updates our API docs and knowledge base, the one who designs, writes and sends out our bi-monthly newsletters and I am the one who designed the logo.
+In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and I am the one who designed the logo.
 
-I also have a life outside of Lunch Money! I am happily married and always make time to eat regular meals and attend Chinese class 3 days a week for 1.5 hours. I also attend 1-hour tutoring sessions twice a week. And we have a healthy social life, made even more possible by the advent of Zoom.
-
-In the last 7 days, I averaged 6 hours of work per day for a total of a 45 hour work week.
+In the last 7 days, I averaged 6 hours of work per day for a total of a 45 hour work week which means I also had time to live a normal life outside of work.
 
 The reason I'm sharing this is because I want to demystify the solo founder lifestyle and share some optimizations that I've picked up along the way that has made this attainable for me.
 
@@ -23,32 +21,40 @@ The reason I'm sharing this is because I want to demystify the solo founder life
 
 A week is never typical. In fact, very rarely do I plan specific tasks more than 2 days ahead of time aside from tasks such as sending out newsletter updates or deploying a set of features.
 
-I typically think about my tasks in terms of product, engineering and marketing. There's also support but that happens sporadically.
+I typically think about my tasks in terms of product, engineering and marketing. There's also support but that happens regardless of whatever else is going on.
 
 In the last 7 days as the company of one behind Lunch Money, here's what I got done:
 
-* **\[Product\]** Launched an internal beta testers program
-* **\[Engineering\]** Wrapped up a 2-week long refactor of some core components
-* **\[Marketing\]** Sent out a newsletter to 3000+ people about the latest features on Lunch Money
-* **\[Engineering\]** Started and finished 2 major features: advanced transaction filters and "every two weeks" recurring
-* **\[Product\]** Launched to beta testers
-* **\[Support\]** Replied to over 100 support tickets
-* **\[Networking\]** Had 5x one hour networking Zoom calls
-* **\[Marketing\]** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
+* **Product:** Launched an internal beta testers program
+* **Engineering:** Wrapped up a 2-week long refactor of some core components on the client-side
+* **Marketing:** Sent out a newsletter to 3000+ people about the latest features on Lunch Money
+* **Engineering:** Started and finished 2 major features: advanced transaction filters and "every two weeks" recurring
+* **Product:** Launched new features (in addition to other improvements and bug fixes) to beta testers
+* **Support:** Replied to over 100 support tickets
+* **Networking:** Had 5x one hour networking Zoom calls
+* **Marketing:** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
 
-My favorite thing about being a solo founder is all the different hats I get to wear. I love being able to switch between completely different tasks because I feel it keeps the job interesting and helps refresh my mind. For instance, working on feature improvements and bug fixes might tire me out and switching over to a marketing tasks allows me to use a different part of my brain and it feels like a break while still being productive overall. _I just finished a major refactor and pushed out 2 major changes to beta, so writing this blog post right now feels like a vacation for my brain._
+## Learning to juggle it all
 
-If it's not already obvious, I like being hyper-efficient. Even though I am a solo founder, I can still run things in parallel. As an example, a few weeks ago I sent out a quarterly user survey to new subscribers. Sending that out quickly took virtually no time but for the next 3 weeks I could work on other things while the survey was collecting responses.
+My favorite thing about being a solo founder is all the different hats I get to wear. I love being able to switch between completely different tasks because I feel it keeps the job interesting and helps refresh my mind.
 
-As Lunch Money grows in user base and complexity, I have been able to identify various areas for improvements and optimizations in order to alleviate the overall workload. I will now share my best tips, peppered in with anecdotes from my own app and experiences, and hopefully you'll be able to draw some learnings and inspirations for your own situation.
+For instance, working on feature improvements and bug fixes might tire me out and switching over to a marketing tasks allows me to use a different part of my brain and it feels like a break while still being productive overall.
+
+_Case in point: I just finished a major refactor and pushed out 2 major changes to beta, so writing this blog post right now feels like a vacation for my brain._
+
+If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a solo founder and have only a singular available thread at any given time, I can still automate, optimize and parallelize processes. As a simple example, a few weeks ago I sent out a quarterly user survey to new subscribers. Sending that out quickly took virtually no time but for the next 3 weeks I could work on other things while the survey was collecting responses.
+
+As Lunch Money grows in user base and complexity, I have been able to identify various areas for improvements and optimizations in order to alleviate the overall workload. In this post, I will share my most successful strategies, peppered with anecdotes from my own app and experiences.
 
 ## Optimizing Customer Support
 
-Customer support is one of the most important pillars of a SaaS business and should not slip. I always thought that if I were to hire someone, it would be to do customer support but I've been slowly moving away from that idea. The fact that I get to speak directly the users and that users know it's me on the other end of that email is so valuable to Lunch Money's branding and commitment to users.
+Customer support is one of the most important pillars of a SaaS business and should not slip. I always thought that if I were to hire someone, it would be to do customer support but I've been slowly moving away from that idea. The fact that I get to speak directly the users and that users know it's me on the other end of that email is so valuable to Lunch Money's branding and commitment to users and I don't want to risk ideas or frustrations being lost in translation.
+
+On average, I receive almost 400 support emails per month and I had to figure out a way to continuously stay on top of this. I always knew that this would be the hardest part of the business to scale if I wanted to stay a company of one.
 
 ### How do support tickets work at Lunch Money?
 
-Don't be shocked, but all support emails go directly to my email inbox. Every page of Lunch Money has access to a "Feedback widget" at the bottom right of the screen. Clicking on it opens up a textarea wherein users can submit feedback, questions, bug reports, or whatever else is on their mind and it sends it through to straight to my inbox.
+All support emails go directly to my email inbox. Every page of Lunch Money has access to a "Feedback widget" at the bottom right of the screen. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind and it sends it through to straight to my inbox.
 
 <Screenshot>
 
@@ -58,24 +64,24 @@ Obviously this wasn't sustainable. It was difficult to wake up every day to have
 
 ### Have users self-triage support tickets
 
-One of the best optimizations I've ever made is to have users self-triage their support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
+One of the best optimizations I've ever made is to have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
 
 1. Bug report
 2. Question
 3. Feature request
 4. General feedback
 
-I modified server code to include this new typing in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
+I modified server code to include this in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
 
-The best thing about this optimization is that it's free. The second best thing is that it keeps my inbox fairly decluttered. I'm also able to implement a "priority" system when responding to support tickets. For instance, I'll pay more attention to bug reports than say, feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have".
+The best thing about this optimization is that it's free and simple to implement. The second best thing is that it keeps my inbox fairly decluttered. I'm also able to implement a "priority" system when responding to support tickets. For instance, I'll look at bug reports more than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
-The positive effects of this change were felt immediately. Seeing (5) next to "Question" is a million times less stressful than having 5 unread emails sitting in my main inbox. Plus, with the preview feature, I can't ignore those emails and they can easily derail my current train of thought or task. Now, it feels good that I can intentionally address support tickets rather than having them interrupt my day as they come in.
+The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox with the little text preview which can easily derail my current train of thought. Now, it feels good to intentionally address support tickets rather than having them interrupt my day as they come in.
 
 ### From canned responses to FAQs
 
 I get a lot of the same questions and feature requests via email. The most common ones are about the Plaid/Capital One integration and whether or not we'll have a mobile app.
 
-In the beginning, I would type the response out by hand and it would vary slightly between every email. Then, I would just copy one response and paste it in an Evernote titled "Canned Responses" and use that same template for future questions.
+In the beginning, I would type the response out by hand and it would vary slightly between every email. Then, I smartened up and pasted this response in an Evernote to eventually create a trove of canned responses to re-use for commonly-asked questions.
 
 Finally, I put together a knowledge base and one of the first pages I implemented was an FAQ. I sat down and wrote a thoughtful answer for each of these questions which I can now direct users to when they ask about it.
 
@@ -87,10 +93,10 @@ While some common questions are a simple question and answer, there are sometime
 
 Here is a typical interaction regarding issues with bank syncing:
 
-User: I am having issues with my Chase accounts.  
-Me: What types of issues are you having? Is it with just one account or multiple accounts?  
-User: I am not getting transactions.  
-Me: If you're missing transactions, please let me know a sample transaction and I will look into it for you.
+**User:** I am having issues with my Chase accounts.  
+**Me:** What types of issues are you having? Is it with just one account or multiple accounts?  
+**User:** I am not getting transactions.  
+**Me:** If you're missing transactions, please let me know a sample transaction and I will look into it for you.
 
 With the above, there are at least 3 emails exchanged before the issue can even begin to enter the resolution phase.
 
@@ -98,15 +104,21 @@ Eventually, I decided to create a specific support flow for bank syncing issues.
 
 The specific flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents some common resolutions before allowing the user to submit a ticket.
 
+<Screenshot>
+
 For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me, users will see this notice when they select the "My account is not syncing" options. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
 
-If a user states their account balance is wrong, then we'll ask right away what the correct balance should be. Bam, we've already got all the information we need to start resolving the issue the second they submit their ticket!
+<Screenshot>
+
+Similarly, if a user states their account balance is wrong, then we'll ask right away what the correct balance should be. Bam, we've already got all the information we need to start resolving the issue the second they submit their ticket!
 
 ### Use tooltips to instantly demystify
 
 One of the great things about being the one doing customer support is being aware of all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips.
 
-## Optimizing development
+Some things that might be obvious to me as the designer and creator of the app may not be obvious at all to someone who's looking at the UI for the first time. When someone writes in inquiring about a feature, take note and even consider asking why they were confused or if they noticed any existing tooltips you had in place. Maybe your tooltip has confusing language.
+
+## Optimizing engineering
 
 ### Keep tasks organized
 
@@ -143,7 +155,35 @@ Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote 
 
 I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish. Still being able to get something done is a great way to get a quick dose of dopamine that might help you get out of a slump.
 
-### Automate tasks without losing sight
+### Always ship the MVP
+
+One thing I've learned is that the notion of an MVP does not end at first launch. Every major feature should also thought of as having a minimum viable state. If you spend time trying to perfect and code every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray.
+
+For instance, I recently launched Category Groups for nesting categories and creating an organization hierarchy in Lunch Money. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget.
+
+### Automate tasks at the right time
+
+While automating can save you a lot of time in the long-term, it makes sense sometimes to do the manual heavy-lifting in the beginning before spending time to automate something.
+
+#### Account cancellations
+
+Account cancellations were something that I manually handled for the first month-ish. A user who wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
+
+Eventually, it took an accidental cancellation of a paying user's account to make me realize that I needed a smarter way to handle account deletions.
+
+The current flow in Lunch Money to delete your account involves a quick survey asking for the reason why someone is canceling their account, along with an optional text area to write comments and a checkbox to indicate if they would like to stay on our newsletter for updates. There's also a double confirm button so I can be sure this user really wants to delete their account. 
+
+After this, I still manually cancel their Stripe subscription and manually issue any refunds (for some reason, I don't trust Stripe to handle this automatically for me in a clean way. Call me paranoid from their weird pro-ration strategies) and I manually assign a deletion date to their account which is also used by an automated worker that purges data after trial expirations.
+
+The volume I get for account cancelations (on average less than 1 per day) is not high enough yet for me to automate the rest of this, but if it picks up I'll know what to automate next.
+
+#### Referral program
+
+Something that I'm glad I didn't spend the time to automate was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth. 
+
+I decided I wanted to just get the referral program out the door first and see just how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits. 
+
+In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did, and in fact it was a good experience to figure out all the edge cases. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth it.
 
 Account cancelation, workers
 
@@ -181,13 +221,13 @@ Our brains are not wired to remember all our shower thoughts long-term. I always
 
 ### Talk to others
 
-Being a company of one doesn't mean you can't have anyone to lean on. Network with other people, especially those specialize in verticals you're not as familiar with. Of course, make sure you offer as much back as you're looking for. 
+Being a company of one doesn't mean you can't have anyone to lean on. Network with other people, especially those specialize in verticals you're not as familiar with. Of course, make sure you offer as much back as you're looking for.
 
 My company is part of my long-term goal as are the relationships I'm making during this journey.
 
 ### Have hobbies outside of work
 
-This is super important to stay well-rounded, not only as a person but for your own sanity! What keeps me occupied outside of Lunch Money is learning Chinese. I take 3 classes a week, 1.5 hours each. Even though sometimes it's really hard to peel away from work, I know in the end it's a nice forced break that I probably would otherwise never take. 
+This is super important to stay well-rounded, not only as a person but for your own sanity! What keeps me occupied outside of Lunch Money is learning Chinese. I take 3 classes a week, 1.5 hours each. Even though sometimes it's really hard to peel away from work, I know in the end it's a nice forced break that I probably would otherwise never take.
 
 ### Celebrate the small wins
 
