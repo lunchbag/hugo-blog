@@ -126,25 +126,27 @@ One thing I've realized is that the notion of an MVP does not end at first launc
 
 For instance, I recently launched the ability to nest categories into Category Groups. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget. We also want to make sure the sum of spending for a category group correctly reflects the sum of spending in the children categories.
 
-Once I got that core logic built out, I started working on the front-end. The spectrum of what I could have accomplished here was quite large. At the minimum, the user should be able to create a category group and assign existing categories to that group. Basic update and delete functionality would also need to be implemented. But how fancy was I going to get next? 
+Once I got that core logic built out, I started working on the front-end. The spectrum of what I could have accomplished here was quite large. At the minimum, the user should be able to create a category group and assign existing categories to that group. Basic update and delete functionality would also need to be implemented. But how fancy was I going to get next?
 
-I could implement drag-and-drop for categories or allow users to create a new category while creating a new category group. I could also implement features to remove a category from a group if you were to click into that category's detail modals or even allow changing the group it's in or creating a new group from a category. 
+I could implement drag-and-drop for categories or allow users to create a new category while creating a new category group. I could also implement features to remove a category from a group if you were to click into that category's detail modals or even allow changing the group it's in or creating a new group from a category.
 
 In the end, I shipped Category Groups with only the basic functionality because I wanted to get it out the door as soon as possible. I figured if any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
 
 ## Automate tasks at the right time
 
-While automating tasks can save you a lot of time in the long-term, it makes sense sometimes to do the manual heavy-lifting in the beginning before spending the time to automate something.
+While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate and when the time is right.
 
 ![](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
 ### Account cancellations
 
-Account cancellations were something that I manually handled for the first month-ish. A user who wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
+Account cancellations were something that I manually handled for the first month-ish. A user that wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
 
 Eventually, it took an accidental cancellation of a paying user's account to make me realize that I needed a smarter way to handle account deletions.
 
 The current flow in Lunch Money to delete your account involves a quick survey asking for the reason why someone is canceling their account, along with an optional text area to write comments and a checkbox to indicate if they would like to stay on our newsletter for updates. There's also a double confirm button so I can be sure this user really wants to delete their account.
+
+![](/uploads/screen-shot-2020-05-15-at-11.52.40-pm.png)
 
 After this, I still manually cancel their Stripe subscription and manually issue any refunds (for some reason, I don't trust Stripe to handle this automatically for me in a clean way. Call me paranoid from their weird pro-ration strategies) and I manually assign a deletion date to their account which is also used by an automated worker that purges data after trial expirations.
 
@@ -197,7 +199,7 @@ I find that keeping these around and marking them as such can really help raise 
 
 ## Timing marketing pushes
 
-At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30 and connects a bank account, and in May the end up churning, Plaid will charge me for this user in both April & May's invoices.
+At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
 
 This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
 
