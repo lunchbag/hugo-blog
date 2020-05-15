@@ -17,7 +17,7 @@ In the last 7 days, I averaged 6 hours of work per day for a total of a 45 hour 
 
 The reason I'm sharing this is because I want to demystify the solo founder lifestyle and share some optimizations that I've picked up along the way that has made this attainable for me.
 
-## A "typical" week
+# A "typical" week
 
 A week is never typical. In fact, very rarely do I plan specific tasks more than 2 days ahead of time aside from tasks such as sending out newsletter updates or deploying a set of features.
 
