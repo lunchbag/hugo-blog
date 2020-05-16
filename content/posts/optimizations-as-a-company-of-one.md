@@ -162,6 +162,9 @@ After this, I still manually cancel their Stripe subscription and manually issue
 
 The volume I get for account cancelations (on average less than 1 per day) is not high enough yet for me to automate the rest of this, but if it picks up I'll know what to automate next.
 
+* Automating emails being sent out
+* Digests
+
 ### Referral program
 
 Something that I'm glad I didn't spend the time to automate was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
