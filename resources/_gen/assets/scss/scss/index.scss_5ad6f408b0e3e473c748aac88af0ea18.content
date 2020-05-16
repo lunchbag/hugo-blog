@@ -113,6 +113,12 @@ body {
     @media (max-width: 600px) {
       #g-post h1.title {
         font-size: 2rem; } }
+  #g-post h1,
+  #g-post h2,
+  #g-post h3, #g-post h4 {
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    margin-top: 45px; }
   #g-post h1 {
     text-align: center; }
     @media (max-width: 1100px) {
@@ -127,12 +133,6 @@ body {
     @media (max-width: 500px) {
       #g-post h1 {
         font-size: 1.5rem; } }
-  #g-post h1,
-  #g-post h2,
-  #g-post h3 {
-    font-family: "Roboto Slab";
-    font-weight: 700;
-    margin-top: 45px; }
   #g-post h2 {
     text-align: center;
     font-size: 1.6rem; }
@@ -149,6 +149,14 @@ body {
         font-size: 1.2rem; } }
     @media (max-width: 500px) {
       #g-post h3 {
+        font-size: 1.1rem; } }
+  #g-post h4 {
+    font-size: 1.2rem; }
+    @media (max-width: 600px) {
+      #g-post h4 {
+        font-size: 1.1rem; } }
+    @media (max-width: 500px) {
+      #g-post h4 {
         font-size: 1.1rem; } }
   #g-post b,
   #g-post strong {
@@ -170,8 +178,8 @@ body {
   #g-post ol {
     font-family: "Nunito";
     font-weight: 200;
-    font-size: 1.2rem;
-    line-height: 2.4rem;
+    font-size: 1.1rem;
+    line-height: 2rem;
     margin: 20px auto;
     position: relative; }
     @media (max-width: 600px) {
@@ -282,7 +290,7 @@ body {
     font-weight: 600;
     text-decoration: none;
     z-index: 1;
-    border-bottom: 3px solid #21e0ff; }
+    border-bottom: 4px solid #21e0ff; }
   #g-post a:hover {
     color: #000;
     border-bottom: 0; }
