@@ -13,8 +13,6 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
 
-As the company scales, so too must all aspects of my work, which I break down into 4 parts: engineering, product, marketing, and customer support.
-
 # A "typical" week
 
 A week is never typical as there is an endless list of things to do and all that changes are the priorities.
@@ -40,35 +38,37 @@ _Case in point: I just finished a major refactor and pushed out 2 major features
 
 If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a solo founder and have only a singular available thread at any given time, I can still automate, optimize and parallelize processes. As a simple example, a few weeks ago I decided I should send out a user survey to new subscribers. I realized I should immediately take the time to prepare that because once it's sent out, I could forget about it for 3 weeks while responses trickle in. After I finish my next few tasks, I'll have a bunch of survey results waiting for me to parse and analyze.
 
-In the last 3 months, I averaged 6 hours of work per day for a total of a 42 hour work week (as in I don't take weekends off) which means I'm not breaking my back running my company and I also had time to live a normal life outside of work.
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). I'm also not breaking my back running my business and I have time to live a normal life outside of work.
 
-A big part of the reason I've been able to make it this far is because of the optimizations I've identified and implemented when the time called for it. Finding these opportunities for process elimination and simplification is honestly one of the more fun parts of running a company which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences.
+I would greatly attribute being able to make it this far to the optimizations I've identified and implemented when the time called for it. 
+
+As the company scales, so too must all aspects of my work, which I break down into 4 parts: customer support, engineering, product and marketing. Finding these opportunities for process elimination and simplification is honestly one of the more fun parts of running a company which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences. 
 
 # Optimizing Customer Support
 
-Good customer support is imperative to a SaaS business such as Lunch Money, especially in the early stages. Showing your users that you care and that their feedback is heard and matters is a great way to build customer loyalty and your first few customers will then turn into your champions. Consistently providing awesome customer support is a long-term investment for your business.
+Good customer support is imperative to a SaaS business such as Lunch Money, especially in the early stages. Showing your users that their feedback is heard and makes a difference is a great way to build customer loyalty and turn your first few customers into your champions. Consistently providing stellar customer support is a long-term investment for your business.
 
-I thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication and I don't want to risk ideas or frustrations being lost in translation.
+I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-On average, I receive almost 400 support emails per month. I always had a hunch that customer support would be the most important and the hardest part of the business to scale, especially if I wanted to stay a company of one.
+On average, I receive 400 support emails per month. I always had a hunch that customer support would be the most important and the hardest part of the business to scale, especially if I wanted to stay a company of one.
 
 ## How do support tickets work at Lunch Money?
 
-All support emails go directly to my email inbox. Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind which it then sends straight through to my inbox.
+All support emails go directly to my email inbox. Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind. It then gets sent straight through to my inbox.
 
 ![](/uploads/screenshot-submit-bug-3.png)
 
-I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. I mean, there was no way I could ignore it. I am an inbox-zero fanatic and I also use my email as a To-Do list. My personal philosophy is that any emails that are not archived has an action waiting on me.
+I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. I am an inbox-zero fanatic and I view my email as a To-Do list. My personal philosophy is that any email that is not archived has an action waiting on me.
 
-Obviously, this wasn't sustainable. It was difficult to wake up every day to have my main inbox full of unread emails, especially with the Gmail message preview, it just felt like a constant reminder of all the things I've yet to do.
+Obviously, this wasn't sustainable with the volume of support emails I was receiving on a daily basis. It was difficult to wake up every day to my main inbox full of unread emails. It was the worst kind of reminder of all the things I've yet to do.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)
 
-And of course, I didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox. Keeping it simple and relatively low-cost are always two important heuristics.
+Finally, I didn't want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox and I still wanted support tickets to come directly to my inbox.
 
 ## Self-triage support tickets
 
-I knew I still wanted support tickets to come directly to my inbox, but I didn't need it necessarily in my main inbox. I realized seemingly much too late that I could just have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
+I realized seemingly much too late that I could have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
 
 1. Bug report
 2. Question
@@ -77,58 +77,66 @@ I knew I still wanted support tickets to come directly to my inbox, but I didn't
 
 ![](/uploads/screen-shot-2020-05-15-at-9.15.34-pm.png)
 
-I modified server code to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
+I modified the email that gets sent to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png)
 
-With this system in place, I'm able to instantly prioritize support tickets. For example, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
+With this system in place, support tickets would land in respective folders within my email, but skipping my inbox.
 
 The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox. It feels good to be able to intentionally set aside time to address support tickets at night rather than having them interrupt and distract me as they roll in throughout the day.
+
+I'm also able to instantly prioritize support tickets. For example, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
 ![](/uploads/screen-shot-2020-05-15-at-10.49.27-pm.png)
 
 ## Creating specific support flows
 
-Common questions can usually be quickly identified and handled with the addition of a simple FAQ page. However, there are sometimes common issues that arise but will always require personalized support. For instance, I get a lot of support tickets about issues related to bank syncing.
+While common questions can be quickly identified and handled with the addition of a simple FAQ page, common issues requiring personalized support may arise. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
 
 Here is a typical interaction:
 
 **User:** I am having issues with my Chase accounts.  
 **Me:** What types of issues are you having?  
 **User:** I am not getting transactions.  
-**Me:** If you're missing transactions, please let me know a sample transaction and I will look into it for you.
+**Me:** Please let me know a sample transaction that you're missing and I will look into it for you.
 
-There are at least 3 emails exchanged before the issue can even begin to enter the resolution phase.
+There are at least 3 emails exchanged before the issue can enter the resolution phase.
 
-Eventually, I had received enough related support tickets that I was able to design a specific support flow for bank syncing issues to address 99% of the issues that arise. I stuck this in the Details modal of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
-
-The specific flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents some common resolutions before allowing the user to submit a ticket.
+Eventually, I implemented a specific support flow for bank syncing issues to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png)
+
+The flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents related resolutions before allowing the user to submit a ticket.
 
 For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me now, users will see this notice when they select the "My account is not syncing" options. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
 
 ![](/uploads/screen-shot-2020-05-15-at-9.22.53-pm.png)
 
-Similarly, if a user states their account balance is wrong, then we'll ask right away what the correct balance should be. Bam, we've already got all the information we need to start resolving the issue the second they submit their ticket!
+Similarly, if a user states their account balance is wrong, the form will ask for the correct balance and upon submitting, we've already got all the information we need to start resolving the issue right away.
 
-## Use tooltips to instantly demystify
+## Use text elements to demystify
 
-One of the great things about being the one doing customer support is being aware of all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips.
+Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough.
 
-Some things that might be obvious to me as the designer and creator of the app may not be obvious at all to someone who's looking at the UI for the first time. When someone writes in inquiring about a feature, take note and even consider asking why they were confused or if they noticed any existing tooltips you had in place. Maybe your tooltip has confusing language.
+![](/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png)
+
+A common complaint or reason for cancellation is that international users realized much too late that automatic bank syncing isn't available outside of US/Canada. Even though I tried to communicate this as much as I could in our landing page, 
+
+![](/uploads/screen-shot-2020-05-16-at-2.27.58-pm.png)
+
+Certain elements and concepts that might be obvious to me as the designer and creator of the app may not be obvious at all to someone who's looking at the UI for the first time. When someone writes in inquiring about a feature, I sometimes ask why they were confused or if they noticed the existing tooltips I had in place. Often times I'll find out that the tooltip had confusing language or was too hidden away.
 
 # Optimizing engineering & product
 
 ## Always ship the MVP
 
-One thing I've realized is that the notion of an MVP does not end at first launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
+The notion of an MVP should not end at first launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
 
-For instance, I recently launched the ability to nest categories into Category Groups. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget. We also want to make sure the sum of spending for a category group correctly reflects the sum of spending in the children categories.
+For instance, I recently launched the ability to nest categories into Category Groups. The MVP involved a lot of server-side work to make sure budgeting logic was intact and totals were being calculated properly. For example, you can budget for an entire category group as well as the nested categories within, but we shouldn't allow the sum of the nested categories to exceed the category group's budget. We also want to make sure the monthly spending for a category group correctly reflects the sum of spending of the children categories.
 
 Once I got that core logic built out, I started working on the front-end. The spectrum of what I could have accomplished here was quite large. At the minimum, the user should be able to create a category group and assign existing categories to that group. Basic update and delete functionality would also need to be implemented. But how fancy was I going to get next?
 
-I could implement drag-and-drop for categories or allow users to create a new category while creating a new category group. I could also implement features to remove a category from a group if you were to click into that category's detail modals or even allow changing the group it's in or creating a new group from a category.
+I could implement drag-and-drop or allow users to create a new category when creating a new category group. I could also implement features to allow CRUD operations from both the category group details modal and the children category details modal.
 
 In the end, I shipped Category Groups with only the basic functionality because I wanted to get it out the door as soon as possible. I figured if any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
 
@@ -140,7 +148,9 @@ While automating tasks can save you a lot of time in the long-term, it doesn't a
 
 ### Account cancellations
 
-Account cancellations were something that I manually handled for the first month-ish. A user that wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
+I manually handled account cancellations for the first few month. 
+
+A user that wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
 
 Eventually, it took an accidental cancellation of a paying user's account to make me realize that I needed a smarter way to handle account deletions.
 
@@ -212,6 +222,8 @@ Therefore, marketing pushes under my control, such as publicizing blog posts and
 ## Merging marketing and engineering for a combo win
 
 Taking this a step further, the perk of having a spike in new users is that their trial period more-or-less overlap. I've therefore gotten into the following cycle to take full advantage of this:
+
+![](/uploads/marketing-push-trigger.svg)
 
 Day 1-4: Big marketing push, acquire lots of new users over the next few days!
 
