@@ -147,7 +147,7 @@ Since this is hard to separate out because I've definitely convinced myself befo
 
 If any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
 
-<img src="/uploads/cycle.png" style="border:0px"/>
+<img src="/uploads/cycle-1.png" style="border:0px"/>
 
 ## Balance automation and manual work
 
