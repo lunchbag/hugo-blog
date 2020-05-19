@@ -13,13 +13,11 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys new features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
 
-In this post, I'll be sharing how optimizations in engineering, product, marketing and customer support have made this attainable for me thus far in my journey of working on Lunch Money as a solopreneur!
+As the company scales, so too must all aspects of my work, which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business** which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences in this post.
 
-# A "typical" week
+# Learning to juggle it all
 
-A week is never typical as there is an endless list of things to do and all that changes are the priorities.
-
-In the last 14 days, here's a sample of what I got done:
+In the last 14 days, here's what I got done across all departments:
 
 * **Product:** Launched an internal beta testers program and two sets of new features to test
 * **Engineering:** Wrapped up a 2-week long refactor of some core components on the client-side
@@ -28,9 +26,8 @@ In the last 14 days, here's a sample of what I got done:
 * **Marketing:** Sent out a newsletter outlining the latest and greatest in Lunch Money
 * **Support:** Received 235 inbound support tickets and sent out 466 emails
 * **Marketing:** This blog post
+* **Support:** Analyzed 100+ survey results on the product
 * **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
-
-# Learning to juggle it all
 
 Weirdly enough, what makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
 
@@ -40,9 +37,7 @@ _Case in point: I just finished a major refactor and pushed out 2 major features
 
 If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a single person, I can still automate, optimize and parallelize processes. 
 
-In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). Personally, I feel that in the last few months I have become much more in control of my workload. I would greatly attribute being able to make it this far to the optimizations I've identified and implemented when the time called for it.
-
-As the company scales, so too must all aspects of my work, which I break down into 4 parts: customer support, engineering, product and marketing. Finding these opportunities for process elimination and simplification is honestly one of the more fun parts of running a company which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences.
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). I feel that in the last few months I have gained nearly full control of my workload and overall, I feel even-keeled.
 
 # Optimizing Customer Support
 
