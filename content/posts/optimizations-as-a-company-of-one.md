@@ -13,7 +13,7 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys new features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
 
-In this post, I'll be sharing how certain optimizations I've identified and made in regards to engineering, product, marketing and customer support have made this attainable for me thus far in my journey of working on Lunch Money as a solopreneur!
+In this post, I'll be sharing how optimizations in engineering, product, marketing and customer support have made this attainable for me thus far in my journey of working on Lunch Money as a solopreneur!
 
 # A "typical" week
 
