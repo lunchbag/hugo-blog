@@ -26,6 +26,7 @@ In the last 7 days as the company of one behind Lunch Money, here's what I got d
 * **Product:** Launched and announced new features (in addition to other improvements and bug fixes) to beta testers
 * **Support:** Replied to over 100 support tickets
 * **Networking:** Had 5x one hour networking Zoom calls
+* **Marketing:** This blog post
 * **Marketing:** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
 
 # Learning to juggle it all
@@ -48,15 +49,15 @@ Offering stellar customer support is imperative to a SaaS business such as Lunch
 
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-According to EmailMeter, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. I always had a hunch that customer support would be the most important and the hardest part of the business to scale, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
+According to EmailMeter, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I always had a hunch that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
 
 ## How do support tickets work at Lunch Money?
 
-Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind. 
+Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind.
 
 ![](/uploads/screenshot-submit-bug-3.png)
 
-My server then bundles up the feedback with relevant user information into an email and sends it directly to my email inbox. 
+My server then bundles up the feedback with relevant user information into an email and sends it directly to my email inbox.
 
 I am an inbox-zero fanatic and I view my email as a To-Do list. My personal philosophy is that any email that is not archived has an action waiting on me. Therefore, it makes sense to me to combine support emails with any other emails I would get in my inbox.
 
@@ -64,7 +65,7 @@ Finally, I would never want to add complexity (or money) to the situation by re-
 
 ## Self-triage support tickets
 
-I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed. 
+I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed.
 
 The same situation would happen every once in a while when Lunch Money experienced a spike in signups.
 
@@ -122,13 +123,13 @@ For instance, a common issue is that persistent 2FA will cause Plaid to lose con
 
 Similarly, if a user states their account balance is wrong, the form will ask for the correct balance and upon submitting, we've already got all the information we need to start resolving the issue right away.
 
-## Use text elements to demystify
+## Identify and patch pitfalls
 
 Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough.
 
 <img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 370px" /><span class="caption">Users were getting confused about the purpose of this white line!</span>
 
-A common complaint or reason for cancellation is that international users realized much too late that automatic bank syncing isn't available outside of US/Canada. Even though I tried to communicate this as much as I could in our landing page, 
+A common complaint or reason for cancellation is that international users realized much too late that automatic bank syncing isn't available outside of US/Canada. Even though I tried to communicate this as much as I could in our landing page,
 
 ![](/uploads/screen-shot-2020-05-16-at-2.27.58-pm.png)
 
@@ -150,7 +151,7 @@ If any of the extra features were important, then I would hear about it from use
 
 While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate and when the time is right.
 
-### Account cancellations
+### Automating too late is not a bad thing
 
 I manually handled account cancellations for the first few month.
 
@@ -169,7 +170,7 @@ The volume I get for account cancelations (on average less than 1 per day) is no
 * Automating emails being sent out
 * Digests
 
-### Referral program
+### But automating too early can be
 
 Something that I'm glad I didn't spend the time to automate was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
 
