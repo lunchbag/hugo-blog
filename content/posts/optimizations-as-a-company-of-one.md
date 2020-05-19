@@ -19,22 +19,22 @@ In this post, I'll be sharing how optimizations in engineering, product, marketi
 
 A week is never typical as there is an endless list of things to do and all that changes are the priorities.
 
-In the last 14 days, here's what I got done:
+In the last 14 days, here's a sample of what I got done:
 
-* **Product:** Launched an internal beta testers program
+* **Product:** Launched an internal beta testers program and two sets of new features to test
 * **Engineering:** Wrapped up a 2-week long refactor of some core components on the client-side
-* **Marketing:** Sent out a newsletter to 3000+ people about the latest features on Lunch Money
-* **Engineering:** Started and finished 2 major features: advanced transaction filters and "every two weeks" recurring
-* **Product:** Launched and announced new features (in addition to other improvements and bug fixes) to beta testers
-* **Support:** Replied to over 200 support tickets
+* **Engineering:** Launched a major feature: advanced transaction filters
+* **Engineering:** Closed 13 tickets related to feature improvements and bug fixes
+* **Marketing:** Sent out a newsletter outlining the latest and greatest in Lunch Money
+* **Support:** Received 235 inbound support tickets and sent out 466 emails
 * **Marketing:** This blog post
-* **Marketing:** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
+* **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
 
 # Learning to juggle it all
 
-My favorite thing about being a solo founder is all the different hats I get to wear. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
+Weirdly enough, what makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
 
-For instance, working on feature improvements and bug fixes might tire me out at which point I'll switch over to a marketing-related task. This allows me to use a different part of my brain which feels like a break while still being productive overall.
+For instance, working on feature improvements and bug fixes might tire me out at which point I'll switch over to a marketing-related task. This gives me a break while still being productive overall.
 
 _Case in point: I just finished a major refactor and pushed out 2 major features to beta, so writing this blog post right now feels like a vacation for my brain._
 
