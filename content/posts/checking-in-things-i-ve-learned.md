@@ -1,15 +1,16 @@
 +++
 categories = []
-date = "2017-07-27T03:01:47+00:00"
+date = 2017-07-27T03:01:47Z
+description = ""
+images = []
 slug = "checking-in-things-ive-learned"
 tags = []
 title = "Checking in: things I've learned"
 
 +++
-
 It's been 8 months since I left San Francisco and 6.5 months since I've been traveling abroad. In the short period of time, I've gone through many ups (making new friends, discovering lots about myself) and many downs (medical emergencies, heartbreak).
 
-6.5 months never seemed like a long time when I was working in San Francisco especially in the context of growth. Life at work is slow and steady and a sign from upper management that you're progressing along the path they've arbitrarily laid out, also known as a promotion, occurs once a year, if at all.
+6\.5 months never seemed like a long time when I was working in San Francisco especially in the context of growth. Life at work is slow and steady and a sign from upper management that you're progressing along the path they've arbitrarily laid out, also known as a promotion, occurs once a year, if at all.
 
 But from the last half year, I can sense in myself an incredible amount of change. My opinions towards certain concepts have evolved as I meet new people and go through new experiences during my travels. I've become more open-minded about alternative lifestyles and what it really means to "do whatever makes you happy" and "follow your heart".
 
@@ -35,12 +36,11 @@ When you travel and spend a lot of time in different cities with different cultu
 
 This applies to a lot of things of varying degrees, for example:
 
-1.  everyday carry– If you're a man, come to Europe and you might not feel so self-conscious about carrying a tote bag or wearing a scarf in mild weather back in America.
-
-- fashion– Needless to say, people dress differently everywhere you go. Get inspired by trends wherever you go!
-- food and meal habits– Eat with your hands, use the tabletop as your plate, have a strong drink before or after your meal as you please.
-- taking selfies (and photos of food), which is somewhat stigmatized in America (among 25+), but highly common in Asia
-- smoking cigarettes are much more common and not as frowned upon in Europe than Canada or the United States
+1. everyday carry– If you're a man, come to Europe and you might not feel so self-conscious about carrying a tote bag or wearing a scarf in mild weather back in America.
+2. fashion– Needless to say, people dress differently everywhere you go. Get inspired by trends wherever you go!
+3. food and meal habits– Eat with your hands, use the tabletop as your plate, have a strong drink before or after your meal as you please.
+4. taking selfies (and photos of food), which is somewhat stigmatized in America (among 25+), but highly common in Asia
+5. smoking cigarettes are much more common and not as frowned upon in Europe than Canada or the United States
 
 In the end, you are more comfortable with being different wherever you go. You become a walking scrapbook of the favourite parts of your travels.
 
@@ -58,11 +58,10 @@ Trusting yourself is so important, and it's so overlooked. It's easy to think or
 
 For me, I trust that:
 
-1.  I have good judgement
-
-- I will always make sure I feel safe
-- I have the means to figure out an escape plan if needed
-- I have all things considered and I will prioritize certain things if needed
+1. I have good judgement
+2. I will always make sure I feel safe
+3. I have the means to figure out an escape plan if needed
+4. I have all things considered and I will prioritize certain things if needed
 
 I trust myself therefore I can be flexible with my plans and that has lead to some of the best experiences so far on this trip.
 
@@ -84,11 +83,11 @@ This world is full of amazing people and the only way to meet these people is to
 
 I've met some truly amazing people, lifelong friends I am hoping, and I continuously look forward to the next time we meet:
 
-1.  An amazing girl from Atlanta, Georgia who was spending the summer in Lyon at the veterinary school training to become a horse surgeon.
-2.  A friendly couple who has lived all around the world, and are currently based in Paris. They accidentally stumbled upon our little restaurant and ended up eating 2 meals with us and staying late each night for drinks. They have an adopted daughter who is Chinese-Canadian and who currently lives in San Francisco and is my age. Crazy!
-3.  The ambitious owners of the campsite and restaurant who, in 10 years, plan on buying a yacht and sailing around the world. I'm hoping they'll pick me up in Canada somewhere.
-4.  An opportunistic guy from Santa Cruz, California who is doing his masters in Mathematics at one of the top universities in Munich for a low cost of 200 euros because he figured out that he wants to be a community college math teacher. For that, you only need a masters in the subject and you don't need to go to teacher's college. He also figured out that certain grad school programs in Germany are offered to foreigners at the same low rate as they are to citizens. Although he doesn't particularly enjoy the fact that he's in school, he's loving being in Munich and having 2 years abroad.
-5.  A very sweet girl from Northern Italy who is completing her medical residency in Paris. We met in Thailand on the farm, and kept in touch this whole time and she is helping me out a lot by letting me keep my extra luggage at her apartment during the summer!
+1. An amazing girl from Atlanta, Georgia who was spending the summer in Lyon at the veterinary school training to become a horse surgeon.
+2. A friendly couple who has lived all around the world, and are currently based in Paris. They accidentally stumbled upon our little restaurant and ended up eating 2 meals with us and staying late each night for drinks. They have an adopted daughter who is Chinese-Canadian and who currently lives in San Francisco and is my age. Crazy!
+3. The ambitious owners of the campsite and restaurant who, in 10 years, plan on buying a yacht and sailing around the world. I'm hoping they'll pick me up in Canada somewhere.
+4. An opportunistic guy from Santa Cruz, California who is doing his masters in Mathematics at one of the top universities in Munich for a low cost of 200 euros because he figured out that he wants to be a community college math teacher. For that, you only need a masters in the subject and you don't need to go to teacher's college. He also figured out that certain grad school programs in Germany are offered to foreigners at the same low rate as they are to citizens. Although he doesn't particularly enjoy the fact that he's in school, he's loving being in Munich and having 2 years abroad.
+5. A very sweet girl from Northern Italy who is completing her medical residency in Paris. We met in Thailand on the farm, and kept in touch this whole time and she is helping me out a lot by letting me keep my extra luggage at her apartment during the summer!
 
 and so much more!
 
