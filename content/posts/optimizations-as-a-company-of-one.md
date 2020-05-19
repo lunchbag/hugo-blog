@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2020-05-18T16:00:00Z
 description = "WIP :)"
 draft = true
 images = []
@@ -55,23 +55,23 @@ Every page of Lunch Money has access to a "Feedback widget" located at the botto
 
 ![](/uploads/submit-bug.png)
 
-I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any email that is not archived has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them equally in importance.
+I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any unarchived email has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them all equally in importance.
 
-No matter how out of hand things got, I would not want to add complexity (or money) to the situation by re-routing support emails to some third-party service. As long as it's just me doing support, I should be able to handle it in a singular place.
+Finally, no matter how out of hand things got, I would not want to add complexity (or money) to the situation by re-routing support emails to some third-party service. As long as it's just me doing support, I should be able to handle it in a singular place.
 
 ## Self-triage support tickets
 
-I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed.
+I'll never forget launch day when we amassed 1000 signups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed.
 
-The same situation would happen again every once in a while when Lunch Money experienced a spike in signups.
+The same situation would happen again whenever Lunch Money experienced a spike in signups, usually once a month.
 
-While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was a nagging reminder for all the things I've yet to do but had no idea about yet.
+While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was a nagging reminder for all the unknown things I've yet to do.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)  
 The biggest issues were:
 
 1. Every email was coming through to my main inbox, and
-2. There was no priority order other than by time received which is indicative of the actual urgency 0% of time.
+2. Priority order was dictated by date received which is indicative of the actual urgency 0% of time.
 
 To address these two issues, I revamped the support flow to have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
 
