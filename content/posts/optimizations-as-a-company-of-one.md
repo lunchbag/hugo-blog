@@ -87,7 +87,7 @@ To address these two issues, I revamped the support flow to have users triage th
 
 I modified the email that gets sent to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
 
-<img src="/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png" style="max-width: 450px" /><span class="caption"></span>
+<img src="/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png" style="max-width: 450px" />
 
 With this system in place, support tickets would land in respective folders within my email, but skipping my inbox.
 
@@ -95,7 +95,7 @@ The positive effects of this change were felt immediately. Seeing _Question (4),
 
 The built-in priority system is also helpful. For instance, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
-<img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 290px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
+<img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 250px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
 
 ## Creating specific support flows
 
@@ -112,7 +112,7 @@ There are at least 3 emails exchanged before the issue can enter the resolution 
 
 Eventually, I implemented a specific support flow for bank syncing issues to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
-![](/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png)
+<img src="/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png" style="max-width: 370px" />
 
 The flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents related resolutions before allowing the user to submit a ticket.
 
@@ -126,7 +126,7 @@ Similarly, if a user states their account balance is wrong, the form will ask fo
 
 Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough.
 
-![](/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png)<span class="caption">Users were getting confused about the purpose of this white line!</span>
+<img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 370px" /><span class="caption">Users were getting confused about the purpose of this white line!</span>
 
 A common complaint or reason for cancellation is that international users realized much too late that automatic bank syncing isn't available outside of US/Canada. Even though I tried to communicate this as much as I could in our landing page, 
 
