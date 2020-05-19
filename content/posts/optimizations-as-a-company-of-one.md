@@ -147,6 +147,8 @@ Since this is hard to separate out because I've definitely convinced myself befo
 
 If any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
 
+<img src="/uploads/cycle.png" style="border:0px"/>
+
 ## Balance automation and manual work
 
 While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate and when the time is right.
