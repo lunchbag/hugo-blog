@@ -49,7 +49,7 @@ Offering stellar customer support is imperative to a SaaS business such as Lunch
 
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-According to EmailMeter, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I always had a hunch that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
+According to <a href="https://emailmeter.com">EmailMeter</a>, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I always had a hunch that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
 
 ## How do support tickets work at Lunch Money?
 
@@ -190,7 +190,7 @@ I was going to export and import tasks but ultimately decided to start fresh. Th
 
 In Clickup, you can have various lists under a project each with custom statuses. Here's how I have mine set up:
 
-![](/uploads/clickup-tasks.png)
+<img src="/uploads/clickup-tasks.png" style="border:0px"/>
 
 During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and you can worry about it later. I think it's important to have a compartmentalized place where you can dump ideas to sort out later. On the flip side, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
 
