@@ -29,6 +29,8 @@ In the last 14 days, here's what I got done across all departments:
 * **Support:** Analyzed 100+ survey results on the product
 * **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
 
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). I feel that in the last few months I have gained nearly full control of my workload and overall, I feel even-keeled.
+
 Weirdly enough, what makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
 
 For instance, working on feature improvements and bug fixes might tire me out at which point I'll switch over to a marketing-related task. This gives me a break while still being productive overall.
@@ -37,35 +39,33 @@ _Case in point: I just finished a major refactor and pushed out 2 major features
 
 If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a single person, I can still automate, optimize and parallelize processes. 
 
-In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). I feel that in the last few months I have gained nearly full control of my workload and overall, I feel even-keeled.
-
 # Optimizing Customer Support
 
 Offering stellar customer support is imperative to a SaaS business such as Lunch Money, especially in the early stages. It's a great way to leave an impression on your users and turn your first few customers into your champions. Consistently providing great customer support is a long-term investment for your business.
 
+<img src="https://media.giphy.com/media/J5dnUnvAyCc8cHqcJB/giphy.gif"/>
+
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-According to <a href="https://emailmeter.com">EmailMeter</a>, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I always had a hunch that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
+According to <a href="https://emailmeter.com">EmailMeter</a>, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
 
 ## How do support tickets work at Lunch Money?
 
-Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind.
+Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind. My server then bundles up the feedback with relevant user information into an email and sends it directly to my inbox.
 
-![](/uploads/screenshot-submit-bug-3.png)
+![](/uploads/submit-bug.png)
 
-My server then bundles up the feedback with relevant user information into an email and sends it directly to my email inbox.
+I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any email that is not archived has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them equally in importance.
 
-I am an inbox-zero fanatic and I view my email as a To-Do list. My personal philosophy is that any email that is not archived has an action waiting on me. Therefore, it makes sense to me to combine support emails with any other emails I would get in my inbox.
-
-Finally, I would never want to add complexity (or money) to the situation by re-routing support emails to some third-party service or other inbox.
+No matter how out of hand things got, I would not want to add complexity (or money) to the situation by re-routing support emails to some third-party service. As long as it's just me doing support, I should be able to handle it in a singular place.
 
 ## Self-triage support tickets
 
 I'll never forget launch day when we amassed 1000 sign ups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed.
 
-The same situation would happen every once in a while when Lunch Money experienced a spike in signups.
+The same situation would happen again every once in a while when Lunch Money experienced a spike in signups.
 
-While this was still sustainable, as in I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was the worst kind of reminder of all the things I've yet to do.
+While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was the worst kind of reminder for all the things I've yet to do.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)  
 The biggest issues were:
