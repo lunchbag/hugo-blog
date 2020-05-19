@@ -95,7 +95,7 @@ The positive effects of this change were felt immediately. Seeing _Question (4),
 
 The built-in priority system is also helpful. For instance, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
-<img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 380px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
+<img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 290px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
 
 ## Creating specific support flows
 
