@@ -67,8 +67,10 @@ The same situation would happen again whenever Lunch Money experienced a spike i
 
 While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was a nagging reminder for all the unknown things I've yet to do.
 
-![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)  
-The biggest issues were:
+![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)
+<span class="caption">Waking up and innocently checking my phone</span>
+
+The biggest issues were therefore:
 
 1. Every email was coming through to my main inbox, and
 2. Priority order was dictated by date received which is indicative of the actual urgency 0% of time.
@@ -80,11 +82,11 @@ To address these two issues, I revamped the support flow to have users triage th
 3. Feature request
 4. General feedback
 
-<img src="/uploads/screen-shot-2020-05-15-at-9.15.34-pm.png" style="max-width: 400px" /><span class="caption">Simple feedback widget that has processed 1000s of thousand support tickets!</span>
+<img src="/uploads/screen-shot-2020-05-15-at-9-15-34-pm.png" style="max-width: 400px" /><span class="caption">This simple feedback widget has processed thousand support tickets since day 1!</span>
 
 I modified the email that gets sent to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
 
-<img src="/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png" style="max-width: 450px" />
+<img src="/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png" style="max-width: 430px" />
 
 With this system in place, support tickets would land in respective folders within my email, but skipping my inbox.
 
@@ -96,7 +98,7 @@ The built-in priority system is also helpful. For instance, I'll look at bug rep
 
 ## Creating specific support flows
 
-While common questions can be quickly identified and handled with the addition of a simple FAQ page, common issues requiring personalized support come up a lot as well. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
+While common questions can be quickly identified and handled with the addition of a simple FAQ page, common issues requiring personalized support are a bit trickier to generalize. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
 
 Here is a typical interaction:
 
@@ -107,29 +109,33 @@ Here is a typical interaction:
 
 There are at least 3 emails exchanged before the issue can enter the resolution phase.
 
-Eventually, I implemented a specific support flow for bank syncing issues to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
+After a few months of these types of support emails, I implemented a specific support flow for synced accounts to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
 <img src="/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png" style="max-width: 370px" />
 
-The flow runs through the common scenarios of bank syncing issues (My balance is wrong, I am missing transactions, My account is not syncing, etc) and presents related resolutions before allowing the user to submit a ticket.
+The flow runs through the common scenarios of bank syncing issues (wrong account balance, missing transactions, delayed syncing, etc) and presents routine resolutions before allowing the user to submit a ticket.
 
-For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me now, users will see this notice when they select the "My account is not syncing" options. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
+For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me now, users will see this notice when they select the "My account is not syncing" option. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
 
-![](/uploads/screen-shot-2020-05-15-at-9.22.53-pm.png)
+![](/uploads/screen-shot-2020-05-15-at-9-22-53-pm.png)
 
 Similarly, if a user states their account balance is wrong, the form will ask for the correct balance and upon submitting, we've already got all the information we need to start resolving the issue right away.
 
 ## Identify and patch pitfalls
 
-Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough.
+Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough. I'll sometimes ask why they were confused or if they noticed the existing tooltips I had in place. Often times I'll find out that the tooltip had confusing language or was too hidden away.
 
-<img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 370px" /><span class="caption">Users were getting confused about the purpose of this white line!</span>
+<img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 340px" /><span class="caption">Users were getting confused about the purpose of this white line so I added a tooltip</span>
 
-A common complaint or reason for cancellation is that international users realized much too late that automatic bank syncing isn't available outside of US/Canada. Even though I tried to communicate this as much as I could in our landing page,
+A common question I hear from users outside of US and Canada is when international bank syncing will be available. I've been getting lots of sign ups particularly from the Netherlands lately due to a tech influencer there mentioning Lunch Money a few times over the last month.
+
+The first few mentions, I received many frustrated support tickets about the lack of bank syncing support. A few converted over to using CSV importing when I mentioned this was a viable option.
+
+Before the most recent mention, I changed the second step of our onboarding screen to include links and options if bank syncing isn't available:
 
 ![](/uploads/screen-shot-2020-05-16-at-2.27.58-pm.png)
 
-Certain elements and concepts that might be obvious to me as the designer and creator of the app may not be obvious at all to someone who's looking at the UI for the first time. When someone writes in inquiring about a feature, I sometimes ask why they were confused or if they noticed the existing tooltips I had in place. Often times I'll find out that the tooltip had confusing language or was too hidden away.
+After being recently plugged in a Dutch podcast, we received hundreds of new sign ups and a spike in support tickets, but not one person inquired about international bank syncing!
 
 # Optimizing engineering & product
 
