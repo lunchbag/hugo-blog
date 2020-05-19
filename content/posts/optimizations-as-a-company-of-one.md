@@ -65,7 +65,7 @@ I'll never forget launch day when we amassed 1000 sign ups and well over 100 sup
 
 The same situation would happen again every once in a while when Lunch Money experienced a spike in signups.
 
-While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was the worst kind of reminder for all the things I've yet to do.
+While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was a nagging reminder for all the things I've yet to do but had no idea about yet.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)  
 The biggest issues were:
