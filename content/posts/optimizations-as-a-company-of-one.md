@@ -9,23 +9,24 @@ tags = []
 title = "Optimizations as a company of one"
 
 +++
-Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
+Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
+In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys new features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
+
+In this post, I'll be sharing how certain optimizations I've identified and made in regards to engineering, product, marketing and customer support have made this attainable for me thus far in my journey of working on Lunch Money as a solopreneur!
 
 # A "typical" week
 
 A week is never typical as there is an endless list of things to do and all that changes are the priorities.
 
-In the last 7 days as the company of one behind Lunch Money, here's what I got done:
+In the last 14 days, here's what I got done:
 
 * **Product:** Launched an internal beta testers program
 * **Engineering:** Wrapped up a 2-week long refactor of some core components on the client-side
 * **Marketing:** Sent out a newsletter to 3000+ people about the latest features on Lunch Money
 * **Engineering:** Started and finished 2 major features: advanced transaction filters and "every two weeks" recurring
 * **Product:** Launched and announced new features (in addition to other improvements and bug fixes) to beta testers
-* **Support:** Replied to over 100 support tickets
-* **Networking:** Had 5x one hour networking Zoom calls
+* **Support:** Replied to over 200 support tickets
 * **Marketing:** This blog post
 * **Marketing:** Experienced a surge in sign ups due to being mentioned on a Dutch podcast
 
@@ -37,9 +38,9 @@ For instance, working on feature improvements and bug fixes might tire me out at
 
 _Case in point: I just finished a major refactor and pushed out 2 major features to beta, so writing this blog post right now feels like a vacation for my brain._
 
-If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a solo founder and have only a singular available thread at any given time, I can still automate, optimize and parallelize processes. As a simple example, a few weeks ago I decided I should send out a user survey to new subscribers. I realized I should immediately take the time to prepare that because once it's sent out, I could forget about it for 3 weeks while responses trickle in. After I finish my next few tasks, I'll have a bunch of survey results waiting for me to parse and analyze.
+If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a single person, I can still automate, optimize and parallelize processes. 
 
-In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). If I may say so myself, I feel that in the last few months I have become much more in control of my workload. I would greatly attribute being able to make it this far to the optimizations I've identified and implemented when the time called for it.
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). Personally, I feel that in the last few months I have become much more in control of my workload. I would greatly attribute being able to make it this far to the optimizations I've identified and implemented when the time called for it.
 
 As the company scales, so too must all aspects of my work, which I break down into 4 parts: customer support, engineering, product and marketing. Finding these opportunities for process elimination and simplification is honestly one of the more fun parts of running a company which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences.
 
