@@ -111,7 +111,7 @@ There are at least 3 emails exchanged before the issue can enter the resolution 
 
 After a few months of these types of support emails, I implemented a specific support flow for synced accounts to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
-<img src="/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png" style="max-width: 370px" />
+<img src="/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png" style="max-width: 400px" />
 
 The flow runs through the common scenarios of bank syncing issues (wrong account balance, missing transactions, delayed syncing, etc) and presents routine resolutions before allowing the user to submit a ticket.
 
@@ -125,31 +125,33 @@ Similarly, if a user states their account balance is wrong, the form will ask fo
 
 Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough. I'll sometimes ask why they were confused or if they noticed the existing tooltips I had in place. Often times I'll find out that the tooltip had confusing language or was too hidden away.
 
-<img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 340px" /><span class="caption">Users were getting confused about the purpose of this white line so I added a tooltip</span>
+<img src="/uploads/screen-shot-2020-05-16-at-2.32.03-pm.png" style="max-width: 300px" /><span class="caption">Users were getting confused about the purpose of this white line so I added a tooltip</span>
 
-A common question I hear from users outside of US and Canada is when international bank syncing will be available. I've been getting lots of sign ups particularly from the Netherlands lately due to a tech influencer there mentioning Lunch Money a few times over the last month.
+A common question I hear from users outside of US and Canada is when international bank syncing will be available. I've been getting lots of sign ups particularly from the Netherlands lately due to a tech influencer there mentioning Lunch Money in various places over the last few months.
 
 The first few mentions, I received many frustrated support tickets about the lack of bank syncing support. A few converted over to using CSV importing when I mentioned this was a viable option.
 
 Before the most recent mention, I changed the second step of our onboarding screen to include links and options if bank syncing isn't available:
 
 ![](/uploads/screen-shot-2020-05-16-at-2.27.58-pm.png)
+<span class="caption">The first two options leads the user to another screen where we outline alternative methods for importing transactions. The last link leads users to <a href="https://support.lunchmoney.app/importing-transactions/automatic-imports#support-for-international-banks">this FAQ page</a>.</span>
 
 After being recently plugged in a Dutch podcast, we received hundreds of new sign ups and a spike in support tickets, but not one person inquired about international bank syncing!
 
 # Optimizing engineering & product
 
-## Always ship the MVP
+## Ship the MVP, then iterate based on feedback
 
 The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
 
-Whenever I start on a new major feature, I always start by listing off the Must haves and the Nice-to-haves. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day the feature can be shipped without it.
+Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day the feature can be shipped without it.
 
-Since this is hard to separate out because I've definitely convinced myself before that the fancy drag-and-drop functionality is imperative, I then apply an ordering method. I combine my Must-haves and Nice-to-haves into one list in descending order of importance. At a certain point in time, it'll become obvious to me that I need to cut scope and ship as soon as possible. It's easy to spot right away which features to cull.
-
-If any of the extra features were important, then I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed in a matter of days. Everybody wins!
+I've definitely convinced myself before that the fancy drag-and-drop functionality is imperative, so it's also important to order your lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
 
 <img src="/uploads/cycle-1.png" style="border:0px"/>
+<span class="caption">Develop your minimum viable feature first, then let user feedback guide subsequent iterations</span>
+
+If any of the missed features are desirable, I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed. Everybody wins!
 
 ## Balance automation and manual work
 
@@ -215,6 +217,8 @@ This realization coupled with my intense aversion to paying more than I need to 
 For one, our data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, we'll consider you "churned" and will delete your data in 30 days. However, this certainly guarantees that I'll be paying one more month than I need to for churned users who connected bank accounts. So this grace period before data deletion has been revised to 5 days.
 
 With a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period, I have realized it is in my best interest to schedule marketing pushes towards the beginning of the month. At longest, a churned user would last 26 days in our system and making sure these 26 days ends before the start of a new month is a priority!
+
+<img src="/uploads/calendar-1.png" style="border:0px;"/>
 
 Therefore, marketing pushes under my control, such as publicizing blog posts and launches will always be in the first few days of the calendar month. Once I switched over to this method, my Plaid bills has gone down significantly and that's always a reason to celebrate.
 
