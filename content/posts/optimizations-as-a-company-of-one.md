@@ -13,7 +13,7 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys new features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
 
-As the company scales, so too must all aspects of my work, which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business** which is why I'm excited to share some of my most successful strategies and some anecdotes from own experiences in this post.
+As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. In the post, I'm excited to share my most successful strategies along with anecdotes from my experiences running Lunch Money.
 
 # Learning to juggle it all
 
@@ -157,54 +157,35 @@ If any of the missed features are desirable, I would hear about it from users. T
 
 While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate and when the time is right.
 
-### Automating too late is not a bad thing
+Automating too late is not a bad thing. You'll have done the manual heavy-lifting enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to understand what's required first.
 
-I manually handled account cancellations for the first few month.
+A few aspects of Lunch Money which I handled manually before eventually automating them include sending out bi-weekly digests summarizing account status and user-initiated account cancellations.
 
-A user that wanted to cancel their account would click on a button which would trigger an email send to me about this user. I would then email them personally to let them know I would be deleting their data and also ask why they were canceling. I had only ever gotten 2 responses and I would go on to manually delete their data from the database and third-party services.
+Something that I'm glad I didn't spend the time to automate at all was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
 
-Eventually, it took an accidental cancellation of a paying user's account to make me realize that I needed a smarter way to handle account deletions.
+I decided I wanted to just get the referral program out the door first and just how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
 
-The current flow in Lunch Money to delete your account involves a quick survey asking for the reason why someone is canceling their account, along with an optional text area to write comments and a checkbox to indicate if they would like to stay on our newsletter for updates. There's also a double confirm button so I can be sure this user really wants to delete their account.
-
-![](/uploads/screen-shot-2020-05-15-at-11.52.40-pm.png)
-
-After this, I still manually cancel their Stripe subscription and manually issue any refunds (for some reason, I don't trust Stripe to handle this automatically for me in a clean way. Call me paranoid from their weird pro-ration strategies) and I manually assign a deletion date to their account which is also used by an automated worker that purges data after trial expirations.
-
-The volume I get for account cancelations (on average less than 1 per day) is not high enough yet for me to automate the rest of this, but if it picks up I'll know what to automate next.
-
-* Automating emails being sent out
-* Digests
-
-### But automating too early can be
-
-Something that I'm glad I didn't spend the time to automate was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
-
-I decided I wanted to just get the referral program out the door first and see just how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
-
-In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did, and in fact it was a good experience to figure out all the edge cases. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth it.
+In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth it.
 
 ## Keep tasks organized
 
 Whatever your preferred task management system is, it's imperative that it is kept up-to-date, organized and readable! You don't ever want to feel like something is too overwhelming or messy and slowly avoid using it. If it gets to that point, I would suggest starting fresh.
 
-This is what I did when I moved from Asana to ClickUp. Asana is great but had a lot of premium features I wanted, and since at the time, they only sell memberships in groups of 5, it was impossible to justify paying that much just to use their product. On the other head, ClickUp is packed with features all available for a reasonable price of $5.
-
-I was going to export and import tasks but ultimately decided to start fresh. There's nothing worse than having old, stale tasks sit around and cluttering your To Do list.
-
 In Clickup, you can have various lists under a project each with custom statuses. Here's how I have mine set up:
 
 <img src="/uploads/clickup-tasks.png" style="border:0px"/>
 
-During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and you can worry about it later. I think it's important to have a compartmentalized place where you can dump ideas to sort out later. On the flip side, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
+During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a compartmentalized place where you can dump ideas to sort out later. On the flip side, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
 
 Every 2 weeks or so, I will work on polishing up the tasks in Triage and merging them appropriately if a duplicate or similar task exists. Then I'll either move into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or should be moved to the Current Roadmap.
 
 ## Tag low-hanging fruits
 
-Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits, that is, quick tasks that usually require as little as one line and as much as 5 minutes to fix.
+Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits– quick tasks that usually require as little as one line and as much as 5 minutes to fix.
 
-I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish. Still being able to get something done is a great way to get a quick dose of dopamine that might help you get out of a slump.
+<img src="https://media.giphy.com/media/YP1Jb0JNc7kqFDbdjm/giphy.gif"/>
+
+I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish or unmotivated. Still being able to get something done is a great way to get a quick dose of dopamine which might help you get out of a slump.
 
 # Optimizing marketing
 
@@ -224,28 +205,29 @@ Therefore, marketing pushes under my control, such as publicizing blog posts and
 
 ## Merging marketing and engineering for a combo win
 
-Taking this a step further, the perk of having a spike in new users is that their trial period more-or-less overlap. I've therefore gotten into the following cycle to take full advantage of this:
+Taking this a step further, the perk of having a spike in new users is that their trial periods more-or-less overlap. Usually when a new user signs up, they will poke around the product and maybe send in a bug report, a feature request or another piece of feedback. If I reply and address their feedback by putting in a fix right away or deploying their requested feature within days, more often than not, they end up converting into a happy subscriber.
+
+I've therefore identified the following cycle to take fully maximize this:
 
 <img src="/uploads/gantt.png" style="border: 0px;"/>
 
-Day 1-4: Big marketing push, acquire lots of new users over the next few days!
+After a marketing push, let's say a blog post, I will see a spike in sign ups lasting abour 3 days and the slowly trailing off.
 
-Day 2-7: Usually lots of new support tickets, bug reports, features requests come in. I prioritize the ones I can and get to work. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
+Over the next few days, I'll usually receive a spike in new support tickets. I prioritize responding to these within 12 hours and I get to work. Thankfully most bugs are quick fixes and most feature requests have been heard before and gives me the push I need to finally implement it. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
 
-Somewhere between day 7 and 10, I will send out a newsletter with all the new features and improvements I was able to get done. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
+About 3 days before the initial wave of user trials ends, I will send out a newsletter with all the new features and improvements I was able to get done during that engineering sprint. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
+
+We have a drip campaign that automatically notifies users that their trial is expiring in 3 days and when their trial is over. This period of time is when I typically see users convert.
 
 # Optimizing yourself
 
-Lastly, as a company of one, the hard truth is that the company will only ever be as successful as you allow it to be. And sometimes you are your own worst enemy. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
+Lastly, as a company of one, the hard truth is that the company's success is highly dependent on you and will only ever be as successful as you allow it to be. Even if we really want it to succeed, some things out of our control like the lack of hardcore passion for our product will get in the way. Othertimes, you are your own worst enemy. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
 
-## Write everything down
+Here are my best methods for staying even-keeled:
 
-Our brains are not wired to remember all our shower thoughts long-term. I always have Evernote handy to quickly jot down all sorts of ideas I have, no matter how crazy or obvious. One of the worst feelings and remembering how excited you were about an idea but having no clue what that idea was!
+* Get enough sleep
+* Write everything down
+* Allow yourself to recover in between intense sprints
+* Have hobbies and interests that are not work-related
+* Celebrate the small wins
 
-## Have hobbies outside of work
-
-This is super important to stay well-rounded, not only as a person but for your own sanity! What keeps me occupied outside of Lunch Money is learning Chinese. I take 3 classes a week, 1.5 hours each. Even though sometimes it's really hard to peel away from work, I know in the end it's a nice forced break that I probably would otherwise never take.
-
-## Celebrate the small wins
-
-This is something I need to get better at– celebrating the small wins much more than you get down on when things go wrong. Celebrate at every milestone! It doesn't have to be something large and elaborate. Whenever my MRR increases or my user base increases to an arbitrarily special number, I always mention it to my husband and my parents and they always help me find ways to celebrate.
