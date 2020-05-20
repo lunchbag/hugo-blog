@@ -226,7 +226,7 @@ Therefore, marketing pushes under my control, such as publicizing blog posts and
 
 Taking this a step further, the perk of having a spike in new users is that their trial period more-or-less overlap. I've therefore gotten into the following cycle to take full advantage of this:
 
-![](/uploads/marketing-push-trigger.svg)
+<img src="/uploads/gantt.png" style="border: 0px;"/>
 
 Day 1-4: Big marketing push, acquire lots of new users over the next few days!
 
