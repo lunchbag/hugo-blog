@@ -4,7 +4,7 @@ date = 2020-05-18T16:00:00Z
 description = "WIP :)"
 draft = true
 images = []
-slug = ""
+slug = "optimizations-for-a-company-of-one"
 tags = []
 title = "Optimizations for a company of one"
 
@@ -13,7 +13,9 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I answer the customer support emails and I code and deploy new features. I also manage our <a href="https://developers.lunchmoney.app" target="_blank">API docs</a> and <a href="https://support.lunchmoney.app" target="_blank">knowledge base</a>, poke around the logs when there are issues, write our <a href="https://lunchmoney.app/sample_newsletter" target="_blank">bi-monthly newsletters</a> and I also designed the logo!
 
-As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. I greatly attribute these optimizations to how I've been able to stay both solo & sane up until now, currently with 500+ users and $35,000+ ARR. In this post, I'm excited to share my most successful strategies along with anecdotes from my experience working on Lunch Money.
+As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. 
+
+**Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. I greatly attribute these optimizations to how I've been able to stay both solo & sane up until now, currently with 500+ users and $35,000+ ARR. In this post, I'm excited to share my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
@@ -23,21 +25,20 @@ In the last 14 days, here's what I got done across all departments:
 * **Engineering:** Wrapped up a 2-week long refactor of some core components on the client-side
 * **Engineering:** Launched a major feature: advanced transaction filters
 * **Engineering:** Closed 13 tickets related to feature improvements and bug fixes
-* **Marketing:** Sent out a newsletter outlining the latest and greatest in Lunch Money
-* **Support:** Received 235 inbound support tickets and sent out 466 emails
+* **Marketing:** Sent out a newsletter outlining the latest new features
+* **Support:** Received 239 inbound support tickets and sent out 358 emails
 * **Marketing:** This blog post
-* **Support:** Analyzed 100+ survey results on the product
 * **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
 
-In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). Overall, I feel much more zen than I ever have before despite the ever-increasing workload and responsibilities.
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). Overall, I feel calm and zen despite the ever-increasing workload and responsibilities.
 
-Weirdly enough, what makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
+What makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
 
 For instance, working on feature improvements and bug fixes might tire me out at which point I'll switch over to a marketing-related task. This gives me a break while still being productive overall.
 
 _Case in point: I just finished a major refactor and pushed out 2 major features to beta, so writing this blog post right now feels like a vacation for my brain._
 
-If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a single person, I can still automate, optimize and parallelize processes. 
+To state the obvious, I like being hyper-efficient (without burning myself out, of course). Even though I am a single person, I can still automate, optimize and parallelize processes. 
 
 # Optimizing engineering & product
 
@@ -45,7 +46,7 @@ If it's not already obvious, I like being hyper-efficient (without burning mysel
 
 The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
 
-Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day the feature can be shipped without it.
+Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day, the feature can be shipped without it.
 
 It's also helpful to order your lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
 
@@ -54,33 +55,35 @@ It's also helpful to order your lists in descending order of importance. When it
 
 If any of the missed features are desirable, I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed. Everybody wins!
 
-## Balance automation and manual work
+## Automate later than you need to
 
-While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate when the time is right.
+While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat.
 
 <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" style="max-width: 480px; border:0px"/><span class="caption">Obligatory XKCD comic (<a href="https://xkcd.com/1205/" target="_blank">link</a>)</span>
 
 Automating too late is not a bad thing. You'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
 
-A few aspects of Lunch Money which I handled manually before eventually automating them include sending out bi-weekly digests summarizing account status and user-initiated account cancellations.
+A few aspects of Lunch Money which I handled manually first include sending out trial-ending emails, bi-weekly digests summarizing account status and carrying out user-initiated account cancellations.
 
-Something that I'm glad I didn't spend the time to automate at all was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
+Something that I'm glad I didn't spend the time to automate at all was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month.
 
-I decided I wanted to just get the referral program out the door first and see how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
+I decided I wanted to get the referral program out the door first and see how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
 
 In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
 
 ## Keep tasks organized
 
-Tracking every bug report, feature request and potential new feature is a huge part of my work flow and I invest time in ensuring tasks are up-to-date, organized and readable. The worst is feeling like your task management system is too overwhelming or messy and to slowly avoid using it. I've gotten to that point before and it's incredibly counter-productive.
+Tracking every bug report and feature request is a huge part of my work flow and I invest time in ensuring tasks are up-to-date to reduce the mental load of remembering what needs to be done. 
+
+The worst is feeling like your task management system is too overwhelming or messy and to slowly avoid using it. I've gotten to that point before and it's incredibly counter-productive.
 
 I use ClickUp which allows you to have various lists each with custom statuses. Here's how I have mine set up:
 
 <img src="/uploads/status.png" style="border:0px; max-width: 430px"/>
 
-During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a singular place where you can dump ideas to sort out later. If your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
+During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. <b>It's important to have a singular place where you can dump ideas to sort out later.</b> However, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there.
 
-Every 2 weeks or so, I will work on polishing up the tasks in Triage and merging them appropriately if a duplicate or similar task exists. Then I'll either move them into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or should be moved to the Current Roadmap.
+Every 2 weeks or so, I will work on polishing up the tasks in Triage to move either into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or moved to the Current Roadmap.
 
 ## Keep low-hanging fruits in your back pocket
 
@@ -88,7 +91,7 @@ Riffing off of my Clickup setup, I use a tag (🍏) to denote which tasks are lo
 
 <img src="https://media.giphy.com/media/YP1Jb0JNc7kqFDbdjm/giphy.gif"/>
 
-I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish or generally unmotivated. Still being able to get something done and shipped is a great way to get a quick hit of dopamine to help you get out of a slump.
+I find that keeping these around and tackling them on days when you feel generally unmotivated can really help raise spirits. Still being able to get something completed and shipped is a great way to get out of a slump.
 
 # Optimizing marketing
 
@@ -104,23 +107,23 @@ In total, a user who does not end up subscribing can spend up to 26 days in the 
 
 <img src="/uploads/calendar-1.png" style="border:0px;"/>
 
-Marketing pushes under my control, such as publicizing blog posts and launches, are therefore always scheduled in the first few days of the month. When I switched over to this method, my next Plaid bill went down for the first time.
+Marketing pushes under my control, such as publicizing blog posts and product launches, are therefore always scheduled in the first few days of the month. When I came to this realization, my next Plaid bill went down for the first time.
 
 ## Merging marketing and engineering for a combo win
 
-Taking this a step further, the perk of having a spike in new users is that their trial periods more-or-less overlap. Usually when a new user signs up, they will poke around the product and maybe send in a bug report, a feature request or another piece of feedback. If I reply and address their feedback by putting in a fix right away or deploying their requested feature within days, more often than not, they end up converting into a happy subscriber.
+Taking this a step further, the perk of having a spike in new users is that their trial periods more-or-less overlap. Usually when a new user signs up, they will poke around the product and maybe send in a bug report, a feature request or another piece of feedback. If I reply and address their feedback by putting in a fix or shipping their requested feature within days, more often than not, they end up converting into a happy customer.
 
-I've therefore identified the following cycle to fully maximize this:
+I've therefore identified the following cycle to maximize potential conversions from spikes in user signups:
 
 <img src="/uploads/gantt-2.png" style="border: 0px;"/>
 
-After a marketing push, let's say a blog post, I will see a spike in sign ups lasting abour 3 days and the slowly trailing off.
+After a marketing push, let's say a blog post, I will see a sudden increase in signups lasting abour 3 days and then slowly trailing off.
 
-Over the next few days, I'll usually receive a spike in new support tickets. I prioritize responding to these within 12 hours and I get to work. Thankfully most bugs are quick fixes and most feature requests have been heard before and gives me the push I need to finally implement it. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
+Over the next few days, I'll start hearing from these new users via support tickets. I prioritize responding to them and I get to work. Showing these users that I'm committed to improving Lunch Money based on their feedback is a great and honest sales tactic.
 
-About 3 days before the initial wave of user trials ends, I will send out a newsletter with all the new features and improvements I was able to get done during that engineering sprint. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
+About 3 days before the initial wave of user trials ends, I wrap up my engineering sprint and send out a newsletter detailing the latest features and improvements. This re-enforces to new users that the product is under continuous development.
 
-We have a drip campaign that automatically notifies users that their trial is expiring in 3 days and when their trial is over. This period of time is when I typically see users convert.
+Finally, we have a drip campaign that automatically notifies a few days before their trial expires and on the actual date of expiry. This period of time is when I typically see most users convert.
 
 # Optimizing Customer Support
 
@@ -128,7 +131,9 @@ Offering stellar customer support is undoubtedly a great way to leave an impress
 
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself. Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my optimizations are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
+**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself. 
+
+Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my optimizations are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
 
 <img src="/uploads/screen-shot-2020-05-21-at-4-20-15-pm.png"/><span class="caption">Handling support on my own should be sustainable at least for the foreseeable future!</span>
 
@@ -144,21 +149,17 @@ Finally, no matter how out of hand things got, I would not want to add complexit
 
 ## Self-triage support tickets
 
-I'll never forget launch day when we amassed 1000 signups and well over 100 support tickets in the span of a few hours. I stayed up that night replying to every single one before I finally went to bed.
-
-The same situation would happen again whenever Lunch Money experienced a spike in signups, usually once a month.
-
-While this was still sustainable, as in, I could reply to every support ticket within a reasonable amount of time, it wasn't optimal. It was difficult to wake up every day to my main inbox full of unread emails. It was a nagging reminder for all the unknown things I've yet to do.
+I've been consistently receiving over 100 support tickets every week for the last 3 months. While this is still sustainable, as in, I can reply to every support ticket within a reasonable amount of time, it's not optimal. It was difficult to wake up every day to my main inbox full of unread emails as a nagging reminder for all the unknown things I've yet to do.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)
 <span class="caption">Waking up and innocently checking my phone</span>
 
-The biggest issues were therefore:
+The biggest issues were:
 
 1. Every email was coming through to my main inbox, and
-2. Priority order was dictated by date received which is indicative of the actual urgency 0% of time.
+2. Priority order was by date received which is indicative of the actual urgency 0% of time.
 
-To address these, I revamped the support flow to have users triage their own support tickets and I set up some simple filters and labels in Gmail to reroute these tickets into their respective subfolders:
+To address these, I revamped the support flow to have users triage their own support tickets and I set up some simple filters in Gmail:
 
 <img src="/uploads/filters.png" style="border:0px;" />
 
@@ -168,7 +169,7 @@ The built-in priority system is also helpful. For instance, I'll look at bug rep
 
 <img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 250px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
 
-## Creating specific support flows / Build support into your product
+## Create specific support flows
 
 While common questions can be quickly identified and handled with the addition of a simple FAQ page, common issues requiring personalized support are a bit trickier to generalize. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
 
@@ -181,7 +182,7 @@ Here is a typical interaction:
 
 There are at least 3 emails exchanged before the issue can enter the resolution phase.
 
-After a few months of these types of support emails, I implemented a specific support flow for synced accounts to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
+Eventually, I implemented a specific support flow to address 99% of the issues that arise. I made this accessible from the details pop-up of their synced account, where one would be poking around if something seems amiss.
 
 <img src="/uploads/troubleshooting.png" style="max-width: 400px" />
 
@@ -201,7 +202,7 @@ Customer support is an effective way to uncover all the pitfalls and ways users 
 
 A common question I hear from users outside of US and Canada is when international bank syncing will be available. I've been getting lots of sign ups particularly from the Netherlands lately due to a tech influencer there mentioning Lunch Money in various places over the last few months.
 
-The first few mentions, I received many frustrated support tickets about the lack of bank syncing support. A few converted over to using CSV importing when I mentioned this was a viable option.
+The first few mentions, I received many frustrated support tickets about the lack of bank syncing support. A few converted to using CSV importing when I mentioned this was a viable option.
 
 Before the most recent mention, I changed the second step of our onboarding screen to include links and options if bank syncing isn't available:
 
@@ -212,7 +213,7 @@ After being recently plugged in a Dutch podcast, we received hundreds of new sig
 
 # Optimizing yourself
 
-Lastly, as a company of one, the hard truth is that the company's success is highly dependent on you and will only ever be as successful as you allow it to be. Even if we really want it to succeed, some things out of our control like the lack of hardcore passion for our product will get in the way. Othertimes, you are your own worst enemy. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
+Lastly, as a company of one, the hard truth is that the company's success is highly dependent on you and will only ever be as successful as you allow it to be, either intentionally or unintentionally. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
 
 Here are my best methods for staying even-keeled:
 
@@ -222,4 +223,4 @@ Here are my best methods for staying even-keeled:
 * Have hobbies and interests that are not work-related
 * Celebrate the small wins
 
-Disclaimers
+Most importantly, don't forget to enjoy the journey! It's easy to accept a chaotic environment because that somehow makes us feel productive. Genuinely enjoying what you do is the best optimization and will take you far.
