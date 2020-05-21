@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "Optimizations as a company of one"
+title = "Optimizations for a company of one"
 
 +++
 Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
@@ -58,7 +58,7 @@ If any of the missed features are desirable, I would hear about it from users. T
 
 While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate when the time is right.
 
-<img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" style="max-width: 450px; border:0px"/><span class="caption">Obligatory XKCD comic (<a href="https://xkcd.com/1205/" target="_blank">link</a>)</span>
+<img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" style="max-width: 480px; border:0px"/><span class="caption">Obligatory XKCD comic (<a href="https://xkcd.com/1205/" target="_blank">link</a>)</span>
 
 Automating too late is not a bad thing. You'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
 
@@ -76,7 +76,7 @@ Tracking every bug report, feature request and potential new feature is a huge p
 
 I use ClickUp which allows you to have various lists each with custom statuses. Here's how I have mine set up:
 
-<img src="/uploads/status.png" style="border:0px"/>
+<img src="/uploads/status.png" style="border:0px; max-width: 430px"/>
 
 During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a singular place where you can dump ideas to sort out later. If your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
 
