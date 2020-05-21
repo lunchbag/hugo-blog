@@ -117,7 +117,7 @@ I've therefore identified the following cycle to maximize potential conversions 
 
 <img src="/uploads/gantt-2.png" style="border: 0px;"/>
 
-After a marketing push, let's say a blog post, I will see a sudden increase in signups lasting abour 3 days and then slowly trailing off.
+After a marketing push, let's say a product launch, I will see an immediate increase in signups lasting about 3 days and then slowly trailing off.
 
 Over the next few days, I'll start hearing from these new users via support tickets. I prioritize responding to them and I get to work. Showing these users that I'm committed to improving Lunch Money based on their feedback is a great and honest sales tactic.
 
