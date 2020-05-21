@@ -224,3 +224,5 @@ Here are my best methods for staying even-keeled:
 * Celebrate the small wins
 
 Most importantly, don't forget to enjoy the journey! It's easy to accept a chaotic environment because that somehow makes us feel productive. Genuinely enjoying what you do is the best optimization and will take you far.
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
