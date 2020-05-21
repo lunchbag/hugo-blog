@@ -11,9 +11,9 @@ title = "Optimizations as a company of one"
 +++
 Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-In short, I am a company of one. I am the one who answers the customer support emails and I am the one who codes and deploys new features. I am the one who updates our API docs and knowledge base, the one who writes and sends out our bi-monthly newsletters and the one who designed the logo.
+In short, I am a company of one. I answer the customer support emails and I code and deploy new features. I also manage our <a href="https://developers.lunchmoney.app" target="_blank">API docs</a> and <a href="https://support.lunchmoney.app" target="_blank">knowledge base</a>, poke around the logs when there are issues, write our <a href="https://lunchmoney.app/sample_newsletter" target="_blank">bi-monthly newsletters</a> and I also designed the logo!
 
-As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. In the post, I'm excited to share my most successful strategies along with anecdotes from my experiences running Lunch Money.
+As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. I greatly attribute these optimizations to how I've been able to stay both solo & sane up until now, currently with 500+ users and $35,000+ ARR. In this post, I'm excited to share my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
@@ -29,7 +29,7 @@ In the last 14 days, here's what I got done across all departments:
 * **Support:** Analyzed 100+ survey results on the product
 * **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
 
-In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). I feel that in the last few months I have gained nearly full control of my workload and overall, I feel even-keeled.
+In the last 3 months, I averaged 6.5 hours of work per day for a total of a 45.5 hour work week (as in I don't take weekends off). Overall, I feel much more zen than I ever have before despite the ever-increasing workload and responsibilities.
 
 Weirdly enough, what makes all this work bearable for me is the fact that there is so much variety. I love being able to switch between tasks to keep the job interesting and my mind refreshed.
 
@@ -39,9 +39,92 @@ _Case in point: I just finished a major refactor and pushed out 2 major features
 
 If it's not already obvious, I like being hyper-efficient (without burning myself out, obviously). Even though I am a single person, I can still automate, optimize and parallelize processes. 
 
+# Optimizing engineering & product
+
+## Ship the MVP, then iterate based on feedback
+
+The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
+
+Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day the feature can be shipped without it.
+
+It's also helpful to order your lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
+
+<img src="/uploads/cycle-1.png" style="border:0px"/>
+<span class="caption">Develop your minimum viable feature first, then let user feedback guide subsequent iterations</span>
+
+If any of the missed features are desirable, I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed. Everybody wins!
+
+## Balance automation and manual work
+
+While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate when the time is right.
+
+<img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" style="max-width: 450px; border:0px"/><span class="caption">Obligatory XKCD comic (<a href="https://xkcd.com/1205/" target="_blank">link</a>)</span>
+
+Automating too late is not a bad thing. You'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
+
+A few aspects of Lunch Money which I handled manually before eventually automating them include sending out bi-weekly digests summarizing account status and user-initiated account cancellations.
+
+Something that I'm glad I didn't spend the time to automate at all was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
+
+I decided I wanted to just get the referral program out the door first and see how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
+
+In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
+
+## Keep tasks organized
+
+Tracking every bug report, feature request and potential new feature is a huge part of my work flow and I invest time in ensuring tasks are up-to-date, organized and readable. The worst is feeling like your task management system is too overwhelming or messy and to slowly avoid using it. I've gotten to that point before and it's incredibly counter-productive.
+
+I use ClickUp which allows you to have various lists each with custom statuses. Here's how I have mine set up:
+
+<img src="/uploads/clickup-tasks.png" style="border:0px"/>
+
+During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a singular place where you can dump ideas to sort out later. If your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
+
+Every 2 weeks or so, I will work on polishing up the tasks in Triage and merging them appropriately if a duplicate or similar task exists. Then I'll either move them into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or should be moved to the Current Roadmap.
+
+## Keep low-hanging fruits in your back pocket
+
+Riffing off of my Clickup setup, I use a tag (🍏) to denote which tasks are low-hanging fruits. For the uninitiated, low-hanging fruits are quick tasks that are easy to knock out, such as one-liners or 5-minute fixes.
+
+<img src="https://media.giphy.com/media/YP1Jb0JNc7kqFDbdjm/giphy.gif"/>
+
+I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish or generally unmotivated. Still being able to get something done and shipped is a great way to get a quick hit of dopamine to help you get out of a slump.
+
+# Optimizing marketing
+
+## Timing marketing pushes
+
+At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account immediately and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
+
+This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
+
+For one, our data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, we will delete your data in 30 days. This certainly guarantees that I'll be paying one more month than I need to for churned users who connected bank accounts and is the reason why our data retention policy has since been revised to 5 days.
+
+In total, a user who does not end up subscribing can spend up to 26 days in the Lunch Money system. This comprises of a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period. Assuming enough users connect their bank accounts, the best way to minimize my costs for churned users is to ensure these users' lifetimes are within one calendar month.
+
+<img src="/uploads/calendar-1.png" style="border:0px;"/>
+
+Marketing pushes under my control, such as publicizing blog posts and launches, are therefore always scheduled in the first few days of the month. Once I switched over to this method, my Plaid bills has gone down significantly and that's always a reason to celebrate!
+
+## Merging marketing and engineering for a combo win
+
+Taking this a step further, the perk of having a spike in new users is that their trial periods more-or-less overlap. Usually when a new user signs up, they will poke around the product and maybe send in a bug report, a feature request or another piece of feedback. If I reply and address their feedback by putting in a fix right away or deploying their requested feature within days, more often than not, they end up converting into a happy subscriber.
+
+I've therefore identified the following cycle to fully maximize this:
+
+<img src="/uploads/gantt.png" style="border: 0px;"/>
+
+After a marketing push, let's say a blog post, I will see a spike in sign ups lasting abour 3 days and the slowly trailing off.
+
+Over the next few days, I'll usually receive a spike in new support tickets. I prioritize responding to these within 12 hours and I get to work. Thankfully most bugs are quick fixes and most feature requests have been heard before and gives me the push I need to finally implement it. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
+
+About 3 days before the initial wave of user trials ends, I will send out a newsletter with all the new features and improvements I was able to get done during that engineering sprint. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
+
+We have a drip campaign that automatically notifies users that their trial is expiring in 3 days and when their trial is over. This period of time is when I typically see users convert.
+
 # Optimizing Customer Support
 
-Offering stellar customer support is imperative to a SaaS business such as Lunch Money, especially in the early stages. It's a great way to leave an impression on your users and turn your first few customers into your champions. Consistently providing great customer support is a long-term investment for your business.
+Offering stellar customer support is undoubtedly a great way to leave an impression on your users and turn your first few customers into your champions. Consistently providing great service is a long-term investment for Lunch Money.
 
 <img src="https://media.giphy.com/media/J5dnUnvAyCc8cHqcJB/giphy.gif"/>
 
@@ -51,7 +134,7 @@ According to <a href="https://emailmeter.com">EmailMeter</a>, in April, I receiv
 
 ## How do support tickets work at Lunch Money?
 
-Every page of Lunch Money has access to a "Feedback widget" located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feedback, questions, bug reports, or whatever else is on their mind. My server then bundles up the feedback with relevant user information into an email and sends it directly to my inbox.
+Every page of Lunch Money has access to a feedback button located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feature requests, questions, bug reports, or whatever else is on their mind. My server then bundles up the feedback with relevant user information into an email and sends it directly to my inbox.
 
 ![](/uploads/submit-bug.png)
 
@@ -75,28 +158,17 @@ The biggest issues were therefore:
 1. Every email was coming through to my main inbox, and
 2. Priority order was dictated by date received which is indicative of the actual urgency 0% of time.
 
-To address these two issues, I revamped the support flow to have users triage their own support tickets. All this required was the addition of a simple dropdown above the text area in the feedback box with the following options:
+To address these, I revamped the support flow to have users triage their own support tickets and I set up some simple filters and labels in Gmail to reroute these tickets into their respective subfolders:
 
-1. Bug report
-2. Question
-3. Feature request
-4. General feedback
-
-<img src="/uploads/screen-shot-2020-05-15-at-9-15-34-pm.png" style="max-width: 400px" /><span class="caption">This simple feedback widget has processed thousand support tickets since day 1!</span>
-
-I modified the email that gets sent to include this classification in the subject line. Next, I set up some simple filters and labels in Gmail such that emails of different types would skip my inbox and land into one of the subfolder split by tag.
-
-<img src="/uploads/screen-shot-2020-05-15-at-9.19.24-pm.png" style="max-width: 430px" />
+<img src="/uploads/filters.png" style="border:0px;" />
 
 With this system in place, support tickets would land in respective folders within my email, but skipping my inbox.
-
-The positive effects of this change were felt immediately. Seeing _Question (4), Bug Reports (2), Feature Requests (4)_ is a million times less stressful than having 10 unread emails sitting in my main inbox. It also feels good to intentionally set aside time to address support tickets at night rather than having them interrupt and distract me as they roll in throughout the day.
 
 The built-in priority system is also helpful. For instance, I'll look at bug reports more frequently than feature requests because a bug report can denote a serious issue within the app whereas a feature request is usually a "nice to have" and doesn't require my immediate attention.
 
 <img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 250px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
 
-## Creating specific support flows
+## Creating specific support flows / Build support into your product
 
 While common questions can be quickly identified and handled with the addition of a simple FAQ page, common issues requiring personalized support are a bit trickier to generalize. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
 
@@ -111,7 +183,7 @@ There are at least 3 emails exchanged before the issue can enter the resolution 
 
 After a few months of these types of support emails, I implemented a specific support flow for synced accounts to address 99% of the issues that arise. I stuck this in the Details section of synced accounts, right above the big red "Delete Account" button. I was finding the users were hitting this button to "fix" their account, not knowing that this actually makes things more complicated when they eventually re-link the same bank account and end up with duplicate transactions.
 
-<img src="/uploads/screen-shot-2020-05-15-at-9.22.41-pm.png" style="max-width: 400px" />
+<img src="/uploads/troubleshooting.png" style="max-width: 400px" />
 
 The flow runs through the common scenarios of bank syncing issues (wrong account balance, missing transactions, delayed syncing, etc) and presents routine resolutions before allowing the user to submit a ticket.
 
@@ -121,7 +193,7 @@ For instance, a common issue is that persistent 2FA will cause Plaid to lose con
 
 Similarly, if a user states their account balance is wrong, the form will ask for the correct balance and upon submitting, we've already got all the information we need to start resolving the issue right away.
 
-## Identify and patch pitfalls
+## Bake support into your product
 
 Customer support is an effective way to uncover all the pitfalls and ways users are getting confused while using your app. Use these as hints for where you might be missing tooltips or an opportunity to implement a walkthrough. I'll sometimes ask why they were confused or if they noticed the existing tooltips I had in place. Often times I'll find out that the tooltip had confusing language or was too hidden away.
 
@@ -136,88 +208,7 @@ Before the most recent mention, I changed the second step of our onboarding scre
 ![](/uploads/screen-shot-2020-05-16-at-2.27.58-pm.png)
 <span class="caption">The first two options leads the user to another screen where we outline alternative methods for importing transactions. The last link leads users to <a href="https://support.lunchmoney.app/importing-transactions/automatic-imports#support-for-international-banks">this FAQ page</a>.</span>
 
-After being recently plugged in a Dutch podcast, we received hundreds of new sign ups and a spike in support tickets, but not one person inquired about international bank syncing!
-
-# Optimizing engineering & product
-
-## Ship the MVP, then iterate based on feedback
-
-The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
-
-Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day the feature can be shipped without it.
-
-I've definitely convinced myself before that the fancy drag-and-drop functionality is imperative, so it's also important to order your lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
-
-<img src="/uploads/cycle-1.png" style="border:0px"/>
-<span class="caption">Develop your minimum viable feature first, then let user feedback guide subsequent iterations</span>
-
-If any of the missed features are desirable, I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed. Everybody wins!
-
-## Balance automation and manual work
-
-While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat. Doing the manual heavy-lifting first will give you a sense of what's useful to automate and when the time is right.
-
-Automating too late is not a bad thing. You'll have done the manual heavy-lifting enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to understand what's required first.
-
-A few aspects of Lunch Money which I handled manually before eventually automating them include sending out bi-weekly digests summarizing account status and user-initiated account cancellations.
-
-Something that I'm glad I didn't spend the time to automate at all was our referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month. Seems simple enough but under the hood, this can be quite complex. For one, the two users could have signed up with different pricing plans, so we'll have to figure out just how much their credit is worth.
-
-I decided I wanted to just get the referral program out the door first and just how many people would be using it. Worst comes to worst, I'll be manually applying a lot of credits.
-
-In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth it.
-
-## Keep tasks organized
-
-Whatever your preferred task management system is, it's imperative that it is kept up-to-date, organized and readable! You don't ever want to feel like something is too overwhelming or messy and slowly avoid using it. If it gets to that point, I would suggest starting fresh.
-
-In Clickup, you can have various lists under a project each with custom statuses. Here's how I have mine set up:
-
-<img src="/uploads/clickup-tasks.png" style="border:0px"/>
-
-During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a compartmentalized place where you can dump ideas to sort out later. On the flip side, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
-
-Every 2 weeks or so, I will work on polishing up the tasks in Triage and merging them appropriately if a duplicate or similar task exists. Then I'll either move into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or should be moved to the Current Roadmap.
-
-## Tag low-hanging fruits
-
-Riffing off of my Clickup setup, I use a tag which is the Apple emoji to denote which tasks are low-hanging fruits– quick tasks that usually require as little as one line and as much as 5 minutes to fix.
-
-<img src="https://media.giphy.com/media/YP1Jb0JNc7kqFDbdjm/giphy.gif"/>
-
-I find that keeping these around and marking them as such can really help raise spirits on those days where you feel sluggish or unmotivated. Still being able to get something done is a great way to get a quick dose of dopamine which might help you get out of a slump.
-
-# Optimizing marketing
-
-## Timing marketing pushes
-
-At Lunch Money, a big part of our business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
-
-This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
-
-For one, our data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, we'll consider you "churned" and will delete your data in 30 days. However, this certainly guarantees that I'll be paying one more month than I need to for churned users who connected bank accounts. So this grace period before data deletion has been revised to 5 days.
-
-With a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period, I have realized it is in my best interest to schedule marketing pushes towards the beginning of the month. At longest, a churned user would last 26 days in our system and making sure these 26 days ends before the start of a new month is a priority!
-
-<img src="/uploads/calendar-1.png" style="border:0px;"/>
-
-Therefore, marketing pushes under my control, such as publicizing blog posts and launches will always be in the first few days of the calendar month. Once I switched over to this method, my Plaid bills has gone down significantly and that's always a reason to celebrate.
-
-## Merging marketing and engineering for a combo win
-
-Taking this a step further, the perk of having a spike in new users is that their trial periods more-or-less overlap. Usually when a new user signs up, they will poke around the product and maybe send in a bug report, a feature request or another piece of feedback. If I reply and address their feedback by putting in a fix right away or deploying their requested feature within days, more often than not, they end up converting into a happy subscriber.
-
-I've therefore identified the following cycle to take fully maximize this:
-
-<img src="/uploads/gantt.png" style="border: 0px;"/>
-
-After a marketing push, let's say a blog post, I will see a spike in sign ups lasting abour 3 days and the slowly trailing off.
-
-Over the next few days, I'll usually receive a spike in new support tickets. I prioritize responding to these within 12 hours and I get to work. Thankfully most bugs are quick fixes and most feature requests have been heard before and gives me the push I need to finally implement it. Being able to show these new users that I'm committed to improving Lunch Money based on their feedback is a great and honest "sales tactic".
-
-About 3 days before the initial wave of user trials ends, I will send out a newsletter with all the new features and improvements I was able to get done during that engineering sprint. Doing this within the trial period will (hopefully) show new users that the product is under continuous improvement!
-
-We have a drip campaign that automatically notifies users that their trial is expiring in 3 days and when their trial is over. This period of time is when I typically see users convert.
+After being recently plugged in a Dutch podcast, we received hundreds of new sign ups and an expected spike in support tickets. What was unexpected, however, was how not one person inquired about international bank syncing!
 
 # Optimizing yourself
 
@@ -231,3 +222,4 @@ Here are my best methods for staying even-keeled:
 * Have hobbies and interests that are not work-related
 * Celebrate the small wins
 
+Disclaimers
