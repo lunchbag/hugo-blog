@@ -76,7 +76,7 @@ Tracking every bug report, feature request and potential new feature is a huge p
 
 I use ClickUp which allows you to have various lists each with custom statuses. Here's how I have mine set up:
 
-<img src="/uploads/clickup-tasks.png" style="border:0px"/>
+<img src="/uploads/status.png" style="border:0px"/>
 
 During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. It's important to have a singular place where you can dump ideas to sort out later. If your entire To-Do list is treated that way, you probably won't want to be spending much time in there anyway.
 
@@ -104,7 +104,7 @@ In total, a user who does not end up subscribing can spend up to 26 days in the 
 
 <img src="/uploads/calendar-1.png" style="border:0px;"/>
 
-Marketing pushes under my control, such as publicizing blog posts and launches, are therefore always scheduled in the first few days of the month. Once I switched over to this method, my Plaid bills has gone down significantly and that's always a reason to celebrate!
+Marketing pushes under my control, such as publicizing blog posts and launches, are therefore always scheduled in the first few days of the month. When I switched over to this method, my next Plaid bill went down for the first time.
 
 ## Merging marketing and engineering for a combo win
 
@@ -112,7 +112,7 @@ Taking this a step further, the perk of having a spike in new users is that thei
 
 I've therefore identified the following cycle to fully maximize this:
 
-<img src="/uploads/gantt.png" style="border: 0px;"/>
+<img src="/uploads/gantt-2.png" style="border: 0px;"/>
 
 After a marketing push, let's say a blog post, I will see a spike in sign ups lasting abour 3 days and the slowly trailing off.
 
@@ -126,11 +126,11 @@ We have a drip campaign that automatically notifies users that their trial is ex
 
 Offering stellar customer support is undoubtedly a great way to leave an impression on your users and turn your first few customers into your champions. Consistently providing great service is a long-term investment for Lunch Money.
 
-<img src="https://media.giphy.com/media/J5dnUnvAyCc8cHqcJB/giphy.gif"/>
-
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-According to <a href="https://emailmeter.com">EmailMeter</a>, in April, I received 532 emails and I sent out 930 with an average response time of 13 hours. **I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
+**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself. Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my optimizations are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
+
+<img src="/uploads/screen-shot-2020-05-21-at-4-20-15-pm.png"/><span class="caption">Handling support on my own should be sustainable at least for the foreseeable future!</span>
 
 ## How do support tickets work at Lunch Money?
 
