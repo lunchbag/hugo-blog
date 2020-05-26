@@ -139,8 +139,6 @@ Every page of Lunch Money has access to a feedback button located at the bottom 
 
 I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any unarchived email has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them all equally in importance.
 
-Finally, no matter how out of hand things got, I would not want to add complexity (or money) to the situation by re-routing support emails to some third-party service. As long as it's just me doing support, I should be able to handle it in a singular place.
-
 ## Self-triage support tickets
 
 I've been consistently receiving over 100 support tickets every week for the last 3 months. While this is still sustainable, as in, I can reply to every support ticket within a reasonable amount of time, it's not optimal. It was difficult to wake up every day to my main inbox full of unread emails as a nagging reminder for all the unknown things I've yet to do.
@@ -209,11 +207,11 @@ After being recently plugged in a Dutch podcast, we received hundreds of new sig
 
 ## Practice context-switching
 
-When I started working on Lunch Money, <a href="https://lunchbag.ca/lunch-money" target="_blank">I was also freelancing for two different companies (while living abroad in a new city I was excited to discover, no less.)</a>. With limited waking hours in a day and so much I both needed and wanted to do, I ended up getting really good at context-switching.
+Shortly after I started working on Lunch Money, <a href="https://lunchbag.ca/lunch-money" target="_blank">I was also freelancing for two different companies (while living abroad in a new city I was excited to discover, no less.)</a>. With limited waking hours in a day and so much I both needed and wanted to do, I ended up getting really good at context-switching.
 
 I would wake up at 7:30am every day to attend a stand-up meeting for one company. By 11:30am, I would have wrapped up 4 hours of work total for both companies just in time to go to the gym and eat lunch. After lunch, I headed over to a co-working space where I'd  finish up any remaining freelancing work before spending the rest of the afternoon and evening on Lunch Money. I juggled all 3 consistently for 9 months before I finally decided it was time to go full-time on my own project.
 
-<img src="/uploads/screen-shot-2020-05-26-at-9-12-27-pm.png" style="border:0;"/>
+<img src="/uploads/screen-shot-2020-05-26-at-9-45-19-pm.png" style="border:0;"/>
 
 This intense context-switching and practice of self-discipline trained my brain for life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye has been invaluable and knowing how much more I have to do gives me the motivation to get through a tedious task.
 
