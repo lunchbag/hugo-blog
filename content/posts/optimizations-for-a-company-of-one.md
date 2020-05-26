@@ -13,7 +13,7 @@ Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer 
 
 In short, I am a company of one. I answer the customer support emails and I code and deploy new features. I also manage our <a href="https://developers.lunchmoney.app" target="_blank">API docs</a> and <a href="https://support.lunchmoney.app" target="_blank">knowledge base</a>, poke around the logs when there are issues, write our <a href="https://lunchmoney.app/sample_newsletter" target="_blank">bi-monthly newsletters</a> and I also designed the logo!
 
-As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing. 
+As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing.
 
 **Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. I greatly attribute these optimizations to how I've been able to stay both solo & sane up until now, currently with 500+ users and $35,000+ ARR. In this post, I'm excited to share my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
@@ -38,30 +38,30 @@ For instance, working on feature improvements and bug fixes might tire me out at
 
 _Case in point: I just finished a major refactor and pushed out 2 major features to beta, so writing this blog post right now feels like a vacation for my brain._
 
-To state the obvious, I like being hyper-efficient (without burning myself out, of course). Even though I am a single person, I can still automate, optimize and parallelize processes. 
+To state the obvious, I like being hyper-efficient (without burning myself out, of course). Even though I am a single person, I can still automate, optimize and parallelize processes.
 
 # Optimizing engineering & product
 
 ## Ship the MVP, then iterate based on feedback
 
-The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If you spend time trying to tick off every task for a feature before launch, you run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
+The notion of an MVP should not be tossed after your initial launch. Every major feature should also be thought of as having a minimum viable state. If I spend time trying to tick off every task for a feature before launch, I run the risk of taking too long to ship or leading yourself astray with elements that aren't even important.
 
 Whenever I start on a new major feature, <b>I always start by listing off the Must haves and the Nice-to-haves</b>. The Must-haves are non-negotiable and core to the feature itself where as Nice-to-haves are totally optional and while they may impact user experience, at the end of the day, the feature can be shipped without it.
 
-It's also helpful to order your lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
+It's then helpful to order my lists in descending order of importance. When it becomes obvious that I need to cut scope and ship as soon as possible, it'll be easy to see that the features to cull are at the bottom of the list.
 
 <img src="/uploads/cycle-1.png" style="border:0px"/>
-<span class="caption">Develop your minimum viable feature first, then let user feedback guide subsequent iterations</span>
+<span class="caption">Develop the minimum viable feature first, then let user feedback guide subsequent iterations</span>
 
 If any of the missed features are desirable, I would hear about it from users. Then I could validate spending time implementing that feature and in turn making those users extra happy to know that their feedback was heard and addressed. Everybody wins!
 
 ## Automate later than you need to
 
-While automating tasks can save you a lot of time in the long-term, it doesn't always make sense to automate right off the bat.
+While automating tasks can save a lot of time in the long-term, it doesn't always make sense to automate right off the bat.
 
 <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" style="max-width: 480px; border:0px"/><span class="caption">Obligatory XKCD comic (<a href="https://xkcd.com/1205/" target="_blank">link</a>)</span>
 
-Automating too late is not a bad thing. You'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
+Automating too late is not a bad thing. I'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
 
 A few aspects of Lunch Money which I handled manually first include sending out trial-ending emails, bi-weekly digests summarizing account status and carrying out user-initiated account cancellations.
 
@@ -71,27 +71,21 @@ I decided I wanted to get the referral program out the door first and see how ma
 
 In the end, the referral program didn't bring on as many new users as I thought it would. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
 
-## Keep tasks organized
-
-Tracking every bug report and feature request is a huge part of my work flow and I invest time in ensuring tasks are up-to-date to reduce the mental load of remembering what needs to be done. 
-
-The worst is feeling like your task management system is too overwhelming or messy and to slowly avoid using it. I've gotten to that point before and it's incredibly counter-productive.
-
-I use ClickUp which allows you to have various lists each with custom statuses. Here's how I have mine set up:
-
-<img src="/uploads/status.png" style="border:0px; max-width: 430px"/>
-
-During support, I will haphazardly add tasks to Triage. Triage is a safe place– you can add anything you want here and worry about it later. <b>It's important to have a singular place where you can dump ideas to sort out later.</b> However, if your entire To-Do list is treated that way, you probably won't want to be spending much time in there.
-
-Every 2 weeks or so, I will work on polishing up the tasks in Triage to move either into the Long-term or Short-term section of the Backlog. I will also go through the Backlog to see if anything can be Archived or moved to the Current Roadmap.
-
 ## Keep low-hanging fruits in your back pocket
 
-Riffing off of my Clickup setup, I use a tag (🍏) to denote which tasks are low-hanging fruits. For the uninitiated, low-hanging fruits are quick tasks that are easy to knock out, such as one-liners or 5-minute fixes.
+In my task management system, I use a tag (🍏) to denote which tasks are low-hanging fruits. For the uninitiated, low-hanging fruits are quick tasks that are easy to knock out, such as one-liners or 5-minute fixes.
 
 <img src="https://media.giphy.com/media/YP1Jb0JNc7kqFDbdjm/giphy.gif"/>
 
 I find that keeping these around and tackling them on days when you feel generally unmotivated can really help raise spirits. Still being able to get something completed and shipped is a great way to get out of a slump.
+
+## Be your own toughest code reviewer
+
+It's easy to throw together code and push to production the second it works locally, but after acquiring a few hundred paying users, I figured I need to be more responsible!
+
+For the past 6 months, I've been thoroughly reviewing my own code after every change. Every major feature, improvement and bug fix lives in a feature branch that I still, by habit, prepend with `jen/`. After verifying everything works great locally and before starting to code review, I always make sure to take some sort of break, whether that's working on a completely unrelated task, going for a meal or going to bed. The point of this is to ensure I'm code reviewing with a clear head.
+
+While adhering to these standards of code reviewing myself may add extra time to my overall process, it could save hours of bug-fixing, answering related support tickets and self-loathing (I'm half-kidding here) down the line if I accidentally ship bad code.
 
 # Optimizing marketing
 
@@ -131,7 +125,7 @@ Offering stellar customer support is undoubtedly a great way to leave an impress
 
 I always thought that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. I've experienced first hand the positive feedback loop that's made possible by having a direct and open line of communication with users and I don't want to risk ideas or frustrations being lost in translation.
 
-**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself. 
+**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one and continuing to respond to all support emails myself.
 
 Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my optimizations are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
 
@@ -213,16 +207,30 @@ After being recently plugged in a Dutch podcast, we received hundreds of new sig
 
 # Optimizing yourself
 
-Lastly, as a company of one, the hard truth is that the company's success is highly dependent on you and will only ever be as successful as you allow it to be, either intentionally or unintentionally. It's important to practice self-care, delegate when you can and keep yourself well-rounded.
+## Practice context-switching
 
-Here are my best methods for staying even-keeled:
+When I started working on Lunch Money, <a href="https://lunchbag.ca/lunch-money" target="_blank">I was also freelancing for two different companies (while living abroad in a new city I was excited to discover, no less.)</a>. With limited waking hours in a day and so much I both needed and wanted to do, I ended up getting really good at context-switching.
 
-* Get enough sleep
-* Write everything down
-* Allow yourself to recover in between intense sprints
-* Have hobbies and interests that are not work-related
-* Celebrate the small wins
+I would wake up at 7:30am every day to attend a stand-up meeting for one company. By 11:30am, I would have wrapped up 4 hours of work total for both companies just in time to go to the gym and eat lunch. After lunch, I headed over to a co-working space where I'd  finish up any remaining freelancing work before spending the rest of the afternoon and evening on Lunch Money. I juggled all 3 consistently for 9 months before I finally decided it was time to go full-time on my own project.
 
-Most importantly, don't forget to enjoy the journey! It's easy to accept a chaotic environment because that somehow makes us feel productive. Genuinely enjoying what you do is the best optimization and will take you far.
+<img src="/uploads/screen-shot-2020-05-26-at-9-12-27-pm.png" style="border:0;"/>
+
+This intense context-switching and practice of self-discipline trained my brain for life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye has been invaluable and knowing how much more I have to do gives me the motivation to get through a tedious task.
+
+## Have hobbies that are not work-related
+
+When I was in high school, I was told that between two otherwise equal candidates– one having 99% average but no extra-curriculars and the other with 89% average but with numerous affiliations with different clubs, the latter is the one who would get accepted to medical school. The reason is because medical schools don't want someone who is all about studying because during stressful times, they might go crazy whereas the one who deliberately makes time for interests will tend to stay more grounded.
+
+Well I didn't even get close to going to medical school, but I feel the lesson can be extracted for any high-stress career. 
+
+Since July 2019, I've been attending in-person classes to strengthen my Mandarin Chinese. While being pulled away for 2+ hours every other day during the work week isn't always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn't work-related and it allows me to get back into the grind with a clearer mind.
+
+## Celebrate the small wins and have fun
+
+As a company of one, the hard truth is that the company's success is highly dependent on me and will only ever be as successful as I allow it to be, either intentionally or unintentionally. 
+
+But success is also defined by me, and can have multiple levels each bearing their own reason for celebration. I feel incredibly blessed to have a supportive partner and parents in my journey who are willing to celebrate all the milestones, both big (500 users) and small (50 users) with me.
+
+Lastly, I hate calling Lunch Money work because I don't feel like it fits the sentiments generally associated with work. I'd rather equate it to being able to play video games all day and get paid for it. Sometimes I'll hit a hard level but that only makes me want to keep going at it. Genuinely enjoying what you do is the best optimization and will take you far.
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
