@@ -156,7 +156,7 @@ The built-in priority system is also helpful. For instance, I'll look at bug rep
 
 While common questions can be quickly identified and handled with the addition of an FAQ page, common issues requiring personalized support are a bit trickier to generalize. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
 
-Here is a typical interaction:
+Here is a sample interaction:
 
 **User:** I am having issues with my Chase accounts.  
 **Me:** What types of issues are you having?  
@@ -169,13 +169,11 @@ Eventually, I implemented a specific support flow to address 99% of the issues t
 
 <img src="/uploads/troubleshooting.png" style="max-width: 400px" />
 
-The flow runs through the common scenarios of bank syncing issues (wrong account balance, missing transactions, delayed syncing, etc) and presents routine resolutions before allowing the user to submit a ticket.
+The flow runs through the common scenarios of bank syncing issues (wrong account balance, missing transactions, delayed syncing, etc). It presents routine resolutions before allowing the user to submit a ticket or requests specific additional information along with the submission.
 
 For instance, a common issue is that persistent 2FA will cause Plaid to lose connection frequently. Instead of hearing it from me now, users will see this notice when they select the "My account is not syncing" option. Once they confirm that 2FA is not the issue, then they will be able to submit a support ticket.
 
 ![](/uploads/screen-shot-2020-05-15-at-9-22-53-pm.png)
-
-Similarly, if a user states their account balance is wrong, the form will ask for the correct balance and upon submitting, I've already got all the information I need to start resolving the issue right away.
 
 # Optimizing yourself
 
