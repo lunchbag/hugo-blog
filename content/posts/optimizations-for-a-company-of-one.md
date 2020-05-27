@@ -1,12 +1,12 @@
 +++
 categories = []
 date = 2020-05-18T16:00:00Z
-description = "WIP :)"
+description = "Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app."
 draft = true
-images = []
+images = ["/uploads/40k.png"]
 slug = "optimizations-for-a-company-of-one"
 tags = []
-title = "$40k ARR check-in: how I juggle it all as a company of one"
+title = "$40k ARR check-in: Juggling it all as a company of one"
 
 +++
 Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
@@ -15,7 +15,7 @@ In short, I am a company of one. I answer the customer support emails and I code
 
 As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing.
 
-**Finding opportunities for process elimination and simplification is honestly one of the more fun parts of running a business**. I greatly attribute these optimizations to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000+ ARR. In this post, I'm excited to share my most successful strategies along with anecdotes from my experience working on Lunch Money.
+**Finding opportunities for process implementation and optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000+ ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
@@ -42,15 +42,15 @@ To state the obvious, I enjoy being hyper-efficient (without burning myself out,
 
 <i>Ah, the blissful beginnings of Lunch Money when I'd push code directly to production several times a day.</i>
 
-At 500+ users now, those days are long gone and I've since needed to adopt the more boring but responsible approach– implementing safeguards to prevent shipping faulty code (that is not another set of human eyes).
+At 500+ users now, those days are long gone and I've since needed to adopt the more boring but responsible approach of implementing safeguards to prevent shipping faulty code.
 
 For one, <b>I've been thoroughly reviewing my own code after every change</b>. Every major feature, improvement and bug fix lives in a feature branch that I still, by habit from the corporate days, prepend with `jen/`. After verifying everything works great locally, I make sure to take a break first, whether that's working on a completely unrelated task, going for a meal or going to bed. The point of this is to ensure that I'm code reviewing with a clear head.
 
-While adhering to these standards of code reviewing myself may add extra time to my overall process, it potentially saves hours of bug-fixing, answering related support tickets and self-loathing (I'm half-kidding here) down the line if I accidentally ship bad code. 
+While adhering to these standards of code reviewing myself may add extra time to my overall process, it potentially saves hours of bug-fixing, answering related support tickets and self-loathing (I'm half-kidding here) down the line if I accidentally ship bad code.
 
-<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New phase of Lunch Money– no more pushing major features straight to production 🤯😂 <a href="https://t.co/RYsz7BnU3L">https://t.co/RYsz7BnU3L</a></p>&mdash; Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1256987437600927744?ref_src=twsrc%5Etfw">May 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New phase of Lunch Money– no more pushing major features straight to production 🤯😂 <a href="https://t.co/RYsz7BnU3L">https://t.co/RYsz7BnU3L</a></p>— Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1256987437600927744?ref_src=twsrc%5Etfw">May 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-<b>I also recently implemented an internal beta-testing program for paid Lunch Money subscribers for feedback and more importantly, bug hunting.</b> With more users accessing my app on a regular basis, the stakes are higher to ship a version that's as bug-free as possible.
+<b>I also recently implemented an internal beta-testing program open to Lunch Money subscribers.</b> With more users accessing my app on a regular basis, the stakes are higher to ship a version that's as bug-free as possible.
 
 As an engineering team of one, it's nearly impossible to always get it right the first time, despite having tests (what if I missed an edge case?) or testing locally extensively (how I think my users will use a feature is not always so).
 
@@ -64,7 +64,9 @@ While automating tasks can save a lot of time in the long-term, it doesn't alway
 
 Automating too late is not a bad thing. I'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
 
-A few aspects of Lunch Money which I handled manually first include sending out trial-ending emails, bi-weekly digests summarizing account status and carrying out user-initiated account cancellations.
+After launching, I manually sent out trial-ending emails for over 1000 users who had signed up (thank goodness for mail merge) which quickly made me realize I had to automate that as soon as possible. 
+
+For bi-weekly digests summarizing account statuses, I manually triggered these for months because I wasn't confident the sending cadence was reasonable. After observing open rates and collecting user feedback, these are now automated to go out on the 5th & 25th of every month.
 
 Something that I'm glad I didn't spend the time to automate at all was the referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month.
 
@@ -108,15 +110,15 @@ Over the next few days, I'll start hearing from these new users via support tick
 
 About 3 days before the initial wave of user trials ends, I wrap up my engineering sprint and send out a newsletter detailing the latest features and improvements. This re-enforces to new users that the product is under continuous development.
 
-Finally, I have a drip campaign that automatically notifies a few days before their trial expires and on the actual date of expiry. This period of time is when I typically see most users convert.
+Finally, I have a drip campaign that automatically notifies a few days before their trial expires and on the actual date of expiry. This period of time is when I typically see most users convert 🤞.
 
 # Optimizing Customer Support
 
 Consistently providing great customer support is a long-term investment for Lunch Money as it is undoubtedly a great way to turn your customers into your champions.
 
-I used to think that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. Users are constantly surprised (in a good way!) when they realize the founder is responding to their bug reports or feature requests directly. 
+I used to think that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. Users are constantly surprised (in a good way!) when they realize the founder is responding to their bug reports or feature requests directly.
 
-**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one, but over time I've been able to identify areas of trouble within Lunch Money and squash common issues at the source.
+**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one. As I receive and respond to support tickets, I'm also able to identify and overhaul the common sources of trouble for users.
 
 Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my changes are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
 
@@ -183,27 +185,27 @@ Similarly, if a user states their account balance is wrong, the form will ask fo
 
 Shortly after I started working on Lunch Money, <a href="https://lunchbag.ca/lunch-money" target="_blank">I was also freelancing for two different companies (while living abroad in a new city I was excited to discover, no less.)</a>. With limited waking hours in a day and so much I both needed and wanted to do, I ended up getting really good at context-switching.
 
-I woke up at 7:30am every day to attend a stand-up meeting for one company. By 11:30am, I wrapped up 4 hours of work total for both companies just in time to go to the gym and eat lunch. After lunch, I headed over to a co-working space where I'd  finish up any remaining freelancing work before spending the rest of the afternoon and evening on Lunch Money. I juggled all 3 for 7 months before I finally decided it was time to go full-time on my own project.
+I woke up at 7:30am every day to attend a stand-up meeting for one company. By 11:30am, I wrapped up 4 hours of work total for both companies just in time to go to the gym and eat lunch. After lunch, I headed over to a co-working space where I'd finish up any remaining freelancing work before spending the rest of the afternoon and evening on Lunch Money. I juggled all 3 for 7 months before I finally decided it was time to go full-time on my own project.
 
 <img src="/uploads/screen-shot-2020-05-26-at-9-45-19-pm.png" style="border:0;"/>
 
-This intense context-switching and practice of self-discipline trained me for life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye has been invaluable and knowing how much more I have to do gives me the motivation to get through a tedious task.
+This intense context-switching and practice of self-discipline trained me for life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye helps with my overall time efficiency and being constantly aware of the bigger picture is the source of my motivation for getting through a tedious task.
 
 ## Have hobbies that are not work-related
 
-When I was in high school, I remember being told that between two otherwise equal candidates– one having 99% average but no extra-curriculars and the other with 89% average but with numerous affiliations with different clubs, the latter is the one who would get accepted to medical school. The reason is because medical schools don't want someone who is all about studying because during stressful times, they might go crazy whereas the one who deliberately makes time for interests will tend to stay more grounded.
+When I was in high school, I remember being told that between two otherwise equal candidates– one having 99% average but no extra-curriculars and the other with 89% average but with numerous affiliations with different clubs, the latter is the one who would get accepted to medical school. The reason is because medical schools do not want someone who is all about studying because during stressful times, they might go crazy whereas the one who deliberately makes time for interests will likely stay grounded.
 
-Well I didn't even get close to going to medical school, but I feel the lesson can be extracted for any high-stress career. 
+Well I didn't get close to going to medical school, but I feel the lesson can be extracted for any high-stress career. A wearer of many hats is by nature well-rounded after all.
 
-Since July 2019, I've been attending in-person classes to strengthen my Mandarin Chinese. While being pulled away for 2+ hours every other day during the work week isn't always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn't work-related and it allows me to get back into the grind with a clearer mind.
+I've been consistently attending in-person classes to strengthen my Mandarin Chinese since July 2019. While being pulled away for 2+ hours every other day during the work week isn't always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn't work-related and it allows me to get back to the grind with a clearer mind.
 
-<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even though I feel that I&#39;m not due for R&amp;R and that I&#39;d rather code through the weekend, I know it&#39;ll be good to get away for a little bit and focus on hobbies I haven&#39;t had time for lately, like:<br>- exploring nature 🏞️<br>- reading 📚<br>- catching up on my Mandarin studies 🇹🇼</p>&mdash; Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1231192764882112513?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even though I feel that I'm not due for R&R and that I'd rather code through the weekend, I know it'll be good to get away for a little bit and focus on hobbies I haven't had time for lately, like:<br>- exploring nature 🏞️<br>- reading 📚<br>- catching up on my Mandarin studies 🇹🇼</p>— Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1231192764882112513?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ## Celebrate the small wins and have fun
 
-As a company of one, the hard truth is that the company's success is highly dependent on me and will only ever be as successful as I allow it to be, either intentionally or unintentionally. 
+As a company of one, the hard truth is that the company's success is highly dependent on me and will only ever be as successful as I allow it to be, either intentionally or unintentionally.
 
-But success is also defined by me, and can have multiple levels each bearing their own reason for celebration. I feel incredibly blessed to have a supportive partner and parents in my journey who are willing to celebrate all the milestones, both big (500 users) and small (50 users) with me.
+But success is also defined by me, and can have multiple levels each being a reason for celebration. I feel incredibly blessed to have a supportive partner and parents in my journey who are willing to celebrate all the milestones, both big (500 users) and small (5 users) with me.
 
 Lastly, I hate calling Lunch Money work because I don't feel like it fits the sentiments generally associated with work. I'd rather equate it to being able to play video games all day and get paid for it. Sometimes I'll hit a hard level but that only makes me want to keep going at it. Genuinely enjoying what you do is the best optimization and will take you far.
 
