@@ -4,7 +4,7 @@ date = 2020-05-18T16:00:00Z
 description = "Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app."
 draft = true
 images = ["/uploads/40k.png"]
-slug = "optimizations-for-a-company-of-one"
+slug = "company-of-one"
 tags = []
 title = "$40k ARR check-in: Juggling it all as a company of one"
 
@@ -15,7 +15,7 @@ In short, I am a company of one. I answer the customer support emails and I code
 
 As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing.
 
-**Finding opportunities for process implementation and optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000+ ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
+**Finding opportunities for process optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000+ ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
@@ -26,9 +26,9 @@ In the last 14 days, here's what I got done across all departments:
 * **Engineering:** Launched a major feature: advanced transaction filters
 * **Engineering:** Closed 13 tickets related to feature improvements and bug fixes
 * **Marketing:** Sent out a newsletter outlining the latest new features
-* **Support:** Received 239 inbound support tickets and sent out 358 emails
 * **Marketing:** This blog post
 * **Marketing:** Added new pages to the marketing site ([Rules](https://lunchmoney.app/features/rules) and [Collaboration](https://lunchmoney.app/features/collaboration)) and updated the icons in [Features](https://lunchmoney.app/features)
+* **Support:** Received 239 inbound support tickets and sent out 358 emails
 
 What makes all this work bearable for me is the fact that there is so much variety (which, of course, is the spice of life!). I love being able to switch between tasks to keep the job interesting and my mind refreshed while still being productive overall.
 
@@ -54,7 +54,7 @@ While adhering to these standards of code reviewing myself may add extra time to
 
 As an engineering team of one, it's nearly impossible to always get it right the first time, despite having tests (what if I missed an edge case?) or testing locally extensively (how I think my users will use a feature is not always so).
 
-Aside from the additional safeguard, it's nice to have a cohort of users with whom I can have a more candid conversation about Lunch Money. It's also a great way to show your champions that their feedback is valued!
+The beta-testing program has provided some additional benefits. It's nice to have a cohort of users with whom I can have a more candid conversation about Lunch Money and it's also a great way to show users that their feedback is valued!
 
 ## Automate later than you need to
 
@@ -64,15 +64,13 @@ While automating tasks can save a lot of time in the long-term, it doesn't alway
 
 Automating too late is not a bad thing. I'll have done the manual work enough times to understand how to eventually automate the task and what edge cases to look out for. I equate it to doing a job yourself before hiring someone– it's always better to grok the requirements first to some degree so you can understand how to best utilize who you've brought on (and appreciate them more!).
 
-After launching, I manually sent out trial-ending emails for over 1000 users who had signed up (thank goodness for mail merge) which quickly made me realize I had to automate that as soon as possible. 
-
-For bi-weekly digests summarizing account statuses, I manually triggered these for months because I wasn't confident the sending cadence was reasonable. After observing open rates and collecting user feedback, these are now automated to go out on the 5th & 25th of every month.
+I manually triggered the emails for bi-monthly account summaries for months because I wasn't confident the sending cadence was reasonable. After observing open rates and collecting user feedback, these are now automated to go out on the 5th & 25th of every month.
 
 Something that I'm glad I didn't spend the time to automate at all was the referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month.
 
 In the end, the referral program only brought on a measly 11 extra users. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
 
-## Keep low-hanging fruits in your back pocket
+## Keep low-hanging fruits in the back pocket
 
 In my task management system, I use a tag (🍏) to denote which tasks are low-hanging fruits. For the uninitiated, low-hanging fruits are quick tasks that are easy to knock out, such as one-liners or 5-minute fixes.
 
@@ -84,17 +82,17 @@ I find that keeping these around and tackling them on days when you feel general
 
 ## Timing marketing pushes
 
-At Lunch Money, a big part of the business is employing the services of Plaid for bank syncing. Something to consider is that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account immediately and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
+At Lunch Money, a big part of the business is using the services of Plaid for bank syncing. Of importance is the fact that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account immediately and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
 
 This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
 
-For one, the data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, your data will be deleted in 30 days. This certainly guarantees that I'll be paying one more month than I need to for churned users who connected bank accounts and is the reason why the data retention policy has since been revised to 5 days.
+For one, the data retention policy used to be 30 days which means if your trial ends and you didn't put in your billing information, your data will be deleted in 30 days. This certainly guarantees that I'll be overpaying for churned users and is the reason why the data retention policy has since been revised to 5 days.
 
-In total, a user who does not end up subscribing can spend up to 26 days in the Lunch Money system. This comprises of a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period. Assuming enough users connect their bank accounts, the best way to minimize my costs for churned users is to ensure these users' lifetimes are within one calendar month.
+In total, a user who does not end up subscribing can spend up to 26 days in the Lunch Money system. This comprises of a 14-day trial, the potential for a 1 week trial extension and a 5 day grace period. Assuming enough users connect their bank accounts, the best way to minimize my costs for churned users is to ensure their lifetimes are within one calendar month.
 
 <img src="/uploads/calendar-1.png" style="border:0px;"/>
 
-Marketing pushes under my control, such as publicizing blog posts and product launches, are therefore always scheduled in the first few days of the month. When I came to this realization, my next Plaid bill went down for the first time.
+Marketing pushes under my control, such as blog posts and product launches, are therefore always scheduled in the first few days of the month. When I came to this realization, my next Plaid bill went down for the first time.
 
 ## Merging marketing and engineering for a combo win
 
@@ -114,27 +112,27 @@ Finally, I have a drip campaign that automatically notifies a few days before th
 
 # Optimizing Customer Support
 
-Consistently providing great customer support is a long-term investment for Lunch Money as it is undoubtedly a great way to turn your customers into your champions.
-
 I used to think that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. Users are constantly surprised (in a good way!) when they realize the founder is responding to their bug reports or feature requests directly.
 
-**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one. As I receive and respond to support tickets, I'm also able to identify and overhaul the common sources of trouble for users.
+Consistently providing great customer support is a long-term investment for Lunch Money as it is undoubtedly a great way to turn customers into champions. As I receive and respond to support tickets, I'm also able to identify and overhaul the common sources of trouble for users.
 
-Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my changes are making a difference. Despite a growing user base, inbound support requests remain fairly steady!
+**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one. 
+
+Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my changes are making a difference. Despite a growing user base, inbound support emails remain fairly steady!
 
 <img src="/uploads/screen-shot-2020-05-21-at-4-20-15-pm.png"/><span class="caption">Handling support on my own should be sustainable at least for the foreseeable future!</span>
 
 ## How do support tickets work at Lunch Money?
 
-Every page of Lunch Money has access to a feedback button located at the bottom right corner. Clicking on it opens up a text area wherein users can submit feature requests, questions, bug reports, or whatever else is on their mind. My server then bundles up the feedback with relevant user information into an email and sends it directly to my inbox.
+A feedback button is located at the bottom right corner of every page. Clicking on it opens up a text area wherein users can submit feature requests, questions, bug reports, or whatever else is on their mind. My server then bundles up the feedback with relevant user information into an email and sends it directly to my inbox.
 
 ![](/uploads/submit-bug.png)
 
-I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any unarchived email has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them all equally in importance.
-
 ## Self-triage support tickets
 
-I've been consistently receiving over 100 support tickets every week for the last 3 months. While I can still reply to every support ticket within a reasonable amount of time, it's not optimal. Waking up every day to my main inbox full of unread emails was just a nagging reminder for all the unknown things I've yet to do.
+I practice inbox-zero and I view my email as a To-Do list. My personal philosophy is that any unarchived email has an action waiting on me. From the beginning, it made sense for me to combine support emails with any other emails I would get in my inbox because I weigh them all equally in importance.
+
+I've been consistently receiving over 100 support tickets every week for the last 3 months. While I can still reply to everyone within a reasonable amount of time, it wasn't optimal to wake up every day to my main inbox full of unread emails.
 
 ![](https://media.giphy.com/media/AaBhK3dHsk0XS/giphy.gif)
 <span class="caption">Waking up and innocently checking my phone</span>
@@ -167,7 +165,7 @@ Here is a typical interaction:
 
 There are at least 3 emails exchanged before the issue can enter the resolution phase.
 
-Eventually, I implemented a specific support flow to address 99% of the issues that arise. I made this accessible from the details pop-up of their synced account, where one would be poking around if something seems amiss.
+Eventually, I implemented a specific support flow to address 99% of the issues that arise. I made this accessible from the details pop-up of their synced account, where one would be poking around if something was amiss.
 
 <img src="/uploads/troubleshooting.png" style="max-width: 400px" />
 
@@ -189,15 +187,15 @@ I woke up at 7:30am every day to attend a stand-up meeting for one company. By 1
 
 <img src="/uploads/screen-shot-2020-05-26-at-9-45-19-pm.png" style="border:0;"/>
 
-This intense context-switching and practice of self-discipline trained me for life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye helps with my overall time efficiency and being constantly aware of the bigger picture is the source of my motivation for getting through a tedious task.
+This intense context-switching and practice of self-discipline trained me for the life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye helps with my overall time efficiency and being constantly aware of the bigger picture is my source of motivation for getting through a tedious task.
 
-## Have hobbies that are not work-related
+## Be grounded & well-rounded
 
-When I was in high school, I remember being told that between two otherwise equal candidates– one having 99% average but no extra-curriculars and the other with 89% average but with numerous affiliations with different clubs, the latter is the one who would get accepted to medical school. The reason is because medical schools do not want someone who is all about studying because during stressful times, they might go crazy whereas the one who deliberately makes time for interests will likely stay grounded.
+When I was in high school, I remember being told that between two otherwise equal candidates– one having 99% average and no extra-curriculars and the other with 89% average and numerous affiliations with different clubs, the latter is the one who would get accepted to medical school. The reason is because medical schools do not want someone who is all about studying because during stressful times, they might go crazy whereas the one who deliberately makes time for interests will likely stay grounded.
 
 Well I didn't get close to going to medical school, but I feel the lesson can be extracted for any high-stress career. A wearer of many hats is by nature well-rounded after all.
 
-I've been consistently attending in-person classes to strengthen my Mandarin Chinese since July 2019. While being pulled away for 2+ hours every other day during the work week isn't always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn't work-related and it allows me to get back to the grind with a clearer mind.
+Having hobbies that are not work-related is really helpful. I've been consistently attending in-person classes to strengthen my Mandarin Chinese since July 2019. While being pulled away for 2+ hours every other day during the work week isn't always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn't work-related and it allows me to get back to the grind with a clearer mind.
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even though I feel that I'm not due for R&R and that I'd rather code through the weekend, I know it'll be good to get away for a little bit and focus on hobbies I haven't had time for lately, like:<br>- exploring nature 🏞️<br>- reading 📚<br>- catching up on my Mandarin studies 🇹🇼</p>— Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1231192764882112513?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
@@ -207,6 +205,6 @@ As a company of one, the hard truth is that the company's success is highly depe
 
 But success is also defined by me, and can have multiple levels each being a reason for celebration. I feel incredibly blessed to have a supportive partner and parents in my journey who are willing to celebrate all the milestones, both big (500 users) and small (5 users) with me.
 
-Lastly, I hate calling Lunch Money work because I don't feel like it fits the sentiments generally associated with work. I'd rather equate it to being able to play video games all day and get paid for it. Sometimes I'll hit a hard level but that only makes me want to keep going at it. Genuinely enjoying what you do is the best optimization and will take you far.
+Lastly, I hate calling Lunch Money work because I don't feel that it fits the sentiments generally associated with work. I'd rather equate it to being able to play video games all day and get paid for it. Sometimes I'll hit a hard level but that only makes me want to keep going at it. Genuinely enjoying what you do is the best optimization and will take you far.
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
