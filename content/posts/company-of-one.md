@@ -2,7 +2,6 @@
 categories = []
 date = 2020-05-18T16:00:00Z
 description = "Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app."
-draft = true
 images = ["/uploads/40k.png"]
 slug = "company-of-one"
 tags = []
