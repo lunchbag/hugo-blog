@@ -5,7 +5,7 @@ description = "Hello! 👋 My name is Jen and I'm the founder, engineer, designe
 images = ["/uploads/40k2.png"]
 slug = "company-of-one"
 tags = []
-title = "$40k ARR check-in: Optimizations as a company of one"
+title = "Optimizations as a company of one"
 
 +++
 Hello! 👋 My name is Jen and I'm the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
@@ -14,7 +14,7 @@ In short, I am a company of one. I answer the customer support emails and I code
 
 As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing.
 
-**Finding opportunities for process optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000+ ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
+**Finding opportunities for process optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000 ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
