@@ -200,7 +200,7 @@ Having hobbies that are not work-related is really helpful. I've been consistent
 
 As a company of one, the hard truth is that the company's success is highly dependent on me and will only ever be as successful as I allow it to be, either intentionally or unintentionally.
 
-But success is also defined by me, and can have multiple levels each being a reason for celebration. I feel incredibly blessed to have a supportive partner and parents in my journey who are willing to celebrate all the milestones, both big (500 users) and small (5 users) with me.
+But success is also defined by me, and can have multiple levels each being a reason for celebration. I feel incredibly blessed to have a supportive partner and parents who are willing to celebrate all the milestones, both big (500 users) and small (5 users) with me.
 
 Lastly, I hate calling Lunch Money work because I don't feel that it fits the sentiments generally associated with work. I'd rather equate it to being able to play video games all day and get paid for it. Sometimes I'll hit a hard level but that only makes me want to keep going at it. Genuinely enjoying what you do is the best optimization and will take you far.
 
