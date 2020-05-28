@@ -43,7 +43,7 @@ To state the obvious, I enjoy being hyper-efficient (without burning myself out,
 
 At 500+ users now, those days are long gone and I've since needed to adopt the more boring but responsible approach of implementing safeguards to prevent shipping faulty code.
 
-For one, <b>I've been thoroughly reviewing my own code after every change</b>. Every major feature, improvement and bug fix lives in a feature branch that I still, by habit from the corporate days, prepend with `jen/`. After verifying everything works great locally, I make sure to take a break first, whether that's working on a completely unrelated task, going for a meal or going to bed. The point of this is to ensure that I'm code reviewing with a clear head.
+For one, <b>I've been thoroughly reviewing my own code before every change</b>. Every major feature, improvement and bug fix lives in a feature branch that I still, by habit from the corporate days, prepend with `jen/`. After verifying everything works great locally, I make sure to take a break first, whether that's working on a completely unrelated task, going for a meal or going to bed. The point of this is to ensure that I'm code reviewing with a clear head.
 
 While adhering to these standards of code reviewing myself may add extra time to my overall process, it potentially saves hours of bug-fixing, answering related support tickets and self-loathing (I'm half-kidding here) down the line if I accidentally ship bad code.
 
@@ -67,7 +67,7 @@ I manually triggered the emails for bi-monthly account summaries for months beca
 
 Something that I'm glad I didn't spend the time to automate at all was the referral program. If an existing user refers a new user and the new user subscribes to a plan, then both users will receive credit for 1 month.
 
-In the end, the referral program only brought on a measly 11 extra users. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
+In the end, the referral program only brought on 11 extra users. It was not a pain at all to manually process rewards for those who did. If I had spent time conjuring up all the edge cases and automating this process, it would not have been worth the time investment.
 
 ## Keep low-hanging fruits in the back pocket
 
@@ -81,7 +81,7 @@ I find that keeping these around and tackling them on days when you feel general
 
 ## Timing marketing pushes
 
-At Lunch Money, a big part of the business is using the services of Plaid for bank syncing. Of importance is the fact that Plaid charges on a monthly basis. What this means is that if a user signs up on April 30, connects a bank account immediately and doesn't end up subscribing at the end of their 14-day trial, Plaid will charge me for this user in both April & May's invoices.
+At Lunch Money, a big part of the business is using the services of Plaid for bank syncing. Plaid charges on a monthly basis which means that if a user signs up on April 30, connects a bank account immediately and doesn't end up subscribing at the end of their 14-day trial, they will charge me for this user in both April & May's invoices.
 
 This realization coupled with my intense aversion to paying more than I need to has shaped a lot of practices at Lunch Money.
 
@@ -91,7 +91,7 @@ In total, a user who does not end up subscribing can spend up to 26 days in the 
 
 <img src="/uploads/calendar-1.png" style="border:0px;"/>
 
-Marketing pushes under my control, such as blog posts and product launches, are therefore always scheduled in the first few days of the month. When I came to this realization, my next Plaid bill went down for the first time.
+As a result, I always schedule marketing pushes such as blog posts and product launches in the first few days of the month. When I came to this realization, my next Plaid bill went down for the first time.
 
 ## Merging marketing and engineering for a combo win
 
@@ -107,15 +107,15 @@ Over the next few days, I'll start hearing from these new users via support tick
 
 About 3 days before the initial wave of user trials ends, I wrap up my engineering sprint and send out a newsletter detailing the latest features and improvements. This re-enforces to new users that the product is under continuous development.
 
-Finally, I have a drip campaign that automatically notifies a few days before their trial expires and on the actual date of expiry. This period of time is when I typically see most users convert 🤞.
+Finally, I have a drip campaign that automatically notifies users a few days before their trial expires and on the actual date of expiry. This period of time is when I typically see most users convert 🤞.
 
 # Optimizing Customer Support
 
 I used to think that if I were to hire someone, it would first be a customer support agent but I've since been moving away from that idea. Users are constantly surprised (in a good way!) when they realize the founder is responding to their bug reports or feature requests directly.
 
-Consistently providing great customer support is a long-term investment for Lunch Money as it is undoubtedly a great way to turn customers into champions. As I receive and respond to support tickets, I'm also able to identify and overhaul the common sources of trouble for users.
+**Consistently providing great customer support is a long-term investment for Lunch Money** as it is undoubtedly a great way to turn customers into champions. As I receive and respond to support tickets, I'm also able to identify and overhaul the common sources of trouble for users.
 
-**I've always believed that customer support would be the most important and the hardest part of the business to scale**, especially if I have the goal of staying a company of one. 
+I've always believed that customer support would be the most important and the hardest part of the business to scale, especially if I have the goal of staying a company of one.
 
 Corroborating data from <a href="https://emailmeter.com">EmailMeter</a> and my database, it seems my changes are making a difference. Despite a growing user base, inbound support emails remain fairly steady!
 
