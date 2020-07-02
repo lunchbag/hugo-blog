@@ -14,7 +14,7 @@ In short, I am a company of one. I answer the customer support emails and I code
 
 As the company scales, so too must all aspects of my work which I break down into 4 parts: customer support, engineering, product and marketing.
 
-**Finding opportunities for process optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 500+ users and $40,000 ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
+**Finding opportunities for process optimization is honestly one of the more fun parts of running a business**. I greatly attribute these to how I've been able to stay both solo & sane up until now, currently with 600+ users and $45,000 ARR. In this post, I'm excited to share some of my most successful strategies along with anecdotes from my experience working on Lunch Money.
 
 # Learning to juggle it all
 
