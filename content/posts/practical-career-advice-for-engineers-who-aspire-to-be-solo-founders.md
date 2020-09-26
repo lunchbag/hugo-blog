@@ -6,18 +6,16 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "Practical career advice for engineers who aspire to be solo founders"
+title = "4 career decisions that helped prepare me for solopreneurship"
 
 +++
-Hello! 👋 My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
+Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
 
-In this article, I won't be going into anything related to actually being a solo founder. This is specifically geared towards engineers who aspire to be solo founders of their own SaaS one day, and are currently in the phase of building work and/or life experience. As a very pragmatic person, this article is a projection of how I would have wanted to receive career advice– by hearing first-hand experiences with extracted lessons.
+I didn't start working on Lunch Money with the plan of becoming a full-fledged company of one. I definitely wasn't always well-equipped to be a solopreneur but I feel like certain decisions I've made from graduation until now have made the path easier for me. 
 
-Maybe you're currently an computer science of engineering student thinking about their next steps. Perhaps you're a new grad just starting their career or even an engineer with a few years of experience starting to think about their next steps. In any case, I hope this article helps to introduce some new ways of thinking about your own trajectory.
+Reflecting on how I got to where I am doing, I realized there are 4 major life decisions I made that have had significant contribution to where I am today. Here's what I believe are four career or life decisions I made that led to me on my current trajectory of being a solo founder and company of one.
 
-**Pick a company that's going to fuel your growth**
-
-If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
+## **Pick a company that's going to fuel  growth**
 
 Personally, I felt like Twitter was the right choice for me to start my career. When I joined, there were maybe 300 engineers and by the time I left, the company had 10x to about 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
 
@@ -40,7 +38,9 @@ So, when you're interviewing for your next gig, here are some questions I wouldn
 3. What kind of post-mortem process do you have?
 4. What hard skills might I learn from this role?
 
-**Switch teams often to optimize for experience breadth-depth ratio**
+If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
+
+## **Switch teams to optimize for experience breadth-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 3 years, having made significant impact on each before moving onto another team.
 
@@ -54,7 +54,7 @@ A few months later I decided it was time to switch teams again. I ended up going
 
 All in all, during my time at Twitter I was able to work up and down the stack, from data visualization and front-end UI/UX work all the way down to writing scalable infrastructure. The amount of variance between each team was important too. I oscillated between writing code from scratch to working in existing code and following rigid practices. I worked on efforts by myself as well as under the watchful eye of staff engineers.
 
-**Build something from scratch**
+## **Build something from scratch**
 
 In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. Some events were on Facebook while others were on ticketing platforms like Eventbrite, Ticketfly, etc. For the most part, you had to go to each individual club's website and navigate their calendars to find what was coming up.
 
@@ -70,10 +70,10 @@ The coolest part (which I've yet to re-experience with Lunch Money) was that I w
 
 The point is, build something from scratch. It can be anything. This started as a one pager and it slowly grew with interest. While it didn't go anywhere significant, I learned a ton and worked out the muscle of "learning by doing". Your first few projects may not end up being the breakthrough ones but they are invaluable in experience. It will also help you get used to putting yourself out there and launching things.
 
-**Take a sabbatical**
+## **Take a sabbatical**
 
 It's important to take a sabbatical to strip away the biases that exist in your current environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be something related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
 I moved out of San Francisco for good and took significant time off before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low, and cost of living was manageable. It reminded me of the other joys in life– family, nature and community.
 
-Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. That I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
+Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. That I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
