@@ -11,7 +11,7 @@ title = "On solopreneurship: 4 life and career decisions that had the greatest i
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
 
-It often comes as a surprise to people when they find out that Lunch Money is built and maintained by a single person. 
+It often comes as a surprise to people when they find out that Lunch Money is built and maintained by a single person.
 
 > It’s really inspiring and reassuring (as a fellow solo founder) to see that a single person can build so much value.
 
@@ -29,7 +29,7 @@ In this article, I will go into the 4 life and career decisions to which I attri
 
 ## **Join the right company**
 
-I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 engineers and by the time I left, the company had 10x to about 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
+I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 employees and by the time I left, the company had 10x'ed to over 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
 
 If I had joined a company that was already huge, it would be harder for me to experience a lot of things first-hand. Seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things.
 
@@ -54,13 +54,13 @@ If you're aspiring to eventually run your own business, chances are you do not p
 
 ## **Optimize experience breadth-to-depth ratio**
 
-I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 3 years, having made significant impact on each before moving onto another team.
+I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 1 year, having made significant impact on each before moving onto another team.
 
-My first team was the Observability team which was responsible for building a Mixpanel for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards. I myself wasn't a hardcore user of this tool, so I talked a lot with other engineers and was able to hone my skills of listening to their issues or feature requests and figuring out what was feasible. I learned Ruby on Rails and backbone.js, my first two frameworks ever.
+My first team was the Observability team which was responsible for building a Mixpanel for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards. I myself wasn't a hardcore user of this tool, so I talked a lot with other engineers and was able to hone my skills of listening to their issues or feature requests and figuring out what was feasible. I learned Ruby on Rails and backbone.js, my first two frameworks ever, and I also had the experience of training my first ever intern.
 
 To be honest, I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
 
-I ended up learning Scala on the job. It certainly wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to help ship a couple of high impact features including being the sole backend engineer supporting the World Cup new user experience efforts.
+I ended up learning Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to help ship a couple of high impact features including being the sole backend engineer supporting the World Cup new user experience efforts.
 
 A few months later I decided it was time to switch teams again. I ended up going to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts. I would continue writing Scala under the mentorship of some of the most seasoned engineers at Twitter at the time and I ended up rewriting the entire infrastructure that interpreted text messages from scratch.
 
@@ -74,7 +74,13 @@ A friend who grew up in the bay area and was a veteran in the scene told me abou
 
 For the first time in a while, I stayed home during weekends instead of going out to hammer out an MVP in Ruby on Rails. The MVP was basically a one-pager with a list of manually-inserted events sorted by date. I started to tell my friends about the site and it proved invaluable. Eventually, word of mouth spread and my site peaked at 1000 WAU.
 
+![](/uploads/futuraretro1.png)
+<span class="caption">The first iteration of futuraretro</span>
+
 The site evolved over the next few months. I learned to incorporate the Gracenote API which would automatically label each event with the genre of EDM. The Eventbrite and Ticketfly APIs helped to automate some of the event insertions. I implemented a form submission where people could suggest events to add. I started a Facebook community (grew to 1000+) and learned about how to put out basic ads. I was also able to make a few bucks every month with affiliate marketing.
+
+![](/uploads/futuraretro2.png)
+<span class="caption">The second and last redesign of futuraretro</span>
 
 Unfortunately, the eventual fade of my interest in EDM took with it my site as a casualty.
 
