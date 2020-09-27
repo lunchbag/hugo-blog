@@ -58,6 +58,9 @@ I feel strongly that working on three different teams at Twitter helped me gain 
 
 My first team was the Observability team which was responsible for building a Mixpanel for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards. I myself wasn't a hardcore user of this tool, so I talked a lot with other engineers and was able to hone my skills of listening to their issues or feature requests and figuring out what was feasible. I learned Ruby on Rails and backbone.js, my first two frameworks ever, and I also had the experience of training my first ever intern.
 
+![](/uploads/observability.png)
+<span class="caption">I designed data visualization and monitoring systems at Twitter</span>
+
 To be honest, I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
 
 I ended up learning Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to help ship a couple of high impact features including being the sole backend engineer supporting the World Cup new user experience efforts.
@@ -93,5 +96,7 @@ The point is, build something from scratch. It can be anything. This started as 
 It's important to take a sabbatical to strip away the biases that exist in your current environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be something related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
 I moved out of San Francisco for good and took significant time off before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low, and cost of living was manageable. It reminded me of the other joys in life– family, nature and community.
+
+![](/uploads/sabbatical.jpg)
 
 Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. That I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
