@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "My top 4 life and career decisions that helped prepare me for solopreneurship"
+title = "On solopreneurship: 4 life and career decisions that had the greatest impact"
 
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
@@ -14,18 +14,20 @@ Hello! 👋  My name is Jen and I’m the founder, engineer, designer and custom
 It often comes as a surprise to people when they find out that Lunch Money is built and maintained by a single person. 
 
 > It’s really inspiring and reassuring (as a fellow solo founder) to see that a single person can build so much value.
-<br/><br/>
-> By the way, extremely impressed by the UX and usability, top notch stuff. Hard to believe this is something built and managed by a single person, especially considering the level of both design and back end dev.
-<br/><br/>
-> I signed up over the weekend as a trial user, and was amazed at the UX, snappiness and polish. Hard to believe it's run by just one person.
-<br/><br/><br/>
-> Wow! It’s phenomenal what one person has built in an year. You must be a productivity machine gun. Inspiring.
-<br/><br/><br/><br/>
-> Is this still a one-person-project? I’m so impressed.
-<br/><br/><br/>
-I didn't start working on Lunch Money with the plan of becoming a full-fledged company of one. I definitely wasn't always well-equipped to be a solopreneur but I feel like certain decisions I've made from graduation until now have made the path easier for me. 
 
-Reflecting on how I got to where I am doing, I realized there are 4 major life decisions I made that have had significant contribution to where I am today. Here's what I believe are four career or life decisions I made that led to me on my current trajectory of being a solo founder and company of one.
+> By the way, extremely impressed by the UX and usability, top notch stuff. Hard to believe this is something built and managed by a single person, especially considering the level of both design and back end dev.
+
+> I signed up over the weekend as a trial user, and was amazed at the UX, snappiness and polish. Hard to believe it's run by just one person.
+
+> Wow! It’s phenomenal what one person has built in an year. You must be a productivity machine gun. Inspiring.
+
+> Is this still a one-person-project? I’m so impressed.
+
+*In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.* It was never part of my life goals to start my own company and I hadn't thought about it for months after I started working on Lunch Money. It was only until I saw success with my first launch that I decided to quit my current freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
+
+It goes without saying that everyone's path to and experience with solopreneurship is different. At the end of teach article, I'll be highlighting a fellow solopreneur with a link to their own reflections. I hope this helps provide alternative perspectives and it can help you on your own journey!
+
+In this article, I will go into the 4 life and career decisions to which I attribute my greatest and significant growth and experience-building periods.
 
 ## **Join the right company**
 
