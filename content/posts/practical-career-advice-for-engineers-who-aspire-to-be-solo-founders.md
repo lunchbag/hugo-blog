@@ -23,17 +23,23 @@ It often comes as a surprise to people when they find out that Lunch Money is bu
 
 > Is this still a one-person-project? I’m so impressed.
 
-**In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.** It was never part of my life goals to start my own company and I hadn't thought about it for months after I started working on Lunch Money. It was only until I saw success with my first launch that I decided to quit my current freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
+**In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.** It was never part of my life goals to start my own company and I hadn't thought about it even after I started working on Lunch Money. It was only until I saw success with my first launch that I decided to quit my current freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
 
 In this article, I will go into the 4 life and career decisions to which I attribute my greatest and significant growth and experience-building periods.
 
 ## **Join the right company**
 
+### On size of company
+
 I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 employees and by the time I left, the company had 10x'ed to over 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
 
-If I had joined a company that was already huge, it would be harder for me to experience a lot of things first-hand. Seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things.
+If I had joined a company that was already huge, it would be harder for me to experience a lot of things first-hand. Seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things and where such processes might have been more of a hindrance than benefit.
+
+### On mentorship
 
 Mentorship is also important. Joining a small startup with a bunch of new grads or engineers with only a few years of experience is different than joining a startup with seasoned engineers. On my last team at Twitter, I worked with a team of older engineers who were friends and moved to Twitter together via an acquisition. They were definitely the smartest engineers I may ever work with in my career and they undoubtedly accelerated my growth by holding me to high standards for code and testing.
+
+### On transferrable skills
 
 Lastly, the most important factor is whether or not I am learning transferrable skills at this company. Take for example the two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
 
