@@ -23,9 +23,7 @@ It often comes as a surprise to people when they find out that Lunch Money is bu
 
 > Is this still a one-person-project? I’m so impressed.
 
-*In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.* It was never part of my life goals to start my own company and I hadn't thought about it for months after I started working on Lunch Money. It was only until I saw success with my first launch that I decided to quit my current freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
-
-It goes without saying that everyone's path to and experience with solopreneurship is different. At the end of teach article, I'll be highlighting a fellow solopreneur with a link to their own reflections. I hope this helps provide alternative perspectives and it can help you on your own journey!
+**In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.** It was never part of my life goals to start my own company and I hadn't thought about it for months after I started working on Lunch Money. It was only until I saw success with my first launch that I decided to quit my current freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
 
 In this article, I will go into the 4 life and career decisions to which I attribute my greatest and significant growth and experience-building periods.
 
@@ -54,7 +52,7 @@ So, when you're interviewing for your next gig, here are some questions I wouldn
 
 If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
 
-## **Optimize for experience breadth-to-depth ratio**
+## **Optimize experience breadth-to-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 3 years, having made significant impact on each before moving onto another team.
 
