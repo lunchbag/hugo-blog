@@ -31,30 +31,27 @@ In this article, I will go into the 4 life and career decisions to which I attri
 
 ### On size of company
 
-I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 employees and by the time I left, the company had 10x'ed to over 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
+I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 employees and by the time I left, the company had 10x'ed to over 3000. I was able to experience in fast motion the foundational timeline of a company, from small start-up to a public company. It was apparent through the stages how this growth affected the culture within the engineering department in both good and bad ways and while it was a bumpy ride, it was fascinating to take away a lot of lessons in growing a product from a front-row seat.
 
-If I had joined a company that was already huge, it would be harder for me to experience a lot of things first-hand. Seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things and where such processes might have been more of a hindrance than benefit.
+If I had joined a company that was already large and established, it would have been harder for me to experience these changes first-hand. For instance, seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things and where such processes might have been more of a hindrance than benefit.
 
 ### On mentorship
 
-Mentorship is also important. Joining a small startup with a bunch of new grads or engineers with only a few years of experience is different than joining a startup with seasoned engineers. On my last team at Twitter, I worked with a team of older engineers who were friends and moved to Twitter together via an acquisition. They were definitely the smartest engineers I may ever work with in my career and they undoubtedly accelerated my growth by holding me to high standards for code and testing.
+At the begining of my career, I undervalued mentorship. It took 3 years after joining my last team at Twitter to realize the importance and the impact of having a good mentor. I worked with a team of older engineers who were friends and moved to Twitter together via an acquisition. They were definitely the smartest engineers I may ever work with in my career and they undoubtedly accelerated my growth by holding me to high standards for code and testing.
+
+Joining a small startup with a bunch of new grads or engineers with only a few years of experience is different than joining a startup with seasoned engineers. Engineering is not a young person's sport– we have a lot to learn from older, seasoned engineers. They seen some shit.
 
 ### On transferrable skills
 
-Lastly, the most important factor is whether or not I am learning transferrable skills at this company. Take for example the two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
+I never thought about how important transferrable skills were until I realized not everyone had the same fortunate experiences I had at Twitter. A friend told me a story of how working at large software companies simplifies a lot of processes for the sake of moving fast. For instance, one-click deploy of a database with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that spinning up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
 
-To any parent from an older generation (and certainly mine), Qualcomm seems to be the obvious choice. Discounting the fact that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my two internships at Qualcomm.
+Knowing how to spin up a new website or data store or app within Google or Apple is different than doing the same for an independent side project. No doubt you'll eventually figure out the differences, but you'll have a lot to detangle.
+
+Take for example the two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
+
+To any parent from an older generation (and certainly mine), Qualcomm seems to be the obvious choice to have a career. Ignoring the fact that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my two internships at Qualcomm.
 
 At the smaller start-up, I learned how to use Github. I learned how to talk to clients as I was building mobile apps for them using a cross-platform development tool. I learned how to think about web versus mobile design. I learned a ton of Javascript. These are all things I am still utilizing today.
-
-I've also heard stories of software engineers working at large software companies that simplify a lot of processes for the sake of moving fast. For instance, one-click deploy of a database with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that spinning up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
-
-So, when you're interviewing for your next gig, here are some questions I wouldn't hesitate to ask your potential future employer:
-
-1. Who are the potential mentors on my team?
-2. What open-source software, if any, do you use or contribute to?
-3. What kind of post-mortem process do you have?
-4. What hard skills might I learn from this role?
 
 If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
 
