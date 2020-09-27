@@ -6,18 +6,30 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "4 career decisions that helped prepare me for solopreneurship"
+title = "My top 4 life and career decisions that helped prepare me for solopreneurship"
 
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
+
+It often comes as a surprise to people when they find out that Lunch Money is built and maintained by a single person. 
+
+> It’s really inspiring and reassuring (as a fellow solo founder) to see that a single person can build so much value.
+
+> By the way, extremely impressed by the UX and usability, top notch stuff. Hard to believe this is something built and managed by a single person, especially considering the level of both design and back end dev.
+
+> I signed up over the weekend as a trial user, and was amazed at the UX, snappiness and polish. Hard to believe it's run by just one person.
+
+> Wow! It’s phenomenal what one person has built in an year. You must be a productivity machine gun. Inspiring.
+
+> Is this still a one-person-project? I’m so impressed.
 
 I didn't start working on Lunch Money with the plan of becoming a full-fledged company of one. I definitely wasn't always well-equipped to be a solopreneur but I feel like certain decisions I've made from graduation until now have made the path easier for me. 
 
 Reflecting on how I got to where I am doing, I realized there are 4 major life decisions I made that have had significant contribution to where I am today. Here's what I believe are four career or life decisions I made that led to me on my current trajectory of being a solo founder and company of one.
 
-## **Pick a company that's going to fuel  growth**
+## **Join the right company**
 
-Personally, I felt like Twitter was the right choice for me to start my career. When I joined, there were maybe 300 engineers and by the time I left, the company had 10x to about 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
+I started my career at Twitter, where I worked for three and a half years. When I joined, there were maybe 300 engineers and by the time I left, the company had 10x to about 3000. I was able to experience in fast motion the growth of a company and it was apparent how this growth permeated through the company and affected the engineering side of things.
 
 If I had joined a company that was already huge, it would be harder for me to experience a lot of things first-hand. Seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly was important to understand that there is a right time to change things.
 
@@ -40,7 +52,7 @@ So, when you're interviewing for your next gig, here are some questions I wouldn
 
 If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
 
-## **Switch teams to optimize for experience breadth-depth ratio**
+## **Optimize for experience breadth-to-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 3 years, having made significant impact on each before moving onto another team.
 
