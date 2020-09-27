@@ -47,11 +47,11 @@ I never thought about how important transferrable skills were until I realized n
 
 Knowing how to spin up a new website or data store or app within Google or Apple is different than doing the same for an independent side project. No doubt you'll eventually figure out the differences, but you'll have a lot to detangle.
 
-Take for example the two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
+The best example for transferrable skills comes from two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
 
-To any parent from an older generation (and certainly mine), Qualcomm seems to be the obvious choice to have a career. Ignoring the fact that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my two internships at Qualcomm.
+Ignoring the fact that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my two internships at Qualcomm.
 
-At the smaller start-up, I learned how to use Github. I learned how to talk to clients as I was building mobile apps for them using a cross-platform development tool. I learned how to think about web versus mobile design. I learned a ton of Javascript. These are all things I am still utilizing today.
+At the smaller start-up, I learned how to use Github. I learned how to talk to clients as I was building mobile apps for them using a cross-platform development tool. I learned how to think about web versus mobile design. I learned a ton of Javascript. These are all skillsets I am still tapping into today.
 
 If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
 
