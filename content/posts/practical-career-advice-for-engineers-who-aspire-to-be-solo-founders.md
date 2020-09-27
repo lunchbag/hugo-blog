@@ -14,15 +14,15 @@ Hello! 👋  My name is Jen and I’m the founder, engineer, designer and custom
 It often comes as a surprise to people when they find out that Lunch Money is built and maintained by a single person. 
 
 > It’s really inspiring and reassuring (as a fellow solo founder) to see that a single person can build so much value.
-<br/>
+<br/><br/>
 > By the way, extremely impressed by the UX and usability, top notch stuff. Hard to believe this is something built and managed by a single person, especially considering the level of both design and back end dev.
-<br/>
+<br/><br/>
 > I signed up over the weekend as a trial user, and was amazed at the UX, snappiness and polish. Hard to believe it's run by just one person.
-<br/>
+<br/><br/><br/>
 > Wow! It’s phenomenal what one person has built in an year. You must be a productivity machine gun. Inspiring.
-<br/>
+<br/><br/><br/><br/>
 > Is this still a one-person-project? I’m so impressed.
-<br/>
+<br/><br/><br/>
 I didn't start working on Lunch Money with the plan of becoming a full-fledged company of one. I definitely wasn't always well-equipped to be a solopreneur but I feel like certain decisions I've made from graduation until now have made the path easier for me. 
 
 Reflecting on how I got to where I am doing, I realized there are 4 major life decisions I made that have had significant contribution to where I am today. Here's what I believe are four career or life decisions I made that led to me on my current trajectory of being a solo founder and company of one.
