@@ -37,69 +37,68 @@ If I had joined a company that was already large and established, it would have 
 
 ### On mentorship
 
-At the begining of my career, I undervalued mentorship. It took 3 years after joining my last team at Twitter to realize the importance and the impact of having a good mentor. I worked with a team of older engineers who were friends and moved to Twitter together via an acquisition. They were definitely the smartest engineers I may ever work with in my career and they undoubtedly accelerated my growth by holding me to high standards for code and testing.
-
-Joining a small startup with a bunch of new grads or engineers with only a few years of experience is different than joining a startup with seasoned engineers. Engineering is not a young person's sport– we have a lot to learn from older, seasoned engineers. They seen some shit.
+At the beginning of my career, I undervalued mentorship. It took 3 years after joining my last team at Twitter to realize the importance and the impact of having a good mentor. I worked with a team of older engineers who were friends and moved to Twitter together via an acquisition. They were definitely the smartest engineers I may ever work with in my career and they undoubtedly accelerated my growth by holding me to high standards for code and testing.
 
 ### On transferrable skills
 
-I never thought about how important transferrable skills were until I realized not everyone had the same fortunate experiences I had at Twitter. A friend told me a story of how working at large software companies simplifies a lot of processes for the sake of moving fast. For instance, one-click deploy of a database with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that spinning up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
+I never thought about how important transferrable skills were until I realized not everyone had the same fortunate experiences I had at Twitter. 
 
-Knowing how to spin up a new website or data store or app within Google or Apple is different than doing the same for an independent side project. No doubt you'll eventually figure out the differences, but you'll have a lot to detangle.
+A friend told me a story of how working at \[unnamed large software company\] simplified a lot of processes for the sake of moving fast. For instance, one-click deploy of a database with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that spinning up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
 
-The best example for transferrable skills comes from two internships I had during my college years. The first was at Qualcomm– a large well-known international company that surely could have been a cushy place to spend 30+ years and retire. The second was a small start-up of 3 founders, another intern and myself that was on a time crunch due to a shrinking runway.
+Consider two internships I had during my college years. The first was at Qualcomm– a large well-known international company with decades of proven engineering expertise. The second was a small seed-funded start-up of 3 founders, another intern and myself that arguably hadn't found their product market fit yet.
 
-Ignoring the fact that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my two internships at Qualcomm.
+Granted that Qualcomm is in a totally different field of embedded software and hardware engineering, a lot of the tech I worked with was proprietary. I learned virtually no transferrable hard skills during my double-term internship at Qualcomm.
 
-At the smaller start-up, I learned how to use Github. I learned how to talk to clients as I was building mobile apps for them using a cross-platform development tool. I learned how to think about web versus mobile design. I learned a ton of Javascript. These are all skillsets I am still tapping into today.
+At the smaller start-up, I learned how to use Github. I worked with open source projects for the first time. I learned how to communicate with clients as I was building apps for them. I learned how to think about web versus mobile design. I learned a ton of Javascript. These are all skillsets I am still tapping into today.
 
-If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable.
+If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable!
 
 ## **Optimize experience breadth-to-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 1 year, having made significant impact on each before moving onto another team.
 
-My first team was the Observability team which was responsible for building a Mixpanel for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards. I myself wasn't a hardcore user of this tool, so I talked a lot with other engineers and was able to hone my skills of listening to their issues or feature requests and figuring out what was feasible. I learned Ruby on Rails and backbone.js, my first two frameworks ever, and I also had the experience of training my first ever intern.
+My first team was the Observability team which was responsible for building a Mixpanel for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards. I myself wasn't a hardcore user of this tool, so I talked a lot with other engineers and was able to hone my skills of listening to their issues or feature requests and figuring out what was feasible.
 
-![](/uploads/observability.png)
-<span class="caption">I designed data visualization and monitoring systems at Twitter</span>
+![](/uploads/observability.png) <span class="caption">I designed data visualization and monitoring systems using Ruby on Rails and backbone.js at Twitter</span>
 
-To be honest, I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
+I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
 
-I ended up learning Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to help ship a couple of high impact features including being the sole backend engineer supporting the World Cup new user experience efforts.
+Despite my initial uneasiness, I tapped into my "fake it til you make it" mentality and I ended up learning Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to help ship a couple of high impact features including being the sole backend engineer supporting the World Cup new user experience efforts.
 
-A few months later I decided it was time to switch teams again. I ended up going to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts. I would continue writing Scala under the mentorship of some of the most seasoned engineers at Twitter at the time and I ended up rewriting the entire infrastructure that interpreted text messages from scratch.
+A few months later I switched to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts. I continued writing Scala under the mentorship of some of the most seasoned engineers at Twitter at the time and I ended up rewriting the entire infrastructure that interpreted text messages from scratch.
 
-All in all, during my time at Twitter I was able to work up and down the stack, from data visualization and front-end UI/UX work all the way down to writing scalable infrastructure. The amount of variance between each team was important too. I oscillated between writing code from scratch to working in existing code and following rigid practices. I worked on efforts by myself as well as under the watchful eye of staff engineers.
+All in all, I left Twitter with an incredible amount of experience– having worked up and down the stack, in existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering abilities and more importantly, my ability to learn a new technology quickly. 
 
 ## **Build something from scratch**
 
-In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. Some events were on Facebook while others were on ticketing platforms like Eventbrite, Ticketfly, etc. For the most part, you had to go to each individual club's website and navigate their calendars to find what was coming up.
+In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. For the most part, you had to go to each individual club's website and navigate their calendars to find what was coming up. From there, some events were on Facebook while others were on ticketing platforms like Eventbrite, Ticketfly, etc. 
 
-A friend who grew up in the bay area and was a veteran in the scene told me about a now-defunct site that used to aggregate all EDM events into a calendar and it was wildly popular. I thought this was a fantastic idea, well within my technical scope at the time and I got to work.
+A friend who grew up in the bay area and was a veteran in the scene told me about a now-defunct site that used to aggregate all EDM events into a calendar which was wildly popular. I thought this was a fantastic idea, well within my technical scope at the time and I got to work.
 
-For the first time in a while, I stayed home during weekends instead of going out to hammer out an MVP in Ruby on Rails. The MVP was basically a one-pager with a list of manually-inserted events sorted by date. I started to tell my friends about the site and it proved invaluable. Eventually, word of mouth spread and my site peaked at 1000 WAU.
+For the first time in a while, I stayed home during weekends instead of going out to hammer out an MVP in Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events sorted by date. I started to tell my friends about the site and it proved invaluable. Eventually, word of mouth spread and my site peaked at 1000 WAU.
 
 ![](/uploads/futuraretro1.png)
 <span class="caption">The first iteration of futuraretro</span>
 
-The site evolved over the next few months. I learned to incorporate the Gracenote API which would automatically label each event with the genre of EDM. The Eventbrite and Ticketfly APIs helped to automate some of the event insertions. I implemented a form submission where people could suggest events to add. I started a Facebook community (grew to 1000+) and learned about how to put out basic ads. I was also able to make a few bucks every month with affiliate marketing.
+The site evolved over the next few months. I learned to incorporate the Gracenote API which would automatically label each event with the genre of EDM. The Eventbrite and Ticketfly APIs helped to automate some of the event additions. I implemented a form submission where people could suggest events to add. I started a Facebook community (grew to 1000+) and learned about how to put out basic ads. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate marketing.
 
 ![](/uploads/futuraretro2.png)
 <span class="caption">The second and last redesign of futuraretro</span>
 
-Unfortunately, the eventual fade of my interest in EDM took with it my site as a casualty.
+Unfortunately, the eventual fade of my interest in EDM claimed my site as a casualty.
 
-The coolest part (which I've yet to re-experience with Lunch Money) was that I was at a show once and I met someone there. I asked them if they had heard of my site and they pulled up their phone to show me it was the last site they had visited. That blew my mind!
+The coolest part (which I've yet to re-experience with Lunch Money) was when I met someone at a show. I asked them if they had heard of my site and they pulled up their phone to show me it was the last site they had visited. That blew my mind!
 
-The point is, build something from scratch. It can be anything. This started as a one pager and it slowly grew with interest. While it didn't go anywhere significant, I learned a ton and worked out the muscle of "learning by doing". Your first few projects may not end up being the breakthrough ones but they are invaluable in experience. It will also help you get used to putting yourself out there and launching things.
+The point is, build something from scratch. It can be anything. This started as a one pager and it slowly grew with interest. While it didn't go anywhere significant, I learned a ton and strengthened the muscle of "learning by doing". Your first few projects may not end up being the breakthrough ones but they are invaluable in experience. It will also help you get used to putting yourself out there and launching things.
 
 ## **Take a sabbatical**
 
-It's important to take a sabbatical to strip away the biases that exist in your current environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be something related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
+Moving out of San Francisco permanently and taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be something related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
-I moved out of San Francisco for good and took significant time off before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low, and cost of living was manageable. It reminded me of the other joys in life– family, nature and community.
+I took significant time off to travel before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low, and cost of living was manageable. I was reminded of the other joys in life– family, nature and community.
 
-![](/uploads/sabbatical.jpg)
+![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in a large field of 
 
-Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. That I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
+Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. 
+
+I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
