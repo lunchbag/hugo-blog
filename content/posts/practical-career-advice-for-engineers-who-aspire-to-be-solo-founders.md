@@ -25,9 +25,9 @@ It often comes as a surprise to people when they find out that Lunch Money is bu
 
 **In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.** It was never part of my life goals to start my own company and I hadn't thought about it even after I started working on Lunch Money. It was only until I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
 
-In this article, I will go into the 4 life and career decisions to which I attribute my greatest and significant growth and experience-building periods.
+In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.
 
-## **Join the right company**
+## **Joining the right company**
 
 ### On size of company
 
@@ -41,7 +41,7 @@ At the beginning of my career, I undervalued mentorship. It took 3 years after j
 
 ### On transferrable skills
 
-I never thought about how important transferrable skills were until I realized not everyone had the same fortunate experiences I had at Twitter. 
+I never thought about how important transferrable skills were until I realized not everyone had the same fortunate experiences I had at Twitter.
 
 A friend told me a story of how working at \[unnamed large software company\] simplified a lot of processes for the sake of moving fast. For instance, one-click deploy of a database with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that spinning up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
 
@@ -53,7 +53,7 @@ At the smaller start-up, I learned how to use Github. I worked with open source 
 
 If you're aspiring to eventually run your own business, chances are you do not plan to stay at any one company for over 4 years. Therefore, you need to be strategic with the company you choose to join. Your time is valuable!
 
-## **Optimize experience breadth-to-depth ratio**
+## **Optimizing experience breadth-to-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain the most experience. I stayed on each team for roughly 1 year, having made significant impact on each before moving onto another team.
 
@@ -67,11 +67,11 @@ Despite my initial uneasiness, I tapped into my "fake it til you make it" mental
 
 A few months later I switched to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts. I continued writing Scala under the mentorship of some of the most seasoned engineers at Twitter at the time and I ended up rewriting the entire infrastructure that interpreted text messages from scratch.
 
-All in all, I left Twitter with an incredible amount of experience– having worked up and down the stack, in existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering abilities and more importantly, my ability to learn a new technology quickly. 
+All in all, I left Twitter with an incredible amount of experience– having worked up and down the stack, in existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering abilities and more importantly, my ability to learn a new technology quickly.
 
-## **Build something from scratch**
+## **Building something from scratch**
 
-In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. For the most part, you had to go to each individual club's website and navigate their calendars to find what was coming up. From there, some events were on Facebook while others were on ticketing platforms like Eventbrite, Ticketfly, etc. 
+In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. For the most part, you had to go to each individual club's website and navigate their calendars to find what was coming up. From there, some events were on Facebook while others were on ticketing platforms like Eventbrite, Ticketfly, etc.
 
 A friend who grew up in the bay area and was a veteran in the scene told me about a now-defunct site that used to aggregate all EDM events into a calendar which was wildly popular. I thought this was a fantastic idea, well within my technical scope at the time and I got to work.
 
@@ -91,14 +91,14 @@ The coolest part (which I've yet to re-experience with Lunch Money) was when I m
 
 The point is, build something from scratch. It can be anything. This started as a one pager and it slowly grew with interest. While it didn't go anywhere significant, I learned a ton and strengthened the muscle of "learning by doing". Your first few projects may not end up being the breakthrough ones but they are invaluable in experience. It will also help you get used to putting yourself out there and launching things.
 
-## **Take a sabbatical**
+## **Taking a sabbatical**
 
 Moving out of San Francisco permanently and taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be something related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
 I took significant time off to travel before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low, and cost of living was manageable. I was reminded of the other joys in life– family, nature and community.
 
-![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in a large field of 
+![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a bartender and waitress at a French restaurant</span>
 
-Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. 
+Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I wanted when I was back in San Francisco was in the framework of that environment. I wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco.
 
 I realized I never wanted to work for someone else again and seeing as I had the best summer of my life with very little spending, that money wasn't as crucial to my happiness as I thought it would be.
