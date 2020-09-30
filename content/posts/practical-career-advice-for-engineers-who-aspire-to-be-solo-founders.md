@@ -23,7 +23,7 @@ It often comes as a surprise to people when they find out that Lunch Money is bu
 
 > Is this still a one-person-project? I’m so impressed.
 
-**In this new written series, I'd like to deep dive into solopreneurship and my personal journey with it.** It was never part of my life goals to start my own company and I hadn't thought about it even after I started working on Lunch Money. It was only until I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
+It was never part of my life goals to start my own company and I hadn't thought about it even after I started working on Lunch Money. It was only until I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time. The aggregate of my life and work experience allowed me to transition easily into the role.
 
 In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.
 
