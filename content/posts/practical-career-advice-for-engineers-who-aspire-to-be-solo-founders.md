@@ -41,7 +41,7 @@ At the beginning of my career, I undervalued mentorship. It took nearly 3 years 
 
 ### On transferrable skills
 
-I had never given much thought to how important transferrable skills were until I realized that being a software engineer at any company did not result in the same set of experiences and skills.
+I had never given much thought to how important transferrable skills were until I realized that being a software engineer at any company did not result in more-or-less the same set of experiences and skills.
 
 A friend told me a story of how working at \[unnamed large software company\] simplified a lot of processes for the sake of moving quickly. For instance, databases could be spun up via one-click deploy coupled with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that setting up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
 
