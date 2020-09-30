@@ -89,12 +89,14 @@ The coolest part (which I've yet to re-experience with Lunch Money) was when I m
 
 The eventual fade of my interest in EDM took my site down with it. The point is, build something from scratch. It can be anything. This started as a one pager and it slowly grew with interest. While it didn't get anywhere significant, I learned a ton and strengthened my muscle of "learning by doing". Since then, I've launched a number of other micro-sites spawned from short-lived curiosities and interests. Your first few projects may not end up being the breakthrough ones but will help you get used to putting yourself out there and launching things.
 
-## **Taking a sabbatical**
+## **Hitting the reset button**
 
-Moving out of San Francisco permanently and taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco why I would want to start a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
+Moving out of San Francisco permanently and taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco my motivations for starting a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
-I took significant time off to travel before settling back down in Toronto in 2017. I sought after experiences I knew I would never come across otherwise. I ended up living in various abodes in Northeastern Thailand, among the poorest villages in the country. I also spent time in the French countryside where wages are low yet cost of living was manageable. I was reminded of the other joys in life– family, nature and community.
+I took significant time off to travel in 2017. I sought after experiences I knew I would never come across otherwise such as spending time [in various abodes in Northeastern Thailand](https://lunchbag.ca/thailand/) and [the French countryside](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/). Being in new and unfamiliar environments helped me see almost right away that I wanted to end up in Toronto. I was reminded of the other joys in life– family, nature and community.
 
-![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a bartender and waitress at a French restaurant</span>
+![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a ?bartender and waitress at a French restaurant</span>
 
-Being in a totally new environment helped me see almost right away that I wanted to end back up in Toronto, not San Francisco. Everything I thought I wanted when I was back in San Francisco was in the framework of that environment. I realized I instead wanted to be closer, both physically and emotionally, to my parents– a thought that rarely came up during the hustle of San Francisco. For the first time in a long time, I saw a path in my life leading to happiness that wasn't directly correlated to money.
+It may seem drastic, but leaving behind all my comforts and going on a sabbatical was my big 'ah ha!' moment. I don't think it changed me as a person, rather, it allowed me to accurately determine my desired life path without any external influences. 
+
+Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. If I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom, not money. Running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
