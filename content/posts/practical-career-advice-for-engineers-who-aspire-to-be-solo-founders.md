@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "On solopreneurship: 4 life and career decisions that had the greatest impact"
+title = "4 life and career decisions that prepared me for solopreneurship"
 
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at Lunch Money, a personal finance and budgeting web app.
