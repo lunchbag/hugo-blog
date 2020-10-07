@@ -55,8 +55,7 @@ I later found out from a friend that there used to be a popular site that aggreg
 
 I hammered out a minimal viable product (MVP) with Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events for the next 2 weeks. I started to tell my friends about the site and it quickly proved invaluable.
 
-![](/uploads/futuraretro1.png)
-<span class="caption">The first iteration of futuraretro</span>
+![](/uploads/futuraretro1.png) <span class="caption">The first iteration of futuraretro</span>
 
 Fuelled my passion, I poured hours of effort every week into growing my site. I learned to incorporate the Gracenote API which would label each event with the specific genre of EDM. The Eventbrite and Ticketfly APIs helped automate adding new event details. I implemented a form where promoters could suggest upcoming shows. I started a Facebook page which grew to 1000+ followers. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
 
