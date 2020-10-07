@@ -51,30 +51,32 @@ All in all, I left Twitter with an incredible breadth and depth of experience–
 
 In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. You basically had to go to each individual venue's (often janky) website and navigate their calendars to find what was coming up. From there, specific event details were either on Facebook or ticketing platforms like Eventbrite, Ticketfly, etc.
 
-I later found out from a friend that there used to be a site that aggregated all EDM events in the Bay Area and was wildly popular until they eventually shut down after a long hiatus. I thought this was a fantastic idea and well within my technical scope at the time so I got to work.
+I later found out from a friend that there used to be a popular site that aggregated all EDM events in the Bay Area until it eventually shut down. I thought this was a fantastic idea and well within my technical scope so I got to work.
 
-I hammered out a minimal viable product (MVP) in Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events for the next 2 weeks. I started to tell my friends about the site and it proved invaluable. Over the course of several weeks, word of mouth spread and my site eventually peaked at 1000 WAU.
+I hammered out a minimal viable product (MVP) in Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events for the next 2 weeks. I started to tell my friends about the site and it quickly proved invaluable. 
 
 ![](/uploads/futuraretro1.png)
 <span class="caption">The first iteration of futuraretro</span>
 
 Fuelled my passion, I poured hours of effort into growing my site. I learned to incorporate the Gracenote API which would automatically label each event with the genre of EDM. The Eventbrite and Ticketfly APIs helped to automate some of the event additions. I implemented a form where promoters could suggest events to add. I started a Facebook community (grew to 1000+) and learned about how to put out ads. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
 
+Over the course of several weeks, word of mouth spread and my site ultimately peaked at 1000 weekly active users.
+
 ![](/uploads/futuraretro2.png)
 <span class="caption">The second and last redesign of futuraretro</span>
 
 The coolest part (which I've yet to re-experience with Lunch Money) was when I met someone at a show. I asked them if they had heard of my site and they pulled up their phone to show me it was the last site they had visited. That blew my mind!
 
-The eventual fade of my interest in EDM also meant the end of futuraretro. While it didn't get anywhere significant, I learned a ton and strengthened my muscle of "learning by doing". Since then, I've launched a number of other micro-sites spawned from short-lived curiosities and interests. My first few projects did not end up being the breakthrough ones but they helped me get used to putting myself out there and launching things.
+The eventual fade of my interest in EDM also meant the end of futuraretro. While it didn't get anywhere significant, I strengthened my muscle of "learning by doing". Since then, I've launched a number of other micro-sites spawned from short-lived curiosities and interests. My first few projects did not end up being the breakthrough ones but they helped me get used to putting myself out there and launching things.
 
 ## **Hitting the reset button**
 
-Moving out of San Francisco permanently and taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco my motivations for wanting to start a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
+Moving out of San Francisco permanently and subsequently taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco my motivations for wanting to start a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
 [I took significant time off to travel in 2017](https://lunchbag.ca/pre-departure-thoughts/). I sought after experiences I knew I would never come across otherwise such as spending time [in various abodes in Northeastern Thailand](https://lunchbag.ca/thailand/) and [the French countryside](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/). Being in new and unfamiliar environments helped me see almost right away that I wanted to end up in Toronto. I was reminded of the other joys in life– family, nature and community and [I gained clarity on myself](https://lunchbag.ca/checking-in-things-i-ve-learned/).
 
 ![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a ?bartender and waitress at a French restaurant</span>
 
-It may seem drastic, but leaving behind all my comforts and going on a sabbatical was my big 'ah ha!' moment. I don't think it changed me as a person, rather, it allowed me to recalibrate for my desired life path without external influences.
+It may seem drastic, but leaving behind all my comforts was my big 'ah ha!' moment. I don't think it changed me as a person, rather, it allowed me to recalibrate for my desired life path without external influences.
 
-Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. See, if I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom first, not money. Running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
+Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. See, if I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom first, not money. Right now, running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
