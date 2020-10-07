@@ -43,7 +43,7 @@ I would have probably stayed on longer if it weren't for my manager and another 
 
 Despite my initial uneasiness, I tapped into my "fake it til you make it" mentality and I learned Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but with a few late nights and the help of some very patient engineers, I was able to ship a couple of high impact features. I also ended up being the sole backend engineer supporting the new user onboarding process during the World Cup.
 
-I later switched to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts where I rewrote from scratch the entire infrastructure that interpreted text messages.
+I later switched to the messaging team (working on SMS, push notifications and email) where I rewrote from scratch the entire infrastructure that interpreted text messages.
 
 All in all, I left Twitter with an incredible breadth and depth of experience– having worked up and down the stack, in both existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering skills and more importantly, my ability to learn a new technology quickly.
 
