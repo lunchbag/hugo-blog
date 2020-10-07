@@ -27,21 +27,13 @@ It was never part of my life goals to start my own company, let alone be a compa
 
 To be honest, I hadn't thought about it even after I started working on Lunch Money. It was only until I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time. 
 
-So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I was always ready for something like this, but the right project just never came up and I had learned to be picky with what I spend my time and effort on.
+So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey. 
 
-In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.
+I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money.
 
-## **Joining the right company**
+## **Joining the right companies**
 
-### On size of company
-
-I started my career at Twitter, where I worked for three and a half years. Between joining and leaving, the company had 10x'ed in employees, jumping from about 300 to over 3000. I was able to experience in fast motion the evolution of a company, from small start-up to a public company. While it was a bumpy ride, it was apparent how this growth affected the engineering culture (in both good & bad ways) and it was valuable to take away lessons in growing a product from a front-row seat.
-
-If I had joined a company that was already large and established, it would have been harder for me to experience these changes first-hand. For instance, seeing how relatively relaxed processes were in the beginning to needing to write detailed post-mortems and hold numerous sync meetings weekly helped me understand that there is a right time to upgrade from scrappy behaviour but also where such processes might have been more of a hindrance than benefit.
-
-### On transferrable skills
-
-I had never given much thought to how important transferrable skills were until I realized that just being a software engineer at any company did not result in more-or-less the same set of experiences and skills.
+I had never given much thought to how important transferrable skills were until I realized that simply being a software engineer at any tech company in the Bay Area did not result in more-or-less the same set of experiences and skills.
 
 A friend told me a story of how working at \[unnamed large software company\] simplified a lot of processes for the sake of moving quickly. For instance, databases could be spun up via one-click deploy coupled with homegrown configuration files for adjustments. They'd later on realize as they were job hunting that setting up a data store was not so straight forward, but all the difficult parts had been abstracted out and they never got the chance to peek under the hood.
 
