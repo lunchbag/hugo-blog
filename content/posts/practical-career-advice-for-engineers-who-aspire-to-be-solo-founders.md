@@ -17,7 +17,7 @@ To be honest, I hadn't thought about it even after I started working on Lunch Mo
 
 So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money. In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey. 
 
-## **Joining the right companies**
+# **Joining the right companies**
 
 I had never given much thought to how important transferrable skills were until I realized that simply being a software engineer at any tech company in the Bay Area did not result in more-or-less the same set of experiences and skills.
 
@@ -31,7 +31,7 @@ At the smaller (now defunct) start-up, I learned how to use Github. I worked wit
 
 The bottom line is, you need to be strategic with the company you choose to join. Your time is valuable!
 
-## **Optimizing experience breadth-to-depth ratio**
+# **Optimizing experience breadth-to-depth ratio**
 
 I feel strongly that working on three different teams at Twitter helped me gain experience critical to being able to run Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next team.
 
@@ -47,7 +47,7 @@ A few months later I switched to an infrastructure-level team working on messagi
 
 All in all, I left Twitter with an incredible breadth and depth of experience– having worked up and down the stack, in both existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering abilities and more importantly, my ability to learn a new technology quickly.
 
-## **Building something from scratch**
+# **Building something from scratch**
 
 In my early 20s, I got really into electronic dance music (EDM). I found myself going out dancing most Thursday, Friday and Saturday nights. Since San Francisco was home to numerous clubs, it became a chore to discover events. You basically had to go to each individual venue's (often janky) website and navigate their calendars to find what was coming up. From there, specific event details were either on Facebook or ticketing platforms like Eventbrite, Ticketfly, etc.
 
@@ -69,7 +69,7 @@ The coolest part (which I've yet to re-experience with Lunch Money) was when I m
 
 The eventual fade of my interest in EDM also meant the end of futuraretro. While it didn't get anywhere significant, I strengthened my muscle of "learning by doing". Since then, I've launched a number of other micro-sites spawned from short-lived curiosities and interests. My first few projects did not end up being the breakthrough ones but they helped me get used to putting myself out there and launching things.
 
-## **Hitting the reset button**
+# **Hitting the reset button**
 
 Moving out of San Francisco permanently and subsequently taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco my motivations for wanting to start a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
