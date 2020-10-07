@@ -35,7 +35,7 @@ The bottom line is, you need to be strategic with the company you choose to join
 
 I feel strongly that working on three different teams at Twitter helped me gain experience critical to running Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next.
 
-I started on the Observability team which was responsible for building a monitoring tool for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards.
+I started on Observability which was responsible for building a monitoring tool for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards.
 
 ![](/uploads/observability.png) <span class="credit"><a href="https://blog.twitter.com/engineering/en_us/a/2013/observability-at-twitter.html" target="_blank">source</a></span><span class="caption">I designed and implemented data visualization and monitoring systems using Ruby on Rails and backbone.js at Twitter</span>
 
