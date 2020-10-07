@@ -13,9 +13,9 @@ Hello! 👋  My name is Jen and I’m the founder, engineer, designer and custom
 
 It was never part of my life goals to start my own company, let alone a company of one. In fact, if you had asked me anytime before I actually took the leap if this was within the realm of possibility, I would have said _hell freakin' no._
 
-To be honest, I hadn't thought about it even after I started working on Lunch Money. It was only after I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time. 
+To be honest, I hadn't thought about it even after I started working on Lunch Money. It was only after I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time.
 
-So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money. In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey. 
+So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money. In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.
 
 # **Joining the right companies**
 
@@ -33,19 +33,19 @@ The bottom line is, you need to be strategic with the company you choose to join
 
 # **Optimizing experience breadth-to-depth ratio**
 
-I feel strongly that working on three different teams at Twitter helped me gain experience critical to being able to run Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next team.
+I feel strongly that working on three different teams at Twitter helped me gain experience critical to running Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next team.
 
 I started on the Observability team which was responsible for building a monitoring tool for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards.
 
-![](/uploads/observability.png) <span class="caption">I designed and implemented data visualization and monitoring systems using Ruby on Rails and backbone.js at Twitter</span>
+![](/uploads/observability.png) <span class="credit"><a href="https://blog.twitter.com/engineering/en_us/a/2013/observability-at-twitter.html" target="_blank">source</a></span><span class="caption">I designed and implemented data visualization and monitoring systems using Ruby on Rails and backbone.js at Twitter</span>
 
 I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
 
-Despite my initial uneasiness, I tapped into my "fake it til you make it" mentality and I ended up learning Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but a few late nights and with the help of some very patient engineers, I was able to ship a couple of high impact features and I ended up being the sole backend engineer supporting the new user onboarding process during the World Cup.
+Despite my initial uneasiness, I tapped into my "fake it til you make it" mentality and I learned Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but with a few late nights and the help of some very patient engineers, I was able to ship a couple of high impact features. I also ended up being the sole backend engineer supporting the new user onboarding process during the World Cup.
 
-A few months later I switched to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts where I ended up rewriting from scratch the entire infrastructure that interpreted text messages.
+I later switched to an infrastructure-level team working on messaging (SMS, push notifications and email) efforts where I rewrote from scratch the entire infrastructure that interpreted text messages.
 
-All in all, I left Twitter with an incredible breadth and depth of experience– having worked up and down the stack, in both existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering abilities and more importantly, my ability to learn a new technology quickly.
+All in all, I left Twitter with an incredible breadth and depth of experience– having worked up and down the stack, in both existing codebases and greenfield projects, on my own and under the watchful eye of staff engineers. I gained an unreal amount of confidence in my engineering skills and more importantly, my ability to learn a new technology quickly.
 
 # **Building something from scratch**
 
@@ -53,14 +53,14 @@ In my early 20s, I got really into electronic dance music (EDM). I found myself 
 
 I later found out from a friend that there used to be a popular site that aggregated all EDM events in the Bay Area until it eventually shut down. I thought this was a fantastic idea and well within my technical scope so I got to work.
 
-I hammered out a minimal viable product (MVP) in Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events for the next 2 weeks. I started to tell my friends about the site and it quickly proved invaluable. 
+I hammered out a minimal viable product (MVP) with Ruby on Rails (thanks to having learned this on the job at Twitter). The MVP was basically a one-pager with a list of manually-inserted events for the next 2 weeks. I started to tell my friends about the site and it quickly proved invaluable.
 
 ![](/uploads/futuraretro1.png)
 <span class="caption">The first iteration of futuraretro</span>
 
-Fuelled my passion, I poured hours of effort into growing my site. I learned to incorporate the Gracenote API which would automatically label each event with the genre of EDM. The Eventbrite and Ticketfly APIs helped to automate some of the event additions. I implemented a form where promoters could suggest events to add. I started a Facebook community (grew to 1000+) and learned about how to put out ads. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
+Fuelled my passion, I poured hours of effort every week into growing my site. I learned to incorporate the Gracenote API which would label each event with the specific genre of EDM. The Eventbrite and Ticketfly APIs helped automate adding new event details. I implemented a form where promoters could suggest upcoming shows. I started a Facebook page which grew to 1000+ followers. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
 
-Over the course of several weeks, word of mouth spread and my site ultimately peaked at 1000 weekly active users.
+Over the course of several months, word of mouth continued to spread and my site ultimately peaked at 1000 weekly active users.
 
 ![](/uploads/futuraretro2.png)
 <span class="caption">The second and last redesign of futuraretro</span>
@@ -75,8 +75,8 @@ Moving out of San Francisco permanently and subsequently taking a sabbatical hel
 
 [I took significant time off to travel in 2017](https://lunchbag.ca/pre-departure-thoughts/). I sought after experiences I knew I would never come across otherwise such as spending time [in various abodes in Northeastern Thailand](https://lunchbag.ca/thailand/) and [the French countryside](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/). Being in new and unfamiliar environments helped me see almost right away that I wanted to end up in Toronto. I was reminded of the other joys in life– family, nature and community and [I gained clarity on myself](https://lunchbag.ca/checking-in-things-i-ve-learned/).
 
-![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a ?bartender and waitress at a French restaurant</span>
+![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a bartender and waitress at a French restaurant</span>
 
 It may seem drastic, but leaving behind all my comforts was my big 'ah ha!' moment. I don't think it changed me as a person, rather, it allowed me to recalibrate for my desired life path without external influences.
 
-Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. See, if I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom first, not money. Right now, running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
+Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. See, if I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom first, not money. And right now, running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
