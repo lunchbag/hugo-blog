@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "4 life and career decisions that prepared me for solopreneurship"
+title = "Preparing for solopreneurship"
 
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
@@ -15,7 +15,7 @@ It was never part of my life goals to start my own company, let alone a company 
 
 To be honest, I hadn't thought about it even after I started working on Lunch Money. It was only after I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time.
 
-So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money. In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.
+So why the 180-degree change? Upon reflection, I realized that the aggregate of my life and work experience made this a sensible decision and allowed me to transition easily into the role. I feel that I was ready for something like this for some time, but I had learned to be picky with what I spend my effort on and the right project never came up until Lunch Money. **In this article, I will go into 4 specific life and career decisions that I consider foundational to my solopreneurship journey.**
 
 # **Joining the right companies**
 
