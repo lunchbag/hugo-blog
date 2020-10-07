@@ -33,13 +33,13 @@ The bottom line is, you need to be strategic with the company you choose to join
 
 # **Optimizing experience breadth-to-depth ratio**
 
-I feel strongly that working on three different teams at Twitter helped me gain experience critical to running Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next team.
+I feel strongly that working on three different teams at Twitter helped me gain experience critical to running Lunch Money on my own today. I stayed on each team for roughly 1 year, having made significant impact before moving onto the next.
 
 I started on the Observability team which was responsible for building a monitoring tool for internal use. I was specifically hired to work on the front-end side of things so I had full autonomy over the UI and UX of these dashboards.
 
 ![](/uploads/observability.png) <span class="credit"><a href="https://blog.twitter.com/engineering/en_us/a/2013/observability-at-twitter.html" target="_blank">source</a></span><span class="caption">I designed and implemented data visualization and monitoring systems using Ruby on Rails and backbone.js at Twitter</span>
 
-I would have probably stayed on that team if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
+I would have probably stayed on longer if it weren't for my manager and another team that was looking to "borrow" an engineer for some high priority growth initiatives. My manager volunteered me and I was excited to work on a public-facing project for once. Little did I know there was a breakdown in communication and the receiving team, hearing that I was coming from "Platform Engineering", assumed that I was a backend and Scala wiz.
 
 Despite my initial uneasiness, I tapped into my "fake it til you make it" mentality and I learned Scala on the job. It wasn't easy going from Javascript to a strongly-typed language but with a few late nights and the help of some very patient engineers, I was able to ship a couple of high impact features. I also ended up being the sole backend engineer supporting the new user onboarding process during the World Cup.
 
