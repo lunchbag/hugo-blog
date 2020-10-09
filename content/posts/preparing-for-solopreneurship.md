@@ -66,13 +66,13 @@ Over the course of several months, word of mouth continued to spread and my site
 
 The coolest part (which I've yet to re-experience with Lunch Money) was when I met someone at a show. I asked them if they had heard of my site and they pulled up their phone to show me it was the last site they had visited. That blew my mind!
 
-The eventual fade of my interest in EDM also meant the end of futuraretro. While it didn't get anywhere significant, I strengthened my muscle of "learning by doing". Since then, I've launched a number of other micro-sites spawned from short-lived curiosities and interests. My first few projects did not end up being the breakthrough ones but they helped me get used to putting myself out there and launching things.
+The eventual fade of my interest in EDM also meant the end of futuraretro. While it didn't get anywhere significant, I strengthened my muscle of "learning by doing". Since then, I've started a number of other micro-sites spawned from short-lived curiosities and interests. My first few projects did not end up being the breakthrough ones but they helped me get used to putting myself out there and launching things.
 
 # **Hitting the reset button**
 
 Moving out of San Francisco permanently and subsequently taking a sabbatical helped strip away the biases that were stemming from my environment. If you were to ask me when I was living in San Francisco my motivations for wanting to start a company, my honest answer would probably be related to boosting my ego, gaining clout among my Silicon Valley peers, or making a ton of money so I could afford a little condo in the Mission.
 
-[I took significant time off to travel in 2017](https://lunchbag.ca/pre-departure-thoughts/). I sought after experiences I knew I would never come across otherwise such as spending time [in various abodes in Northeastern Thailand](https://lunchbag.ca/thailand/) and [the French countryside](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/). Being in new and unfamiliar environments helped me see almost right away that I wanted to end up in Toronto. I was reminded of the other joys in life– family, nature and community and [I gained clarity on myself](https://lunchbag.ca/checking-in-things-i-ve-learned/).
+[I took significant time off to travel in 2017](https://lunchbag.ca/pre-departure-thoughts/). I sought after experiences I knew I would never come across otherwise such as spending time [in various abodes in Northeastern Thailand](https://lunchbag.ca/thailand/) and [the French countryside](https://lunchbag.ca/lunchbag-in-france-living-in-the-mountains/). Being in new and unfamiliar environments helped me see almost right away that I wanted to end up in Toronto. I was reminded of the other joys in life– family, nature and community, and [I gained clarity on myself](https://lunchbag.ca/checking-in-things-i-ve-learned/).
 
 ![](/uploads/sabbatical.jpg)<span class="caption">Pure joy in the Burgundy countryside where I spent 5 weeks as a bartender and waitress at a French restaurant</span>
 
