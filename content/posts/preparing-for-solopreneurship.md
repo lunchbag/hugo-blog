@@ -1,17 +1,17 @@
 +++
 categories = []
-date = ""
+date = 2020-10-08T16:00:00Z
 description = ""
 draft = true
 images = ["/uploads/blog-preparing-for-solopreneurship.png"]
-slug = ""
+slug = "preparing-for-solopreneurship"
 tags = []
 title = "Preparing for solopreneurship"
 
 +++
 Hello! 👋  My name is Jen and I’m the founder, engineer, designer and customer support at [Lunch Money](https://lunchmoney.app), a personal finance and budgeting web app.
 
-It was never part of my life goals to start my own company, let alone a company of one. In fact, if you had asked me anytime before I actually took the leap if this was within the realm of possibility, I would have said _hell freakin' no._
+It was never part of my life goals to start my own company, let alone a company of one. In fact, if you had asked me before I actually took the leap if this was within the realm of possibility, I would have said _hell freakin' no._
 
 To be honest, I hadn't thought about it even after I started working on Lunch Money. It was only after I saw success during launch that I decided to quit my freelancing jobs to pursue this endeavour full-time.
 
