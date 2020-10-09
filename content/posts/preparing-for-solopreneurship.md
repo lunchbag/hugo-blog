@@ -57,7 +57,7 @@ I hammered out a minimal viable product (MVP) with Ruby on Rails (thanks to havi
 
 ![](/uploads/futuraretro1.png) <span class="caption">The first iteration of futuraretro</span>
 
-Fuelled by passion, I poured hours of effort every week into growing my site. I learned to incorporate the Gracenote API which would label each event with the specific genre of EDM. The Eventbrite and Ticketfly APIs helped automate adding new event details. I implemented a form where promoters could suggest upcoming shows. I started a Facebook page which grew to 1000+ followers. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
+Fuelled by passion, I poured hours of effort every week into growing my site. I learned to incorporate the Gracenote API which would label each event with the specific genre of EDM. The Eventbrite and Ticketfly APIs helped automate adding new event details. I implemented a form where promoters could suggest upcoming shows. I started a Facebook page which grew to hundreds of followers. I sent out weekly emails via Mailchimp and made a few bucks every month with affiliate ads.
 
 Over the course of several months, word of mouth continued to spread and my site ultimately peaked at 1000 weekly active users.
 
