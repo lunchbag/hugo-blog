@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-08T16:00:00Z
 description = ""
-draft = true
 images = ["/uploads/blog-preparing-for-solopreneurship.png"]
 slug = "preparing-for-solopreneurship"
 tags = []
