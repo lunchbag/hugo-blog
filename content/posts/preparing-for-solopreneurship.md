@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-10-08T16:00:00Z
+date = 2020-10-18T16:00:00Z
 description = ""
 images = ["/uploads/blog-preparing-for-solopreneurship.png"]
 slug = "preparing-for-solopreneurship"
