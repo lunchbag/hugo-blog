@@ -78,3 +78,9 @@ Moving out of San Francisco permanently and subsequently taking a sabbatical hel
 It may seem drastic, but leaving behind all my comforts was my big 'ah ha!' moment. I don't think it changed me as a person, rather, it allowed me to recalibrate for my desired life path without external influences.
 
 Now that I have a better footing on my goals and values, I am rebuilding my life around that and I couldn't be happier. See, if I wanted to make a bunch of money and make a name for myself, I would not be a solopreneur. Solopreneurship optimizes for freedom first, not money. And right now, running Lunch Money as a company of one while living in Taipei is exactly where I want to be.
+
+***
+
+#### Appendix
+
+My journey was largely influenced by my extensive technical background, and I'd love to take this space to highlight someone else's story. [Allison Seboldt](https://allisonseboldt.com/), solo founder of [Fantasy Congress](https://fantasycongress.com) and a political sciences major, shares her approach into web development [here](https://allisonseboldt.com/how-i-got-my-first-job-as-a-developer/).
