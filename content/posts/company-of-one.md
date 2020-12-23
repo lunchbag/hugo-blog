@@ -153,7 +153,7 @@ The built-in priority system is also helpful. For instance, I'll look at bug rep
 
 **Update \[Dec 2020\]** I've implemented yet another layer to the self-triaging system! Now when users submit a bug ticket, they are presented with three options for priority that very clearly outline the SLA:
 
-<img src="/uploads/screen-shot-2020-12-23-at-11-57-25-am.png" style="max-width: 380px" />
+<img src="/uploads/screen-shot-2020-12-23-at-11-57-25-am.png" style="max-width: 400px" />
 
 Instead of spending time every day on support, I can now tackle it every other day. High priority emails come with in a special label that land in my main inbox so I can make sure I get to those urgent problems sooner rather than later. I was worried users may abuse the "High Priority" tag by spamming with me with non-issues, but I've actually found that most users tend to downplay the priority of their issue.
 
