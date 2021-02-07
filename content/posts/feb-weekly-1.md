@@ -17,7 +17,7 @@ At the top of Column A was engineering and blogging.
 
 Writing blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) takes me days because I pore over the content and every little word. While I'd still like to write longform posts, I'm also interested in journaling regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally joining in!
 
-In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
+Because I am a fan of small attainable goals, this is the first of 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then!
 
 # On pricing strategy
 
