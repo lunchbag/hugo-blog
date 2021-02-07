@@ -1,10 +1,10 @@
 +++
 categories = []
-date = ""
+date = 2021-02-06T16:00:00Z
 description = ""
 draft = true
 images = []
-slug = ""
+slug = "retrospective-1"
 tags = []
 title = "Weekly #1 - Pricing, hiring and my first hate mail!"
 
