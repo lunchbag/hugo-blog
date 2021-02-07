@@ -38,7 +38,7 @@ The paired discount I went with was 50% off the first year. I did a few marketin
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is the last day to get 50% off your first year. Hurry, deal expires in 24 hours!<br><br>All you need to do is sign up within the next 24 hours to lock in the discount. No credit card required to trial!<br><br>👉 <a href="https://t.co/jopPIApDqi">https://t.co/jopPIApDqi</a> <a href="https://t.co/4PCcKoBcBU">https://t.co/4PCcKoBcBU</a></p>&mdash; Lunch Money - Get 40% off your first year! (@lunchmoney_app) <a href="https://twitter.com/lunchmoney_app/status/1356109578509770755?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Overall the results were great– we had 665 signups in total which was 60% more than December! Of those 665, so far, we are seeing a 12% conversion rate which is slightly above normal.
+Overall the results were great– we had 665 signups in total which was a 60% increase from December! Of those 665, so far, we are seeing a 12% conversion rate which is slightly above normal.
 
 For February, I lowered the discount to 40% off the first year. I'll likely run this until March when it'll dwindle down to 30% and so on.
 
@@ -62,7 +62,7 @@ I also spend a lot of time thinking about what I would do if I had 20 to 40 extr
 
 Then I got to thinking– what's the most effective way to help someone? Words and advice can only go so far. Real-world experience is what's valuable. Perhaps the work I find boring and tedious is exactly what someone wants to add to their resume.
 
-I followed this line of thinking and eventually came up with the idea of an apprenticeship role. I hesitated to call it an internship because I didn't want post-college folks to look at the job title and shy away. I wanted to evoke an expectation of learning and growing in the role. I was very excited at the idea of finding someone sharp and ambitious who just needed the right opportunity to shine.
+I followed this string of thoughts and eventually came up with the idea of an apprenticeship role. I hesitated to call it an internship because I didn't want post-college folks to look at the job title and shy away. I wanted to evoke an expectation of learning and growing in the role. I was very excited at the idea of finding someone sharp and ambitious who just needed the right opportunity to shine.
 
 In the spirit of transparency, here's what's happened since the job posting:
 
@@ -73,11 +73,11 @@ In the spirit of transparency, here's what's happened since the job posting:
 * 3 day trip in nature with my husband and parents to clear my head
 * Coming back and thinking about what I need versus what I want
 
-Here's what I _want:_ to mentor someone and provide them with real world experience to hone or build their skillsets. I want to help and encourage the next set of solopreneurs. The problem with this is that it takes time. A lot of it. And with the complexity of living in Taiwan (time zones are hard) and the current speed at which I expect things to be done, I may not be in the right headspace or phase to dedicate that time to somebody. I realized that I am not quite ready yet to be that mentor for somebody.
+Here's what I _want:_ to mentor someone and provide them with real world experience to hone or build their skillsets. I want to help and encourage the next set of solopreneurs. The problem with this is that it takes time. A lot of it. And with the complexity of living in Taiwan (time zones are hard) and the current speed at which I expect things to be done, I may not be in the right headspace or phase to dedicate extra time to somebody. I realized that I am not quite ready yet to be that mentor for somebody.
 
 Here's what I _need_: someone to do the work I don't want to do quickly, efficiently, to my standards and without too much supervision from me so I can reclaim that time and spend it on the things under Column A (things I wish I had more time to do). Mostly the tasks under Column B involve include copywriting, content writing, and other marketing tasks. Essentially, I need a marketing assistant/writer.
 
-This was kind of an awful mental round-trip I took but I think it was necessary. It was also a good exercise in being vulnerable and honest with my shortcomings. I sent a reply to everyone who took the time to apply for my listing explaining the above.
+This was kind of an awful mental round-trip I took but I think it was necessary. It was also a good exercise in turning around the feeling of guilt and being honest with my shortcomings. I've since sent a reply to everyone who took the time to apply for my listing explaining the above.
 
 Sometimes I have all the initiative in the world and I deliver beyond my own expectations At other times, I succumb pretty badly to decision paralysis and I leave tasks hanging and I am left feeling like, _heck, I have no idea what I'm doing_.
 
@@ -88,7 +88,7 @@ Sometimes I have all the initiative in the world and I deliver beyond my own exp
 * I shipped two major features: file attachments for transactions and auto-suggestions for payee names.
 * The Lunch Money Slack community hit over 200 members!
 * Received some amazing news that we have the green light for automatic bank syncing with certain EU banks. This means Lunch Money can expand easily into international grounds!
-* I started a [Canny](https://feedback.lunchmoney.app/) and it's been amazing in terms of user satisfaction and keeping my inbox clear of feature requests now!
+* I started a [Canny](https://feedback.lunchmoney.app/) and it's been effective in terms of user satisfaction and keeping my inbox clear of feature requests now!
 
 ## Personal life
 
@@ -104,13 +104,12 @@ Sometimes I have all the initiative in the world and I deliver beyond my own exp
 ## Personal life
 
 * I got sick earlier this month (not COVID!) and it sucked. Last time I got sick was exactly one year ago as well, about a week after we landed in Taiwan.
-* On my 3rd personal training session, I got destroyed and experienced the absolute worst pain of my life the day after. I couldn't stand up without going through 20 seconds of awful muscle cramps and excruciating pain. Never again.
 
 # Next goals
 
 This week is Chinese New Years in Taiwan which means the country essentially shuts down. For one, my Mandarin classes are canceled so that frees up my afternoons. I'm actually pretty excited about this because I plan on getting a lot done for Lunch Money, mostly around the "first-hour experience". We are in dire need of some new product walkthroughs– both written and visual.
 
-I finally set up Lunch Money for Lunch Money which sounds a bit silly and _why didn't I do this earlier?_ I encountered a bunch of bugs (which I ended up shipping fixes for this morning) and I plan to go through the setup over and over again until the onboarding is perfect. I also think it would be neat to then record a video of this setup. We'll see what gets done.
+I finally set up Lunch Money for Lunch Money which sounds a bit silly and late, like _why didn't I do this earlier?_ I encountered a number of bugs (which I ended up shipping fixes for this morning) and I plan to go through the setup over and over again until the onboarding is perfect. I also think it would be neat to then record a video of this setup. We'll see what gets done.
 
 This was nice and therapeutic for me. Let me know if you liked it. Otherwise, see you next week!
 
