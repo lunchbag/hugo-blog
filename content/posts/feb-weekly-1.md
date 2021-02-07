@@ -23,9 +23,9 @@ Because I am a fan of small attainable goals, this is the first of 4 weekly retr
 
 In January, I raised Lunch Money's pricing to $10 month and $100 per year (prices in USD).
 
-The last time I raised prices was back in March 2020 when our base pricing went from $60 per year to $80 per year. My general strategy with pricing has been to raise cautiously and pair with discounts.
+The last time I raised prices was back in March 2020 when our base pricing went from $60 per year to $80 per year. My general strategy has been to raise cautiously and pair with discounts.
 
-For example, the raise to $80 per year was aligned with our Product Hunt launch and a 25% first-year discount. From there, I ran a few other promotions offering the same deal.
+For example, the raise to $80 was aligned with our Product Hunt launch and a 25% first-year discount. From there, I ran a few other promotions offering the same deal.
 
 I like doing this because the user understands that they're getting a special limited-time offer. It also gives me roughly 1 year to get the product to a point where they feel it's worth paying 25% more to continue using the second year and beyond. With Lunch Money, my goal is to retain long-term users and the motivation to get there is baked into my pricing strategy.
 
