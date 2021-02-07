@@ -16,9 +16,9 @@ Last night, I wrote down on a piece of paper all the tasks I do for Lunch Money.
 
 At the top of Column A was engineering and blogging.
 
-It takes me a long time to write blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) because I pore over the overall content and every little word. I'd like to start journaling more regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally taking action now!
+It takes me a long time to write blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) because I pore over the overall content and every little word. I'd like to start journaling more regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally joining in now!
 
-In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of at least 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
+In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
 
 Now, let's get vulnerable.
 
