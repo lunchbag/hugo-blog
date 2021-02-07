@@ -86,7 +86,6 @@ The hiring saga... _to be continued_.
 
 * I shipped two major features: file attachments for transactions and auto-suggestions for payee names.
 * The Lunch Money Slack community hit over 200 members!
-* Received some amazing news that we have the green light for automatic bank syncing with certain EU banks. This means Lunch Money can expand easily into international grounds!
 * I started a [Canny](https://feedback.lunchmoney.app/) and it's been effective in terms of user satisfaction and keeping my inbox clear of feature requests!
 
 ## Personal life
