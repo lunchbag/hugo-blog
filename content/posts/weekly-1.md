@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = ""
 tags = []
-title = "Weekly #1"
+title = "Weekly #1 - Pricing, hiring and my first hate mail!"
 
 +++
 Last night, I wrote down on a piece of paper all the tasks I do for Lunch Money. Then I organized them into two columns:
@@ -36,7 +36,7 @@ I felt if I was going to make a big move like this, it would be best to do it du
 
 The paired discount I went with was 50% off the first year. I did a few marketing pushes to promote this including sending an email to churned users (that is, users who previously signed up but never converted to paid) and running a marketing campaign with [@IndieAppSanta](https://twitter.com/indieappsanta).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is the last day to get 50% off your first year. Hurry, deal expires in 24 hours!<br><br>All you need to do is sign up within the next 24 hours to lock in the discount. No credit card required to trial!<br><br>👉 <a href="https://t.co/jopPIApDqi">https://t.co/jopPIApDqi</a> <a href="https://t.co/4PCcKoBcBU">https://t.co/4PCcKoBcBU</a></p>&mdash; Lunch Money - Get 40% off your first year! (@lunchmoney_app) <a href="https://twitter.com/lunchmoney_app/status/1356109578509770755?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is the last day to get 50% off your first year. Hurry, deal expires in 24 hours!<br><br>All you need to do is sign up within the next 24 hours to lock in the discount. No credit card required to trial!<br><br>👉 <a href="https://t.co/jopPIApDqi">https://t.co/jopPIApDqi</a> <a href="https://t.co/4PCcKoBcBU">https://t.co/4PCcKoBcBU</a></p>&mdash; Lunch Money - Get 40% off your first year! (@lunchmoney_app) <a href="https://twitter.com/lunchmoney_app/status/1356109578509770755?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Overall the results were great– we had 665 signups in total which was 60% more than December! Of those 665, so far, we are seeing a 12% conversion rate which is slightly above normal.
 
@@ -48,7 +48,7 @@ The real test is going to come in 12 months when we'll see how many of our users
 
 About a week and a half ago, I posted a job description for an apprentice at Lunch Money.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aspiring <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a> or solopreneur? Want hands-on experience in the early exciting stages of growth?<br><br>I&#39;m looking to bring someone on to assist and apprentice on various aspects of Lunch Money.<br><br>You will learn so much. I promise.<a href="https://t.co/Ifs9hZqSAL">https://t.co/Ifs9hZqSAL</a><br><br>RT for visibility? 🙏 <a href="https://t.co/vdbSeYui7r">https://t.co/vdbSeYui7r</a></p>&mdash; Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1354429990503215105?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aspiring <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a> or solopreneur? Want hands-on experience in the early exciting stages of growth?<br><br>I&#39;m looking to bring someone on to assist and apprentice on various aspects of Lunch Money.<br><br>You will learn so much. I promise.<a href="https://t.co/Ifs9hZqSAL">https://t.co/Ifs9hZqSAL</a><br><br>RT for visibility? 🙏 <a href="https://t.co/vdbSeYui7r">https://t.co/vdbSeYui7r</a></p>&mdash; Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1354429990503215105?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I'd been thinking about doing something like this for a while. For the last 2 months, I've been working with a friend of mine who is an amazing digital marketer and nearly every call ended with him telling me to hire an intern.
 
