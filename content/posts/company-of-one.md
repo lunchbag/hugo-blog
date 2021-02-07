@@ -151,6 +151,12 @@ The built-in priority system is also helpful. For instance, I'll look at bug rep
 
 <img src="/uploads/screen-shot-2020-05-19-at-3-50-57-pm.png" style="max-width: 250px" /><span class="caption">This is so much better than seeing 18 unread emails in my inbox.</span>
 
+**Update \[Dec 2020\]** I've implemented yet another layer to the self-triaging system! Now when users submit a bug ticket, they are presented with three options for priority that very clearly outline the SLA:
+
+<img src="/uploads/screen-shot-2020-12-23-at-11-57-25-am.png" style="max-width: 400px" />
+
+Instead of spending time every day on support, I can now tackle it every other day. High priority emails come with in a special label that land in my main inbox so I can make sure I get to those urgent problems sooner rather than later. I was worried users may abuse the "High Priority" tag by spamming with me with non-issues, but I've actually found that most users tend to downplay the priority of their issue.
+
 ## Create specific support flows
 
 While common questions can be quickly identified and handled with the addition of an FAQ page, common issues requiring personalized support are a bit trickier to generalize. In Lunch Money's case, I get a lot of support tickets related to bank syncing.
