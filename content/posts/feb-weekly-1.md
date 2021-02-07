@@ -78,6 +78,8 @@ This was kind of an awful mental round-trip I took but I think it was necessary.
 
 Sometimes I have all the initiative in the world and I deliver beyond my own expectations. At other times, I succumb pretty badly to decision paralysis or I get lost in my own thoughts and I am left feeling like, _crap, I have no idea what I'm doing_.
 
+The hiring saga... _to be continued_.
+
 # What went well
 
 ## Lunch Money
