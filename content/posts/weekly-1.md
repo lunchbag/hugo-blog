@@ -20,7 +20,7 @@ So, in the spirit of making the time to do the things I want to do and small att
 
 Now, let's get vulnerable.
 
-## On pricing strategy
+# On pricing strategy
 
 In January, I raised Lunch Money's pricing for the 7th time to $10 month and $100 per year (prices in USD).
 
@@ -36,15 +36,19 @@ I felt if I was going to make a big move like this, it would be best to do it du
 
 The paired discount I went with was 50% off the first year. I did a few marketing pushes to promote this including sending an email to churned users (that is, users who previously signed up but never converted to paid) and running a marketing campaign with [@IndieAppSanta](https://twitter.com/indieappsanta).
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is the last day to get 50% off your first year. Hurry, deal expires in 24 hours!<br><br>All you need to do is sign up within the next 24 hours to lock in the discount. No credit card required to trial!<br><br>👉 <a href="https://t.co/jopPIApDqi">https://t.co/jopPIApDqi</a> <a href="https://t.co/4PCcKoBcBU">https://t.co/4PCcKoBcBU</a></p>&mdash; Lunch Money - Get 40% off your first year! (@lunchmoney_app) <a href="https://twitter.com/lunchmoney_app/status/1356109578509770755?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Overall the results were great– we had 665 signups in total which was 60% more than December! Of those 665, so far, we are seeing a 12% conversion rate which is slightly above normal.
 
 For February, I lowered the discount to 40% off the first year. I'll likely run this until March when it'll dwindle down to 30% and so on.
 
 The real test is going to come in 12 months when we'll see how many of our users continue their subscription at the base rate of $100 per year. I'm confident though; I've got lots of exciting new features on the docket for next year that will continue to set Lunch Money apart from the rest.
 
-## On hiring
+# On hiring
 
 About a week and a half ago, I posted a job description for an apprentice at Lunch Money.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aspiring <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a> or solopreneur? Want hands-on experience in the early exciting stages of growth?<br><br>I&#39;m looking to bring someone on to assist and apprentice on various aspects of Lunch Money.<br><br>You will learn so much. I promise.<a href="https://t.co/Ifs9hZqSAL">https://t.co/Ifs9hZqSAL</a><br><br>RT for visibility? 🙏 <a href="https://t.co/vdbSeYui7r">https://t.co/vdbSeYui7r</a></p>&mdash; Jen (@lunchbag) <a href="https://twitter.com/lunchbag/status/1354429990503215105?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I'd been thinking about doing something like this for a while. For the last 2 months, I've been working with a friend of mine who is an amazing digital marketer and nearly every call ended with him telling me to hire an intern.
 
@@ -77,32 +81,32 @@ This was kind of an awful mental round-trip I took but I think it was necessary.
 
 Sometimes I have all the initiative in the world and I deliver and at other times, I succumb pretty badly to decision paralysis and I leave tasks hanging and I am left feeling like, _heck, I have no idea what I'm doing_.
 
-## What went well
+# What went well
 
-### Lunch Money
+## Lunch Money
 
 * I shipped two major features: file attachments for transactions and auto-suggestions for payee names.
 * The Lunch Money Slack community hit over 200 members!
 * Received some amazing news that we have the green light for automatic bank syncing with certain EU banks. This means Lunch Money can expand easily into more international grounds!
 * I started a [Canny](https://feedback.lunchmoney.app/) and it's been amazing in terms of user satisfaction and keeping my inbox clear of feature requests now!
 
-### Personal life
+## Personal life
 
 * I started personal training at the gym one month ago. I feel great to be prioritizing my health and well-being. It's also incredibly humbling to absolutely suck at something but have a goal to work towards. I did my one-month check up and have been making great progress so far!
 * In late December, my parents were able to come to Taiwan on a visa to visit Justin & I. It's been wonderful to have them around and going on trips together after not seeing them for a year.
 
-## What didn't go so well
+# What didn't go so well
 
-### Lunch Money
+## Lunch Money
 
 * I got my first hate mail! Well, it was a strongly worded reason for why they were canceling and it ended with "bro, it's not me, it's you". I'm not bothered by it as it seems his complaints are mostly that Lunch Money doesn't fit exactly how YNAB works, like how we "can't even tag a transaction as a transfer" and that apparently you can only add one singular account to Lunch Money.
 
-### Personal life
+## Personal life
 
 * I got sick earlier this month (not COVID!) and it sucked. Last time I got sick was exactly one year ago as well, about a week after we landed in Taiwan.
 * On my 3rd personal training session, I got absolutely destroyed and experienced the absolute worst pain of my life the day after. I couldn't stand up without going through 20 seconds of awful muscle cramps and excruciating pain.
 
-## Next goals
+# Next goals
 
 This week is Chinese New Years in Taiwan. This means the country essentially shuts down. For one, my Mandarin classes are canceled so that frees up my afternoons. I'm planning on getting a lot done for Lunch Money this week, mostly around the "first-hour experience". We are in dire need of some new product walkthroughs– both written and visual.
 
