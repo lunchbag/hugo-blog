@@ -29,7 +29,7 @@ For example, the raise to $80 per year was aligned with our Product Hunt launch 
 
 I like doing this because the user understands that they're getting a special limited-time offer. It also gives me roughly 1 year to get the product to a point where they feel it's worth paying 25% more to continue using the second year and beyond. With Lunch Money, my goal is to retain long-term users and the motivation to get there is baked into my pricing strategy.
 
-Raising the price to $100 per year was a ballsy move. This puts us at a higher yearly price than YNAB (but still cheaper at the monthly rate). It also further positions Lunch Money as a premium product. This aligns nicely with my goal of having fewer users who are willing to pay a higher price rather than (unsustainably) lots of users paying a lower price.
+Raising the price to $100 per year was a ballsy move. This puts us at a higher annual cost than YNAB (but still cheaper at the monthly rate). It also further positions Lunch Money as a premium product. This aligns nicely with my goal of having fewer users who are willing to pay a higher price rather than (unsustainably) lots of users paying a lower price.
 
 I felt if I was going to make a big move like this, it would be best to do it during our "peak" season, which lasts the immediate months following new years when people are most motivated to start new habits.
 
