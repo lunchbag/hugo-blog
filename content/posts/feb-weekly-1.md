@@ -61,7 +61,7 @@ Then I got to thinking– what's the most effective way to help someone? Words a
 
 I followed this string of thoughts and eventually came up with the idea of an apprenticeship role. I hesitated to call it an internship because I didn't want post-college folks to look at the job title and shy away. I wanted to evoke an expectation of learning and growing in the role. I was very excited at the idea of finding someone sharp and ambitious who just needed the right opportunity to shine.
 
-In the spirit of transparency, here's what's happened since the job posting:
+In the spirit of transparency, here's what's happened after the job posting:
 
 * A lot of going back and forth between excitement and anxiety
 * Self-doubt and fear that I wouldn't be able to provide an enriching or interesting enough role for the apprentice
@@ -76,7 +76,7 @@ Here's what I _need_: someone to do the work I don't want to do, but quickly, ef
 
 This was kind of an awful mental round-trip I took but I think it was necessary. It was also a good exercise in turning around the feeling of guilt and being honest with my shortcomings. I've since sent a reply to everyone who took the time to apply for my listing explaining the above.
 
-Sometimes I have all the initiative in the world and I deliver beyond my own expectations At other times, I succumb pretty badly to decision paralysis or I get lost in my own thoughts and I am left feeling like, _crap, I have no idea what I'm doing_.
+Sometimes I have all the initiative in the world and I deliver beyond my own expectations. At other times, I succumb pretty badly to decision paralysis or I get lost in my own thoughts and I am left feeling like, _crap, I have no idea what I'm doing_.
 
 # What went well
 
@@ -85,7 +85,7 @@ Sometimes I have all the initiative in the world and I deliver beyond my own exp
 * I shipped two major features: file attachments for transactions and auto-suggestions for payee names.
 * The Lunch Money Slack community hit over 200 members!
 * Received some amazing news that we have the green light for automatic bank syncing with certain EU banks. This means Lunch Money can expand easily into international grounds!
-* I started a [Canny](https://feedback.lunchmoney.app/) and it's been effective in terms of user satisfaction and keeping my inbox clear of feature requests now!
+* I started a [Canny](https://feedback.lunchmoney.app/) and it's been effective in terms of user satisfaction and keeping my inbox clear of feature requests!
 
 ## Personal life
 
