@@ -16,7 +16,9 @@ Last night, I wrote down on a piece of paper all the tasks I do for Lunch Money.
 
 At the top of Column A was engineering and blogging.
 
-So, in the spirit of making the time to do the things I want to do and small attainable goals, this is the first of at least 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
+It takes me a long time to write blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) because I pore over the overall content and every little word. I'd like to start journaling more regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally taking action now!
+
+In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of at least 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
 
 Now, let's get vulnerable.
 
@@ -113,3 +115,8 @@ This week is Chinese New Years in Taiwan which means the country essentially shu
 I finally set up Lunch Money for Lunch Money which sounds a bit silly and _why didn't I do this earlier?_ I encountered a bunch of bugs (which I ended up shipping fixes for this morning) and I plan to go through the setup over and over again until the onboarding is perfect. I also think it would be neat to then record a video of this setup. We'll see what gets done.
 
 This was nice and therapeutic for me. Let me know if you liked it. Otherwise, see you next week!
+
+
+<p id="1">
+  <sup>1</sup> - Shoutout to <a href="https://mtlynch.io" target="_blank">Michael Lynch</a>, <a href="https://coryzue.com" target="_blank">Cory Zue</a>, <a href="https://allisonseboldt.com" target="_blank">Allison Seboldt</a>, and <a href="https://roadtoramen.com" target="_blank">DK</a>!
+</p>
