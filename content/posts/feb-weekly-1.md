@@ -44,7 +44,7 @@ For February, I lowered the discount to 40% off the first year. I'll likely run 
 
 The real test is going to come in 12 months when we'll see how many of our users continue their subscription at the base rate of $100 per year. I'm confident though; I've got lots of exciting new features on the docket for next year that will continue to set Lunch Money apart from the rest.
 
-# On hiring
+# On (not?) hiring
 
 About a week and a half ago, I posted a job description for an apprentice at Lunch Money.
 
