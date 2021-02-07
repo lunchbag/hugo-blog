@@ -6,7 +6,7 @@ draft = true
 images = ["/uploads/ogimgblogweekly1.png"]
 slug = "feb-weekly-1"
 tags = []
-title = "Weekly #1 - Pricing, hiring and my first hate mail!"
+title = "Weekly #1 - Pricing, (not) hiring and my first hate mail!"
 
 +++
 Last week, I wrote down on a piece of paper all the tasks I do for Lunch Money. Then I organized them into two columns:
