@@ -68,11 +68,11 @@ In the spirit of transparency, here's what's happened after the job posting:
 * Re-reading every application I received at least 5 times
 * Finally taking a chance on someone only to have them go radio silent and then back out
 * 3 day trip in nature with my husband and parents to clear my head
-* Coming back and thinking about what I need versus what I want
+* Coming back and thinking about what I should do versus what I want to do
 
-Here's what I _want:_ to mentor someone and provide them with real world experience to hone or build their skillsets. Like I said, I want to help and encourage the next set of solopreneurs. The problem with this is that it takes time. A lot of it. And with the complexity of living in Taiwan (time zones are hard) and the current speed at which I expect things to be done, I may not be in the right headspace or phase to dedicate extra time to somebody. I realized that I am not quite ready yet to be that mentor for somebody.
+Here's what I _want to do:_ mentor someone and provide them with real world experience to hone or build their skillsets. Like I said, I want to help and encourage the next set of solopreneurs. The problem with this is that it takes time. A lot of it. And with the complexity of living in Taiwan (time zones are hard) and the current speed at which I expect things to be done, I may not be in the right headspace or phase to dedicate extra time to somebody. I realized that I am not quite ready yet to be that mentor for somebody.
 
-Here's what I _need_: someone to do the work I don't want to do, but quickly, efficiently, to my standards and without too much supervision from me so I can reclaim that time and spend it on the things under Column A (things I wish I had more time to do). Mostly the tasks under Column B involve include copywriting, content writing, and other marketing tasks. Essentially, I need a marketing assistant/writer.
+Here's what I _should do_: find someone to do the work I don't want to do, but quickly, efficiently, to my standards and without too much supervision from me so I can reclaim that time and spend it on the things under Column A (things I wish I had more time to do). Mostly the tasks under Column B involve include copywriting, content writing, and other marketing tasks. Essentially, I need a marketing assistant/writer.
 
 This was kind of an awful mental round-trip I took but I think it was necessary. It was also a good exercise in turning around the feeling of guilt and being honest with my shortcomings. I've since sent a reply to everyone who took the time to apply for my listing explaining the above.
 
