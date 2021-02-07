@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2021-02-06T16:00:00Z
-description = ""
+description = "In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of at least 4 weekly retrospectives I plan to write for the month of February."
 draft = true
 images = ["/uploads/ogimgblogweekly1.png"]
 slug = "feb-weekly-1"
