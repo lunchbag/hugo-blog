@@ -66,7 +66,7 @@ In the spirit of transparency, here's what's happened after the job posting:
 * A lot of going back and forth between excitement and anxiety
 * Self-doubt and fear that I wouldn't be able to provide an enriching or interesting enough role for the apprentice
 * Re-reading every application I received at least 5 times
-* Finally taking a chance on someone only to have them go radio silent on me for a few days and then back out
+* Finally taking a chance on someone only to have them go radio silent and then back out
 * 3 day trip in nature with my husband and parents to clear my head
 * Coming back and thinking about what I need versus what I want
 
