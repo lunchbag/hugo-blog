@@ -20,8 +20,6 @@ It takes me a long time to write blog posts like [Preparing for solopreneurship]
 
 In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
 
-Now, let's get vulnerable.
-
 # On pricing strategy
 
 In January, I raised Lunch Money's pricing for the 7th time to $10 month and $100 per year (prices in USD).
