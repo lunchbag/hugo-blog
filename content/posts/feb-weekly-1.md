@@ -56,7 +56,7 @@ The reason? I had this constant long list of things I knew I _needed_ to do but 
 
 I go back and forth a lot on hiring. I feel like I've really embodied this whole "solopreneur" thing and made it a big part of my identity in the Indie Hackers space. This has made me resistant to adding more to the team. A part of me feels that I've come this far on my own, why shouldn't I keep going? I don't have a pressing need for help. Reasonably, I could go away for a week or two and everything would still be running smoothly (aside from support tickets piling up).
 
-I used to feel selfish for wanting to work on Lunch Money on my own. It sounds silly to say now, and I've been actively fighting this for the last few months. Like I've built something really neat and I am selfish for not sharing the joy of running this business with anyone who comes my way and asks to be a part of it. A couple of months ago, I actually spent time and energy convincing investors who reach out that continuing bootstrapped and solo is the best route for me and that I didn't care to hyper-grow to a million users. I've since smartened up and now I just ignore them.
+I used to feel selfish for wanting to work on Lunch Money on my own. Like I've built something really neat and for some reason, I am selfish or I feel guilty for not sharing the joy of running this business with anyone who comes my way and asks to be a part of it. A couple of months ago, I actually spent time and energy convincing investors who reach out that continuing bootstrapped and solo is the best route for me and that I didn't care to hyper-grow to a million users. I've since smartened up and now I just ignore them. Afterall, Lunch Money is my baby!
 
 I also spend a lot of time thinking about what I would do if I had 20 to 40 extra hours per week. A recurring idea is that I'd love to help and encourage the next set of solopreneurs via some sort of mentorship.
 
@@ -79,7 +79,7 @@ Here's what I _need_: someone to do the work I don't want to do quickly, efficie
 
 This was kind of an awful mental round-trip I took but I think it was necessary. It was also a good exercise in turning around the feeling of guilt and being honest with my shortcomings. I've since sent a reply to everyone who took the time to apply for my listing explaining the above.
 
-Sometimes I have all the initiative in the world and I deliver beyond my own expectations At other times, I succumb pretty badly to decision paralysis and I leave tasks hanging and I am left feeling like, _heck, I have no idea what I'm doing_.
+Sometimes I have all the initiative in the world and I deliver beyond my own expectations At other times, I succumb pretty badly to decision paralysis or I get lost in my own thoughts and I am left feeling like, _heck, I have no idea what I'm doing_.
 
 # What went well
 
