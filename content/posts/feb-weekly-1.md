@@ -15,13 +15,13 @@ Last week, I wrote down on a piece of paper all the tasks I do for Lunch Money. 
 
 At the top of Column A was engineering and blogging.
 
-It takes me a long time to write blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) because I pore over the overall content and every little word. While I'd still like to write some long-form posts, I'm also interested in journaling more regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally joining in now!
+It takes me a long time to write blog posts like [Preparing for solopreneurship](https://lunchbag.ca/preparing-for-solopreneurship/) and [Optimizations as a company of one](https://lunchbag.ca/company-of-one/) because I pore over the overall content and every little word. While I'd still like to write some long-form posts, I'm also interested in journaling more regularly and casually in an effort to document the rollercoaster that is solopreneurship. I've always been in awe of my fellow retrospective-writing Indie Hackers<sup><a href="#1">1</a></sup> so this is me finally joining in!
 
 In the spirit of making the time to do the things I want to do and small attainable goals, this is the first of 4 weekly retrospectives I plan to write for the month of February. We'll see how things go beyond then.
 
 # On pricing strategy
 
-In January, I raised Lunch Money's pricing for the 7th time to $10 month and $100 per year (prices in USD).
+In January, I raised Lunch Money's pricing to $10 month and $100 per year (prices in USD).
 
 The last time I raised prices was back in March 2020 when our base pricing went from $60 per year to $80 per year. My general strategy with pricing has been to raise cautiously and pair with discounts.
 
