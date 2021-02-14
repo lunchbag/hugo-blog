@@ -17,17 +17,17 @@ In the last 7 days, I put in roughly 40 hours of work. Let's use this time break
 
 ### Engineering: 17 hours, 9 minutes
 
-I often get asked how I prioritize features or decide what to work on next. In the beginning, I worked tirelessly at reaching feature parity with other personal financial apps. Now that we're past that, I no longer feel the same urgency as I did in our first year to get out as many features as I can.
+I often get asked how I prioritize features or decide what to work on next. In the beginning, I worked tirelessly to get Lunch Money to feature parity with other personal financial apps. Now that we're past that, it's no longer obvious what the next big feature should be.
 
-Recently I set up a [feature request board](https://feedback.lunchmoney.app) so I (and other users) can see what the top requested features are. While it's very useful for me to know, the most requested features are not necessarily what's next on the docket.
+Recently I set up a [feature request board](https://feedback.lunchmoney.app) so I (and other users) can see what the top requested features are. While it's been useful and insightful, the most requested features are not necessarily what's next on the docket.
 
 One of the ways I exercise my freedom as a solopreneur is that I generally work on whatever I want. This, for me, keeps things fun, interesting and most importantly, sustainable. Of course, whatever I want usually aligns with what my users want because I want my users to be happy!
 
-If I force myself to keep coding when I don't feel like it, I'd probably lose interest and that would likely be fatal to my SaaS business. I never want to get to a point where I dread working on Lunch Money.
+If I force myself to keep coding when I don't feel like it, I'd probably lose interest and that would be fatal to my SaaS business. I never want to get to a point where I dread working on Lunch Money.
 
 Anyways, back to how I figure out what to work on next. Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features can differentiate Lunch Money from the others, and what feature improvements will improve the experience for existing users. These two are always top of mind and guide my own prioritization of feature requests.
 
-Next, I will have a sense of how large of a task I feel like working on– maybe it's been a while since I did a large task (1+ week) and I'm feeling up for it again (they really are draining!). Or maybe I want to knock something out within a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches this criteria.
+I will also have a sense of how large of a task I feel like working on– maybe it's been a while since I did a large task (1+ week) and I'm feeling up for it again (they really are draining!). Or maybe I want to knock something out within a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches this criteria.
 
 All that being said, the latest new feature for Lunch Money is manual crypto tracking! If users don't want to connect to their wallets or exchanges directly, they can choose from over 300 cryptocurrencies to track manually. We pull in the latest exchange rates every 15 minutes. As far as I know, none of the top personal finance apps out there offer this.
 
