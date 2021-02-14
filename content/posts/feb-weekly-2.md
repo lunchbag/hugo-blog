@@ -27,7 +27,7 @@ If I force myself to keep coding when I don't feel like it, I'd probably lose in
 
 Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features will continue to differentiate my app from the rest, and what feature updates will improve the experience for existing users. These two principles are always top of mind when it comes to prioritization.
 
-The other factor is how large of a task I feel like working on– maybe it's been a while since I shipped a major feature (1+ week) and I'm feeling up for it again (they are really draining!). Or maybe I want to knock something out in a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches my criteria.
+The other factor is how large of a task I feel like working on– maybe it's been a while since I shipped a major feature and I'm feeling up for it again (these typically take 1+ week and are really draining!). Or maybe I want to knock something out in a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches my criteria.
 
 All that being said, the latest new feature for Lunch Money is manual crypto tracking! If users don't want to connect to their wallets or exchanges directly, they can choose from over 300 cryptocurrencies to track manually. We pull in the latest exchange rates every 15 minutes. As far as I know, none of the top personal finance apps out there offer this and we already have close to 100 manually tracked tokens so far.
 
