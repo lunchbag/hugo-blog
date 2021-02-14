@@ -1,9 +1,9 @@
 +++
 categories = []
-date = ""
+date = 2021-02-13T16:00:00Z
 description = ""
 draft = true
-images = []
+images = ["/uploads/ogimgblogweekly2.png"]
 slug = "feb-weekly-2"
 tags = []
 title = "Weekly #2 - Prioritization, (more) hiring and a case study!"
