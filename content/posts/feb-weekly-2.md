@@ -42,6 +42,10 @@ I've started the process of setting up a shared inbox and writing down common su
 
 It's super important to me that whoever I hire to interact with our users can maintain Lunch Money's brand voice as friendly, helpful and delightful. I'll likely start them off on just Plaid-related issues as I think it's still important for me to interact directly with users when it comes to bug reports. (Side note– since setting up our Canny, I've gotten close to 0 feature requests in my support inbox!)
 
+### Engineering (General): 6 hours, 10 minutes
+
+"Minor" bug fixes and "minor" feature improvements don't seem so minor anymore after I realize I spent over 6 hours on them. This is mostly from revamping the visual filter for the Accounts page and supporting multiple file uploads for our CSV importing tool (see our latest changelog entry [here](https://feedback.lunchmoney.app/changelog/153)). Time really flies when you're coding.
+
 ### EU Pilot Program: 3 hours, 50 minutes
 
 After nearly 2 years of back and forth with Plaid, I finally received word that we're officially able to expand to Europe by supporting GDPR-compliant bank syncing for our European users!
@@ -49,10 +53,6 @@ After nearly 2 years of back and forth with Plaid, I finally received word that 
 This week, I started a pilot program to have a slow and controlled onboarding of users.
 
 I first reached out to churned users who specifically noted they wanted to wait until EU bank syncing was available. Next, I reached out to existing users. Finally, I sent out a newsletter to all our subscribers with an open call to join the pilot. Over 65 people have shown interest so far and nearly 50% of them are not yet paying Lunch Money users. So far, I am pretty excited about these numbers.
-
-### Engineering (General): 6 hours, 10 minutes
-
-"Minor" bug fixes and "minor" feature improvements don't seem so minor anymore after I realize I spent over 6 hours on them. This is mostly from revamping the visual filter for the Accounts page and supporting multiple file uploads for our CSV importing tool (see our latest changelog entry [here](https://feedback.lunchmoney.app/changelog/153)). Time really flies when you're coding.
 
 ### Contractor prep: 3 hours, 33 minutes
 
