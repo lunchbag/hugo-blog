@@ -25,7 +25,7 @@ One of the ways I exercise my freedom as a solopreneur is that I generally work 
 
 If I force myself to keep coding when I don't feel like it, I'd probably lose interest and that would be fatal to my SaaS business. I never want to get to a point where I dread working on Lunch Money.
 
-Anyways, back to how I figure out what to work on next. Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features can differentiate Lunch Money from the others, and what feature improvements will improve the experience for existing users. These two are always top of mind and guide my own prioritization of feature requests.
+Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features can differentiate Lunch Money from the others, and what feature improvements will improve the experience for existing users. These two are always top of mind and guide my own prioritization of feature requests.
 
 I will also have a sense of how large of a task I feel like working on– maybe it's been a while since I did a large task (1+ week) and I'm feeling up for it again (they really are draining!). Or maybe I want to knock something out within a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches this criteria.
 
