@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = "feb-weekly-2"
 tags = []
-title = "Weekly #2 - New features"
+title = "Weekly #2 - Prioritization, (more) hiring and a featured case study!"
 
 +++
 Wow, where did the week go?
