@@ -14,7 +14,7 @@ Luckily I can answer that question since I use the [Daily Time Tracking](http://
 
 In the last 7 days, I put in roughly 40 hours of work. Let's use this time breakdown as a template for this week's retrospective.
 
-### Engineering: 17 hours, 9 minutes
+### Engineering (New feature): 17 hours, 9 minutes
 
 I often get asked how I prioritize features or decide what to work on next. In the beginning, I worked tirelessly to get Lunch Money to feature parity with other personal financial apps. Now we're past that and it's no longer obvious what the next big feature should be.
 
@@ -38,7 +38,7 @@ Technically, I could still keep going and spend time on support, but it's gettin
 
 Issues related to Plaid come up the most frequently, cost me the most time all the while being the most tedious yet straightforward to handle. It usually involves grabbing some debug logs, opening up a support ticket with Plaid and proceeding to play middleman between my user and Plaid for the next few days.
 
-I've started the process of setting up a shared inbox and writing down common support workflows on how to handle Plaid-related support tickets. I've also posted a position for a part-time customer support agent on Upwork and already I'm seeing some very promising candidates! 
+I've started the process of setting up a shared inbox and writing down common support workflows on how to handle Plaid-related support tickets. I've also posted a position for a part-time customer support agent on Upwork and already I'm seeing some very promising candidates!
 
 It's super important to me that whoever I hire to interact with our users can maintain Lunch Money's brand voice as friendly, helpful and delightful. I'll likely start them off on just Plaid-related issues as I think it's still important for me to interact directly with users when it comes to bug reports. (Side note– since setting up our Canny, I've gotten close to 0 feature requests in my support inbox!)
 
@@ -56,7 +56,7 @@ I first reached out to churned users who specifically noted they wanted to wait 
 
 ### Contractor prep: 3 hours, 33 minutes
 
-To recap from [last week's retrospective](https://lunchbag.ca/feb-weekly-1), I hit a bit of a snag while trying to hire for an apprentice. I realized instead that I need to hire a marketing assistant who could execute. 
+To recap from [last week's retrospective](https://lunchbag.ca/feb-weekly-1), I hit a bit of a snag while trying to hire for an apprentice. I realized instead that I need to hire a marketing assistant who could execute.
 
 A Lunch Money user reached out to me and proposed that she and a colleague come onboard as a team of two to help me with my marketing needs on a project basis. It was almost exactly what I wanted to hear and we spent some time going back and forth on expectations. Finally, we jumped on a call to meet face-to-face and even ended up finding out that we were practically neighbours growing up in the suburbs of Toronto!
 
@@ -86,7 +86,7 @@ Other random small tasks like replying to emails can really add up!
 
 ## Lunch Money
 
-* I wasn't able to get done any of the onboarding/walkthrough material that I set out to do. I get many 1 or 2 cancellation requests every week with the reason "the product is too difficult to use" and a few requests for tutorials on how to get started so it really sucks to feel like the "delightfully simple" part of our tagline is slowly starting to not ring true anymore.
+* I wasn't able to get done any of the onboarding/walkthrough material that I set out to do. I get 1 or 2 cancellation requests every week with the reason "the product is too difficult to use" and a few requests for tutorials on how to get started so it really sucks to feel like the "delightfully simple" part of our tagline is slowly starting to not ring true anymore.
 
 ## Personal life
 
