@@ -25,7 +25,7 @@ One of the ways I exercise my freedom as a solopreneur is that I generally work 
 
 If I force myself to keep coding when I don't feel like it, I'd probably lose interest and that would be fatal to my SaaS business. I never want to get to a point where I dread working on Lunch Money.
 
-Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features will continue to differentiate Lunch Money from the rest, and what feature updates will improve the experience for existing users. These two principles are always top of mind when I prioritize features.
+Being a Lunch Money user myself and chatting with users on a daily basis, I have a really good idea of what features will continue to differentiate my app from the rest, and what feature updates will improve the experience for existing users. These two principles are always top of mind when it comes to prioritization.
 
 The other factor is how large of a task I feel like working on– maybe it's been a while since I shipped a major feature (1+ week) and I'm feeling up for it again (they are really draining!). Or maybe I want to knock something out in a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches my criteria.
 
@@ -43,7 +43,7 @@ I've started the process of setting up a shared inbox and writing down common su
 
 It's super important to me that whoever I hire to interact with our users can maintain Lunch Money's brand voice as friendly, helpful and delightful. I'll likely start them off on just Plaid-related issues as I think it's still important for me to interact directly with users when it comes to bug reports. (Side note– since setting up our Canny, I've gotten close to 0 feature requests in my support inbox!)
 
-### Setting up for EU expansion: 3 hours, 50 minutes
+### EU Pilot Program: 3 hours, 50 minutes
 
 After nearly 2 years of back and forth with Plaid, I finally received word that we're officially able to expand to Europe by supporting GDPR-compliant bank syncing for our European users!
 
@@ -63,7 +63,7 @@ A Lunch Money user reached out to me and proposed that she and a colleague come 
 
 I spent time this week writing out a project brief to outline exactly what needs to be done. I'll essentially have her and her colleague rewrite the copy for our [marketing site](https://lunchmoney.app), specifically the feature-specific pages. Deadline should be the end of the month, so we'll see how that goes!
 
-### Preparing email newsletter: 2 hours, 32 minutes
+### Email newsletter prep: 2 hours, 32 minutes
 
 Did it really take me 2 and a half hours to prepare and send out our latest feature newsletter? :facepalm:
 
