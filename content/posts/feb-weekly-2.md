@@ -29,7 +29,7 @@ Being a Lunch Money user myself and chatting with users on a daily basis, I have
 
 The other factor is how large of a task I feel like working on– maybe it's been a while since I shipped a major feature and I'm feeling up for it again (these typically take 1+ week and are really draining!). Or maybe I want to knock something out in a day or two. Based on the bandwidth I'm willing to commit for the next task, I scan our Canny to see what feature matches my criteria.
 
-All that being said, the latest new feature for Lunch Money is manual crypto tracking! If users don't want to connect to their wallets or exchanges directly, they can choose from over 300 cryptocurrencies to track manually. We pull in the latest exchange rates every 15 minutes. As far as I know, none of the top personal finance apps out there offer this and we already have close to 100 manually tracked tokens so far.
+All that being said, the latest new feature for Lunch Money is manual crypto tracking! If users don't want to connect to their wallets or exchanges directly, they can choose from over 300 cryptocurrencies to track manually. We pull in the latest exchange rates every 15 minutes. As far as I know, none of the top personal finance apps out there offer this!
 
 ### Support: 6 hours, 28 minutes
 
