@@ -2,7 +2,6 @@
 categories = []
 date = 2021-02-13T16:00:00Z
 description = "Wow, where did the week go? Luckily I can answer that question since I time-track! In the last 7 days, I put in roughly 40 hours of work. Let’s use this time breakdown as a template for this week’s retrospective."
-draft = true
 images = ["/uploads/ogimgblogweekly2.png"]
 slug = "feb-weekly-2"
 tags = []
