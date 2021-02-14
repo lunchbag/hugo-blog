@@ -17,7 +17,7 @@ In the last 7 days, I put in roughly 40 hours of work. Let's use this time break
 
 ### Engineering: 17 hours, 9 minutes
 
-I often get asked how I prioritize features or decide what to work on next. In the beginning, I worked tirelessly to get Lunch Money to feature parity with other personal financial apps. Now that we're past that, it's no longer obvious what the next big feature should be.
+I often get asked how I prioritize features or decide what to work on next. In the beginning, I worked tirelessly to get Lunch Money to feature parity with other personal financial apps. Now we're past that and it's no longer obvious what the next big feature should be.
 
 Recently I set up a [feature request board](https://feedback.lunchmoney.app) so I (and other users) can see what the top requested features are. While it's been useful and insightful, the most requested features are not necessarily what's next on the docket.
 
