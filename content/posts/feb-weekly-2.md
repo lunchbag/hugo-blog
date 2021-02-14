@@ -13,7 +13,7 @@ Wow, where did the week go?
 
 Luckily I can answer that question since I use the [Daily Time Tracking](http://dailytimetracking.com/) app!
 
-This week, I put in roughly 40 hours of work in the last 7 days. Let's use this time breakdown as a template for this week's retrospective.
+In the last 7 days, I put in roughly 40 hours of work. Let's use this time breakdown as a template for this week's retrospective.
 
 ### Engineering: 17 hours, 9 minutes
 
