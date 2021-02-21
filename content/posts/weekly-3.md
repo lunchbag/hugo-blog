@@ -15,7 +15,7 @@ This has been a crazy week. I've always been shy about calling Lunch Money "a re
 
 It's funny that just a few weeks ago, I was pretty happy and set on the leisurely path of staying a company of one. By last Wednesday, I had effectively hired 3 people: a marketing manager, a writer and a part-time customer support agent.
 
-The marketing team of 2, originally mentioned in [last week's retrospective](https://lunchbag.ca/feb-weekly-2), have gotten straight to work since I sent over the project brief. 
+The marketing team of 2, originally mentioned in [last week's retrospective](https://lunchbag.ca/feb-weekly-2), have gotten straight to work since I sent over the project brief.
 
 To quickly recap, I hired them on a project-basis to rewrite Lunch Money's marketing site, in particular, the feature-specific pages. For reference, the [current marketing site]() was 100% written by me. I didn't have much of a strategy beyond "well, this sounds right to me so it should be okay".
 
@@ -27,39 +27,39 @@ For anyone out there who thinks content marketing and copywriting is just string
 
 I hadn't even realized some of what I was requesting was not strategically sound. For example, I thought it would be cool to have an entire page that explains why someone should support independent developers. Why not further solidify my narrative as a bootstrapped founder and show my support for the community, right?
 
-**How I thought it would go down:**
+### **How I thought it would go down:**
 
 Me: Let's have a page that explains why someone should support independent developers.
 
-Marketing Manager: Ok!
+**Marketing Manager:** Ok!
 
 _A day later_
 
-Writer: Here's the copy!
+**Writer:** Here's the copy!
 
-Me: Great!
+**Me:** Great!
 
 🎆 _5,000 pageviews per day_ ✨
 
-**What actually happened:**
+### **What actually happened:**
 
-Me: Let's have a page that explains why someone should support independent developers.
+**Me:** Let's have a page that explains why someone should support independent developers.
 
 _A day later_
 
-Marketing Manager: Well, _actually_, while research shows that people love a good founder story, the type of content on this page is not expected to rank higher than any of the existing "build in public"-type articles since search intent is more geared towards long-form content as opposed to a page on a marketing landing site. Instead you should add snippets on the advantages in your About page and/or pricing page since there's more value there as supporting content.
+**Marketing Manager:** Well, _actually_, while research shows that people love a good founder story, the type of content on this page is not expected to rank higher than any of the existing "build in public"-type articles since search intent is more geared towards long-form content as opposed to a page on a marketing landing site. Instead you should add snippets on the advantages in your About page and/or pricing page since there's more value there as supporting content.
 
-Me: 🤯
+**Me:** 🤯
 
-I am honestly amazed at the depth of content marketing. For each of my feature pages, they did very thorough research into competing pages and strategized what Lunch Money's angle should be to optimize for our Google ranking. 
+I am honestly amazed at the depth of content marketing. For each of my feature pages, they did very thorough research into competing pages and strategized what Lunch Money's angle should be to optimize for our Google ranking.
 
 I realized that my prior content strategy was no different than throwing darts in the dark. It worked well for me in the beginning to simply have a landing page but as Lunch Money matures as a business, I now see the value in a well-thought-out content marketing strategy.
 
-The pieces from the writer so far have been superb and it looks like he's running through a set of tools to measure readability and rankability. Needless to say, so far I'm impressed and excited for the final result and how it affects our ranking. 
+The pieces from the writer so far have been superb and it looks like he's running through a set of tools to measure readability and rankability. Needless to say, so far I'm impressed and excited for the final result and how it affects our ranking.
 
 ## Customer support
 
-I also hired a lovely lady from the Phillipines via Upwork to be my part-time customer support agent. At the moment, she's helping me with Plaid support tickets. 
+I also hired a lovely lady from the Phillipines via Upwork to be my part-time customer support agent. At the moment, she's helping me with Plaid support tickets.
 
 I spent a ton of time preparing for this– over 10 hours writing a guide in Notion on how to handle Plaid accounts and another 10 hours on an admin portal for gathering debugging information. It was probably more than I would have liked to spend but my attitude is always to do it right the first time because I want the foundation to be strong. Since the customer care team has the potential to expand in the future, I want to invest in tools and wikis that will ultimately save me time in the future.
 
@@ -87,7 +87,7 @@ I was really excited that they accepted the deal and ended up included Lunch Mon
 
 ## Personal life
 
-* Justin and I celebrated our 3rd wedding anniversary! We had a wonderful dinner where we had deep conversations about all aspects of our life. We're both super busy with our current endeavours and we both have high aspirations. I feel lucky to have a supportive partner. 
+* Justin and I celebrated our 3rd wedding anniversary! We had a wonderful dinner where we had deep conversations about all aspects of our life. We're both super busy with our current endeavours and we both have high aspirations. I feel lucky to have a supportive partner.
 
 # What didn't go so well
 
