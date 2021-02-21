@@ -1,9 +1,9 @@
 +++
 categories = []
-date = ""
-description = ""
+date = 2021-02-20T16:00:00Z
+description = "In the last 7 days, Lunch Money has surely graduated from just being an app to being a full-blown business."
 draft = true
-images = []
+images = ["/uploads/ogimgblogweekly3-1.png"]
 slug = "feb-weekly-3"
 tags = []
 title = "Weekly #3 - Major milestones in hiring and marketing"
