@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = "feb-weekly-3"
 tags = []
-title = "Weekly #3"
+title = "Weekly #3 - 3 new hire and our first affiliate deal!"
 
 +++
 This has been a crazy week. I've always been shy about calling Lunch Money "a real company" but in the last 7 days, Lunch Money has surely graduated from just being an app to being a full-blown business.
