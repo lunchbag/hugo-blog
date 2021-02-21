@@ -2,7 +2,6 @@
 categories = []
 date = 2021-02-20T16:00:00Z
 description = "In the last 7 days, Lunch Money has surely graduated from just being an app to being a full-blown business."
-draft = true
 images = ["/uploads/ogimgblogweekly3-1.png"]
 slug = "feb-weekly-3"
 tags = []
@@ -53,33 +52,35 @@ _A day later_
 
 **Me:** 🤯
 
-I am honestly amazed at the depth of content marketing. For each of my feature pages, there was very thorough research into competing pages resulting in a solid strategy for Lunch Money's SEO.
+I am honestly amazed at the depth of content marketing. For each of my features, my marketing manager conducted thorough research into competing pages and in the end presented a solid strategy for Lunch Money's SEO.
 
 I realized that my prior content plan was no different than throwing darts in the dark. It worked well for me in the beginning to simply have a landing page but as Lunch Money matures as a business, I now see the value in a well-thought-out content marketing strategy.
 
-The pieces from the writer so far have been superb and it looks like he's running his text through a set of tools to measure readability and rankability. Needless to say, so far I'm impressed and excited for the final result and how it affects our ranking.
+The pieces from the writer so far have been superb and it looks like he's running his text through a set of tools to measure readability and rankability. So far I'm impressed and I'm excited to see the long-term effects of these changes. The new content for our landing page should hopefully be up within the next two weeks.
 
 ## Customer support
 
-I also hired a lovely lady from the Phillipines via Upwork to be my part-time customer support agent. At the moment, she's helping me with Plaid support tickets.
+I hired a lovely lady from the Phillipines via Upwork to be my part-time customer support agent. At the moment, she's helping me with Plaid support tickets.
 
-I spent a ton of time preparing for this– over 10 hours writing a guide in Notion on how to handle Plaid accounts and another 10 hours on an admin portal for gathering debugging information. It was probably more than I would have liked to spend but my attitude is always to do it right the first time because I want the foundation to be strong. Since the customer care team has the potential to expand in the future, I want to invest in tools and wikis that will ultimately save me time in the future.
+I spent a ton of time preparing for this– over 10 hours writing a guide in Notion on how to handle Plaid accounts and another 10 hours on an admin portal for gathering debugging information. It was probably more than I would have liked to spend but my attitude is always to do it right the first time because I want the foundation to be strong. Since the customer care team has the potential to expand in the future, I want to invest in quality tools and wikis that will ultimately save me time in the future.
 
 My hire has been great so far (look out for an email from Ann if you're having issues with your synced accounts!) and I love that we're in the same timezone since this role requires a bit more back-and-forth communication during the training period.
 
-## Affiliate Program
+# Affiliate Program
 
 Early last week, the director of advertising for an online FinTech media company reached out and said they were interested in featuring Lunch Money in their "top X crypto portfolios trackers" listicle which gets 45,000+ page views per month.
 
-Of course, they were looking for an affiliate deal. I'd been very hot and cold on affiliate programs for some time now. The main hesitation stems from this fantasy idea that I should continue growing organically and that if my product was good enough, word of mouth would naturally continue to drive up my signups for free.
+Of course, they were looking for an affiliate deal. I'd been very cold on affiliate programs for some time. The main hesitation stems from this fantasy idea that I should continue growing organically and that if my product was good enough, word of mouth would naturally continue to drive up my signups for free.
 
 I could theoretically stop all marketing efforts and still grow at a slow and steady rate, but since I've been presented with opportunities to accelerate growth, I've been taking them. It's not so much a question of why, but more so, _why_ _not_. After all, one of my new year's resolutions with regards to Lunch Money is to put more money back into the business.
 
-When I first started contemplating affiliate marketing, I consulted with a friend of mine who is an accomplished digital marketer. He gave me some tips on how to structure the deal– don't go for recurring commission and don't go into it with a long-term mindset.
+When I first started contemplating affiliate marketing, I consulted with a friend of mine who is an accomplished digital marketer. He gave me some tips on how to structure the deal– mainly, don't go for recurring commission and don't go into it with a long-term mindset. 
 
-I suggested a three-month affiliate deal for a 15% commission on the first invoice. This protects me since I only pay if I get a conversion. Some other affiliate programs pay out for trial signups and some pay out a commission on every single invoice.
+The affiliate programs of my biggest competitors are very alluring– some pay out for every trial signup and some pay out a commission on every single recurring invoice.
 
-I was really excited that they accepted the deal and ended up including Lunch Money in several of their listicles (best X budget apps, best X budget apps for couples). On top of that, they want to feature me in their Women History Month events which will include a panel with females in the FinTech space! Feels good to gain a champion of their calibre and I'm excited to see how many new users this brings in over the next 3 months.
+I ended up suggesting a three-month affiliate deal for a 15% commission on the first invoice. This protects me since I only pay if I get a conversion (which is way better than paying for Facebook ads). 
+
+I was really excited that they accepted the deal and ended up including Lunch Money in several more of their listicles (best X budget apps, best X budget apps for couples). On top of that, they want to feature me in their Women History Month events which will include a panel of females in the FinTech space! Feels good to gain a champion of their calibre and I'm excited to see how many new users this brings in over the next 3 months.
 
 # What went well
 
@@ -95,11 +96,11 @@ I was really excited that they accepted the deal and ended up including Lunch Mo
 
 ## Lunch Money
 
-* I didn't end up doing any engineering work at all! My hope with hiring and outsourcing work was so it would free up my time to do more coding & writing. While I'm still finding time to write, preparing for the new hires took quite a bit of time this week.
+* I didn't end up doing any engineering work at all! My hope with hiring and outsourcing work was that it would free up my time to do more coding & writing. While I'm still finding time to write, preparing for the new hires took quite a bit of time this week.
 
 ## Personal life
 
-* I considered getting Lasik surgery and went in for a consultation. Ultimately, I shied away from the idea. I don't think I want or need Lasik bad enough to justify the risks as well as the side effects and post-op procedures and healing.
+* I considered getting Lasik surgery and went in for a consultation. Ultimately, I shied away from the idea. I don't think I want or need Lasik bad enough to justify the risks, side effects and post-op procedures and healing.
 
 # Next goals
 
