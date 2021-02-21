@@ -9,29 +9,29 @@ tags = []
 title = "Weekly #3"
 
 +++
-This has been a crazy week. I feel like in the last 7 days, Lunch Money, the app, is now Lunch Money, the business that's just beginning.
+This has been a crazy week. I've always been shy about calling Lunch Money "a real company" but in the last 7 days, Lunch Money has surely graduated from just being an app to being a full-blown business.
 
-## Hiring
+# Hiring
 
-Even just a month ago, I was pretty dead-set on not hiring anybody. Well, in the last week I've effectively hired 3 people: 1 marketing manager (unofficial name), 1 writer and 1 part-time customer support agent.
+It's funny that just a few weeks ago, I was pretty happy and set on the leisurely path of staying a company of one. By last Wednesday, I had effectively hired 3 people: a marketing manager, a writer and a part-time customer support agent.
 
-The marketing team of 2 is the one who approached me which I mentioned in [last week's retrospective](https://lunchbag.ca/feb-weekly-2). Since sending over the project brief, they've gotten straight to work and I have been super impressed with their deliverables.
+The marketing team of 2, originally mentioned in [last week's retrospective](https://lunchbag.ca/feb-weekly-2), have gotten straight to work since I sent over the project brief. 
 
-I've essentially hired them to rewrite Lunch Money's marketing site, in particular, the feature-specific pages. For reference, the current marketing site was 100% written by me. I didn't have much of a strategy beyond the "common sense" strategy which is "well, this sounds right to me so it should be okay".
+To quickly recap, I hired them on a project-basis to rewrite Lunch Money's marketing site, in particular, the feature-specific pages. For reference, the [current marketing site]() was 100% written by me. I didn't have much of a strategy beyond "well, this sounds right to me so it should be okay".
 
 Hiring is very humbling. I stand by what I said in an earlier article, [Optimizations as a Company of One](https://lunchbag.ca/company-of-one):
 
-> I equate it to doing a job yourself before hiring someone– it’s always better to grok the requirements first to some degree so you can understand how to best utilize who you’ve brought on (and appreciate them more!).
+> \[..\] doing a job yourself before hiring someone– it’s always better to grok the requirements first to some degree so you can understand how to best utilize who you’ve brought on (and appreciate them more!).
 
-Content marketing and copywriting is not just stringing together words that sound about right. It's beyond an artform. There's a lot of research and analysis and even psychology that goes beyond it and I didn't even realize that some of what I was requesting simply _does not make sense_.
+For anyone out there who thinks content marketing and copywriting is just stringing together words that sound about right– I was right there with you until just a few days ago.  It's the amalgamation of research, analysis and user psychology that goes beyond an artform or a wordsmith's craft.
 
-For example, I thought it would be cool to have an entire page that explains why someone should support independent developers. 
+I hadn't even realized some of what I was requesting was not strategically sound. For example, I thought it would be cool to have an entire page that explains why someone should support independent developers. Why not further solidify my narrative as a bootstrapped founder and show my support for the community, right?
 
 **How I thought it would go down:**
 
 Me: Let's have a page that explains why someone should support independent developers.
 
-Writer: Ok!
+Marketing Manager: Ok!
 
 _A day later_
 
@@ -47,25 +47,27 @@ Me: Let's have a page that explains why someone should support independent devel
 
 _A day later_
 
-Marketing Manager: Well, _actually_, while research shows that people love a good founder story, the type of content on this page is not expected to rank higher than any of the existing "build in public"-type articles since search intent is more geared towards long-form content as opposed to a page on a marketing landing site. Instead you should add bullet points on the advantages in your About page and/or pricing page since there's more value as supporting content instead of a standalone page.
+Marketing Manager: Well, _actually_, while research shows that people love a good founder story, the type of content on this page is not expected to rank higher than any of the existing "build in public"-type articles since search intent is more geared towards long-form content as opposed to a page on a marketing landing site. Instead you should add snippets on the advantages in your About page and/or pricing page since there's more value there as supporting content.
 
-Me: Ah.
+Me: 🤯
 
-It's honestly amazing. I hadn't realize how deep the world of content marketing goes. For each of my feature pages, they did very in-depth research into competing pages and strategized what Lunch Money's angle should be to optimize for our Google ranking.
+I am honestly amazed at the depth of content marketing. For each of my feature pages, they did very thorough research into competing pages and strategized what Lunch Money's angle should be to optimize for our Google ranking. 
 
-I realized my prior strategy was very much luck-based and no different than throwing darts in the dark. It worked well for me in the beginning but as Lunch Money matures, I now realize how valuable a well-thought-out content marketing strategy is.
+I realized that my prior content strategy was no different than throwing darts in the dark. It worked well for me in the beginning to simply have a landing page but as Lunch Money matures as a business, I now see the value in a well-thought-out content marketing strategy.
 
-With every deliverable I get from the writer, it seems like he's running his content through a variety of tools to measure readability and rankability. 
-
-Needless to say, so far I'm impressed and excited for the final result and how it affects our ranking. It also bodes well that this duo is based in Toronto, so while I'm sleeping, they're working away and when I wake up, I usually have something to give them feedback on. 
+The pieces from the writer so far have been superb and it looks like he's running through a set of tools to measure readability and rankability. Needless to say, so far I'm impressed and excited for the final result and how it affects our ranking. 
 
 ## Customer support
 
-I also hired a part-time customer support agent to help out for about 5 hours per week. At the moment, I'm only having them help out with Plaid support tickets. I used Upwork to find someone and I ended up hiring a very lovely lady from the Phillipines and I love that we're in the same timezone since we can go back and forth easier because this role is more hands on.
+I also hired a lovely lady from the Phillipines via Upwork to be my part-time customer support agent. At the moment, she's helping me with Plaid support tickets. 
+
+I spent a ton of time preparing for this– over 10 hours writing a guide in Notion on how to handle Plaid accounts and another 10 hours on an admin portal for gathering debugging information. It was probably more than I would have liked to spend but my attitude is always to do it right the first time because I want the foundation to be strong. Since the customer care team has the potential to expand in the future, I want to invest in tools and wikis that will ultimately save me time in the future.
+
+My hire has been great so far (look out for an email from Ann if you're having issues with your synced accounts!) and I love that we're in the same timezone since this role requires a bit more back-and-forth communication during the training period.
 
 ## Affiliate Program
 
-Early last week, the director of advertising for a mid-tier publication reached out to me and said they were interested in featuring Lunch Money in their "Top crypto portfolios" listicle which gets 45,000+ pageviews per month. 
+Early last week, the director of advertising for a mid-tier publication reached out to me and said they were interested in featuring Lunch Money in their "Top crypto portfolios" listicle which gets 45,000+ pageviews per month.
 
 I've been very hot and cold with going forward with an affiliate program for some time now. The main hesitation is that I had this mystical idea that I could just continue with organic growth and I shouldn't need to pay for pageviews and that if my product was good enough, word of mouth could naturally drive up my signups.
 
