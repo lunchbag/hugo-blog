@@ -67,47 +67,38 @@ My hire has been great so far (look out for an email from Ann if you're having i
 
 ## Affiliate Program
 
-Early last week, the director of advertising for a mid-tier publication reached out to me and said they were interested in featuring Lunch Money in their "Top crypto portfolios" listicle which gets 45,000+ pageviews per month.
+Early last week, the director of advertising for an online FinTech media company reached out and said they were interested in featuring Lunch Money in their "top X crypto portfolios trackers" listicle which gets 45,000+ page views per month.
 
-I've been very hot and cold with going forward with an affiliate program for some time now. The main hesitation is that I had this mystical idea that I could just continue with organic growth and I shouldn't need to pay for pageviews and that if my product was good enough, word of mouth could naturally drive up my signups.
+Of course, they were looking for an affiliate deal. I've been very hot and cold with going forward with an affiliate program for some time now. The main hesitation stems from this fantasy idea that I could continue growing organically and that if my product was good enough, word of mouth would naturally continue to drive up my signups for free.
 
-Sounds a bit silly now. I Tweeted earlier this year that one of my resolutions with regards to Lunch Money is to put more money back into the business. I ended up sinking a couple hundred dollars only to come away with low double-digit signups. The cost per trial sign up was not worth it by far.
+I could theoretically stop all marketing efforts and still grow at a slow and steady rate, but since I was presented with the opportunity to supercharge growth, I decided to take it. I didn't have a good reason why so much as I didn't have a good reason why _not_. After all, one of my new year's resolutions with regards to Lunch Money is to put more money back into the business.
 
-I consulted with my friend who I admire a lot as a digital marketer who gave me some tips on thinking about affiliate programs.
+When I first started contemplating affiliate marketing, I consulted with a friend of mine whom I admire a lot as a digital marketer. He gave me some tips on how to structure the deal– don't go for recurring commission and don't go into it with a long-term mindset to test the waters.
 
-\- 15% to 20% not per invoice. 1-time upfront commission
+I suggested a three-month affiliate deal for a 15% commission on the first invoice. This protects me since I only pay if I get a conversion. Some other affiliate programs pay out just for a trial and others pay out a commission on every single invoice.
 
-\- Don't go into it with a long-term mindset. Let's test this out for 3 months and see what the conversion rate and sign ups are like.
-
-I suggested a 15% commission on the first invoice. This protects me since I only pay if I get a conversion. Some other affiliate programs pay out just for a trial, but there's no guarantee the trialing user will convert. I also specified that this is a non-recurring commission. I was really excited that they were down with the scheme and included Lunch Money in several of their listicles. On top of that, they want to feature me in their Women History Month broadcasting which will include a panel on females in the FinTech space!
+I was really excited that they accepted the deal and ended up included Lunch Money in several of their listicles (best X budget apps, best X budget apps for couples), etc. On top of that, they want to feature me in their Women History Month broadcasting which will include a panel on females in the FinTech space! Feels good to gain a champion of their calibre and I'm excited to see how many new users this brings in over the next 3 months.
 
 # What went well
 
 ## Lunch Money
 
-* Testimonial requests
-* Created admin portal
-* Created customer care guide
-* 
+* Nearly everything. Lunch Money levelled up this week.
 
 ## Personal life
 
-* Wedding anniversary
+* Justin and I celebrated our 3rd wedding anniversary! We had a wonderful dinner where we had deep conversations about all aspects of our life. We're both super busy with our current endeavours and we both have high aspirations. I feel lucky to have a supportive partner. 
 
 # What didn't go so well
 
 ## Lunch Money
 
+* I didn't end up doing any engineering work at all! My hope with hiring and outsourcing work was so it would free up my time to do more coding & writing. While I'm still finding time to write, preparing for the new hires took quite a bit of time this week.
+
 ## Personal life
 
-* Lasik
+* I considered getting Lasik surgery and went in for a consultation. Ultimately, I shied away from the idea. I don't think I want or need Lasik bad enough to justify the risks as well as the side effects and post-op procedures and healing.
 
 # Next goals
 
-Get back to engineering
-
-* Affiliate program
-* Hired 3 people
-* Wedding anniversary conversations
-* Lasik
-* Benzinga
+Get back to engineering! I have a ton of backlogged tasks and bugs to fix.
