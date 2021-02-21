@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = "feb-weekly-3"
 tags = []
-title = "Weekly #3 - 3 new hires and our first affiliate deal!"
+title = "Weekly #3 - marketing and customer support hires plus our first affiliate deal!"
 
 +++
 This has been a crazy week. I've always been shy about calling Lunch Money "a real company" but in the last 7 days, Lunch Money has surely graduated from just being an app to being a full-blown business.
@@ -14,6 +14,8 @@ This has been a crazy week. I've always been shy about calling Lunch Money "a re
 # Hiring
 
 It's funny that just a few weeks ago, I was pretty happy and set on the leisurely path of staying a company of one. By last Wednesday, I had effectively hired 3 people: a marketing manager, a writer and a part-time customer support agent.
+
+## Marketing
 
 The marketing team of 2, originally mentioned in [last week's retrospective](https://lunchbag.ca/feb-weekly-2), have gotten straight to work since I sent over the project brief.
 
