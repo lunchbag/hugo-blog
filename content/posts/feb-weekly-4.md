@@ -4,7 +4,7 @@ date = 2021-02-28T16:00:00Z
 description = ""
 draft = true
 images = ["/uploads/ogimgblogweekly4.png"]
-slug = ""
+slug = "feb-weekly-4"
 tags = []
 title = "Weekly #4 - 1000 paying users!"
 
