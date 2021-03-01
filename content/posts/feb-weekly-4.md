@@ -32,7 +32,7 @@ So what's next? With this major milestone, I feel like I can get back to coding 
 
 ## Email marketing
 
-One of the (many) tasks I want to tackle is making better use of email marketing for existing users. I don't know if I botched that term (I'm a beer in, please be nice), but basically utilize automated email campaigns more to engage users.
+One of the (many) tasks I want to tackle is making better use of email marketing for existing users. I don't know if I botched that term (I'm a beer in, please be nice), but basically utilize automated email campaigns more to improve in-app engagement.
 
 The hardest part about my business is our reliance on Plaid. Bank connections often need to be re-linked and up until this week, there hasn't been a mechanism that lets the user know. It's only when they log in and discover their account hasn't been syncing that they realize they need to fix their connection (bad!). 
 
