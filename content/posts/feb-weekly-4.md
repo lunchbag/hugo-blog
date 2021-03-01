@@ -24,7 +24,7 @@ Afterwards, 200 to 300 users was the quickest run at 4 and a half weeks. I would
 
 My friend helped me draw up a marketing plan but wasn't available for execution. Facebook ads were ultimately not worth it– I ended up sinking close to a thousand dollars for an abysmal number of conversions. The worst part is once you turn off the ads, all trace of your product is gone. 
 
-On average, it took about 7 weeks to get 100 new paid users. That's about every 6th app update (includes minor improvements and bug fixes), every 2nd major feature release and every 3rd newsletter campaign. Not bad!
+On average, it took about 7 weeks to get every 100 new paid users. That's about every 6th app update (includes minor improvements and bug fixes), every 2nd major feature release and every 3rd newsletter campaign. Not bad!
 
 I'm pretty happy with where I'm at. The last few weeks I was on the cusp of being overwhelmed, but luckily Ann (new customer support at Lunch Money!) has been doing a great job and I was able to achieve my goal of getting back to engineering this week.
 
