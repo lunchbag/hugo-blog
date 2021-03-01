@@ -2,7 +2,6 @@
 categories = []
 date = 2021-02-28T16:00:00Z
 description = "Alright, I’m one day late, but I have a good excuse. I was waiting to hit a certain milestone so my goal of writing weekly retrospectives for the month of February would end on a high note."
-draft = true
 images = ["/uploads/ogimgblogweekly4.png"]
 slug = "feb-weekly-4"
 tags = []
@@ -51,7 +50,8 @@ I'm also going to be sending out a brand new weekly digest that rolls up all of 
 
 ## Personal life
 
-* Celebrated my parents' birthday in person for the first time in over 2 years! They have the same birthdate, four years apart. We were able to enjoy a nice walk around Taipei Botanical Garden and a seafood dinner together.
+* I reached my goal of writing a retrospective every week for the month of February! Thank you to everyone who sent in their feedback, shared their thoughts or simply let me know that they enjoyed reading these. I chose a short-term, attainable goal to best set myself up for success and I was propelled to the finish line by everyone's support. I'll likely continue writing these casual retrospectives but perhaps on a less regular or strict cadence– I was a bit stressed out come Sunday when I realized how quickly this last week had gone by!
+* We celebrated my parents' birthday in person for the first time in over 2 years! They have the same birthdate, four years apart. We were able to enjoy a nice walk around Taipei Botanical Garden and a seafood dinner together.
 * Justin and I went to the local flower market and bought some nice plants to brighten up our apartment! As a result, we have a huge monstera in our living room that I'm  hoping makes it to the end of the year. Historically, I have been pretty awful at taking care of plants.
 * I'm in Benzinga's Women in Fintech feature for Women's History Month! Also I think this counts as my first TV feature, but I'm going to be on [YouTube live](https://www.youtube.com/channel/UCqQs28K2zj2dOsc5NfXUKEg) on March 2nd if anyone wants to tune in!
 
