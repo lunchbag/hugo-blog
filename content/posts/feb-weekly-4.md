@@ -40,6 +40,19 @@ So sometime this week, I'll be sending off a one-time campaign to tell everyone 
 
 I'm also going to be sending out a brand new weekly digest that rolls up all of a user's unreviewed transactions for the week. Transactions that get automatically imported come in an "unreviewed" state. This is a big differentiator from Mint, where new imported transactions are indistinguishable and it becomes easy to overlook an expense. Budgeting and expense tracking then becomes a passive action and you're not really sure what to look at once you're logged in– but not with Lunch Money! Hopefully this new digest will get more users checking in more often.
 
+This all brings me to my weird dilemma of the month. I have too many emails I need to send out and I ended up putting half of them on hold. To recap–
+
+1. Canny sends an email to everyone who voted on the features that I shipped today (I closed out 7 today)
+2. New email digest roll-up for unreviewed transactions (scheduled to go on Thursday)
+3. One-off email campaign to let users know to relink their accounts (ready to go, on hold)
+4. New email notification that lets users know whenever they need to relink their account (ready to go, on hold)
+5. An existing monthly Trends email that sends out at the beginning of every month which summarizes the previous month's spending (was supposed to go out today, delayed it by a few days)
+6. An email to my personal newsletter to announce the release of this weekly retrospective (ready to go, on hold)
+7. A feature newsletter to announce my Twitter giveaway (ready to go, on hold)
+8. A feature newsletter to announce the new features I released today (haven't even bothered preparing this yet)
+
+I'm literally worried about burdening people with the amount of work I've done today.
+
 # What went well
 
 ## Lunch Money
