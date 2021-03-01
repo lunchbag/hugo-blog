@@ -43,7 +43,7 @@ I'm also going to be sending out a brand new weekly digest that rolls up all of 
 This all brings me to my weird dilemma of the month. I have too many emails I need to send out and I ended up putting half of them on hold. To recap–
 
 1. Canny sends an email to everyone who voted on the features that I shipped today (I closed out 7 today)
-2. New email digest roll-up for unreviewed transactions (scheduled to go on Thursday)
+2. New weekly email digest roll-up for unreviewed transactions (scheduled to go on Thursday)
 3. One-off email campaign to let users know to relink their accounts (ready to go, on hold)
 4. New email notification that lets users know whenever they need to relink their account (ready to go, on hold)
 5. An existing monthly Trends email that sends out at the beginning of every month which summarizes the previous month's spending (was supposed to go out today, delayed it by a few days)
