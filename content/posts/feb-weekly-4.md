@@ -16,7 +16,7 @@ Woohoo!
 
 To celebrate, today I went on an engineering spree and shipped 7 feature requests from our [Canny](https://feedback.lunchmoney.app/changelog), and now I'm writing to all my internet friends about it while drinking a beer.
 
-Growth since launch has been pretty steady. I ran some numbers to see how many weeks it took to get each subsequent 100 users. From my Hacker News launch in August 2019, I got my first 100 paying users (from just over 1000 signups). From there, it took an uncertain 12 weeks to get to the next 200. This is most likely due to the 45 day trial I was offering in the beginning (which I wrote about in [The biggest mistakes I've made with Lunch Money (so far)](https://lunchbag.ca/lunch-money-mistakes/)).
+Growth since launch has been pretty steady. I ran some numbers to see how many weeks it took to get each subsequent 100 users. From my Hacker News launch in August 2019, I got my first 100 paying users (from just over 1000 signups). From there, it took an uncertain 12 weeks to get to 200. This is most likely due to the 45 day trial I was offering in the beginning (which I wrote about in [The biggest mistakes I've made with Lunch Money (so far)](https://lunchbag.ca/lunch-money-mistakes/)).
 
 Afterwards, 200 to 300 users was the quickest run at 4 and a half weeks. I would attribute this to my [Indie Hackers podcast](https://www.indiehackers.com/podcast/150-jen-yip-of-lunch-money) and this [iconic tweet from a Dutch tech influencer](https://twitter.com/alexandernl/status/1234100101410426880?lang=en) which brought many fine folks from the Netherlands to Lunch Money.
 
