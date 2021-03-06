@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2021-02-28T16:00:00Z
+date = 2021-03-01T04:00:00Z
 description = "Alright, I’m one day late, but I have a good excuse. I was waiting to hit a certain milestone so my goal of writing weekly retrospectives for the month of February would end on a high note."
 images = ["/uploads/ogimgblogweekly4.png"]
 slug = "feb-weekly-4"
