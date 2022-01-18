@@ -75,11 +75,13 @@ Having gotten to this point while enjoying the journey, working on it at my own 
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
+### What is a lifestyle business?
+
+A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
+
 ### Introducing: Picnic Collective, Inc
 
 Picnic Collective, Inc's mission is to help and support solopreneurs and other bootstrapped founders to stay independent while building their lifestyle businesses. 
-
-A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)).
 
 We are a collective of bootstrapped founders, established solopreneurs, trusted industry experts and overall passionate folks who are interested in pursuing a sustainable path to growing their lifestyle businesses. 
 
@@ -92,8 +94,6 @@ You, your aspirations and your business are the priority; investors aren't even 
 We care about sustainable growth and preserving independence.
 
 We want to encourage more of the online equivalent of "buy local" and mom & pop shops. We want to see more "Lunch Money"s in this world!
-
-This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
 
 ### Is this for me?
 
