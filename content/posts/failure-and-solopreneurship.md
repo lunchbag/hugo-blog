@@ -110,7 +110,7 @@ If you made it this far, thank you for your readership and continued support and
 
 To the number of you who reached out, who barely know me on a personal level but noticed my absence with Lunch Money and cared enough to ask me how I'm doing, I truly appreciate you.
 
-I'm still slowly getting back into the swing of things and clearly have a lot on my plate, but I am committed to getting through it all, slowly but surely. I appreciate your patience!
+I'm still slowly getting back into the swing of things and clearly have a lot on my plate, but I am committed to getting through it all, slowly but surely. I apologize if there have been unanswered emails or calls– please feel free to follow up as necessary. I appreciate your patience!
 
 ***
 
