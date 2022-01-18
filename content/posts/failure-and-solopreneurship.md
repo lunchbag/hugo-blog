@@ -11,7 +11,7 @@ title = "Failure and solopreneurship"
 +++
 This is a really hard post to write. I've been meaning to get through this for weeks now, and I've managed to push it off until now.
 
-I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open. This was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). Showing that the journey is not a linearly paved road and that you define your own success despite failures or hardships seems to have been inspirational to a number of my readers. Being open and honest about the challenges I've faced had never been short of rewarding.
+I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). Showing that the journey is not a linearly paved road and that you define your own success despite failures or hardships seems to have been inspirational to a number of my readers. Being open and honest about the challenges I've faced had never been short of rewarding.
 
 So this time should be no different, right?
 
