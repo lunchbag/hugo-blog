@@ -49,15 +49,15 @@ Well, I am totally unanchored, thanks to my already nomadic lifestyle and the fr
 
 ## I moved to Los Angeles.
 
-I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least a few years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. A year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave my life behind in Taipei, but always with the intention of returning. Needless to say, I have no desire to return to Taipei in the foreseeable future. 
+I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least a few years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future. 
 
-There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to put down new roots and building a new life. Control means I solely get to decide where and when and I no longer have to live with the fear of potentially not returning. 
+There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. 
 
-Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life there, where I have a solid support group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving in this new city and I'm excited for everything else that comes along with that!
+Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving in this new city and I'm excited for everything else that comes along with that!
 
 ## I am building a team around Lunch Money.
 
-I've been feeling at a crossroads for the last few weeks. My whole motivation for Lunch Money previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
+I've been feeling at a crossroads for the last few weeks. My whole dream for Lunch Money previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24/7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
@@ -67,7 +67,7 @@ So don't worry, Lunch Money is here to stay. But what else is next for me?
 
 ## I am starting a new company!
 
-Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make a million dollars a year and there are no ambitions to take it that far.
+Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
 Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance. It was incredible for my self-confidence, for my personal purpose and for my outlook on life.
 
@@ -77,11 +77,13 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 ### Introducing: Picnic Collective, Inc
 
-Picnic Collective, Inc's mission is to help and support solopreneurs and other bootstrapped founders to stay independent while building their lifestyle businesses. A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)).
+Picnic Collective, Inc's mission is to help and support solopreneurs and other bootstrapped founders to stay independent while building their lifestyle businesses. 
+
+A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)).
 
 We are a collective of bootstrapped founders, established solopreneurs, trusted industry experts and overall passionate folks who are interested in pursuing a sustainable path to growing their lifestyle businesses. 
 
-We are the "phone a friend" when you need it. 
+We are the "phone a friend" when you need it.
 
 We are what makes the journey less lonely. 
 
@@ -89,7 +91,7 @@ Your goals, dreams and aspirations take the front seat and we are a support syst
 
 You and your business are the priority; investors aren't even part of the equation. 
 
-We care about sustainable growth and preserving independence. 
+We care about sustainable growth and preserving independence.
 
 We want to encourage more of the online equivalent of "buy local" and mom & pop shops. We want to see more "Lunch Money"s in this world!
 
@@ -100,9 +102,17 @@ This is inherently a different path than raising money or joining an accelerator
 1. You want to build a lifestyle business or you are working on building your lifestyle business.
 2. You want to stay independent. You have no interest in raising money, giving up equity or working with investors.
 3. You want to be part of a collective of other folks walking the same path as you.
-4. Pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business would be helpful.
+4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
-If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh). We are also accepting founding Collective member donations for those who want to secure their interest and be part of shaping how Picnic Collective will be run. If you donate over $50, you'll have the opportunity for a meet & greet with me to share your stories and ideas or just have a chat with me!
+If you resonated with any of the above, let us know through this Typeform or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
+
+## Final thoughts
+
+If you made it this far, thank you for your readership and continued support and for allowing me to be open and vulnerable.
+
+To the number of you who reached out, who barely know me on a personal level but noticed my absence with Lunch Money and cared enough to ask me how I'm doing, I truly appreciate you.
+
+I'm still slowly getting back into the swing of things and clearly have a lot on my plate, but I am committed to getting through it all, slowly but surely. I appreciate your patience!
 
 ***
 
