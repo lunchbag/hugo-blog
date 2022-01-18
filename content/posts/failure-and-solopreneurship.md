@@ -85,11 +85,9 @@ We are a collective of bootstrapped founders, established solopreneurs, trusted 
 
 We are the "phone a friend" when you need it.
 
-We are what makes the journey less lonely. 
+We are what makes the journey less lonely, while keeping it fun!
 
-Your goals, dreams and aspirations take the front seat and we are a support system when you need it. 
-
-You and your business are the priority; investors aren't even part of the equation. 
+You, your aspirations and your business are the priority; investors aren't even part of the equation. 
 
 We care about sustainable growth and preserving independence.
 
