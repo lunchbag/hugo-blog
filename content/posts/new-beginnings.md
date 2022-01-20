@@ -131,7 +131,7 @@ If you resonated with any of the above, let us know through this [Typeform](http
 
 <!--End mc_embed_signup-->
 
-## Final thoughts
+# Final thoughts
 
 > <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
 
