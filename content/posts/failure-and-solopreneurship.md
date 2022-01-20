@@ -9,9 +9,9 @@ tags = []
 title = "Failure, solopreneurship and new beginnings"
 
 +++
-This is a really hard post to write. I've been meaning to get through this for weeks now, and I've managed to push it off until now.
+This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've managed to push it off until now.
 
-I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from being open and honest about the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the storytelling nothing short of rewarding.
+I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
 
 So this time should be no different, right?
 
@@ -41,7 +41,7 @@ However, it's not all bad! In seeking comfort and support from my friends as wel
 
 To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is, however, important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
-None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it or continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
+None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
 # So, what's next?
 
@@ -53,7 +53,7 @@ Well, I am totally unanchored, thanks to my already nomadic lifestyle and the fr
 
 ## I moved to Los Angeles.
 
-I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least a few years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
+I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
 There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
 
@@ -65,7 +65,7 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24/7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money\[1\]. The first few hires will be engineers. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money\[1\]. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
@@ -81,23 +81,19 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 > Make the money, don't let the money make you. Change the game, don't let the game change you. – Macklemore
 
-### What is a lifestyle business?
-
-A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
-
 ### Introducing: Picnic Collective, Inc
 
-Picnic Collective, Inc's mission is to help and support solopreneurs and other bootstrapped founders to stay independent while building their lifestyle businesses and redefining what freedom, work, retirement and financial independence means to them.
+Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses\[2\].
 
-We are what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
+Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
-Overall, we want to encourage more of the online equivalent of "buy local" and mom & pop shops. We want to see more "Lunch Money"s in this world!
+Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
 
-Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, freedom and independence means to them. Personally, I've tried to [go down the traditional path](https://lunchbag.ca/my-journey-so-far/) in many aspects of my life and I've always found the most happiness and success when I strayed from it. 
+Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them. 
 
 ### Is this for me?
 
-Below are just a few ways that differentiate the Picnic Collective path to solopreneurship over traditional means of building a business:
+Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of building a business:
 
 * **Sustainable growth and preserving independence** over hyper-growth through investment money
 * **Sufficiency** over abundance
@@ -105,7 +101,7 @@ Below are just a few ways that differentiate the Picnic Collective path to solop
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
 
-Sound interesting?
+Sound interesting? Still wondering if this is for you? In other words–
 
 1. You want to build a lifestyle business or you are working on building your lifestyle business.
 2. You want to stay independent. You have no interest in raising money, giving up equity or working with investors.
@@ -120,9 +116,7 @@ If you resonated with any of the above, let us know through this Typeform or sub
 
 Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is. 
 
-You have two choices: run on autopilot and let life happen to you. Or, take the amazing opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living.
-
-What is happening right now, at this very moment, is the only guarantee we have in life.
+You have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living. Because, what is happening right now, at this very moment, is the only guarantee we have in life.
 
 If you made it this far, thank you for your readership and continued support and for allowing me to be open and vulnerable.
 
@@ -133,3 +127,5 @@ I'm still slowly getting back into the swing of things and clearly have a lot on
 ***
 
 \[1\] Email jobs@lunchmoney.app if you're interested. Otherwise, watch [https://lunchmoney.app/hiring](https://lunchmoney.app/hiring "https://lunchmoney.app/hiring") for job details in the coming days.
+
+\[2\] A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
