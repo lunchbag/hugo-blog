@@ -97,7 +97,7 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 
 * **Sustainable growth and preserving independence** over hyper-growth through investment money
 * **Sufficiency** over abundance
-* **Maximizing time and experiences** over maximizing profits
+* **Maximizing free time and experiences** over maximizing profits
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
 
