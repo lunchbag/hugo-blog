@@ -133,7 +133,7 @@ If you resonated with any of the above, let us know through this [Typeform](http
 
 ## Final thoughts
 
-> <p>It is not that we have a short time to live, but that we waste a lot of it. <b>Life is long enough</b>, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
+> <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
 
 In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existance. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
 
