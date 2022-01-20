@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = "new-beginnings"
 tags = []
-title = "On failure, solopreneurship and new beginnings"
+title = "On failure and new beginnings"
 
 +++
 This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've managed to push it off until now.
@@ -111,7 +111,7 @@ Sound interesting? Still wondering if this is for you? In other words–
 If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/naked-10_7.css" rel="stylesheet" type="text/css">
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -120,15 +120,9 @@ If you resonated with any of the above, let us know through this [Typeform](http
 <div id="mc_embed_signup">
 <form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&amp;id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	<label for="mce-EMAIL">Subscribe for updates to Picnic Collective</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
