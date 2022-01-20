@@ -89,7 +89,7 @@ Picnic Collective is what makes the journey less lonely, while keeping it fun an
 
 Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
 
-Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them. 
+Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
 
 ### Is this for me?
 
@@ -108,13 +108,40 @@ Sound interesting? Still wondering if this is for you? In other words–
 3. You want to be part of a collective of other folks walking the same path as you.
 4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
-If you resonated with any of the above, let us know through this Typeform or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
+If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/naked-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&amp;id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 ## Final thoughts
 
 > It is not that we have a short time to live, but that we waste a lot of it. **Life is long enough**, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. – Seneca
 
-Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is. 
+Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is.
 
 You have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living. Because, what is happening right now, at this very moment, is the only guarantee we have in life.
 
