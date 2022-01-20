@@ -79,7 +79,7 @@ Having gotten to this point while enjoying the journey, working on it at my own 
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
-> Make the money, don't let the money make you. Change the game, don't let the game change you. – Macklemore
+> <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
 ### Introducing: Picnic Collective, Inc
 
@@ -108,7 +108,7 @@ Sound interesting? Still wondering if this is for you? In other words–
 3. You want to be part of a collective of other folks walking the same path as you.
 4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
-If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
+If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are open to sharing your story or ideas with me!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
