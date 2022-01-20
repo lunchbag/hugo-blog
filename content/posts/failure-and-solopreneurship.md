@@ -31,7 +31,7 @@ So when my personal life changed suddenly overnight, it brought everything down 
 
 The failure I'm alluding is the failure of my marriage. Almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
-Heartbreak, betrayal, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
+Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
 
 All the interviews I did last summer where I was asked about my self-care routine or how I work efficiently as a company of one are all suddenly from a past life– one that I will probably never get back to. I've unwillingly and unexpectedly entered a new phase of life at a time when I felt more-or-less satisfied.
 
