@@ -39,7 +39,7 @@ I have been (and am still in) extreme flux. It's like I've been thrown off my tr
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
 
-To be clear, I'm not ashamed of my divorce but I am not going to let it define me. It is, however, important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
+To be clear, I'm not ashamed of my divorce but I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
@@ -113,19 +113,19 @@ If you resonated with any of the above, let us know through this [Typeform](http
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+\#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&amp;id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding:20px 0 !important;">
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe for updates to Picnic Collective</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="you@email.com" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
-    <div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:unset !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
-    </div>
+<form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding:20px 0 !important;">
+<div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">Subscribe for updates to Picnic Collective</label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="you@email.com" required>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
+<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:unset !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
+</div>
 </form>
 </div>
 
@@ -137,7 +137,7 @@ If you resonated with any of the above, let us know through this [Typeform](http
 
 In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existance. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i can&#39;t believe we get to exist</p>&mdash; DK ✌🏽 (@dk_the_human) <a href="https://twitter.com/dk_the_human/status/1483971870852464641?ref_src=twsrc%5Etfw">January 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i can't believe we get to exist</p>— DK ✌🏽 (@dk_the_human) <a href="https://twitter.com/dk_the_human/status/1483971870852464641?ref_src=twsrc%5Etfw">January 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you made it this far, thank you for your readership and continued support and for allowing me to be open and vulnerable.
 
