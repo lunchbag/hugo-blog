@@ -4,9 +4,9 @@ date = 2022-01-14T08:00:00Z
 description = ""
 draft = true
 images = []
-slug = "failure-and-solopreneurship"
+slug = "new-beginnings"
 tags = []
-title = "Failure, solopreneurship and new beginnings"
+title = "On failure, solopreneurship and new beginnings"
 
 +++
 This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've managed to push it off until now.
@@ -65,7 +65,7 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24/7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money\[1\]. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
@@ -83,7 +83,7 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 ### Introducing: Picnic Collective, Inc
 
-Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses\[2\].
+Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
@@ -126,6 +126,6 @@ I'm still slowly getting back into the swing of things and clearly have a lot on
 
 ***
 
-\[1\] Email jobs@lunchmoney.app if you're interested. Otherwise, watch [https://lunchmoney.app/hiring](https://lunchmoney.app/hiring "https://lunchmoney.app/hiring") for job details in the coming days.
+<a id="jobs">\[1\]</a> Email jobs@lunchmoney.app if you're interested. Otherwise, watch [https://lunchmoney.app/hiring](https://lunchmoney.app/hiring "https://lunchmoney.app/hiring") for job details in the coming days.
 
-\[2\] A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
+<a id="lifestyle-business">\[2\]</a> A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
