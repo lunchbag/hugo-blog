@@ -85,7 +85,7 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
-Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
+Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
 Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
 
