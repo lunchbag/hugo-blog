@@ -108,7 +108,7 @@ Sound interesting? Still wondering if this is for you? In other words–
 3. You want to be part of a collective of other folks walking the same path as you.
 4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
-If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are open to sharing your story or ideas with me!
+If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are willing to share your story or ideas with me!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -133,9 +133,9 @@ If you resonated with any of the above, let us know through this [Typeform](http
 
 ## Final thoughts
 
-> <p>It is not that we have a short time to live, but that we waste a lot of it. **Life is long enough**, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
+> <p>It is not that we have a short time to live, but that we waste a lot of it. <b>Life is long enough</b>, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
 
-Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is.
+Life is difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is.
 
 You have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living. Because, what is happening right now, at this very moment, is the only guarantee we have in life.
 
