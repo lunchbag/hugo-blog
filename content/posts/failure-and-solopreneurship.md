@@ -124,7 +124,7 @@ If you resonated with any of the above, let us know through this [Typeform](http
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
-    <div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:100% !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
+    <div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:unset !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
     </div>
 </form>
 </div>
