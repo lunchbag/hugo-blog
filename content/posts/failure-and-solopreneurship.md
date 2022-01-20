@@ -11,7 +11,7 @@ title = "Failure, solopreneurship and new beginnings"
 +++
 This is a really hard post to write. I've been meaning to get through this for weeks now, and I've managed to push it off until now.
 
-I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). Being open and honest about the challenges I've faced seemed to have been inspirational to a number of my readers, helping to make the storytelling nothing short of rewarding.
+I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from being open and honest about the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the storytelling nothing short of rewarding.
 
 So this time should be no different, right?
 
@@ -23,7 +23,7 @@ It has to do with my personal life.
 
 It seems so obvious but it wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies. It's something I do because I genuinely enjoy it, I derive a lot of  satisfaction from it and I find personal purpose in it.
+But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies. It's something I do because I genuinely enjoy it, I derive a lot of satisfaction from it and I find meaningful purpose in it.
 
 So when my personal life changed suddenly overnight, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ But, I assure you that my recent absence is not out of neglect for what I've always been passionate about.
 
@@ -35,13 +35,13 @@ Heartbreak, betrayal, worthlessness, confusion. Just a small roster of feelings 
 
 All the interviews I did last summer where I was asked about my self-care routine or how I work efficiently as a company of one are all suddenly from a past life– one that I will probably never get back to. I've unwillingly and unexpectedly entered a new phase of life at a time when I felt more-or-less satisfied.
 
-I have been (and am still in) extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. The experiences I've been going through in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few. The uncertainty is terrifying on many levels.
+I have been (and am still in) extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. My experiences in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few. The uncertainty is terrifying on many levels.
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
 
 To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is, however, important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
-None of what happened to me was under my control nor was it solely my fault, but what is on me is how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am choosing to be a better person for it despite the ways I've been knocked down. This is my M.O. going forward.
+None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it or continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
 # So, what's next?
 
@@ -55,13 +55,13 @@ Well, I am totally unanchored, thanks to my already nomadic lifestyle and the fr
 
 I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least a few years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
-There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
+There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
 
-Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving in this new city and I'm excited for everything else that comes along with that!
+Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving here and I'm excited for everything else that comes along with that!
 
 ## I am building a team around Lunch Money.
 
-I've been feeling at a crossroads for the last few weeks. My whole dream for Lunch Money previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
+I've been feeling at a crossroads for the last few weeks. My whole dream for [Lunch Money](https://lunchmoney.app) previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24/7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
@@ -73,13 +73,13 @@ So don't worry, Lunch Money is here to stay. But what else is next for me?
 
 Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
-Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance. It was incredible for my self-confidence, for my personal purpose and for my outlook on life.
+Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
-Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, those were exactly the paths I went down before pursuing Lunch Money.
+Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
-> Make the money, don't let the money make you. Change the game, don't let the game change you. - Macklemore
+> Make the money, don't let the money make you. Change the game, don't let the game change you. – Macklemore
 
 ### What is a lifestyle business?
 
@@ -89,21 +89,23 @@ A lifestyle business is a business set up and run by its founders primarily with
 
 Picnic Collective, Inc's mission is to help and support solopreneurs and other bootstrapped founders to stay independent while building their lifestyle businesses and redefining what freedom, work, retirement and financial independence means to them.
 
-We are the "phone a friend" when you need it. We are what makes the journey less lonely, while keeping it fun. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
+We are what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
 Overall, we want to encourage more of the online equivalent of "buy local" and mom & pop shops. We want to see more "Lunch Money"s in this world!
 
-Picnic Collective is on-brand for where I am in life. I hope to encourage more people to redefine what work means to them and what it means to love what you do. Personally, I've tried to [go down the traditional path](https://lunchbag.ca/my-journey-so-far/) in many aspects of my life and I've always found the most happiness and success when I strayed from it. 
+Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, freedom and independence means to them. Personally, I've tried to [go down the traditional path](https://lunchbag.ca/my-journey-so-far/) in many aspects of my life and I've always found the most happiness and success when I strayed from it. 
 
 ### Is this for me?
 
-Below are just a few days that different the Picnic Collective path to solopreneurship over traditional means of building a business:
+Below are just a few ways that differentiate the Picnic Collective path to solopreneurship over traditional means of building a business:
 
-* Sustainable growth and preserving independence over hyper-growth through investment money.
-* Sufficiency over abundance
-* Maximizing time and experiences over maximizing profits
-* See those who help us on our journey as peers rather than subordinates
-* Taking your time and enjoying the journey over racing against the clock to get to the next milestone
+* **Sustainable growth and preserving independence** over hyper-growth through investment money
+* **Sufficiency** over abundance
+* **Maximizing time and experiences** over maximizing profits
+* See those who help us on our journey as **peers** rather than subordinates
+* **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
+
+Sound interesting?
 
 1. You want to build a lifestyle business or you are working on building your lifestyle business.
 2. You want to stay independent. You have no interest in raising money, giving up equity or working with investors.
@@ -112,21 +114,15 @@ Below are just a few days that different the Picnic Collective path to soloprene
 
 If you resonated with any of the above, let us know through this Typeform or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
 
-_We are a collective of bootstrapped founders, established solopreneurs, trusted industry experts and overall passionate folks who are interested in pursuing a sustainable path to_ 
-
 ## Final thoughts
 
-> It is not that we have a short time to live, but that we waste a lot of it. **Life is long enough**, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. - Seneca
+> It is not that we have a short time to live, but that we waste a lot of it. **Life is long enough**, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. – Seneca
 
-_We have a finite time on this earth. And it's a long time, not short._
+Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is. 
 
-Life is fucking hard and it sucks. It's long and difficult and nothing is guaranteed in life. There's no prize at the end of it and "the end" could happen at any time. You have to figure out the rules and what your own purpose is. You have two choices: run on autopilot and let life happen to you. Or, take the amazing opportunity that can only happen at this point in time of our entire universe's history. Just do something with that. Do something meaningful, do something that you can be proud of and make every day worth living.
+You have two choices: run on autopilot and let life happen to you. Or, take the amazing opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living.
 
-Life comes at you fast. Getting through this with kindness and self compassion, and in turn to others. Just be a nicer person, be a more pleasant person, more empathetic to other people going through their hardships. Not even comparing, I just know what pain feels like and I know how debilitating it can be. Life comes at you fast.
-
-_You have to live in the moment because that's the only guarantee in life– what is happening right now._
-
-_Right now is the only guarantee we have, so feel excited._
+What is happening right now, at this very moment, is the only guarantee we have in life.
 
 If you made it this far, thank you for your readership and continued support and for allowing me to be open and vulnerable.
 
