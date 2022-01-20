@@ -6,12 +6,12 @@ draft = true
 images = []
 slug = "new-beginnings"
 tags = []
-title = "On failure, solopreneurship and new beginnings"
+title = "On failure and new beginnings"
 
 +++
-This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've managed to push it off until now.
+This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words.
 
-I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
+I realized my procrastination comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
 
 So this time should be no different, right?
 
@@ -31,7 +31,7 @@ So when my personal life changed suddenly overnight, it brought everything down 
 
 The failure I'm alluding is the failure of my marriage. Almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
-Heartbreak, betrayal, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
+Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
 
 All the interviews I did last summer where I was asked about my self-care routine or how I work efficiently as a company of one are all suddenly from a past life– one that I will probably never get back to. I've unwillingly and unexpectedly entered a new phase of life at a time when I felt more-or-less satisfied.
 
@@ -39,7 +39,7 @@ I have been (and am still in) extreme flux. It's like I've been thrown off my tr
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
 
-To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is, however, important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
+To be clear, I'm not ashamed of my divorce but I am not going to let it define me. It is, however, important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
@@ -55,7 +55,7 @@ Well, I am totally unanchored, thanks to my already nomadic lifestyle and the fr
 
 I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
-There is a certain level of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
+There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
 
 Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving here and I'm excited for everything else that comes along with that!
 
@@ -63,7 +63,7 @@ Moving to Los Angeles was the easiest decision to make. I knew right away I want
 
 I've been feeling at a crossroads for the last few weeks. My whole dream for [Lunch Money](https://lunchmoney.app) previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
 
-The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24/7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
+The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24-7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
 That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
@@ -79,17 +79,17 @@ Having gotten to this point while enjoying the journey, working on it at my own 
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
-> Make the money, don't let the money make you. Change the game, don't let the game change you. – Macklemore
+> <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
 ### Introducing: Picnic Collective, Inc
 
 Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
-Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. We are the "phone a friend" when you need it. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
+Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
 Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
 
-Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them. 
+Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
 
 ### Is this for me?
 
@@ -108,15 +108,36 @@ Sound interesting? Still wondering if this is for you? In other words–
 3. You want to be part of a collective of other folks walking the same path as you.
 4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
-If you resonated with any of the above, let us know through this Typeform or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. You may also have the opportunity for a meet & greet with me to share your story or ideas, or just to have a chat!
+If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are willing to share your story or ideas with me!
 
-## Final thoughts
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&amp;id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding:20px 0 !important;">
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe for updates to Picnic Collective</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="you@email.com" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
+    <div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:unset !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
+    </div>
+</form>
+</div>
 
-> It is not that we have a short time to live, but that we waste a lot of it. **Life is long enough**, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. – Seneca
+<!--End mc_embed_signup-->
 
-Life is long and difficult and nothing is guaranteed. There's no prize at the end of it; in fact, "the end" could happen at any time. As an adult, you pretty much have to figure out the rules and what your own purpose is. 
+# Final thoughts
 
-You have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunity that can only happen at this point in time of our entire universe's history. Find your meaning and do something that you can be proud of and make every day worth living. Because, what is happening right now, at this very moment, is the only guarantee we have in life.
+> <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
+
+In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existance. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i can&#39;t believe we get to exist</p>&mdash; DK ✌🏽 (@dk_the_human) <a href="https://twitter.com/dk_the_human/status/1483971870852464641?ref_src=twsrc%5Etfw">January 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you made it this far, thank you for your readership and continued support and for allowing me to be open and vulnerable.
 
