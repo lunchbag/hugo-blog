@@ -9,9 +9,9 @@ tags = []
 title = "On failure and new beginnings"
 
 +++
-This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've managed to push it off until now.
+This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words.
 
-I realized my procrastination and hesitation comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
+I realized my procrastination comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
 
 So this time should be no different, right?
 
