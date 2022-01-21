@@ -39,7 +39,7 @@ I have been (and am still in) extreme flux. It's like I've been thrown off my tr
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
 
-To be clear, I'm not ashamed of my divorce but I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
+To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
