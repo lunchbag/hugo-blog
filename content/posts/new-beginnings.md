@@ -29,7 +29,7 @@ However, this time, the vulnerability in sharing this post hits differently. It 
 
 It wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies. It's something I do because I genuinely enjoy it, I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on new features, fixing bugs and interacting with users at random hours of the day and being excited to have plans canceled so I could stay in and work on Lunch Money all day was a major source of joy during the pandemic.
+But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on new features, fixing bugs and interacting with users at random hours of the day and staying in to work on Lunch Money all day were my major sources of joy during the pandemic.
 
 So when my personal life changed suddenly overnight, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health.
 
