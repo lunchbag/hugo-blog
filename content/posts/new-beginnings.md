@@ -6,7 +6,7 @@ draft = true
 images = []
 slug = "new-beginnings"
 tags = []
-title = "On failure and new beginnings (WIP)"
+title = "On new beginnings (WIP)"
 
 +++
 ### Prologue
@@ -15,9 +15,11 @@ This has been both the hardest and most time-consuming post to write. I've been 
 
 What proceeds is the third iteration of an attempt to condense the most tumultuous months of my life and introduce the new changes in my life.
 
-The good news is, with every iteration, the post always come out a little bit more positive and quirky, and I have progressively more fun with it. I'd like to think this is directly correlated to my healing. I hope you enjoy.
+The good news is, with every iteration, the post always come out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
 
 ***
+
+<p></p>
 
 Since the genesis of this blog, I've prided myself in being transparent and an open book, more-or-less. I've shared intimate thoughts and feelings during my sabbatical, the financials behind my travels, and the mistakes I've made as an entrepreneur with Lunch Money.
 
