@@ -13,9 +13,9 @@ title = "On failure and new beginnings (WIP)"
 
 This has been both the hardest and most time-consuming post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
 
-What proceeds is the third iteration of an attempt to condense the most tumultuous months of my life. 
+What proceeds is the third iteration of an attempt to condense the most tumultuous months of my life and introduce the new changes in my life.
 
-The good news is, with every iteration, the post always come out a little bit more positive and quirky, and I have progressively more fun with it. I'd like to think this is directly correlated to my healing journey. I can physically track new life breathing into me. Enjoy.
+The good news is, with every iteration, the post always come out a little bit more positive and quirky, and I have progressively more fun with it. I'd like to think this is directly correlated to my healing. I hope you enjoy.
 
 ***
 
