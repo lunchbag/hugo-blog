@@ -6,30 +6,38 @@ draft = true
 images = []
 slug = "new-beginnings"
 tags = []
-title = "On failure and new beginnings"
+title = "On failure and new beginnings (WIP)"
 
 +++
-This is a really hard post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words.
+### Prologue
 
-I realized my procrastination comes from the discomfort of being so vulnerable and open, which was confusing to me at first because this is what I've been preaching since the genesis of this blog. Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, from writing about [my travels](https://lunchbag.ca/checking-in-things-i-ve-learned/) to [mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/). The feedback I've gotten from sharing the challenges I've faced suggest it's been inspirational to a number of my readers, helping to make the open display of vulnerability nothing short of rewarding.
+This has been both the hardest and most time-consuming post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
 
-So this time should be no different, right?
+What proceeds is the third iteration of an attempt to condense the most tumultuous months of my life. 
 
-Except it is very different. You see, the failure I'm about to share has nothing to do with my business or solopreneurship, and it isn't related to stories of temporary travel or digital nomadism.
+The good news is, with every iteration, the post always come out a little bit more positive and quirky, and I have progressively more fun with it. I'd like to think this is directly correlated to my healing journey. I can physically track new life breathing into me. Enjoy.
 
-It has to do with my personal life.
+***
+
+Since the genesis of this blog, I've prided myself in being transparent and an open book, more-or-less. I've shared intimate thoughts and feelings during my sabbatical, the financials behind my travels, and the mistakes I've made as an entrepreneur with Lunch Money.
+
+Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, especially when I receive feedback from readers and peers that it's been inspirational to them. Historically, this has always made the risk of an open display of vulnerability nothing short of rewarding for me.
+
+However, this time, the vulnerability in sharing this post hits differently. It has nothing to do with my business or solopreneurship, and it isn't related to stories of temporary travel or digital nomadism. It has to do with my personal life.
 
 ## The intertwining of work and life in solopreneurship
 
-It seems so obvious but it wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
+It wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies. It's something I do because I genuinely enjoy it, I derive a lot of satisfaction from it and I find meaningful purpose in it.
+But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies. It's something I do because I genuinely enjoy it, I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on new features, fixing bugs and interacting with users at random hours of the day and being excited to have plans canceled so I could stay in and work on Lunch Money all day was a major source of joy during the pandemic.
 
-So when my personal life changed suddenly overnight, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ But, I assure you that my recent absence is not out of neglect for what I've always been passionate about.
+So when my personal life changed suddenly overnight, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health.
 
-# My personal failure
+# I'm going through a divorce.
 
-The failure I'm alluding is the failure of my marriage. Almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
+(This is about as close as I'm going to get to shouting on a rooftop at the top of my lungs as a form of acceptance.)
+
+So, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
 Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
 
@@ -39,13 +47,15 @@ I have been (and am still in) extreme flux. It's like I've been thrown off my tr
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
 
+### Why I'm sharing this
+
 To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
 # So, what's next?
 
-One of the hardest parts about divorce is that 100% of future plans you made or envisioned for yourself and your (future) family all goes out the window. Suddenly, my life is an empty and open field. Exciting, sure, maybe eventually when I'm in a different headspace. Terrifying, definitely. It's got me asking fundamental questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
+One of the hardest parts about divorce is that 100% of future plans you made or envisioned for yourself and your (future) family all goes out the window. Suddenly, my life is an empty and open field. Exciting? Sure, maybe eventually when I'm in a different headspace. Terrifying? Definitely. It's got me asking fundamental and mind-bending questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
 
 Most people have at least an anchor. A job that keeps them in a certain place. Family that keeps them within a radius. Property or a lease in a particular city. Pets with environmental needs.
 
@@ -73,9 +83,11 @@ So don't worry, Lunch Money is here to stay. But what else is next for me?
 
 Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
-Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
+Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me  grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
 Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
+
+_Expand on why me? Touch on experience, like Twitter, etc_
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
@@ -85,9 +97,13 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
+_"Tech forward businesses that allow you financial freedom without venture investment"_
+
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
 Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
+
+Picnic Collective is where folks come for community and support on their path to freedom.
 
 Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
 
@@ -109,6 +125,8 @@ Sound interesting? Still wondering if this is for you? In other words–
 4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
 
 If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are willing to share your story or ideas with me!
+
+_Include part about, it's also for you if you haven't started your business yet._ 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
