@@ -21,7 +21,7 @@ The good news is, with every iteration, the post always come out a little bit br
 
 <p></p>
 
-Since the genesis of this blog, I've prided myself in being transparent and an open book, more-or-less. I've shared intimate thoughts and feelings during my sabbatical, the financials behind my travels, and the mistakes I've made as an entrepreneur with Lunch Money.
+Since the genesis of this blog, I've prided myself in being transparent and an open book. I've shared intimate thoughts and feelings during my sabbatical, the financials behind my travels, and the mistakes I've made as an entrepreneur with Lunch Money.
 
 Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, especially when I receive feedback from readers and peers that it's been inspirational to them. Historically, this has always made the risk of an open display of vulnerability nothing short of rewarding for me.
 
