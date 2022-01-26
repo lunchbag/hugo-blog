@@ -13,7 +13,7 @@ title = "On new beginnings (WIP)"
 
 This has been both the hardest and most time-consuming post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
 
-What proceeds is the third iteration of an attempt to condense the most tumultuous months of my life and introduce the new changes in my life.
+What proceeds is my final iteration of an attempt to condense the most tumultuous months of my life and introduce what's next for me.
 
 The good news is, with every iteration, the post always come out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
 
