@@ -29,7 +29,7 @@ However, this time, the vulnerability in sharing this post hits differently. It 
 
 It wasn't until everything went down that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship (that is, entrepreneurship as a solo venture). At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I choose to do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on Lunch Money, that is, developing new features, fixing bugs and interacting with users, was my major source of joy during the pandemic.
+But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I choose to do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on Lunch Money, that is, developing new features, fixing bugs and interacting with users, was my major source of joy during the pandemic.
 
 So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._
 
@@ -144,7 +144,7 @@ Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.c
 
 There's no way to sugarcoat it– entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business idea backed by passion requires preparation. Being exposed in a variety of ways to the risks, benefits and rewards of solopreneurship over time helps grease the knees.
 
-If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder who may be in need of your skillsets for a particular project or task. By working directly with the decision maker in a fast-paced environment, you'll be able to make bigger impacts in a shorter amount of time. Undoubtedly, these experiences will help you refine what your ideal work and lifestyle situations are. 
+If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder who may be in need of your skillsets for a particular project or task. By working directly with the decision maker in a fast-paced environment, you'll be able to make bigger impacts in a shorter amount of time. Undoubtedly, these experiences will help you refine what your ideal work and lifestyle situations are.
 
 <span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you resonate with our mission and you're exceptional at what you do, we want you to join our picnic.</b></span>
 
