@@ -107,7 +107,7 @@ Ideally, a lifestyle business is set up to eventually run sustainably with minim
 
 # Introducing: Picnic Collective, Inc
 
-<span class="highlight"><b>Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses</b></span>.
+<span class="highlight"><b>Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses.</b></span>
 
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
