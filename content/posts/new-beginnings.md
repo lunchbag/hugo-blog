@@ -37,7 +37,7 @@ So when my personal life took an unexpected sharp turn, it brought everything do
 
 # I'm going through a divorce.
 
-(This is about as close as I'm going to get to shouting on a rooftop at the top of my lungs as a form of acceptance.)
+(This is as close as I'm going to get to shouting on a rooftop at the top of my lungs as a form of acceptance.)
 
 Sooo, _long story short_, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
