@@ -150,7 +150,7 @@ If you're an subject matter expert with working experience in a vertical such as
 
 ## Get involved
 
-Sound interesting to you? Let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh), follow us on Twitter ([@picnic_inc](https://twitter.com/picnic_inc)), or subscribe to stay updated on [Picnic Collective](https://picniccollective.co). The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
+Sound interesting to you? <span class="highlight">Let us know through this <a href="https://sb8ymec79d1.typeform.com/to/IhqBPWkh" target="_blank">Typeform</a>, follow us on Twitter (<a href="https://twitter.com/picnic_inc" target="_blank">@picnic_inc</a>), or subscribe to stay updated on <a href="https://picniccollective.co" target="_blank">Picnic Collective</a>.</span> The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
 
 # Final thoughts
 
