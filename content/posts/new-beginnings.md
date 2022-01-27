@@ -89,7 +89,7 @@ Over the last few months, I've come to truly appreciate the impact that Lunch Mo
 
 Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the influence that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
-Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me <span class="highlight">choose this path a million times over</span> a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
+Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. <span class="highlight">It should come as no surprise because in this case, only the founder wins.</span>
 
@@ -107,7 +107,7 @@ Ideally, a lifestyle business is set up to eventually run sustainably with minim
 
 # Introducing: Picnic Collective, Inc
 
-Picnic Collective's mission is <span class="highlight">to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses</span>.
+<span class="highlight">Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses</span>.
 
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
