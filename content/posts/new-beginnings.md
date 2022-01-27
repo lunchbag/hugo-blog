@@ -61,7 +61,7 @@ One of the hardest parts with divorce is that 100% of future plans you made or e
 
 Most people have at least an anchor. A job that keeps them in a certain place. Family that keeps them within a radius. Property or a lease in a particular city. Pets with environmental needs.
 
-Well, I am totally unanchored, thanks to my already nomadic lifestyle and the freedom Lunch Money has afforded me. It's both exciting and scary at the same time. I could literally do anything! I could move to Iceland, buy a van, and live in it for a year if I wanted to. But, well, despite living spontaneously for the last few years, I've come to realize I don't want to do that anymore.
+As for me, I am totally unanchored, thanks to my already nomadic lifestyle and the freedom Lunch Money has afforded me. It's both exciting and scary at the same time. I could literally do anything! I could move to Iceland, buy a van, and live in it for a year if I wanted to. But, well, despite living spontaneously and nomadically for the last few years, I've come to realize I'm ready to close that chapter of my life.
 
 # I moved to Los Angeles.
 
