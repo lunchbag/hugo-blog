@@ -138,15 +138,15 @@ Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring 
 
 Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them.
 
-## What if I don't have a business?
+## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
-Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
+Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've sought help, support and advice from various friends and peers who were working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business. Understandably, they may be curious to learn more about the lifestyle to evaluate if it's right for them.
 
-Entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. Being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
+There's no way to sugarcoat it– entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business idea backed by passion requires preparation. Being exposed in a variety of ways to the risks, benefits and rewards of solopreneurship over time helps grease the knees.
 
-If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. 
+If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder who may be in need of your skillsets for a particular project or task. By working directly with the decision maker in a fast-paced environment, you'll be able to make bigger impacts in a shorter amount of time. Undoubtedly, these experiences will help you refine what your ideal work and lifestyle situations are. 
 
-Within Picnic Collective, industry experts will be valuable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly revealing more about their own relationship with solopreneurship.
+<b>Picnic Collective doesn't have a requirement of being a current business owner. If you're exceptional, we want you to join our picnic.</b>
 
 ## Get involved
 
