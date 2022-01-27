@@ -150,28 +150,7 @@ If you're an subject matter expert with working experience in a vertical such as
 
 ## Get involved
 
-Sound interesting to you? Let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh), follow us on Twitter ([@picnic_inc](https://twitter.com/picnic_inc)), or subscribe below to stay updated on [Picnic Collective](https://picniccollective.co). The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-\#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://lunchbag.us3.list-manage.com/subscribe/post?u=068d51ea96330553b96a38fdb&id=b2fb6b8b69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding:20px 0 !important;">
-<div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">Subscribe for updates to Picnic Collective</label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="you@email.com" required>
-<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_068d51ea96330553b96a38fdb_b2fb6b8b69" tabindex="-1" value=""></div>
-<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:unset !important;height:unset !important; line-height:unset !important; font-size:0.9rem !important;"></div>
-</div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+Sound interesting to you? Let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh), follow us on Twitter ([@picnic_inc](https://twitter.com/picnic_inc)), or subscribe to stay updated on [Picnic Collective](https://picniccollective.co). The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
 
 # Final thoughts
 
@@ -186,6 +165,8 @@ If you made it this far, thank you for your readership and continued support and
 To the number of you who reached out, who barely know me on a personal level but noticed my absence with Lunch Money and cared enough to ask me how I'm doing, I truly appreciate you.
 
 I'm still slowly getting back into the swing of things and clearly have a lot on my plate, but I am committed to getting through it all, slowly but surely. I apologize if there have been unanswered emails or calls– please feel free to follow up as necessary. I appreciate your patience!
+
+Last but not least, a very special shoutout to my friends who took the time to read the various iterations of this post and gave me support along the way. You are all greatly appreciated: _Jen, Helen, Richard, Bryan, Vrinda, Yannie, Jenn, Jordan, DK._
 
 ***
 
