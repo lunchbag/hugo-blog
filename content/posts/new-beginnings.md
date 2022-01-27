@@ -128,7 +128,7 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 
 ## How can Picnic Collective help me?
 
-Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' guidance, expertise and network.
+Nobody has all the skills needed to run a business, and as solopreneurs and bootstrapped founders, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' guidance, expertise and network.
 
 Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
 
