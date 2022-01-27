@@ -51,7 +51,7 @@ However, it's not all bad! In seeking comfort and support from my friends as wel
 
 ### Reflections on my healing journey
 
-To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. <span class="highlight">No one should have to go through the tough times alone.</span>
+To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. <b>No one should have to go through the tough times alone.</b>
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down.
 
@@ -67,7 +67,7 @@ As for me, I am totally unanchored, thanks to my already nomadic lifestyle and t
 
 I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but always with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
-There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. <span class="highlight">I am creating my own security through self-reliance.</span>
+There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. <b>I am creating my own security through self-reliance.</b>
 
 Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving here and I'm excited for everything else that comes along with that!
 
@@ -77,7 +77,7 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24-7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. <span class="highlight">In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential by making it accessible and available to more people worldwide.</span>
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. <b>In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential by making it accessible and available to more people worldwide.</b>
 
 I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
