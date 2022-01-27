@@ -57,7 +57,7 @@ None of what happened to me was under my control nor was it solely my fault, but
 
 # So, what's next?
 
-One of the hardest parts with divorce is that 100% of future plans you made or envisioned for yourself and your (future) family all goes out the window. Suddenly, my life is an empty and open field. Exciting? Sure, maybe eventually when I'm in a different headspace. Terrifying? Definitely. It's got me asking fundamental and mind-bending questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
+One of the hardest parts with divorce is that 100% of future plans you made or envisioned for yourself and your (future) family dissolve immediately. Suddenly, my life is an empty and open field. Exciting? Sure, maybe eventually when I'm in a different headspace. Terrifying? Definitely. It's got me asking fundamental and mind-bending questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
 
 Most people have at least an anchor. A job that keeps them in a certain place. Family that keeps them within a radius. Property or a lease in a particular city. Pets with environmental needs.
 
