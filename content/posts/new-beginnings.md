@@ -91,7 +91,7 @@ Instead, it has reached a sustained level of stability and profitability appropr
 
 Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me <span class="highlight">choose this path a million times over</span> a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
-<span class="highlight">What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.</span>
+What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. <span class="highlight">It should come as no surprise because in this case, only the founder wins.</span>
 
 > <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
@@ -101,13 +101,13 @@ First, it's important we get on the same page about what a lifestyle business is
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle".
 
-This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.
+This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. <span class="highlight">Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.</span>
 
 Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, including but not limited to SaaS (software-as-a-service).
 
 # Introducing: Picnic Collective, Inc
 
-Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
+Picnic Collective's mission is <span class="highlight">to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses</span>.
 
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
