@@ -33,7 +33,7 @@ But there's a different interpretation with solopreneurship (that is, entreprene
 
 So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._
 
-It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.
+<span class="highlight">It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.</span>
 
 # I'm going through a divorce.
 
@@ -51,7 +51,7 @@ However, it's not all bad! In seeking comfort and support from my friends as wel
 
 ### Reflections on my healing journey
 
-To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
+To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. <span class="highlight">No one should have to go through the tough times alone.</span>
 
 None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down.
 
@@ -67,7 +67,7 @@ As for me, I am totally unanchored, thanks to my already nomadic lifestyle and t
 
 I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but always with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
-There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
+There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. <span class="highlight">I am creating my own security through self-reliance.</span>
 
 Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving here and I'm excited for everything else that comes along with that!
 
@@ -89,9 +89,9 @@ Over the last few months, I've come to truly appreciate the impact that Lunch Mo
 
 Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the influence that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
-Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
+Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me <span class="highlight">choose this path a million times over</span> a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
-What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
+<span class="highlight">What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.</span>
 
 > <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
