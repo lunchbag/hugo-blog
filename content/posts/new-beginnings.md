@@ -11,7 +11,7 @@ title = "On new beginnings (WIP)"
 +++
 ### Prologue
 
-This has been both the hardest and most time-consuming post to write to date. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
+This has been both the hardest and most time-consuming post to write to date. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words.
 
 What proceeds is the final iteration of my attempt to condense the most tumultuous months of my life and introduce what's next for me in a way that hopefully gets you as excited as I am for the future.
 
@@ -27,11 +27,11 @@ However, this time, the vulnerability in sharing this post hits differently. It 
 
 # The intertwining of work and life in solopreneurship
 
-It wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
+It wasn't until everything went down that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I choose to do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on Lunch Money, that is, developing new features, fixing bugs and interacting with users, was my major sources of joy during the pandemic.
+But there's a different interpretation with solopreneurship (that is, entrepreneurship as a solo venture). At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I choose to do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on Lunch Money, that is, developing new features, fixing bugs and interacting with users, was my major source of joy during the pandemic.
 
-So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ 
+So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._
 
 It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.
 
@@ -39,7 +39,7 @@ It's important to me to convey that my sudden and recent absence is not out of n
 
 (This is about as close as I'm going to get to shouting on a rooftop at the top of my lungs as a form of acceptance.)
 
-So, _long story short_, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
+Sooo, _long story short_, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
 Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
 
@@ -53,11 +53,11 @@ However, it's not all bad! In seeking comfort and support from my friends as wel
 
 To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
-None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
+None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down.
 
 # So, what's next?
 
-One of the hardest parts about divorce is that 100% of future plans you made or envisioned for yourself and your (future) family all goes out the window. Suddenly, my life is an empty and open field. Exciting? Sure, maybe eventually when I'm in a different headspace. Terrifying? Definitely. It's got me asking fundamental and mind-bending questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
+One of the hardest parts with divorce is that 100% of future plans you made or envisioned for yourself and your (future) family all goes out the window. Suddenly, my life is an empty and open field. Exciting? Sure, maybe eventually when I'm in a different headspace. Terrifying? Definitely. It's got me asking fundamental and mind-bending questions, like, what do I want out of my time on this Earth? What should my purpose be? What parts of my previous life served me well and do I want to carry forward into my new life? _What the hell do I do now?!_
 
 Most people have at least an anchor. A job that keeps them in a certain place. Family that keeps them within a radius. Property or a lease in a particular city. Pets with environmental needs.
 
@@ -77,7 +77,7 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24-7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. 
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential.
 
 I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
@@ -97,9 +97,9 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 ### What is a lifestyle business?
 
-First, it's important we get on the same page about what a lifestyle business is, since there is opportunity to modernize the term. 
+First, it's important we get on the same page about what a lifestyle business is, since there is opportunity to modernize the term.
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle". 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle".
 
 This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.
 
@@ -132,7 +132,7 @@ Nobody has all the skills needed to run a business, and as a solopreneur and boo
 
 Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
 
-**I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins.** 
+**I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins.**
 
 Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring somebody and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful.
 
