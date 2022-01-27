@@ -19,9 +19,7 @@ The good news is, with every iteration, the post always come out a little bit br
 
 ***
 
-<p></p>
-
-Since the genesis of this blog, I've prided myself in being transparent and an open book. I've shared intimate thoughts and feelings during my sabbatical, the financials behind my travels, and the mistakes I've made as an entrepreneur with Lunch Money.
+Since the genesis of this blog, I've prided myself in being transparent and an open book. I've shared [intimate thoughts and feelings during my sabbatical](https://lunchbag.ca/checking-in-things-i-ve-learned/), [the financials behind my solo travels](https://lunchbag.ca/travel-expenses/), and [the mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/) with [Lunch Money](https://lunchmoney.app).
 
 Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, especially when I receive feedback from readers and peers that it's been inspirational to them. Historically, this has always made the risk of an open display of vulnerability nothing short of rewarding for me.
 
@@ -89,42 +87,60 @@ Instead, it has reached a sustained level of stability and profitability appropr
 
 Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
-_Expand on why me? Touch on experience, like Twitter, etc_
-
-What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to support and motivate more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
+What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
 > <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
-### Introducing: Picnic Collective, Inc
+### What is a lifestyle business?
+
+First, it's important we get on the same page about what a lifestyle business is, since there is opportunity to modernize the term. 
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle". 
+
+This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. It is a business that allows you financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. Staying independent (that is, not accepting investments and not giving up equity in your business) affords you the ultimate freedom of autonomy in all aspects of your business.
+
+Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, typically SaaS (software-as-a-service).
+
+## Introducing: Picnic Collective, Inc
 
 Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
-_"Tech forward businesses that allow you financial freedom without venture investment"_
-
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
-Overall, I want to encourage more of the online equivalent of "buy local" and mom & pop shops. I want to see more "Lunch Money"s in this world!
-
-Picnic Collective is where folks come for community and support on their path to freedom.
+We represent the online equivalent of "buy local" and mom & pop shops. It is where folks come for community and support on their individual paths to freedom.
 
 Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
 
-### Is this for me?
+### How is Picnic Collective different?
 
-Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of building a business:
+Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of raising money to build a business:
 
-* **Sustainable growth and preserving independence** over hyper-growth through investment money
+* **Sustainable growth** over hyper-growth through investment money
 * **Sufficiency** over abundance
+* **Preserving independence and autonomy** over answering to someone else
 * **Maximizing free time and experiences** over maximizing profits
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
 
-Sound interesting? Still wondering if this is for you? In other words–
+### How will Picnic Collective help me?
 
-1. You want to build a lifestyle business or you are working on building your lifestyle business.
-2. You want to stay independent. You have no interest in raising money, giving up equity or working with investors.
-3. You want to be part of a collective of other folks walking the same path as you.
-4. You want access to pre-vetted, on-demand resources in areas you're not as well-versed in to help you get to the next level of your business.
+Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' expertise and network.
+
+Few people talk about the alternative, so I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they would provide.
+
+I believe there is a unique opportunity here to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins. Imagine Upwork, but less transactional and with none of the risk and guesswork of hiring somebody.
+
+Keeping the quality consistently high within the collective for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource.
+
+### What if I don't have a business?
+
+Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from a lot of my friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
+
+Entrepreneurship is not for everybody. The mental leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. However, being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
+
+If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts will be invaluable resources to established businesses. You'd have a unique opportunity to apply your skillsets to a real business and work directly with the decision maker. In turn, you may learn a lot about yourself as a budding entrepreneur.
+
+### Get involved
 
 If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are willing to share your story or ideas with me!
 
@@ -168,5 +184,3 @@ I'm still slowly getting back into the swing of things and clearly have a lot on
 ***
 
 <a id="jobs">\[1\]</a> Email jobs@lunchmoney.app if you're interested. Otherwise, watch [https://lunchmoney.app/hiring](https://lunchmoney.app/hiring "https://lunchmoney.app/hiring") for job details in the coming days.
-
-<a id="lifestyle-business">\[2\]</a> A lifestyle business is a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle (from [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business)). This is inherently a different path than raising money or joining an accelerator meant to prep you for investments.
