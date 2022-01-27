@@ -177,7 +177,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
 > <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
 
-In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existence. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
+In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time in our entire universe's existence. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i can't believe we get to exist</p>— DK ✌🏽 (@dk_the_human) <a href="https://twitter.com/dk_the_human/status/1483971870852464641?ref_src=twsrc%5Etfw">January 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
