@@ -11,11 +11,11 @@ title = "On new beginnings (WIP)"
 +++
 ### Prologue
 
-This has been both the hardest and most time-consuming post to write. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
+This has been both the hardest and most time-consuming post to write to date. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words. 
 
-What proceeds is my final iteration of an attempt to condense the most tumultuous months of my life and introduce what's next for me.
+What proceeds is the final iteration of my attempt to condense the most tumultuous months of my life and introduce what's next for me in a way that hopefully gets you as excited as I am for the future.
 
-The good news is, with every iteration, the post always come out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
+What's been interesting is that with every iteration, the post always come out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
 
 ***
 
