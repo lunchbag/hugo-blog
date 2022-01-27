@@ -1,9 +1,9 @@
 +++
 categories = []
 date = 2022-01-28T08:00:00Z
-description = ""
+description = "This has been both the hardest and most time-consuming post to write to date. I’ve been meaning to get started on this for weeks now, and I’ve only recently begun to find the strength to put my collection of complicated feelings into coherent words."
 draft = true
-images = []
+images = ["/uploads/ogimage.png"]
 slug = "new-beginnings"
 tags = []
 title = "On new beginnings"
