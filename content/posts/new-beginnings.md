@@ -25,7 +25,7 @@ Transparency leads to demystifying the unknown in taking risks and I've always b
 
 However, this time, the vulnerability in sharing this post hits differently. It has nothing to do with my business or solopreneurship, and it isn't related to stories of temporary travel or digital nomadism. It has to do with my personal life.
 
-## The intertwining of work and life in solopreneurship
+# The intertwining of work and life in solopreneurship
 
 It wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
@@ -63,7 +63,7 @@ Most people have at least an anchor. A job that keeps them in a certain place. F
 
 Well, I am totally unanchored, thanks to my already nomadic lifestyle and the freedom Lunch Money has afforded me. It's both exciting and scary at the same time. I could literally do anything! I could move to Iceland, buy a van, and live in it for a year if I wanted to. But, well, despite living spontaneously for the last few years, I've come to realize I don't want to do that anymore.
 
-## I moved to Los Angeles.
+# I moved to Los Angeles.
 
 I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
@@ -71,7 +71,7 @@ There is a certain degree of trauma that comes with having the security of your 
 
 Moving to Los Angeles was the easiest decision to make. I knew right away I wanted to start my new life here, where I have a solid group of friends, year-round nice weather, a new city to explore and a bevy of foods to try. I see myself thriving here and I'm excited for everything else that comes along with that!
 
-## I am building a team around Lunch Money.
+# I am building a team around Lunch Money.
 
 I've been feeling at a crossroads for the last few weeks. My whole dream for [Lunch Money](https://lunchmoney.app) previously was to build a stream of passive income that I'd still work on as a hobby while pursuing other goals in my personal life, such as buying a house, settling down, having kids, etc. It was part of a grand plan to retire early and enjoy family life. _Obviously, that's out the window now._
 
@@ -83,7 +83,7 @@ I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
-## I am starting a new company!
+# I am starting a new company!
 
 Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
@@ -105,7 +105,7 @@ This is inherently a different path from raising money or joining an accelerator
 
 Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, including but not limited to SaaS (software-as-a-service).
 
-## Introducing: Picnic Collective, Inc
+# Introducing: Picnic Collective, Inc
 
 Picnic Collective's mission is to help and support solopreneurs and bootstrapped founders to stay independent while building their lifestyle businesses<a href="#lifestyle-business">\[2\]</a>.
 
@@ -115,7 +115,7 @@ We represent the online equivalent of "buy local" and mom & pop shops. It is whe
 
 Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
 
-### How is Picnic Collective different?
+## How is Picnic Collective different?
 
 Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of raising money to build a business:
 
@@ -126,7 +126,7 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
 
-### How will Picnic Collective help me?
+## How can Picnic Collective help me?
 
 Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' guidance, expertise and network.
 
@@ -138,7 +138,7 @@ Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring 
 
 Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them.
 
-### What if I don't have a business?
+## What if I don't have a business?
 
 Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
 
@@ -146,7 +146,7 @@ Entrepreneurship is not for everybody. The mental leap it takes to leave the sec
 
 If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts are valuable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly learning more about their own relationship with solopreneurship.
 
-### Get involved
+## Get involved
 
 If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
 
