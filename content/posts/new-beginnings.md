@@ -134,10 +134,6 @@ Few people talk about the alternative, and I found that by [sharing my own exper
 
 **I believe there is a unique opportunity here to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody benefits greatly.**
 
-Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring somebody and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful.
-
-Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them.
-
 ## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
 Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've sought help, support and advice from various friends and peers who were working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business. Understandably, they may be curious to learn more about the lifestyle to evaluate if it's right for them.
