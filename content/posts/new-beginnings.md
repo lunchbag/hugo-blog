@@ -144,7 +144,7 @@ Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.c
 
 Entrepreneurship is not for everybody. The mental leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. Being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
 
-If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts will be invaluable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly learning more about their own relationship with solopreneurship.
+If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts are valuable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly learning more about their own relationship with solopreneurship.
 
 ### Get involved
 
