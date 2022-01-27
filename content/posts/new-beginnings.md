@@ -77,7 +77,7 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24-7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential.
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. <span class="highlight">In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential by making it accessible and available to more people worldwide.</span>
 
 I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
