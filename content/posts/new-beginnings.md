@@ -33,7 +33,7 @@ But there's a different interpretation with solopreneurship (that is, entreprene
 
 So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._
 
-<span class="highlight">It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.</span>
+<b>It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.</b>
 
 # I'm going through a divorce.
 
@@ -91,7 +91,7 @@ Instead, it has reached a sustained level of stability and profitability appropr
 
 Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
-What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. <span class="highlight">It should come as no surprise because in this case, only the founder wins.</span>
+What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. <b>It should come as no surprise because in this case, only the founder wins.</b>
 
 > <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
@@ -101,7 +101,7 @@ First, it's important we get on the same page about what a lifestyle business is
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle".
 
-This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. <span class="highlight">Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.</span>
+This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. <b>Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.</b>
 
 Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, including but not limited to SaaS (software-as-a-service).
 
