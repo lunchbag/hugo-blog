@@ -146,7 +146,7 @@ There's no way to sugarcoat it– entrepreneurship is not easy and it's not for 
 
 If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder who may be in need of your skillsets for a particular project or task. By working directly with the decision maker in a fast-paced environment, you'll be able to make bigger impacts in a shorter amount of time. Undoubtedly, these experiences will help you refine what your ideal work and lifestyle situations are. 
 
-<span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you're exceptional, we want you to join our picnic.</b></span>
+<span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you resonate with our mission and you're exceptional at what you do, we want you to join our picnic.</b></span>
 
 ## Get involved
 
