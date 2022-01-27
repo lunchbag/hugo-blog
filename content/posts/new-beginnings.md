@@ -15,7 +15,7 @@ This has been both the hardest and most time-consuming post to write to date. I'
 
 What proceeds is the final iteration of my attempt to condense the most tumultuous months of my life and introduce what's next for me in a way that hopefully gets you as excited as I am for the future.
 
-What's been interesting is that with every iteration, the post always come out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
+With every iteration, this post always came out a little bit brighter. In fact, the original titles of this post were "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
 
 ***
 
