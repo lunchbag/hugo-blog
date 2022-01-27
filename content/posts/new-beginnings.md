@@ -95,7 +95,7 @@ What I realized while building Lunch Money in public and meeting other folks on 
 
 > <p>Make the money, don't let the money make you. Change the game, don't let the game change you.</p><p align="right">– Macklemore</p>
 
-### What is a lifestyle business?
+### Lifestyle business = an underrated path to entrepreneurship
 
 First, it's important we get on the same page about what a lifestyle business is, since there is opportunity to modernize the term.
 
