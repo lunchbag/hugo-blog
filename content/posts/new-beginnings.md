@@ -21,7 +21,7 @@ What's been interesting is that with every iteration, the post always come out a
 
 Since the genesis of this blog, I've prided myself in being transparent and an open book. I've shared [intimate thoughts and feelings during my sabbatical](https://lunchbag.ca/checking-in-things-i-ve-learned/), [the financials behind my solo travels](https://lunchbag.ca/travel-expenses/), and [the mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/) with [Lunch Money](https://lunchmoney.app).
 
-Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, especially when I receive feedback from readers and peers that it's been inspirational to them. Historically, this has always made the risk of an open display of vulnerability nothing short of rewarding for me.
+Transparency leads to demystifying the unknown in taking risks and I've always been passionate about that, especially when I receive feedback from readers and peers that it's been inspirational to them. Historically, this has always made the risk of vulnerability nothing short of rewarding for me.
 
 However, this time, the vulnerability in sharing this post hits differently. It has nothing to do with my business or solopreneurship, and it isn't related to stories of temporary travel or digital nomadism. It has to do with my personal life.
 
@@ -29,29 +29,31 @@ However, this time, the vulnerability in sharing this post hits differently. It 
 
 It wasn't until recently that I realized how intertwined my work and life are. In many ways, this seems like a bad thing. If you don't have a work-life balance, the assumption is you never know when to stop working and you don't take time to enjoy life.
 
-But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on new features, fixing bugs and interacting with users at random hours of the day and staying in to work on Lunch Money all day were my major sources of joy during the pandemic.
+But there's a different interpretation with solopreneurship. At least for me, solopreneurship is a good fit because I _want_ "work" to be a part of my life. It's one of my hobbies and something I choose to do because I derive a lot of satisfaction from it and I find meaningful purpose in it. Working on Lunch Money, that is, developing new features, fixing bugs and interacting with users, was my major sources of joy during the pandemic.
 
-So when my personal life changed suddenly overnight, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health.
+So when my personal life took an unexpected sharp turn, it brought everything down with it, including my work in solopreneurship, [my online presence](https://twitter.com/lunchbag), and overall, my _joie de vivre._ 
+
+It's important to me to convey that my sudden and recent absence is not out of neglect for what I've always been passionate about, but out of necessity for the recovery of my mental health so I can come out of this a better version of myself.
 
 # I'm going through a divorce.
 
 (This is about as close as I'm going to get to shouting on a rooftop at the top of my lungs as a form of acceptance.)
 
-So, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
+So, _long story short_, almost overnight in September, I went from being what I thought was happily and securely married to starting divorce arrangements.
 
 Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings accompanying the roller coaster I haven't been able to get off for the last 4 months.
 
 All the interviews I did last summer where I was asked about my self-care routine or how I work efficiently as a company of one are all suddenly from a past life– one that I will probably never get back to. I've unwillingly and unexpectedly entered a new phase of life at a time when I felt more-or-less satisfied.
 
-I have been (and am still in) extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. My experiences in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few. The uncertainty is terrifying on many levels.
+I have been (and am still in) extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. My experiences in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few.
 
-However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've ever felt.
+However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've felt in a long time.
 
-### Why I'm sharing this
+### Reflections on my healing journey
 
 To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. No one should have to go through the tough times alone.
 
-None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to be a better person for it and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
+None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down. This is my modus operandi going forward.
 
 # So, what's next?
 
@@ -75,7 +77,9 @@ I've been feeling at a crossroads for the last few weeks. My whole dream for [Lu
 
 The truth of the matter is that my personal motivation, while still there, has changed from the days of being excited to work on it 24-7. I have the financial resources and renewed passion to pursue other endeavors and I have a reinvigorated sense of purpose beyond Lunch Money.
 
-That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. Therefore, I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
+That being said, Lunch Money has positively affected thousands of users so far and I have no intention of turning my back on them. In fact, it makes me more motivated than ever to continue pushing Lunch Money to its fullest potential. 
+
+I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>. The first few hires will be engineers to help me with the backlog of bug reports and feature requests. I'm committed to finding a group of technical folks that work well together, believe in the product and genuinely want to see it grow.
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
@@ -83,7 +87,7 @@ So don't worry, Lunch Money is here to stay. But what else is next for me?
 
 Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
-Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me  grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
+Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
 Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
@@ -97,9 +101,9 @@ First, it's important we get on the same page about what a lifestyle business is
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Lifestyle_business), a lifestyle business is "a business set up and run by its founders primarily with the aim of sustaining a particular level of income and no more; or to provide a foundation from which to enjoy a particular lifestyle". 
 
-This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. It is a business that allows you financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. Staying independent (that is, not accepting investments and not giving up equity in your business) affords you the ultimate freedom of autonomy in all aspects of your business.
+This is inherently a different path from raising money or joining an accelerator meant to prep you for investors. Instead, a lifestyle business can help you reach financial freedom without venture investment and excessive administrative overhead that comes with running a traditional business. Staying independent (that is, not accepting investments and not giving up equity in your company) affords you the ultimate freedom of autonomy in all aspects of your business.
 
-Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, typically SaaS (software-as-a-service).
+Ideally, a lifestyle business is set up to eventually run sustainably with minimal intervention. For all intents and purposes, we're going to be focusing on tech-forward businesses, including but not limited to SaaS (software-as-a-service).
 
 ## Introducing: Picnic Collective, Inc
 
@@ -117,7 +121,7 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 
 * **Sustainable growth** over hyper-growth through investment money
 * **Sufficiency** over abundance
-* **Preserving independence and autonomy** over answering to someone else
+* **Preserving independence and autonomy** over answering to someone else's expectations
 * **Maximizing free time and experiences** over maximizing profits
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
@@ -126,11 +130,11 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 
 Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' expertise and network.
 
-Few people talk about the alternative, so I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they would provide.
+Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
 
-I believe there is a unique opportunity here to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins. Imagine Upwork, but less transactional and with none of the risk and guesswork of hiring somebody.
+_I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins. Imagine Upwork, but less transactional, with none of the risk and guesswork of hiring somebody, and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful._
 
-Keeping the quality consistently high within the collective for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource.
+_Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them._
 
 ### What if I don't have a business?
 
