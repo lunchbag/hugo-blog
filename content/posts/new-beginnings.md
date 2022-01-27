@@ -1,12 +1,12 @@
 +++
 categories = []
-date = 2022-01-14T08:00:00Z
+date = 2022-01-28T08:00:00Z
 description = ""
 draft = true
 images = []
 slug = "new-beginnings"
 tags = []
-title = "On new beginnings (WIP)"
+title = "On new beginnings"
 
 +++
 ### Prologue
