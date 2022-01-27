@@ -128,27 +128,27 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 
 ### How will Picnic Collective help me?
 
-Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' expertise and network.
+Nobody has all the skills needed to run a business, and as a solopreneur and bootstrapped founder, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' guidance, expertise and network.
 
 Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
 
-_I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins. Imagine Upwork, but less transactional, with none of the risk and guesswork of hiring somebody, and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful._
+**I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins.** 
 
-_Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them._
+Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring somebody and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful.
+
+Keeping the quality consistently high for both industry experts and solopreneurs will be of utmost importance (think dribbble in the early days). Bootstrapped founders move crazy fast and Picnic Collective will grow to be an invaluable and rewarding resource for them.
 
 ### What if I don't have a business?
 
-Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from a lot of my friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
+Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
 
-Entrepreneurship is not for everybody. The mental leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. However, being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
+Entrepreneurship is not for everybody. The mental leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. Being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
 
-If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts will be invaluable resources to established businesses. You'd have a unique opportunity to apply your skillsets to a real business and work directly with the decision maker. In turn, you may learn a lot about yourself as a budding entrepreneur.
+If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts will be invaluable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly learning more about their own relationship with solopreneurship.
 
 ### Get involved
 
-If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. We are also accepting founding Picnic Collective member donations for those who want to secure their interest and have some influence or insight on how Picnic Collective will be run. I am also opening my calendar up for some meet & greets with some of you who are willing to share your story or ideas with me!
-
-_Include part about, it's also for you if you haven't started your business yet._ 
+If you resonated with any of the above, let us know through this [Typeform](https://sb8ymec79d1.typeform.com/to/IhqBPWkh) or subscribe below to stay updated on Picnic Collective. The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -175,7 +175,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
 > <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested.</p><p align="right">– Seneca</p>
 
-In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existance. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
+In life, we have two choices: run on autopilot and let life happen to you. Or, take the amazing and unique opportunities available to you only in this exact moment in time of our entire universe's existence. I am choosing to actively find my meaning and do something that I can be proud of that makes every day worth living because despite life being difficult, it's still pretty amazing.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i can't believe we get to exist</p>— DK ✌🏽 (@dk_the_human) <a href="https://twitter.com/dk_the_human/status/1483971870852464641?ref_src=twsrc%5Etfw">January 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
