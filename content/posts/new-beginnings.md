@@ -51,9 +51,9 @@ However, it's not all bad! In seeking comfort and support from my friends as wel
 
 ### Reflections on my healing journey
 
-To be clear, I'm not ashamed of my divorce and I am not going to let it define me. It is important for me to share my story for other people to understand where I'm coming from and what I've been through. I've always believed that sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience amidst everything else that's going on in the world today. <b>No one should have to go through the tough times alone.</b>
+To be clear, I'm not ashamed of my divorce and I am not going to let it define me. I am sharing my story for other people to understand who I am and to encourage others to do the same. Sharing our personal journeys and struggles brings us closer together and strengthens the shared human experience, which we need so badly in today's climate. <b>No one should have to go through the tough times alone.</b>
 
-None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and heal from it. I firmly believe in learning and growing from all of life's experiences and I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can, despite the ways I've been knocked down.
+None of what happened to me was under my control nor was it solely my fault, but it is on me how I choose to react and move on from it. I firmly believe in learning and growing from all of life's experiences and despite the ways I've been knocked down, I am always going to choose to proceed with kindness and compassion, and continue to make a positive impact where I can.
 
 # So, what's next?
 
