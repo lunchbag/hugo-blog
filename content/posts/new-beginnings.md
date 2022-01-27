@@ -65,7 +65,7 @@ As for me, I am totally unanchored, thanks to my already nomadic lifestyle and t
 
 # I moved to Los Angeles.
 
-I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
+I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but always with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
 There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. I am creating my own security through self-reliance.
 
@@ -85,11 +85,11 @@ So don't worry, Lunch Money is here to stay. But what else is next for me?
 
 # I am starting a new company!
 
-Over the last few months, I've come to truly realize the impact and significance that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
+Over the last few months, I've come to truly appreciate the impact that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
 
-Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the impact that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
+Instead, it has reached a sustained level of stability and profitability appropriate for supporting my personal lifestyle. Along with that came a host of intangibles–it taught me grit, perseverance, and initiative. It helped my self-confidence immensely by dampening my imposter syndrome. It showed me what I was able to achieve on my own, and the influence that I, as a singular person, can have on a community of other builders, entrepreneurs and people interested in tracking their personal finance.
 
-Having gotten to this point while enjoying the journey, working on it at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
+Having gotten to this point while enjoying the journey, working at my own pace and without the pressure of outside investors, would make me choose this path a million times over a traditional Silicon Valley career, joining an accelerator, or taking investment money to build out a business. In fact, [those were exactly the paths I went down](https://lunchbag.ca/my-journey-so-far/) before pursuing Lunch Money.
 
 What I realized while building Lunch Money in public and meeting other folks on the same path is that there is a gap in the industry to encourage and support more founders to stay bootstrapped and put their own needs and goals first. It should come as no surprise because in this case, only the founder wins.
 
@@ -132,7 +132,7 @@ Nobody has all the skills needed to run a business, and as a solopreneur and boo
 
 Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
 
-**I believe there is a unique opportunity to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody wins.**
+**I believe there is a unique opportunity here to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody benefits greatly.**
 
 Imagine Upwork, but highly-vetted with none of the risk and guesswork of hiring somebody and everyone on the platform values the idea of a lifestyle business, allowing folks of similar growth mindset to form a collective and making the exchange of knowledge and services less transactional and more meaningful.
 
@@ -142,9 +142,11 @@ Keeping the quality consistently high for both industry experts and solopreneurs
 
 Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've met and interacted with many folks at various stages of entrepreneurship. I've also sought help and advice from friends who are working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business.
 
-Entrepreneurship is not for everybody. The mental leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. Being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
+Entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business backed by passion requires preparation. Being exposed in a variety of ways to the risks and benefits of solopreneurship over time helps grease the knees.
 
-If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. Industry experts are valuable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly learning more about their own relationship with solopreneurship.
+If you're an industry expert, that is, you have over 5 years of working experience in a vertical such as marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder. 
+
+Within Picnic Collective, industry experts will be valuable resources to established businesses and will have the unique opportunity to apply their skillsets to a real business and work directly with the decision maker while undoubtedly revealing more about their own relationship with solopreneurship.
 
 ## Get involved
 
