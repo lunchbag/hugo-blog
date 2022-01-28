@@ -45,7 +45,7 @@ Heartbreak, shock, worthlessness, confusion. Just a small roster of feelings acc
 
 All the interviews I did last summer where I was asked about my self-care routine or how I work efficiently as a company of one are all suddenly from a past life– one that I will probably never get back to. I've unwillingly and unexpectedly entered a new phase of life at a time when I felt more-or-less satisfied.
 
-I have been (and am still in) extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. My experiences in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few.
+I have been (and am still) in extreme flux. It's like I've been thrown off my trajectory and I'm now rocketing through space. I don't know what debris I'll hit along the way or which orbit I'll eventually land in. My experiences in the last few months have been largely superlative– it's been the most trying time of my life, the loneliest I've ever felt, the most purposeless, among just a few.
 
 However, it's not all bad! In seeking comfort and support from my friends as well as hearing from strangers on the internet and Lunch Money users who noticed my absence, honestly, it's also the most loved and seen I've felt in a long time.
 
@@ -65,7 +65,7 @@ As for me, I am totally unanchored, thanks to my already nomadic lifestyle and t
 
 # I moved to Los Angeles.
 
-I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, but always with the intention of returning. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
+I haven't lived somewhere for more than 1.5 years in the last 6 years. In fact, the last two places I lived in (Toronto and Taipei), I thought I would be for at least 3+ years. In 2020, the pandemic kept me from going back to Toronto after a planned 4-month trip to Taiwan. After staying a year and a half later, a rushed decision to head back to the US to get vaccinated meant I had to quickly leave an established life behind in Taipei, one that I had full intention to get back to. Needless to say, I no longer have a desire to return to Taipei for the foreseeable future.
 
 There is a certain degree of trauma that comes with having the security of your home base being constantly withdrawn. Upon reflection, I am now craving permanence and control. Permanence to me means living somewhere for at least a few years and taking the time to deliberately put down roots to build a new life. Control means I solely get to decide where and when, and I no longer have to live with the fear of potentially not returning. <b>I am creating my own security through self-reliance.</b>
 
