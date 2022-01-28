@@ -137,7 +137,7 @@ I received a lot of help from within my network because I wasn't shy to pick at 
 
 I envision a community of exceptional individuals, such as industry experts, subject matter experts, solopreneurs and bootstrapped founders, who are connected by a shared drive to redefine what work, retirement, freedom and financial independence means to them.
 
-This will be a collective of highly-vetted folks forming a trusted community that can provide a host of resources to each other's individual paths to freedom. 
+This will be a collective of highly-vetted folks forming a trusted community that can provide a host of resources to each other's lifestyle businesses and individual paths to freedom. 
 
 ## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
