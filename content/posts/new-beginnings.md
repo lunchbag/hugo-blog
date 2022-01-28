@@ -113,8 +113,6 @@ Picnic Collective is what makes the journey less lonely, while keeping it fun an
 
 We represent the online equivalent of "buy local" and mom & pop shops. It is where folks come for community and support on their individual paths to freedom.
 
-Picnic Collective is on-brand for where I am in life. I hope to encourage more entrepreneurial folks to redefine what work, retirement, freedom and financial independence means to them.
-
 ## How is Picnic Collective different?
 
 Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of raising money to build a business:
@@ -125,14 +123,21 @@ Below are just a few ways that differentiate the Picnic Collective path to a lif
 * **Maximizing free time and experiences** over maximizing profits
 * See those who help us on our journey as **peers** rather than subordinates
 * **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
+* Collaboration and knowledge sharing should be **meaningful and rewarding**, not transactional
 
 ## How can Picnic Collective help me?
 
 Nobody has all the skills needed to run a business, and as solopreneurs and bootstrapped founders, we're further disadvantaged by being limited in our time and resources. Identifying areas of need outside your experience is daunting and evaluating the caliber of a potential hire with a disjoint skillset as you is full of risks. Oftentimes, this is when one might feel like they need to give up equity in exchange for investors' guidance, expertise and network.
 
-Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business. I unexpectedly received a number of requests for my hire's contact information since they found value in a trusted referral and knowing exactly the scope of work they could provide.
+Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business (as they say, you don't know what you don't know!). What was obvious to my marketing hire to tackle first would have never landed on my engineering brain's radar. And now that I was sharing this experience more widely, I saw that many other founders were inspired to start noticing their own blind spots.
 
-**I believe there is a unique opportunity here to connect pre-vetted, on-demand industry experts with established solopreneurs and bootstrapped companies in a way where everybody benefits greatly.**
+The benefits of knowledge sharing are undeniable but can be elusive if, as a company of one, we're not reading the right blogs, asking the right questions, or chatting with the right people. 
+
+I received a lot of help from within my network because I wasn't shy to pick at my friends' brains or ask endless questions when it was well-received. However, not everyone has the personality, the time or the network for this.
+
+I envision a community of exceptional individuals, such as industry experts, subject matter experts, solopreneurs and bootstrapped founders, who are connected by a shared drive to redefine what work, retirement, freedom and financial independence means to them.
+
+This will be a collective of highly-vetted folks forming a trusted community that can provide a host of resources to each other's individual paths to freedom. 
 
 ## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
@@ -140,7 +145,9 @@ Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.c
 
 There's no way to sugarcoat it– entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business idea backed by passion requires preparation. Being exposed in a variety of ways to the challenges, rewards and daily life of solopreneurship over time helps grease the knees.
 
-If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working directly with a bootstrapped founder who may be in need of your skillsets for a particular project or task. By working directly with the decision maker in a fast-paced environment, you'll be able to make bigger impacts in a shorter amount of time. Undoubtedly, these experiences will help you refine what your ideal work and lifestyle situations are.
+If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working closely with a bootstrapped founder who was in your position probably not too long ago. 
+
+Being connected to a pool of highly-vetted bootstrapped founders who like to move fast and who may be in need of your skillsets for a particular project or task will be an excellent way to try freelancing and help refine what your ideal work and lifestyle situations are!
 
 <span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you resonate with our mission and you're exceptional at what you do, we want you to join our picnic.</b></span>
 
