@@ -151,7 +151,7 @@ Being connected to a pool of highly-vetted bootstrapped founders who like to mov
 
 ## Current status
 
-Details pertaining to specific services & offerings, pricing structure, and inner workings of Picnic Collective are currently being worked out and timely updates will be shared via the [@picnic_inc Twitter account](https://twitter.com/picnic_inc).
+Think of this as a manifesto. Details pertaining to specific services & offerings, pricing structure, and inner workings of Picnic Collective are currently being worked out and timely updates will be shared via the [@picnic_inc Twitter account](https://twitter.com/picnic_inc).
 
 We're all in on our mission and in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective is run!
 
