@@ -111,8 +111,6 @@ Ideally, a lifestyle business is set up to eventually run sustainably with minim
 
 Picnic Collective is what makes the journey less lonely, while keeping it fun and meaningful. You, your aspirations and your business are the priority; investors aren't even part of the equation. We care about sustainable growth and preserving independence.
 
-We represent the online equivalent of "buy local" and mom & pop shops. It is where folks come for community and support on their individual paths to freedom.
-
 ## How is Picnic Collective different?
 
 Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of raising money to build a business:
@@ -137,7 +135,7 @@ I received a lot of help from within my network because I wasn't shy to pick at 
 
 I envision a community of exceptional individuals, such as industry experts, subject matter experts, solopreneurs and bootstrapped founders, who are connected by a shared drive to redefine what work, retirement, freedom and financial independence means to them.
 
-This will be a collective of highly-vetted folks forming a trusted community that can provide a host of resources to each other's lifestyle businesses and individual paths to freedom. 
+This will be a collective of highly-vetted folks forming a trusted community that can provide a host of resources to each other's lifestyle businesses. It is where folks come for community and support on their individual paths to freedom.
 
 ## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
