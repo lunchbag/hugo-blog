@@ -151,7 +151,9 @@ Being connected to a pool of highly-vetted bootstrapped founders who like to mov
 
 ## Get involved
 
-Sound interesting to you? <span class="highlight">Let us know through this <a href="https://sb8ymec79d1.typeform.com/to/IhqBPWkh" target="_blank">Typeform</a>, follow us on Twitter (<a href="https://twitter.com/picnic_inc" target="_blank">@picnic_inc</a>), or subscribe to stay updated on <a href="https://picniccollective.co" target="_blank">Picnic Collective</a>.</span> The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
+Sound interesting to you? <span class="highlight">Let us know through this <a href="https://sb8ymec79d1.typeform.com/to/IhqBPWkh" target="_blank">Typeform</a>, follow us on Twitter (<a href="https://twitter.com/picnic_inc" target="_blank">@picnic_inc</a>), or subscribe to stay updated on <a href="https://picniccollective.co" target="_blank">Picnic Collective</a>.</span> 
+
+The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
 
 # Final thoughts
 
