@@ -129,7 +129,7 @@ Nobody has all the skills needed to run a business, and as solopreneurs and boot
 
 Few people talk about the alternative, and I found that by [sharing my own experiences with hiring](https://lunchbag.ca/feb-weekly-3/) as a solopreneur, it opened a lot of my readers' eyes to what might be helpful to their own business (as they say, you don't know what you don't know!). What was obvious to my marketing hire to tackle first would have never landed on my engineering brain's radar. And now that I was sharing this experience more widely, I saw that many other founders were inspired to start noticing their own blind spots.
 
-The benefits of knowledge sharing are undeniable but can be elusive if, as a company of one, we're not reading the right blogs, asking the right questions, or chatting with the right people. 
+The benefits of knowledge sharing are undeniable but can be elusive if, as a company of one, we're not reading the right blogs, asking the right questions, or chatting with the right people.
 
 I received a lot of help from within my network because I wasn't shy to pick at my friends' brains or ask endless questions when it was well-received. However, not everyone has the personality, the time or the network for this.
 
@@ -139,21 +139,25 @@ This will be a collective of highly-vetted folks forming a trusted community tha
 
 ## What if I don't have a business yet or I'm not sure if entrepreneurship is for me?
 
+<span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you resonate with our mission and you're exceptional at what you do, we want you to join our picnic.</b></span>
+
 Since [starting to build Lunch Money in public 2.5 years ago](https://lunchbag.ca/lunch-money/), I've sought help, support and advice from various friends and peers who were working in more traditional roles for an employer, but who were always happy to help as they got to glean the inner workings of my solo business. Understandably, they may be curious to learn more about the lifestyle to evaluate if it's right for them.
 
 There's no way to sugarcoat it– entrepreneurship is not easy and it's not for everybody. The leap it takes to leave the security of a job with benefits and a steady paycheck to pursue an unproven business idea backed by passion requires preparation. Being exposed in a variety of ways to the challenges, rewards and daily life of solopreneurship over time helps grease the knees.
 
-If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working closely with a bootstrapped founder who was in your position probably not too long ago. 
+If you're an subject matter expert with working experience in a vertical such as, but not limited to, marketing, finance or engineering, and you're curious about solopreneurship, one of the best ways to explore this path is by working closely with a bootstrapped founder who was in your position probably not too long ago.
 
 Being connected to a pool of highly-vetted bootstrapped founders who like to move fast and who may be in need of your skillsets for a particular project or task will be an excellent way to try freelancing and help refine what your ideal work and lifestyle situations are!
 
-<span class="highlight"><b>Picnic Collective doesn't have a requirement of being a current business owner. If you resonate with our mission and you're exceptional at what you do, we want you to join our picnic.</b></span>
+## Current status
+
+Details pertaining to specific services & offerings, pricing structure, and inner workings of Picnic Collective are currently being worked out and timely updates will be shared via the [@picnic_inc Twitter account](https://twitter.com/picnic_inc).
+
+We're all in on our mission and in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective is run!
 
 ## Get involved
 
-Sound interesting to you? <span class="highlight">Let us know through this <a href="https://sb8ymec79d1.typeform.com/to/IhqBPWkh" target="_blank">Typeform</a>, follow us on Twitter (<a href="https://twitter.com/picnic_inc" target="_blank">@picnic_inc</a>), or subscribe to stay updated on <a href="https://picniccollective.co" target="_blank">Picnic Collective</a>.</span> 
-
-The mission is set and we are still in the beginning stages of formation, so there may be opportunities to participate in discussions and share your ideas on how Picnic Collective should be run! It is, after all, a collective. 🙃
+Sound interesting to you? <span class="highlight">Let us know through this <a href="https://sb8ymec79d1.typeform.com/to/IhqBPWkh" target="_blank">Typeform</a>, follow us on Twitter (<a href="https://twitter.com/picnic_inc" target="_blank">@picnic_inc</a>), or subscribe to stay updated on <a href="https://picniccollective.co" target="_blank">Picnic Collective</a>.</span>
 
 # Final thoughts
 
