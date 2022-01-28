@@ -173,7 +173,7 @@ To the number of you who reached out, who barely know me on a personal level but
 
 I'm still slowly getting back into the swing of things and clearly have a lot on my plate, but I am committed to getting through it all, slowly but surely. I apologize if there have been unanswered emails or calls– please feel free to follow up as necessary. I appreciate your patience!
 
-Last but not least, a very special shoutout to my friends who took the time to read the various iterations of this post and gave me support along the way. You are all greatly appreciated: _Jen, Helen, Richard, Bryan, Vrinda, Yannie, Jordan, DK, John._
+Last but not least, a very special shoutout to my friends who took the time to read the various iterations of this post and gave me support along the way. You are all greatly appreciated: _Jen, Helen, Richard, Bryan, Vrinda, Yannie, Jordan, DK, John, Mandy, Christina._
 
 ***
 
