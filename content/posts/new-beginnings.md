@@ -82,6 +82,8 @@ I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
+_Edited to add: I ultimately decided not to do this. I am excited to continue working on Lunch Money as a company of one and feel this is the best route for me to keep my lifestyle sustainable while keeping the quality of the product high. Stay tuned for more on this!_
+
 # I am starting a new company!
 
 Over the last few months, I've come to truly appreciate the impact that Lunch Money has had on my life. By Silicon Valley standards, it's barely a success story. It doesn't make millions of dollars a year and there are no ambitions to take it that far.
