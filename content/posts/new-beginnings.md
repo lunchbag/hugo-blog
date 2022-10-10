@@ -82,7 +82,7 @@ I am going to be building out a team around Lunch Money<a href="#jobs">\[1\]</a>
 
 So don't worry, Lunch Money is here to stay. But what else is next for me?
 
-_Edited to add: I ultimately decided not to do this. I am excited to continue working on Lunch Money as a company of one and feel this is the best route for me to keep my lifestyle sustainable while keeping the quality of the product high._
+_Edited to add: I ultimately decided not to do this. I am excited to continue working on Lunch Money as a company of one and feel this is the best route for me to keep my lifestyle sustainable while keeping the quality of the product high!_
 
 # I am starting a new company!
 
