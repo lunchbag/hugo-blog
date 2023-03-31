@@ -3,7 +3,11 @@
   async
   src="https://www.googletagmanager.com/gtag/js?id=UA-88633013-1"
 ></script>
-<script defer data-domain="lunchbag.ca" src="https://plausible.io/js/plausible.js"></script>
+<script
+  defer
+  data-domain="lunchbag.ca"
+  src="https://plausible.io/js/plausible.js"
+></script>
 <script>
   window.dataLayer = window.dataLayer || [];
 
@@ -18,23 +22,23 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="twitter:card" content="summary_large_image" />
-{{- if eq .URL "/" }}
+{{- if eq .Permalink "/" }}
 <meta name="description" content="{{ .Site.Params.Description }}" />
 {{- else if .Description }}
 <meta name="description" content="{{ .Description }}" />
-{{- end }}
-<meta content="{{ delimit .Keywords ", " }}" name="keywords">
-{{ partial "seo-schema" . }}
-{{ template "_internal/opengraph.html" . }}
+{{- end }} <meta content="{{ delimit .Keywords ", " }}" name="keywords"> {{
+partial "seo-schema" . }} {{ template "_internal/opengraph.html" . }}
 
 <title>
-  {{- if eq .URL "/" }} {{ .Site.Title }} {{- else }} {{ .Title }} &middot; {{ .Site.Title }} {{- end }}
+  {{- if eq .Permalink "/" }} {{ .Site.Title }} {{- else }} {{ .Title }}
+  &middot; {{ .Site.Title }} {{- end }}
 </title>
 
-{{- $inServerMode := .Site.IsServer }}
-{{- $cssTarget := "css/style.css" }}
-{{- $cssOptions := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
-{{- $style := resources.Get "scss/index.scss" | toCSS $cssOptions }}
+{{- $inServerMode := .Site.IsServer }} {{- $cssTarget := "css/style.css" }} {{-
+$cssOptions := cond ($inServerMode) (dict "targetPath" $cssTarget
+"enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle"
+"compressed") }} {{- $style := resources.Get "scss/index.scss" | toCSS
+$cssOptions }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 <link
   rel="stylesheet"
