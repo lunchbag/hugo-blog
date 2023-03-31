@@ -1,3 +1,10 @@
 {{ $js := resources.Get "js/index.js" }} {{ $javascript := $js |
 resources.Minify }}
-<script src="{{ $javascript.RelPermalink }}" />
+<!-- <script src="{{ $javascript.RelPermalink }}" /> -->
+<script>
+  {
+    {
+      $javascript.Content | safeJS;
+    }
+  }
+</script>
