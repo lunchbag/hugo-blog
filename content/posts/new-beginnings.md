@@ -8,6 +8,7 @@ tags = []
 title = "On new beginnings"
 
 +++
+
 ### Prologue
 
 This has been both the hardest and most time-consuming post to write to date. I've been meaning to get started on this for weeks now, and I've only recently begun to find the strength to put my collection of complicated feelings into coherent words.
@@ -16,7 +17,7 @@ What proceeds is the final iteration of my attempt to condense the most tumultuo
 
 With every iteration, this post always came out a little bit brighter. In fact, the original titles of this post were "On failure", "On failure and solopreneurship" and then "On failure and new beginnings". Finally, we're here now just focusing on the new beginnings. I hope you enjoy.
 
-***
+---
 
 Since the genesis of this blog, I've prided myself in being transparent and an open book. I've shared [intimate thoughts and feelings during my sabbatical](https://lunchbag.ca/checking-in-things-i-ve-learned/), [the financials behind my solo travels](https://lunchbag.ca/travel-expenses/), and [the mistakes I've made as an entrepreneur](https://lunchbag.ca/lunch-money-mistakes/) with [Lunch Money](https://lunchmoney.app).
 
@@ -116,13 +117,13 @@ Picnic Collective is what makes the journey less lonely, while keeping it fun an
 
 Below are just a few ways that differentiate the Picnic Collective path to a lifestyle business over traditional means of raising money to build a business:
 
-* **Sustainable growth** over hyper-growth through investment money
-* **Sufficiency** over abundance
-* **Preserving independence and autonomy** over answering to someone else's expectations
-* **Maximizing free time and experiences** over maximizing profits
-* See those who help us on our journey as **peers** rather than subordinates
-* **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
-* Collaboration and knowledge sharing should be **meaningful and rewarding**, not transactional
+- **Sustainable growth** over hyper-growth through investment money
+- **Sufficiency** over abundance
+- **Preserving independence and autonomy** over answering to someone else's expectations
+- **Maximizing free time and experiences** over maximizing profits
+- See those who help us on our journey as **peers** rather than subordinates
+- **Taking your time and enjoying the journey** over racing against the clock to get to the next milestone
+- Collaboration and knowledge sharing should be **meaningful and rewarding**, not transactional
 
 ## How can Picnic Collective help me?
 
@@ -176,6 +177,6 @@ I'm still slowly getting back into the swing of things and clearly have a lot on
 
 Last but not least, a very special shoutout to my friends who took the time to read the various iterations of this post and gave me support along the way. You are all greatly appreciated: _Jen, Helen, Richard, Bryan, Vrinda, Yannie, Jordan, DK, John, Mandy, Christina._
 
-***
+---
 
 <a id="jobs">\[1\]</a> Email jobs@lunchmoney.app if you're interested. Otherwise, watch [https://lunchmoney.app/hiring](https://lunchmoney.app/hiring "https://lunchmoney.app/hiring") for job details in the coming days.

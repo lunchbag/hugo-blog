@@ -9,3 +9,6 @@ paginate = "100"
 
 [permalinks]
   posts = "/:filename/"
+
+[markup.goldmark.renderer]
+  unsafe= true
