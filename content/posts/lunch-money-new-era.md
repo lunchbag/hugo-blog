@@ -1,6 +1,5 @@
 +++
-date = 2024-01-22
-type = "redirect"
-target = "https://lunchmoney.app/blog/the-new-era"
+date = 2024-05-21
+slug = "lunch-money-new-era"
 title = "Lunch Money: The New Era – how a divorce redefined my one-person business"
 +++
