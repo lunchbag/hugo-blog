@@ -39,7 +39,8 @@
 
   h1,
   h2,
-  h3, h4 {
+  h3,
+  h4 {
     font-family: "Roboto Slab";
     font-weight: 700;
     margin-top: 45px;
@@ -118,9 +119,9 @@
   p,
   ul,
   ol {
-    font-family: "Nunito";
+    font-family: "Avenir";
     font-weight: 200;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     line-height: 2rem;
     margin: 20px auto;
     position: relative;
@@ -324,7 +325,7 @@
         min-width: 80px;
         max-width: 80px;
         img {
-          margin:0;
+          margin: 0;
           width: 100%;
           border: 0;
         }
@@ -467,7 +468,7 @@
   height: fit-content;
   border: 1px solid #ccc;
   padding: 1em 1.15em;
-  border-radius:3px;
+  border-radius: 3px;
   position: fixed;
   right: 1em;
   bottom: -272px;
@@ -479,7 +480,7 @@
     bottom: 1em;
   }
 
-  @media(max-width: 400px) {
+  @media (max-width: 400px) {
     width: 100%;
     box-sizing: border-box;
     right: 0;
@@ -531,7 +532,7 @@
     margin-bottom: 1.2em;
     width: 100%;
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     align-items: center;
 
     #mce-EMAIL {
