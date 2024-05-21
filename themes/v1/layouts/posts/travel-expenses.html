@@ -1,19 +1,26 @@
 {{ define "page_css" }}
-<meta http-equiv="Content-Security-Policy" content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';">
-<link href="style.css" rel="stylesheet">
-{{ end }}
-{{ define "page_js" }}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script>
+<meta
+  http-equiv="Content-Security-Policy"
+  content="default-src data: ws: gap: filesystem 'self' https://*.disqus.com https://*.disquscdn.com https://disqus.com http://disqus.com https://*.google-analytics.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com blob:; style-src 'self' https://fonts.googleapis.com https://*.disquscdn.com 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval';"
+/>
+<link href="style.css" rel="stylesheet" />
+{{ end }} {{ define "page_js" }}
+<script
+  src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+  defer
+></script>
 <script src="/js/d3.v4.min.js"></script>
 <script src="money.js" defer></script>
-{{ end }}
-{{ define "main" }}
-{{ .Content }}
+{{ end }} {{ define "main" }} {{ .Content }}
 <div class="author">
   <img class="image" src="/images/lunchbag.png" />
   <div class="author-details">
     <p class="author-name">
-      Jen is the founder of <a href="https://lunchmoney.app?utm_source=lunchbag">Lunch Money</a>, a multicurrency personal finance tool for the modern-day spender. She retreats to Asia as a digital nomad during the Canadian winters and is a self-proclaimed "froodie" – a frugal foodie.
+      Jen is the founder of
+      <a href="https://lunchmoney.app?utm_source=lunchbag">Lunch Money</a>, a
+      personal finance management tool for the modern-day spender. She retreats
+      to Asia as a digital nomad during the Canadian winters and is a
+      self-proclaimed "froodie" – a frugal foodie.
     </p>
   </div>
 </div>

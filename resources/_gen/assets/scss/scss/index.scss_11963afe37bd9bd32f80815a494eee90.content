@@ -8,7 +8,7 @@ body {
 .index-container {
   margin: 50px;
   width: 60%;
-  max-width: 800px; }
+  max-width: 860px; }
   @media (max-width: 900px) {
     .index-container {
       width: 85%; } }
@@ -115,7 +115,8 @@ body {
         font-size: 2rem; } }
   #g-post h1,
   #g-post h2,
-  #g-post h3, #g-post h4 {
+  #g-post h3,
+  #g-post h4 {
     font-family: "Roboto Slab";
     font-weight: 700;
     margin-top: 45px; }
@@ -176,9 +177,9 @@ body {
   #g-post p,
   #g-post ul,
   #g-post ol {
-    font-family: "Nunito";
+    font-family: "Avenir";
     font-weight: 200;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     line-height: 2rem;
     margin: 20px auto;
     position: relative; }

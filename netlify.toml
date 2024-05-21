@@ -33,3 +33,9 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[[redirects]]
+  from = "https://lunchbag.ca/lunch-money-new-era"
+  to = "https://lunchmoney.app/blog/the-new-era"
+  status = 301
+  force = true
