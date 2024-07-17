@@ -36,6 +36,12 @@ status = 200
 
 [[redirects]]
   from = "https://lunchbag.ca/lunch-money-new-era"
-  to = "https://lunchmoney.app/blog/the-new-era"
+  to = "https://lunchmoney.app/blog/the-new-era?utm_source=personal-blog&utm_medium=post&utm_campaign=the_new_era"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "lunch-money-we-lowered-our-pricing"
+  to = "https://lunchmoney.app/blog/we-lowered-our-pricing?utm_source=personal-blog&utm_medium=post&utm_campaign=we_lowered_our_pricing"
   status = 301
   force = true
