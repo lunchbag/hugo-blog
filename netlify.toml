@@ -45,3 +45,7 @@ status = 200
   to = "https://lunchmoney.app/blog/we-lowered-our-pricing?utm_source=personal-blog&utm_medium=post&utm_campaign=we_lowered_our_pricing"
   status = 301
   force = true
+
+[[redirects]]
+  from = "building-an-ai-workspace-a-progress-report"
+  to = "ai-agents-for-business-my-setup-with-claude-code-and-openclaw
