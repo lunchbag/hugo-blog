@@ -207,6 +207,7 @@ a#subscribe-button {
       #g-post ul,
       #g-post ol {
         font-size: 1rem;
+        font-weight: 400;
         line-height: 2rem; } }
   #g-post span.highlight {
     padding: 2px 2px;
