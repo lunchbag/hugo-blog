@@ -52,3 +52,6 @@ $cssOptions }}
   sizes="180x180"
   href="{{ .Site.BaseURL}}images/apple-touch-icon.png"
 />
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="alternate" type="{{ .MediaType }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}" />
+{{ end }}

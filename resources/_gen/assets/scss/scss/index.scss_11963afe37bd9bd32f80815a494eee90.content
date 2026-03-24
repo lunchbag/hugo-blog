@@ -4,13 +4,30 @@ body {
   height: 100%;
   margin: 0; }
 
+.subscribe-options {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap; }
+
 a#subscribe-button {
+  border-radius: 3px;
   font-family: "Montserrat", sans-serif;
   font-size: 1.1rem;
   padding: 0.5em 1em !important;
   border: 1px solid #f42c56 !important;
   background-color: #f42c56;
   color: #fff !important;
+  font-weight: 600; }
+
+a#rss-button {
+  border-radius: 3px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.1rem;
+  padding: 0.5em 1em !important;
+  border: 3px solid #f42c56 !important;
+  background-color: #fff;
+  color: #f42c56 !important;
   font-weight: 600; }
 
 /* Index page with list of posts */

@@ -5,10 +5,14 @@ theme = "v1"
 paginate = "100"
 
 [params]
-  author = "Jennifer Yip"
+  author = "Jen Yip"
+  description = "Blog by Jen Yip, founder of Lunch Money"
 
 [permalinks]
   posts = "/:filename/"
 
 [markup.goldmark.renderer]
   unsafe= true
+
+[services.rss]
+  limit = 20

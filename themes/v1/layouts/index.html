@@ -20,13 +20,21 @@
   </section>
 
   <h2>Stay up-to-date</h2>
-  <a
-    id="subscribe-button"
-    href="https://buttondown.com/lunchbag"
-    target="_blank"
-  >
-    Subscribe to newsletter
-  </a>
+  <div class="subscribe-options">
+    <a
+      id="subscribe-button"
+      href="https://buttondown.com/lunchbag"
+      target="_blank"
+    >
+      Subscribe to newsletter
+    </a>
+    <!-- <a
+      id="rss-button"
+      href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}"
+    >
+      RSS Feed
+    </a> -->
+  </div>
 
   <section class="posts">
     <h2>Updates</h2>
