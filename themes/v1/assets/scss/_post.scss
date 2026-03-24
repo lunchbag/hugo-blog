@@ -498,34 +498,6 @@
   }
 }
 
-/** Mailchimp stuff */
-#mc_embed_signup {
-  #mce-EMAIL {
-    font-family: "Merriweather", sans-serif;
-    font-size: 1rem;
-    padding: 0.6em;
-    font-weight: 400;
-    width: 400px;
-    max-width: 80%;
-    border: 1px solid #888;
-
-    &:focus {
-      outline: none;
-    }
-  }
-
-  #mc-embedded-subscribe {
-    font-family: "Montserrat", sans-serif;
-    font-size: 1.1rem;
-    padding: 0.5em;
-    border: 1px solid #f42c56;
-    background-color: #f42c56;
-    color: #fff;
-    font-weight: 600;
-    margin-top: 0.5rem;
-  }
-}
-
 #floating-subscribe {
   background-color: #fff;
   height: fit-content;
@@ -534,11 +506,10 @@
   border-radius: 3px;
   position: fixed;
   right: 1em;
-  bottom: -272px;
-  width: 250px;
+  bottom: -220px;
+  width: 260px;
   z-index: 100;
   transition: bottom 0.1s ease-in;
-
   &.visible {
     bottom: 1em;
   }
@@ -585,29 +556,5 @@
     font-family: "Nunito", sans-serif;
     font-size: 0.7em;
     color: #888;
-  }
-
-  #mc_embed_signup {
-    form {
-      width: 100%;
-    }
-
-    margin-bottom: 1.2em;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    #mce-EMAIL {
-      width: 100%;
-      max-width: 100%;
-      box-sizing: border-box;
-      font-size: 0.9rem;
-    }
-
-    #mc-embedded-subscribe {
-      width: 100%;
-      font-size: 0.9rem;
-    }
   }
 }

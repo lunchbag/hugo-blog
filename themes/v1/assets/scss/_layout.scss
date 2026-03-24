@@ -5,6 +5,16 @@ body {
   margin: 0;
 }
 
+a#subscribe-button {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.1rem;
+  padding: 0.5em 1em !important;
+  border: 1px solid #f42c56 !important;
+  background-color: #f42c56;
+  color: #fff !important;
+  font-weight: 600;
+}
+
 /* Index page with list of posts */
 
 .index-container {
