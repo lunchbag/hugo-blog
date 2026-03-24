@@ -61,7 +61,7 @@ Some additional notes about this:
 - My local Claude workspace also has access to the workspaces of my OpenClaw agents which can be helpful when handing off work.
 - I almost never need to access `dot-openclaw/` directly since the relevant folders are symlinked. I create all my skills and add context via Claude Code. OpenClaw is just for executing.
 - I named folders `dot-.../` in my Dropbox because I didn't want them to be hidden by default.
-- In VSCode, I created a new workspace containing `shared/` and `dot-claude/` only so Claude doesn't have access to my `dot-openclaw/` folder.
+- On my main machine, Claude Code only accesses `.claude/`. Any changes made to shared context will get synced to Openclaw via the symlinks and Dropbox.
 - `dot-claude/` and `dot-openclaw/` also contain their own native config files and folders (not shown in the diagram)
 
 ## Learnings so far with OpenClaw
