@@ -11,7 +11,7 @@ title = "Thailand- 2 week update"
 
 2 week update: Well actually, it's been 1 month since I left North America. I had an incredible time in Taipei and Hong Kong with Justin. I feel happy, proud, and impressed with the progress he is making in his mandarin. I was also very happy to spend time with my extended family members whom I have not seen in over 5 years, and to be able to share those moments with Justin made it 10x better.
 
-Onto my first 2 weeks solo in Thailand. I just finished the first leg of my journey today which was a farmstay called <a href="[http://homtelthailand.com](http://homtelthailand.com "http://homtelthailand.com")" target="blank">Homtel</a> in rural north eastern Thailand in a village called "Wung Si Sote". It is about a 4 hour trip east from Bangkok. I stayed here for 10 nights and, honestly, it was difficult not to stay longer. I feel as though I have gained a Thai home and a Thai family through this experience and for that, I am so grateful.
+Onto my first 2 weeks solo in Thailand. I just finished the first leg of my journey today which was a farmstay called <a href="http://homtelthailand.com" target="blank">Homtel</a> in rural north eastern Thailand in a village called "Wung Si Sote". It is about a 4 hour trip east from Bangkok. I stayed here for 10 nights and, honestly, it was difficult not to stay longer. I feel as though I have gained a Thai home and a Thai family through this experience and for that, I am so grateful.
 
 The farm stay itself was unlike anything I've ever done. Every morning, we got up early to start working at 6:30am. No complaints, however, as work finishes around 11am with a breakfast break in between. That, along with the company of a dozen new international friends, watching the sunrise everyday, home-cooked Thai meals, and the most loving family behind this operation made the experience one I will never forget. I have full intention to return someday and I encourage anyone considering this to go for it! (Message me if you want further details!)
 
@@ -27,7 +27,7 @@ Other highlights (Sorry! There are just too many to choose from!):
 
 ![](/img/thailand-2-weeks-pad-thai.jpg)<span class="caption">Eating delicious home-cooked versions of my favorite Thai dishes including Pad Thai, Pad See Ew, and Tom Kha Gai!! Pictured above is the Pad Thai!</span>
 
-![](/img/thailand-2-weeks-sheep.jpg)"<span class="caption">Herding sheep, gaining too much confidence in doing so, and subsequently losing them 😬😂</span>
+![](/img/thailand-2-weeks-sheep.jpg)<span class="caption">Herding sheep, gaining too much confidence in doing so, and subsequently losing them 😬😂</span>
 
 ![](/img/thailand-2-weeks-sunset.jpg)<span class="caption">Watching the Thai sunrise ..</span>
 

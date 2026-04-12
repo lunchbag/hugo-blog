@@ -20,7 +20,7 @@ About an hour into the launch, I started to get notifications and emails that us
 
 <p class="tip"><b>Lesson learned: Have tests in place to check critical environment variables are properly set before deploying to production</b></p>
 
-![](/uploads/Screen Shot 2020-02-18 at 8.23.37 PM.png)<span class="caption">A simple test could have saved me a ton of headache</span>
+![](/uploads/Screen%20Shot%202020-02-18%20at%208.23.37%20PM.png)<span class="caption">A simple test could have saved me a ton of headache</span>
 
 Next, I ran into issues with a third-party email service provider, Sendgrid. I was using Sendgrid to send confirmation emails to new users as they signed up for Lunch Money. The issue was twofold which I discovered while prematurely celebrating the first fix. I had hit my 100 emails per day limit due to being on the free plan, so I quickly upgraded to a paid plan only to find out that Sendgrid was also rate-limiting me! Thankfully, this was quickly resolved through their responsive support chat.
 
@@ -36,7 +36,7 @@ However, at the back of my mind I always felt that I would need to have a mobile
 
 I had a fully-functioning web app that was mobile responsive, but I had also fully convinced myself that no one would take my app seriously because it wasn't available natively on iOS or Android. Though I wasn't going to let this be a barrier to launching, I ended up pricing my product low enough as compensation for the fact. I was also a bit overzealous in my copy. I had a line that promised a mobile app was coming soon and I even called it the "pre-mobile launch".
 
-![](/uploads/Screen Shot 2020-02-18 at 8.26.10 PM-1.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
+![](/uploads/Screen%20Shot%202020-02-18%20at%208.26.10%20PM-1.png)<span class="caption">Way too much attention on the lack of a mobile app 🤦‍♀️</span>
 
 After launching, I realized through user feedback that a mobile app was not the dealbreaker I hyped it up to be. Of course, there were a few users who made it clear they would only subscribe once a mobile version was available, but there were way more people who were just excited about the potential of Lunch Money itself. It became obvious that I should focus on continuing to develop the core product rather than halting progress in favour of spawning a half-baked version on a new platform.
 
@@ -44,7 +44,7 @@ After launching, I realized through user feedback that a mobile app was not the 
 
 Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would have been nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have taken more than twice the time if I also had to consider the mobile app whose update cycles are at the mercy of Apple and Google.
 
-![](/uploads/Screen Shot 2020-02-18 at 11.26.11 PM-1.png)<span class="caption">Embracing the fact that we're a web app!</span>
+![](/uploads/Screen%20Shot%202020-02-18%20at%2011.26.11%20PM-1.png)<span class="caption">Embracing the fact that we're a web app!</span>
 
 This is not to say that Lunch Money will never have a mobile app. I'm still working on rounding out core features and as the product approaches stability, I'll spend time thinking seriously about a mobile app. Whether that involves hiring a contractor, outsourcing the development or encouraging users to build their own via our developer API is still up in the air!
 
@@ -66,7 +66,7 @@ At launch time, we were offering a 45-day free trial. The idea was to allow user
 
 While I could have been right about that, it wasn't worth the painfully long sales cycle that came with offering a 45-day free trial PLUS the option for a whopping two week trial extension. Major facepalm. At the longest, users were not going to convert until 2 months after initially signing up. This made assessing product-market fit an unnecessarily long process. Also, very few users opted to extend the trial after 45 days which was unsurprising– if a user is still on the fence at day 45, they probably won't be subscribing.
 
-![](/uploads/Screen Shot 2020-02-18 at 8.39.31 PM.png)<span class="caption">Fully prepared to give away a 2 week trial extension on top of a 45 day free trial... 🤦‍♀️</span>
+![](/uploads/Screen%20Shot%202020-02-18%20at%208.39.31%20PM.png)<span class="caption">Fully prepared to give away a 2 week trial extension on top of a 45 day free trial... 🤦‍♀️</span>
 
 Eventually, at the advice of a friend much smarter than me, I decided to shorten the free trial length to 14 days. Even though I now ran the risk of users not having enough time to assess the product, I felt the shorter trial might instill some urgency in users, and I was still offering the option for a 1 week trial extension.
 
@@ -96,7 +96,7 @@ I now regularly get emails back from users letting me know that they find my sto
 
 Also, I sent out a user survey recently and 20% of responses cited me as an indie developer as a reason why they love Lunch Money. All of this was incredibly heartwarming and I learned to embrace my story more.
 
-![](/uploads/Screen Shot 2020-02-18 at 11.03.35 PM.png)<span class="caption">So much ❤️ from our users!</span>
+![](/uploads/Screen%20Shot%202020-02-18%20at%2011.03.35%20PM.png)<span class="caption">So much ❤️ from our users!</span>
 
 # Closing Thoughts
 

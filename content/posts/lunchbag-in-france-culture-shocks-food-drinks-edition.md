@@ -72,7 +72,7 @@ These are insanely popular among French men. I first came across these when I we
 Ricard is the name of an anise and liquorice-flavored liquor. It smells amazing and it's 45% alcohol. A shot of it is served in a lowball or a snifter glass over ice. It is brought to the customer with a small carafe of water which they use for diluting the liquor to their personal desire.
 
 ![](/img/Provence-Ricard-Pastis-Aperitif-Funnelogy-Channel_big.jpg)
-<span class="caption">Photo on the internet I found of water being poured into a glass of Ricard that was probably mixed with strawberry syrup.<span>
+<span class="caption">Photo on the internet I found of water being poured into a glass of Ricard that was probably mixed with strawberry syrup.</span>
 
 Unsurprisingly, you can order a Ricard with a shot of syrup. A customer once ordered a _moresque_, which is Ricard with a shot of almond syrup.
 
