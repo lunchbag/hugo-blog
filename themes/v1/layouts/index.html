@@ -1,40 +1,52 @@
 {{ define "main" }}
 <div class="index-container">
-  <section><img id="profile-image" src="images/lunchbag.png" /></section>
-  <section class="introduction">
-    <h2>Hello!</h2>
-    <span>
-      I'm Jen, founder of
-      <a href="https://lunchmoney.app" target="_blank">Lunch Money</a>, a
-      personal finance management tool for the modern day spender.</span
-    >
-    <span>Find me between Toronto 🇨🇦 and Seattle 🌲!</span>
-    <span
-      >Get in touch via <a href="mailto:jen@lunchbag.dev">email</a> or connect
-      with me on
-      <a href="https://www.linkedin.com/in/yipjennifer/">LinkedIn</a>. You can
-      also
-      <a href="https://www.buymeacoffee.com/lunchbag">buy me a book 📚</a
-      >.</span
-    >
+  <section class="hero">
+    <div class="hero-row">
+      <img
+        id="profile-image"
+        class="hero-avatar"
+        src="{{ "images/jen.png" | relURL }}"
+        alt="Jen Yip"
+        width="120"
+        height="120"
+      />
+      <div class="hero-copy">
+        {{ partial "social-links.html" . }}
+        <div class="introduction">
+          <span>
+            I'm Jen, founder of
+            <b><a href="https://lunchmoney.app" target="_blank" rel="noopener noreferrer">Lunch Money</a></b>,
+            a fully bootstrapped & profitable personal finance app I built 7 years ago. I ran the company solo for the first 5 years and have since built a small but mighty remote team to help me run it today.</span
+          >
+          <span>
+            <b>I'm passionate about spreading the good word on bootstrapping</b>: building sustainably,
+            staying independent, and doing what I can to support other founders along the way.</span
+          >
+          <span>
+            Follow me on social for more on solopreneurship, building in public, and what I'm
+            learning as I go. <a href="mailto:jen@lunchbag.dev">Email</a> works too,
+            or you can <a href="https://www.buymeacoffee.com/lunchbag" target="_blank" rel="noopener noreferrer">buy me a book 📚</a>.</span
+          >
+        </div>
+        <div class="subscribe-options">
+          <a
+            id="subscribe-button"
+            href="https://buttondown.com/lunchbag"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Subscribe to newsletter
+          </a>
+          <a
+            id="rss-button"
+            href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}"
+          >
+            RSS Feed
+          </a>
+        </div>
+      </div>
+    </div>
   </section>
-
-  <h2>Stay up-to-date</h2>
-  <div class="subscribe-options">
-    <a
-      id="subscribe-button"
-      href="https://buttondown.com/lunchbag"
-      target="_blank"
-    >
-      Subscribe to newsletter
-    </a>
-    <!-- <a
-      id="rss-button"
-      href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}"
-    >
-      RSS Feed
-    </a> -->
-  </div>
 
   <section class="posts">
     <h2>Updates</h2>
