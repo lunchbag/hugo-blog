@@ -7,6 +7,9 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="twitter:card" content="summary_large_image" />
+{{- if .Params.noindex }}
+<meta name="robots" content="noindex, nofollow, noarchive" />
+{{- end }}
 {{- if eq .Permalink "/" }}
 <meta name="description" content="{{ .Site.Params.Description }}" />
 {{- else if .Description }}

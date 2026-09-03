@@ -1,0 +1,8 @@
+{{- /* Reflection question with an autosaving answer box.
+       Usage: {{< q >}}What does work freedom mean to you?{{< /q >}} */ -}}
+{{- $text := trim .Inner " \n" -}}
+{{- $id := printf "q-%s" (substr (md5 $text) 0 8) -}}
+<div class="ws-q">
+  <label for="{{ $id }}">{{ $text | markdownify }}</label>
+  <textarea id="{{ $id }}" data-ws="{{ $id }}" data-label="{{ $text }}" rows="2" placeholder="Write your answer here…"></textarea>
+</div>

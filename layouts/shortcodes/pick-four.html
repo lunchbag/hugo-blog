@@ -1,0 +1,21 @@
+{{- /* Four slots: pick a freedom (with suggestions) and say why.
+       Usage: {{< pick-four options="Work freedom,Time freedom,..." >}} */ -}}
+{{- $opts := split (.Get "options") "," -}}
+<datalist id="ws-freedom-options">
+  {{- range $opts }}
+  <option value="{{ trim . " " }}"></option>
+  {{- end }}
+</datalist>
+<div class="ws-pick">
+  {{- range $i := seq 4 }}
+  <div class="ws-pick-slot">
+    <div class="ws-pick-num">{{ $i }}</div>
+    <div class="ws-pick-fields">
+      <label for="pick-{{ $i }}-name">A freedom that matters to me</label>
+      <input id="pick-{{ $i }}-name" data-ws="pick-{{ $i }}-name" data-label="Freedom #{{ $i }}" list="ws-freedom-options" type="text" placeholder="Type or choose one…" autocomplete="off" />
+      <label for="pick-{{ $i }}-why">Why does this matter to me?</label>
+      <textarea id="pick-{{ $i }}-why" data-ws="pick-{{ $i }}-why" data-label="Why freedom #{{ $i }} matters" rows="2" placeholder="Write your answer here…"></textarea>
+    </div>
+  </div>
+  {{- end }}
+</div>

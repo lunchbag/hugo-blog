@@ -7,3 +7,6 @@ public/
 # OTHERS
 node_modules/
 content/posts/working-holiday-visa/secret.js
+
+# Local scratch (source files not meant to be published)
+.tmp/

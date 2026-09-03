@@ -45,3 +45,8 @@ status = 200
   to = "https://lunchmoney.app/blog/we-lowered-our-pricing?utm_source=personal-blog&utm_medium=post&utm_campaign=we_lowered_our_pricing"
   status = 301
   force = true
+
+[[headers]]
+  for = "/unlocked/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"

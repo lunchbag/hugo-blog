@@ -13,7 +13,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
     if ($header) checkHeader();
   });
 
-  document.getElementById('floating-subscribe').addEventListener('click',function() {
-    document.getElementById('floating-subscribe').classList.add('visible')
-  })
+  const $subscribe = document.getElementById('floating-subscribe');
+  if ($subscribe) {
+    $subscribe.addEventListener('click', function() {
+      $subscribe.classList.add('visible');
+    });
+  }
 });

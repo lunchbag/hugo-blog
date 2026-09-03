@@ -1,0 +1,125 @@
+{{ define "main" }}
+<main id="g-post" class="unlocked{{ if .Params.interactive }} worksheet{{ end }}"{{ if .Params.interactive }} data-worksheet="{{ .Slug | default .File.BaseFileName }}"{{ end }}>
+  <div class="post">
+    <div class="unlocked-badge-wrap">
+      <span class="unlocked-badge">🔓 Unlocked &middot; just for you</span>
+    </div>
+    <h1 class="title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <p class="unlocked-subtitle">{{ . }}</p>
+    {{ end }}
+
+    {{ if .Params.interactive }}
+    <p class="ws-note">
+      ✍️ Type your answers right on this page. They save automatically in this
+      browser and nothing is sent anywhere.
+      <span id="ws-status"></span>
+    </p>
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ if .Params.interactive }}
+    <div class="ws-tools">
+      <button type="button" id="ws-print">Print or save as PDF</button>
+      <button type="button" id="ws-copy" class="secondary">Copy my answers</button>
+      <button type="button" id="ws-clear" class="quiet">Clear answers</button>
+    </div>
+    {{ end }}
+
+    {{ with .Params.pdf }}
+    {{ $exists := fileExists (printf "static%s" .) }}
+    <div class="unlocked-file">
+      <a class="unlocked-download" href="{{ . }}" download>
+        {{ $.Params.pdf_label | default "Download the PDF" }} &darr;
+      </a>
+      {{ if $exists }}
+      <iframe
+        class="unlocked-embed"
+        src="{{ . }}#view=FitH"
+        title="{{ $.Title }}"
+        loading="lazy"
+      ></iframe>
+      <p class="unlocked-embed-fallback">
+        Can't see the preview? <a href="{{ . }}" target="_blank" rel="noopener">Open the PDF in a new tab</a>.
+      </p>
+      {{ else }}
+      {{ warnf "unlocked: %s references %s but static%s does not exist" $.File.Path . . }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="post-post">
+    <div class="author">
+      <div class="image-container">
+        <img class="image" src="/images/lunchbag.png" alt="Jen Yip" />
+      </div>
+      <div class="author-details">
+        <p class="author-name">
+          Jen is the founder of
+          <a href="https://lunchmoney.app?utm_source=lunchbag&utm_medium=unlocked">Lunch Money</a> —
+          a bootstrapped personal financial management app that grew out of a
+          side project in 2019. She is based in Seattle and loves running both
+          the business and half-marathons while traveling the world.
+        </p>
+      </div>
+    </div>
+
+    <div class="unlocked-card unlocked-newsletter">
+      <h2>Want the next one?</h2>
+      <p>
+        If you got this link from me directly, you're already on my list. Nothing
+        else to do. I send monthly-ish emails on solopreneurship, bootstrapping,
+        and what I'm learning as I go.
+      </p>
+      <p>
+        If a friend passed this along, you can subscribe below so the next one
+        lands in your inbox.
+      </p>
+      <a
+        class="unlocked-button"
+        href="https://buttondown.com/lunchbag"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Subscribe to the newsletter</a>
+    </div>
+
+    <section class="unlocked-more">
+      <h2>More from the blog</h2>
+      <div class="post-list">
+        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+        <div class="post">
+          <span class="post-date">
+            <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "Jan 2, 2006" }}</time>
+          </span>
+          <span class="post-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </span>
+        </div>
+        {{ end }}
+        <div class="post see-all">
+          <span class="post-date"></span>
+          <span class="post-title"><a href="/">See all posts &rarr;</a></span>
+        </div>
+      </div>
+    </section>
+
+    <p class="unlocked-share-note">
+      This page isn't listed anywhere on the site. Feel free to share it with a
+      friend, but please don't post the link publicly.
+    </p>
+
+    <div class="back-to-home">
+      <a href="/">Back to lunchbag.ca</a>
+    </div>
+  </div>
+</main>
+{{ end }}
+
+{{ define "page_js" }}
+{{ if .Params.interactive }}
+{{ $ws := resources.Get "js/worksheet.js" | resources.Minify }}
+<script src="{{ $ws.RelPermalink }}" defer></script>
+{{ end }}
+{{ end }}

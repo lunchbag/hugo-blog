@@ -1,0 +1,12 @@
+{{- /* Collapsible section for one freedom.
+       Usage: {{< freedom name="Financial freedom" tagline="..." mine="true" >}} markdown + {{< q >}} {{< /freedom >}} */ -}}
+{{- $mine := eq (.Get "mine") "true" -}}
+<details class="ws-freedom{{ if $mine }} is-mine{{ end }}" data-ws-details>
+  <summary>
+    <span class="ws-freedom-name">{{ .Get "name" }}{{ if $mine }} <span class="ws-freedom-badge">Jen's pick</span>{{ end }}</span>
+    {{ with .Get "tagline" }}<span class="ws-freedom-tagline">{{ . }}</span>{{ end }}
+  </summary>
+  <div class="ws-freedom-body">
+    {{ .Inner | markdownify }}
+  </div>
+</details>
