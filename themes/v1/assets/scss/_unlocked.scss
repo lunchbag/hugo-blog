@@ -438,11 +438,52 @@
   }
 }
 
+.print-only { display: none; }
+
 @media print {
+  @page { margin: 18mm 16mm 22mm; }
+
   #g-post.unlocked {
     margin: 0 auto;
     width: 100%;
+    padding-bottom: 24px;
     .unlocked-badge-wrap, .ws-note, .ws-tools, .post-post { display: none !important; }
+
+    .print-byline {
+      display: block;
+      text-align: center;
+      font-family: "Merriweather", serif;
+      font-weight: 300;
+      font-size: 0.9rem;
+      color: #666;
+      margin: -40px 0 40px;
+    }
+
+    .print-closing {
+      display: block;
+      text-align: center;
+      font-family: "Merriweather", serif;
+      font-weight: 300;
+      font-size: 0.95rem;
+      color: #666;
+      border-top: 1px solid #ddd;
+      padding-top: 20px;
+      margin-top: 48px;
+    }
+
+    .print-footer {
+      display: block;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-family: "Inconsolata", monospace;
+      font-size: 9pt;
+      color: #888;
+      background: #fff;
+      padding: 4px 0 0;
+    }
     .ws-freedom summary::after { display: none; }
     .ws-q textarea, .ws-pick textarea, .ws-pick input[type="text"] { border: 1px solid #999; box-shadow: none; }
     .ws-freedom, .ws-pick-slot, .ws-q { break-inside: avoid; }

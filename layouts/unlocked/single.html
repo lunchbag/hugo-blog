@@ -8,6 +8,7 @@
     {{ with .Params.subtitle }}
     <p class="unlocked-subtitle">{{ . }}</p>
     {{ end }}
+    <p class="print-only print-byline">by Jen Yip, founder of Lunch Money &middot; lunchbag.ca</p>
 
     {{ if .Params.interactive }}
     <p class="ws-note">
@@ -18,6 +19,10 @@
     {{ end }}
 
     {{ .Content }}
+
+    <p class="print-only print-closing">
+      This guide was written by Jen Yip and shared from lunchbag.ca. Thanks for reading!
+    </p>
 
     {{ if .Params.interactive }}
     <div class="ws-tools">
@@ -114,6 +119,7 @@
       <a href="/">Back to lunchbag.ca</a>
     </div>
   </div>
+  <div class="print-only print-footer" aria-hidden="true">{{ .Title }} &middot; Jen Yip &middot; lunchbag.ca</div>
 </main>
 {{ end }}
 
