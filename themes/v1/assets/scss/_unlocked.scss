@@ -436,6 +436,95 @@
       }
     }
   }
+
+  /* App screenshot gallery */
+  .app-shots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: center;
+    margin: 14px 0 34px;
+  }
+  .app-shots figure {
+    margin: 0;
+    flex: 0 1 160px;
+    max-width: 180px;
+  }
+  .app-shots img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 14px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12);
+  }
+  .app-shots figcaption {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    color: #777;
+    margin-top: 8px;
+  }
+
+  /* Copyable prompt block */
+  .prompt-box {
+    margin: 28px 0 8px;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fbfbfb;
+  }
+  .prompt-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 10px 8px 14px;
+    background: #f2f2f2;
+    border-bottom: 1px solid #e2e2e2;
+  }
+  .prompt-label {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 0.3px;
+    color: #555;
+  }
+  .prompt-copy {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 0.85rem;
+    padding: 0.4em 0.9em;
+    border-radius: 3px;
+    cursor: pointer;
+    border: 1px solid #f42c56;
+    background-color: #f42c56;
+    color: #fff;
+    transition: background-color 0.15s ease;
+
+    &:hover { background-color: #e0254d; }
+    &.is-copied { background-color: #2e9e5b; border-color: #2e9e5b; }
+  }
+  .prompt-code {
+    margin: 0;
+    padding: 16px 16px 18px;
+    max-height: 460px;
+    overflow: auto;
+    background: #fbfbfb;
+
+    code {
+      display: block;
+      background: none;
+      padding: 0;
+      border: 0;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: "Inconsolata", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      color: #2a2a2a;
+    }
+  }
 }
 
 .print-only { display: none; }

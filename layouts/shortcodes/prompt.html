@@ -1,0 +1,41 @@
+{{- /* A copyable prompt block. Usage: {{< prompt >}}...prompt text...{{< /prompt >}}
+       Renders the inner text verbatim in a code block with a Copy button. */ -}}
+{{- $text := trim .Inner "\n" -}}
+<div class="prompt-box">
+  <div class="prompt-bar">
+    <span class="prompt-label">📋 The prompt</span>
+    <button type="button" class="prompt-copy" aria-label="Copy the prompt">Copy</button>
+  </div>
+  <pre class="prompt-code"><code>{{ $text }}</code></pre>
+</div>
+{{- if not (.Page.Scratch.Get "promptJsDone") -}}
+{{- .Page.Scratch.Set "promptJsDone" true -}}
+<script>
+(function () {
+  if (window.__promptCopyInit) return;
+  window.__promptCopyInit = true;
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.prompt-copy');
+    if (!btn) return;
+    var box = btn.closest('.prompt-box');
+    var code = box && box.querySelector('.prompt-code');
+    if (!code) return;
+    var text = code.innerText;
+    var done = function () {
+      var t = btn.textContent;
+      btn.textContent = 'Copied!';
+      btn.classList.add('is-copied');
+      setTimeout(function () { btn.textContent = t; btn.classList.remove('is-copied'); }, 1500);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, done);
+    } else {
+      var ta = document.createElement('textarea');
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); } catch (err) {}
+      document.body.removeChild(ta); done();
+    }
+  });
+})();
+</script>
+{{- end -}}
